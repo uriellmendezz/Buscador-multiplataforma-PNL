@@ -1,0 +1,631 @@
+{
+  "xrid": "4050bed8b0bb637e716afdef002028a7",
+  "status": 200,
+  "msg": "operation successful!",
+  "data": {
+    "pageCount": 1,
+    "cost": 150,
+    "data": [
+      {
+        "products": [
+          {
+            "id": "LEN106G0002_f31ab1f1b6026-4f65-9ed9-0142293b720b",
+            "productName": "Legion Go S",
+            "productType": "11",
+            "productCode": "LEN106G0002",
+            "productStatus": "",
+            "baseWarrantyKey": "",
+            "essFlag": "NO",
+            "finalPrice": "1349998.00",
+            "miniPrice": "1349998.00",
+            "isMedion": false,
+            "ratingStar": "3.6",
+            "commentCount": 30,
+            "marketingStatus": "Available",
+            "modelsCount": 1,
+            "modifyTime": 1760403906700,
+            "onlineDate": 1740505668000,
+            "categoryPath": [
+              "ROOTPMI",
+              "laptops",
+              "legion-laptops",
+              "handheld"
+            ],
+            "purchaseFlag": true,
+            "merchandisingFlags": [],
+            "media": {
+              "gallery": [
+                {
+                  "imageName": "lenovo-legion-go-s-pdp-gallery-1.png",
+                  "imageAddress": "//p1-ofp.static.pub//fes/cms/2024/12/04/ba08bc863lb0ngtypbj9n1y574geir402620.png",
+                  "imageAlt": "Vista frontal del portátil Lenovo Legion Go S Gen 1 (8\") con un juego de ciencia ficción en la pantalla."
+                },
+                {
+                  "imageName": "lenovo-legion-go-s-pdp-gallery-2.png",
+                  "imageAddress": "//p1-ofp.static.pub//fes/cms/2024/12/04/z1e1un8t0hjx9ywt6r443yp5rp248d861117.png",
+                  "imageAlt": "Vista frontal en ángulo del portátil para juegos Lenovo Legion Go S Gen 1 (8\") mostrando un juego de ciencia ficción."
+                },
+                {
+                  "imageName": "lenovo-legion-go-s-pdp-gallery-3.png",
+                  "imageAddress": "//p2-ofp.static.pub//fes/cms/2024/12/04/ofqnept56pn7moknv1tjhafu9hqtea504239.png",
+                  "imageAlt": "Vista trasera de la consola portátil para gaming Lenovo Legion Go S Gen 1 (8\") mostrando las rejillas de ventilación y los gatillos."
+                },
+                {
+                  "imageName": "lenovo-legion-go-s-pdp-gallery-4.png",
+                  "imageAddress": "//p4-ofp.static.pub//fes/cms/2024/12/04/odb1wg1zxaj7o1h02j8fn7j852acei181379.png",
+                  "imageAlt": "Vista lateral del control de Lenovo Legion Go S Gen 1 (8\") destacando el diseño texturizado y los gatillos."
+                },
+                {
+                  "imageName": "lenovo-legion-go-s-pdp-gallery-5.png",
+                  "imageAddress": "//p2-ofp.static.pub//fes/cms/2024/12/04/05y1efbyh5qdt6ui53upyu8aas5sxj078968.png",
+                  "imageAlt": "Vista lateral del control de Lenovo Legion Go S Gen 1 (8\") destacando el diseño texturizado y los gatillos."
+                },
+                {
+                  "imageName": "lenovo-legion-go-s-pdp-gallery-6.png",
+                  "imageAddress": "//p4-ofp.static.pub//fes/cms/2024/12/04/zhdhi1qgzqiyuw58xwoyp0q7tj5v3n028205.png",
+                  "imageAlt": "Vista en ángulo inferior de Lenovo Legion Go S Gen 1 (8\") mostrando las rejillas de ventilación, los puertos y los gatillos."
+                },
+                {
+                  "imageName": "lenovo-legion-go-s-pdp-gallery-7.png",
+                  "imageAddress": "//p1-ofp.static.pub//fes/cms/2024/12/04/3u2jptxs493iupafqxhabajqdbfgzt102793.png",
+                  "imageAlt": "Vista inferior en ángulo de Lenovo Legion Go S Gen 1 (8\") destacando las rejillas de ventilación, los gatillos traseros y los puertos."
+                },
+                {
+                  "imageName": "lenovo-legion-go-s-pdp-gallery-8.png",
+                  "imageAddress": "//p2-ofp.static.pub//fes/cms/2024/12/04/e7uir4nv2x5uc74lyz570wyl5s229p433970.png",
+                  "imageAlt": "Vista del borde superior de Lenovo Legion Go S Gen 1 (8\") mostrando los puertos, botones y gatillos traseros."
+                },
+                {
+                  "imageName": "lenovo-legion-go-s-pdp-gallery-9.png",
+                  "imageAddress": "//p2-ofp.static.pub//fes/cms/2024/12/04/pet4tuucl8tu7v78jom9lux5z8rt6u242800.png",
+                  "imageAlt": "Vista del borde superior de Lenovo Legion Go S Gen 1 (8\") mostrando las rejillas de ventilación, los puertos, los botones y los detalles del gatillo izquierdo."
+                },
+                {
+                  "imageName": "lenovo-legion-go-s-pdp-gallery-10.png",
+                  "imageAddress": "//p4-ofp.static.pub//fes/cms/2024/12/04/okih7vn6zjq5rmn7bx484izrb61yma536447.png",
+                  "imageAlt": "Vista superior de Lenovo Legion Go S Gen 1 (8\") mostrando los puertos, botones, respiraderos y el diseño del gatillo trasero."
+                }
+              ],
+              "listImage": [
+                {
+                  "imageName": "lenovo-legion-go-s-series-tn.png",
+                  "imageAddress": "//p4-ofp.static.pub//fes/cms/2024/12/09/6lc678tq2ujhseoxkh41giolzw18vb344850.png",
+                  "imageAlt": "Vista frontal en ángulo del portátil para juegos Lenovo Legion Go S Gen 1 (8\") mostrando un juego de ciencia ficción."
+                }
+              ],
+              "heroImage": {
+                "imageName": "lenovo-legion-go-s-pdp-hero.png",
+                "imageAddress": "//p1-ofp.static.pub//fes/cms/2024/12/04/2uqbg6xjgg4dfkj6vl4wzbvlja3tya538944.png",
+                "imageAlt": "Vista frontal en ángulo del portátil para juegos Lenovo Legion Go S Gen 1 (8\") mostrando un juego de ciencia ficción."
+              },
+              "icon1": "https://p2-ofp.static.pub/ShareResource/ww/img/windows-11/lenovo-windows11-banner-240x35-blue.jpg"
+            },
+            "marketingLongDescription": "<ul style=\"list-style-type: disc;\">\n    <li>Destruye los mejores juegos con las plataformas exclusivas AMD Ryzen™ “Z2 Go” y Z1 Extreme</li>\n<li>Ve todo el campo de batalla en una pantalla WUXGA Lenovo PureSight de 8\"</li>\n<li>Juega con precisión con los controladores Legion TrueStrike y los gatillos de disparo ajustables</li>\n<li><em>Teclado en Español, con tecla Ñ incluida (a menos que las especificaciones del equipo indiquen lo contrario). Algunos puertos/ranuras pueden ser opcionales o variar; colores sujetos a disponibilidad</em></li>\n</ul>",
+            "marketingShortDescription": "<ul style=\"list-style-type: disc;\"><li><p>Rendimiento de consola en un dispositivo de mano</p></li><li><p>Imágenes nítidas en una pantalla 20,32 cm (8&quot;) PureSight</p></li><li><p>Diseño ergonómico y controladores TrueStrike</p></li></ul>",
+            "description": "<ul style=\"list-style-type: disc;\"><li>Rendimiento de consola en un dispositivo portátil</li><li>Imágenes nítidas en una pantalla PureSight de 8&quot;</li><li>Diseño ergonómico y controladores TrueStrike</li></ul>",
+            "summary": "Lenovo Legion Go S",
+            "url": "/p/notebooks/legion-laptops/serie-handheld/legion-go-s/len106g0002",
+            "flCode": "laptops",
+            "flName": "Notebooks",
+            "hasClaimIndicator": false,
+            "isDCGSubseries": false,
+            "isOutlet": false,
+            "outletFlagColor": "#4C1984",
+            "modelEnabled": 0,
+            "launchDate": 0,
+            "teleUser": false,
+            "lowestPrice": {
+              "price": null,
+              "percentage": null
+            },
+            "specialOffers": [],
+            "softBundleType": "",
+            "virtualProductCode": "",
+            "configId": "",
+            "score": 891,
+            "advancedZooming": "0",
+            "bannerPromotionalTile": false,
+            "brDesktopBundleChildren": false,
+            "goodForFeatures": {},
+            "productPreorderDTO": {
+              "preOrderFlag": "0",
+              "releaseDate": null
+            }
+          },
+          {
+            "id": "LEN106G0001_f31ab1f1b6026-4f65-9ed9-0142293b720b",
+            "productName": "Legion Go",
+            "productType": "11",
+            "productCode": "LEN106G0001",
+            "productStatus": "",
+            "baseWarrantyKey": "",
+            "essFlag": "NO",
+            "finalPrice": "1935998.01",
+            "miniPrice": "1935998.01",
+            "isMedion": false,
+            "ratingStar": "4.6",
+            "commentCount": 580,
+            "marketingStatus": "Available",
+            "modelsCount": 1,
+            "modifyTime": 1760403906700,
+            "onlineDate": 1713791670000,
+            "categoryPath": [
+              "ROOTPMI",
+              "laptops",
+              "legion-laptops",
+              "handheld"
+            ],
+            "purchaseFlag": true,
+            "merchandisingFlags": [],
+            "media": {
+              "gallery": [
+                {
+                  "imageName": "lenovo-legion-go-amd-pdp-gallery-1.png",
+                  "imageAddress": "//p3-ofp.static.pub//fes/cms/2023/09/22/ninmdnlfv6glh9tqsnmsdpd1oyw2tl290840.png",
+                  "imageAlt": "Vista frontal del dispositivo de mano Legion Go girado hacia la derecha"
+                },
+                {
+                  "imageName": "lenovo-legion-go-amd-pdp-gallery-2.png",
+                  "imageAddress": "//p1-ofp.static.pub//fes/cms/2023/09/22/58j0odjoja7emoiezrga4m4jbr7ilj417693.png",
+                  "imageAlt": "Vista frontal del dispositivo de mano Legion Go"
+                },
+                {
+                  "imageName": "lenovo-legion-go-amd-pdp-gallery-3.png",
+                  "imageAddress": "//p1-ofp.static.pub//fes/cms/2023/09/22/xcyfnrg7t4yuwessznc6gpgshdq4p5850902.png",
+                  "imageAlt": "Vista posterior del dispositivo de mano Legion Go"
+                },
+                {
+                  "imageName": "lenovo-legion-go-amd-pdp-gallery-4.png",
+                  "imageAddress": "//p3-ofp.static.pub//fes/cms/2023/09/22/umilq1jl247encaosxki8sa29wzq3d894295.png",
+                  "imageAlt": "Vista frontal del dispositivo de mano Legion Go con los controladores extraíbles separados "
+                },
+                {
+                  "imageName": "lenovo-legion-go-amd-pdp-gallery-5.png",
+                  "imageAddress": "//p4-ofp.static.pub//fes/cms/2023/09/22/8eiohvjt8g19yduawhg7bapvbsym0p759903.png",
+                  "imageAlt": "Vista desde arriba de la parte superior del dispositivo de mano Legion Go"
+                },
+                {
+                  "imageName": "lenovo-legion-go-amd-pdp-gallery-6.png",
+                  "imageAddress": "//p1-ofp.static.pub//fes/cms/2023/09/22/oinhcduyjrf14b0zr48ravjmb0vigb967098.png",
+                  "imageAlt": "Vista desde arriba de la parte inferior del dispositivo de mano Legion Go"
+                },
+                {
+                  "imageName": "lenovo-legion-go-amd-pdp-gallery-7.png",
+                  "imageAddress": "//p1-ofp.static.pub//fes/cms/2023/09/22/bgwtijgzumv5gjfdknkmdyv6l3xnul664564.png",
+                  "imageAlt": "Vista frontal del dispositivo de mano Legion Go"
+                },
+                {
+                  "imageName": "lenovo-legion-go-amd-pdp-gallery-8.png",
+                  "imageAddress": "//p2-ofp.static.pub//fes/cms/2023/09/22/qbhgyc9o3zgwg1exufj478cq2flmo9967358.png",
+                  "imageAlt": "Vista posterior del dispositivo de mano Legion Go con el soporte extraído"
+                },
+                {
+                  "imageName": "lenovo-legion-go-amd-pdp-gallery-9.png",
+                  "imageAddress": "//p3-ofp.static.pub//fes/cms/2023/09/22/p1o4k07a9axrvstac3rthbkn2h4x2k038964.png",
+                  "imageAlt": "Vista frontal del lateral derecho del dispositivo de mano Legion Go"
+                },
+                {
+                  "imageName": "lenovo-legion-go-amd-pdp-gallery-10.png",
+                  "imageAddress": "//p4-ofp.static.pub//fes/cms/2023/09/22/dnm4wkj9o0mfh6nxyt9x288mzi6q9e014332.png",
+                  "imageAlt": "Vista frontal del dispositivo de mano Legion Go con los controladores extraídos"
+                },
+                {
+                  "imageName": "lenovo-legion-go-amd-pdp-gallery-11.png",
+                  "imageAddress": "//p1-ofp.static.pub//fes/cms/2023/09/22/n2ddu1kfa1dqj4ouk1qm2der1tbduf605790.png",
+                  "imageAlt": "Vista del dispositivo de mano Legion Go sobre un soporte con los controladores extraídos"
+                },
+                {
+                  "imageName": "lenovo-legion-go-amd-pdp-gallery-12.png",
+                  "imageAddress": "//p4-ofp.static.pub//fes/cms/2023/09/22/d35htzswzb4bib9v9ke7b47uoe4wis517150.png",
+                  "imageAlt": "Vistas frontal y posterior del controlador izquierdo del dispositivo de mano Legion Go"
+                },
+                {
+                  "imageName": "lenovo-legion-go-amd-pdp-gallery-13.png",
+                  "imageAddress": "//p1-ofp.static.pub//fes/cms/2023/09/22/fquegp1hdlxwrkxl2qcw5w691zzwka109583.png",
+                  "imageAlt": "Vistas de los laterales derecho e izquierdo del controlador izquierdo del dispositivo de mano Legion Go"
+                },
+                {
+                  "imageName": "lenovo-legion-go-amd-pdp-gallery-14.png",
+                  "imageAddress": "//p4-ofp.static.pub//fes/cms/2023/09/22/v9jmeeuomywif04n6b7ihkhpmrsgu7250536.png",
+                  "imageAlt": "Vistas inferior y superior del controlador izquierdo del dispositivo de mano Legion Go"
+                },
+                {
+                  "imageName": "lenovo-legion-go-amd-pdp-gallery-15.png",
+                  "imageAddress": "//p3-ofp.static.pub//fes/cms/2023/09/22/o0cr339n104txvwe5fncjfn01wo11q230931.png",
+                  "imageAlt": "Vistas frontal y posterior del controlador derecho del dispositivo de mano Legion Go"
+                },
+                {
+                  "imageName": "lenovo-legion-go-amd-pdp-gallery-16.png",
+                  "imageAddress": "//p4-ofp.static.pub//fes/cms/2023/09/22/tvqcvzbuwh45cjqu1fpf3k9vsag3kk542857.png",
+                  "imageAlt": "Vistas de los laterales derecho e izquierdo del controlador derecho del dispositivo de mano Legion Go"
+                },
+                {
+                  "imageName": "lenovo-legion-go-amd-pdp-gallery-17.png",
+                  "imageAddress": "//p4-ofp.static.pub//fes/cms/2023/09/22/szynrikb22mo7aqup46vgt9gy6238e896423.png",
+                  "imageAlt": "Vistas inferior y superior del controlador derecho del dispositivo de mano Legion Go"
+                },
+                {
+                  "imageName": "lenovo-legion-go-amd-pdp-gallery-18.png",
+                  "imageAddress": "//p2-ofp.static.pub//fes/cms/2023/09/22/9fpv9fijqmri0o8a76tvb99hwhuak6261443.png",
+                  "imageAlt": "Vistas frontal y posterior del controlador derecho del dispositivo de mano Legion Go en la base"
+                }
+              ],
+              "listImage": [
+                {
+                  "imageName": "lenovo-legion-go-amd-series-tn.png",
+                  "imageAddress": "//p1-ofp.static.pub//fes/cms/2023/09/22/ii71i271iej9ejd3s7qzc476t2efrz519006.png",
+                  "imageAlt": "Vista frontal del dispositivo de mano Legion Go"
+                }
+              ],
+              "heroImage": {
+                "imageName": "lenovo-legion-go-amd-pdp-hero.png",
+                "imageAddress": "//p1-ofp.static.pub//fes/cms/2023/09/22/11w0z2gahwagl3lb9ftao79p52qw0o460975.png",
+                "imageAlt": "Vista frontal del dispositivo de mano Legion Go girado hacia la derecha"
+              },
+              "threeSixZero": [
+                "eINolq2IbQg"
+              ],
+              "icon2": "https://p2-ofp.static.pub/ShareResource/we/Products/xbox-stamp-icon-es.jpg"
+            },
+            "marketingLongDescription": "<ul style=\"list-style-type: disc;\">\n    <li>Disfrutá de imágenes impresionantes en la pantalla PureSight Gaming, con colores vibrantes y detalles nítidos para que cada partida se vea increíble.</li>\n<li>Los mandos TrueStrike, meticulosamente diseñados, te ofrecen precisión y comodidad en cada movimiento.</li>\n<li>Cambiá de estilo de juego con múltiples modos pensados para adaptarse a cualquier entorno, estés donde estés.</li>\n<li>Accedé a todos tus títulos desde Legion Space, que reúne tu biblioteca en un solo lugar para que tengas todo al alcance.</li>\n<li><em>Teclado en Español, con tecla Ñ incluida (a menos que las especificaciones del equipo indiquen lo contrario). Algunos puertos/ranuras pueden ser opcionales o variar; colores sujetos a disponibilidad</em></li>\n</ul>",
+            "marketingShortDescription": "<ul style=\"list-style-type: disc;\"><li><p>Juegos a nivel de consola en un dispositivo de mano</p></li><li><p>Múltiples modos de juego para múltiples estilo de juego</p></li><li><p>Legion Space optimiza tu biblioteca</p></li></ul>",
+            "summary": "Legion Go (8.8\", AMD)",
+            "url": "/p/notebooks/legion-laptops/serie-handheld/legion-go/len106g0001",
+            "flCode": "laptops",
+            "flName": "Notebooks",
+            "hasClaimIndicator": false,
+            "isDCGSubseries": false,
+            "isOutlet": false,
+            "outletFlagColor": "#4C1984",
+            "modelEnabled": 0,
+            "launchDate": 0,
+            "teleUser": false,
+            "lowestPrice": {
+              "price": null,
+              "percentage": null
+            },
+            "specialOffers": [],
+            "softBundleType": "",
+            "virtualProductCode": "",
+            "configId": "",
+            "score": 847,
+            "advancedZooming": "0",
+            "bannerPromotionalTile": false,
+            "brDesktopBundleChildren": false,
+            "goodForFeatures": {},
+            "productPreorderDTO": {
+              "preOrderFlag": "0",
+              "releaseDate": null
+            }
+          }
+        ],
+        "count": 2
+      }
+    ],
+    "hasGroup": false,
+    "count": 2,
+    "pageSize": 20,
+    "page": 1,
+    "allDataFromIndex": true,
+    "currencyCode": "ARS",
+    "facetGroups": [
+      {
+        "groupName": null,
+        "facets": [
+          {
+            "facetId": "11051",
+            "facetName": "Procesador",
+            "facetType": "productAttribute",
+            "isShow": true,
+            "isGrayOut": false,
+            "showType": "close",
+            "limitValue": 3,
+            "multiSelect": null,
+            "defaultValues": null,
+            "hideValues": null,
+            "sinkEndValues": null,
+            "preselectHideValues": null,
+            "weight": -1,
+            "items": [
+              {
+                "hide": false,
+                "name": "Todos los Procesadores AMD",
+                "count": 2,
+                "value": "Todos los Procesadores AMD"
+              },
+              {
+                "hide": false,
+                "name": "AMD Ryzen™ Z2 GO",
+                "count": 1,
+                "value": "AMD Ryzen™ Z2 GO"
+              },
+              {
+                "hide": false,
+                "name": "AMD Ryzen™ Z1",
+                "count": 1,
+                "value": "AMD Ryzen™ Z1"
+              }
+            ],
+            "conditionIsBool": false,
+            "facetTooltipDomain": {
+              "videoId": "",
+              "headline": "",
+              "description": "",
+              "tooltipUrl": "",
+              "tooltipTextLink": "",
+              "specTooltip": 0
+            },
+            "nestedGroupSortRule": "count",
+            "show": true,
+            "grayOut": false
+          },
+          {
+            "facetId": "11049",
+            "facetName": "Sistema Operativo",
+            "facetType": "productAttribute",
+            "isShow": true,
+            "isGrayOut": false,
+            "showType": "close",
+            "limitValue": 3,
+            "multiSelect": null,
+            "defaultValues": null,
+            "hideValues": null,
+            "sinkEndValues": null,
+            "preselectHideValues": null,
+            "weight": -2,
+            "items": [
+              {
+                "hide": false,
+                "name": "Windows 11 Home 64",
+                "count": 2,
+                "value": "Windows 11 Home 64"
+              }
+            ],
+            "conditionIsBool": false,
+            "facetTooltipDomain": {
+              "videoId": "",
+              "headline": "",
+              "description": "",
+              "tooltipUrl": "",
+              "tooltipTextLink": "",
+              "specTooltip": 0
+            },
+            "nestedGroupSortRule": "count",
+            "show": true,
+            "grayOut": false
+          },
+          {
+            "facetId": "11172",
+            "facetName": "Memoria",
+            "facetType": "productAttribute",
+            "isShow": true,
+            "isGrayOut": false,
+            "showType": "close",
+            "limitValue": 3,
+            "multiSelect": null,
+            "defaultValues": null,
+            "hideValues": null,
+            "sinkEndValues": null,
+            "preselectHideValues": null,
+            "weight": -3,
+            "items": [
+              {
+                "hide": false,
+                "name": "16 GB",
+                "count": 2,
+                "value": "16 GB"
+              }
+            ],
+            "conditionIsBool": false,
+            "facetTooltipDomain": {
+              "videoId": "",
+              "headline": "",
+              "description": "",
+              "tooltipUrl": "",
+              "tooltipTextLink": "",
+              "specTooltip": 0
+            },
+            "nestedGroupSortRule": "count",
+            "show": true,
+            "grayOut": false
+          },
+          {
+            "facetId": "11052",
+            "facetName": "Almacenamiento",
+            "facetType": "productAttribute",
+            "isShow": true,
+            "isGrayOut": false,
+            "showType": "close",
+            "limitValue": 3,
+            "multiSelect": null,
+            "defaultValues": null,
+            "hideValues": null,
+            "sinkEndValues": null,
+            "preselectHideValues": null,
+            "weight": -4,
+            "items": [
+              {
+                "hide": false,
+                "name": "512 GB",
+                "count": 2,
+                "value": "512 GB"
+              }
+            ],
+            "conditionIsBool": false,
+            "facetTooltipDomain": {
+              "videoId": "",
+              "headline": "",
+              "description": "",
+              "tooltipUrl": "",
+              "tooltipTextLink": "",
+              "specTooltip": 0
+            },
+            "nestedGroupSortRule": "count",
+            "show": true,
+            "grayOut": false
+          },
+          {
+            "facetId": "11171",
+            "facetName": "Gráficos",
+            "facetType": "productAttribute",
+            "isShow": true,
+            "isGrayOut": false,
+            "showType": "close",
+            "limitValue": 3,
+            "multiSelect": null,
+            "defaultValues": null,
+            "hideValues": null,
+            "sinkEndValues": null,
+            "preselectHideValues": null,
+            "weight": -5,
+            "items": [
+              {
+                "hide": false,
+                "name": "Integrated",
+                "count": 2,
+                "value": "Integrated"
+              },
+              {
+                "hide": false,
+                "name": "AMD Radeon™",
+                "count": 2,
+                "value": "AMD Radeon™"
+              }
+            ],
+            "conditionIsBool": false,
+            "facetTooltipDomain": {
+              "videoId": "",
+              "headline": "",
+              "description": "",
+              "tooltipUrl": "",
+              "tooltipTextLink": "",
+              "specTooltip": 0
+            },
+            "nestedGroupSortRule": "count",
+            "show": true,
+            "grayOut": false
+          },
+          {
+            "facetId": "11107",
+            "facetName": "Tamaño de Pantalla",
+            "facetType": "productAttribute",
+            "isShow": true,
+            "isGrayOut": false,
+            "showType": "close",
+            "limitValue": 3,
+            "multiSelect": null,
+            "defaultValues": null,
+            "hideValues": null,
+            "sinkEndValues": null,
+            "preselectHideValues": null,
+            "weight": -6,
+            "items": [
+              {
+                "hide": false,
+                "name": "8\" - 8.9\"",
+                "count": 2,
+                "value": "8\" - 8.9\""
+              }
+            ],
+            "conditionIsBool": false,
+            "facetTooltipDomain": {
+              "videoId": "",
+              "headline": "",
+              "description": "",
+              "tooltipUrl": "",
+              "tooltipTextLink": "",
+              "specTooltip": 0
+            },
+            "nestedGroupSortRule": "count",
+            "show": true,
+            "grayOut": false
+          },
+          {
+            "facetId": "11106",
+            "facetName": "Tipo de producto",
+            "facetType": "productAttribute",
+            "isShow": true,
+            "isGrayOut": false,
+            "showType": "close",
+            "limitValue": 3,
+            "multiSelect": null,
+            "defaultValues": null,
+            "hideValues": null,
+            "sinkEndValues": null,
+            "preselectHideValues": null,
+            "weight": -7,
+            "items": [
+              {
+                "hide": false,
+                "name": "Lista para entregar",
+                "count": 2,
+                "value": "Lista para entregar"
+              }
+            ],
+            "conditionIsBool": false,
+            "facetTooltipDomain": {
+              "videoId": "",
+              "headline": "",
+              "description": "",
+              "tooltipUrl": "",
+              "tooltipTextLink": "",
+              "specTooltip": 0
+            },
+            "nestedGroupSortRule": "count",
+            "show": true,
+            "grayOut": false
+          },
+          {
+            "facetId": "11114",
+            "facetName": "Precio",
+            "facetType": "price",
+            "isShow": true,
+            "isGrayOut": false,
+            "showType": "close",
+            "limitValue": 3,
+            "multiSelect": null,
+            "defaultValues": null,
+            "hideValues": null,
+            "sinkEndValues": null,
+            "preselectHideValues": null,
+            "weight": -8,
+            "items": [
+              {
+                "hide": false,
+                "name": "$1.000.000 a $1.499.999",
+                "count": 1,
+                "value": "1000000.0-1499999.001"
+              },
+              {
+                "hide": false,
+                "name": "$1.500.000 a $1.999.999",
+                "count": 1,
+                "value": "1500000.0-1999999.001"
+              }
+            ],
+            "conditionIsBool": false,
+            "facetTooltipDomain": {
+              "videoId": "",
+              "headline": "",
+              "description": "",
+              "tooltipUrl": "",
+              "tooltipTextLink": "",
+              "specTooltip": 0
+            },
+            "nestedGroupSortRule": "count",
+            "show": true,
+            "grayOut": false
+          }
+        ],
+        "sortNumber": null,
+        "isDisplayGroupName": false,
+        "showType": null,
+        "limitValue": null
+      }
+    ],
+    "allUnavailable": false,
+    "algorithmId": null
+  },
+  "params": null,
+  "success": true
+}

@@ -1,0 +1,2511 @@
+{
+  "xrid": "fcfa3f9432d17a2c13350757ee0f5f9c",
+  "status": 200,
+  "msg": "operation successful!",
+  "data": {
+    "pageCount": 1,
+    "cost": 195,
+    "data": [
+      {
+        "products": [
+          {
+            "id": "F0G1010SAR_f31ab1f1b6026-4f65-9ed9-0142293b720b",
+            "productName": "DT IC AIO 3 24ALC6 A77730U 512G 16G",
+            "productType": "0",
+            "productCode": "F0G1010SAR",
+            "productStatus": "",
+            "baseWarrantyKey": "D25",
+            "essFlag": "NO",
+            "webPrice": "1671000.01",
+            "instantSavingPrice": "1240000.00",
+            "instantSavingSaveAmount": "431000.00",
+            "instantSavingSavePercentage": "25",
+            "paymentMethod": "Bank Deposit",
+            "finalPrice": "1240000.01",
+            "saveAmount": "431000.00",
+            "savePercent": "25",
+            "isMedion": false,
+            "ratingStar": "4.6",
+            "commentCount": 77,
+            "marketingStatus": "Available",
+            "modelsCount": 0,
+            "leadTime": 1,
+            "leadTimeMessage": "",
+            "inventoryStatus": 1,
+            "currencySymbol": "$",
+            "currencyCode": "ARS",
+            "modifyTime": 1760405031197,
+            "onlineDate": 1726085930000,
+            "categoryPath": [
+              "ROOTPMI",
+              "desktops",
+              "ideacentre",
+              "aio-300-series",
+              "LEN102D0016"
+            ],
+            "machineType": "FFICF300381F0G1",
+            "purchaseFlag": true,
+            "merchandisingFlags": [
+              {
+                "text": "<p>6 CUOTAS\nSIN INTERÉS</p>",
+                "bgColor": "#f9974c",
+                "gameBackgroundColor": "#f9974c",
+                "type": "static"
+              }
+            ],
+            "media": {
+              "thumbnail": {
+                "imageName": "23389938226_IdeaCentre AIO 3 27ALC6_20221107115526.png",
+                "imageAddress": "https://p1-ofp.static.pub//medias/23389938226_IdeaCentreAIO327ALC6_202211071155261706979339822.png",
+                "imageAlt": ""
+              },
+              "gallery": [
+                {
+                  "imageName": "lenovo-desktop-ideacentre-aio-3-gen-6-24-amd-gallery.png",
+                  "imageAddress": "//p1-ofp.static.pub/medias/bWFzdGVyfHJvb3R8Mzg0NTc3fGltYWdlL3BuZ3xoYzkvaGNlLzE0MjU3NjU1MjE4MjA2LnBuZ3w5NGY2ZDIyNjZiMTYyZjIyOTgyYTFlYjEzMjEwNGJkYmQ5NGIyYjAzNmJiNmU0NjgxMTk2MjMxMjNkNjUwZjVl/lenovo-desktop-ideacentre-aio-3-gen-6-24-amd-gallery.png",
+                  "imageAlt": ""
+                },
+                {
+                  "imageName": "lenovo-desktop-ideacentre-aio-3-gen-6-24-amd-subseries-gallery-1.png",
+                  "imageAddress": "//p1-ofp.static.pub/medias/bWFzdGVyfHJvb3R8OTEwMjB8aW1hZ2UvcG5nfGg1ZC9oZDgvMTE4OTY3MjU3MzM0MDYucG5nfGRjZmQxMmYxMzk0ODc1ZDM0MzI5OTU4YjE0ZTQwYjBlMWRjZDczNzUzMGE4M2I4N2EwODVjZTc2YmZlNTI5ZTA/lenovo-desktop-ideacentre-aio-3-gen-6-24-amd-subseries-gallery-1.png",
+                  "imageAlt": ""
+                },
+                {
+                  "imageName": "lenovo-desktop-ideacentre-aio-3-gen-6-24-amd-subseries-gallery-2.png",
+                  "imageAddress": "//p1-ofp.static.pub/medias/bWFzdGVyfHJvb3R8MTU5NTQ4fGltYWdlL3BuZ3xoMjQvaDk5LzExODk2NzI1NjY3ODcwLnBuZ3w3OWIwMTlkMDFjZmQwMGY4MTI2NDhiODhkYjhlNTBhMjExZDU4YTJkMTEyZjJkOWQ3NWRhNGQ5NmQ4YWYwZmY0/lenovo-desktop-ideacentre-aio-3-gen-6-24-amd-subseries-gallery-2.png",
+                  "imageAlt": ""
+                },
+                {
+                  "imageName": "lenovo-desktop-ideacentre-aio-3-gen-6-24-amd-subseries-gallery-3.png",
+                  "imageAddress": "//p1-ofp.static.pub/medias/bWFzdGVyfHJvb3R8MTAxOTA5fGltYWdlL3BuZ3xoYTUvaDQ2LzExODk2NzI1NjAyMzM0LnBuZ3w0OTE4Y2ZiYmNlMDIxNDZiOWEyN2JhNWQwMzdiODY0YjM0ZTdjYTQxYWM0NDQ1YzdlNmJlNTExNzM0ZTc5NGVk/lenovo-desktop-ideacentre-aio-3-gen-6-24-amd-subseries-gallery-3.png",
+                  "imageAlt": ""
+                },
+                {
+                  "imageName": "lenovo-desktop-ideacentre-aio-3-gen-6-24-amd-subseries-gallery-4.png",
+                  "imageAddress": "//p1-ofp.static.pub/medias/bWFzdGVyfHJvb3R8MTA0NDUzfGltYWdlL3BuZ3xoZmMvaGNmLzExODk2NzI1MzQwMTkwLnBuZ3wwOTEwZGUzMDlkOTI4ZGQxODA4MTZiOGEwZmVmMTI2YzcyNzA4NjJjNTViYjUwOTE1MDUzNDRjY2RlZjdlM2M0/lenovo-desktop-ideacentre-aio-3-gen-6-24-amd-subseries-gallery-4.png",
+                  "imageAlt": ""
+                },
+                {
+                  "imageName": "lenovo-desktop-ideacentre-aio-3-gen-6-24-amd-subseries-gallery-5.png",
+                  "imageAddress": "//p1-ofp.static.pub/medias/bWFzdGVyfHJvb3R8MTI3ODU1fGltYWdlL3BuZ3xoMmEvaDVjLzExODk2NzI1Mjc0NjU0LnBuZ3wxYmYzNDBkMzQ2Yzg4YzY3YTU1ODE5YmY5M2VmZGM4Nzc1OTI2MGM0MDdmNWZjMWI4NTQ2NmZiYjUyZDdkOTkz/lenovo-desktop-ideacentre-aio-3-gen-6-24-amd-subseries-gallery-5.png",
+                  "imageAlt": ""
+                },
+                {
+                  "imageName": "lenovo-desktop-ideacentre-aio-3-gen-6-24-amd-subseries-gallery-6.png",
+                  "imageAddress": "//p1-ofp.static.pub/medias/bWFzdGVyfHJvb3R8ODk5MjF8aW1hZ2UvcG5nfGhjNy9oODgvMTE4OTY3MjU0MDU3MjYucG5nfDUzNjNmM2ZhZmZlMzViYzA3MmRiMjBjZjY2MzRmYzUxNTIyMmM2YTFhMWI5MGNmZDVkYTFiOWM3MDg3N2Y3MzY/lenovo-desktop-ideacentre-aio-3-gen-6-24-amd-subseries-gallery-6.png",
+                  "imageAlt": ""
+                },
+                {
+                  "imageName": "lenovo-desktop-ideacentre-aio-3-gen-6-24-amd-subseries-gallery-7.png",
+                  "imageAddress": "//p1-ofp.static.pub/medias/bWFzdGVyfHJvb3R8MTI5MTE0fGltYWdlL3BuZ3xoZDMvaGQyLzExODk2NzI1NTM2Nzk4LnBuZ3w2NzEyYTFmOWZjNzk1NTc1ODBmZmY2YjczZWE2ZWRlNWUwOTZlNWI4NWVjNGU3NDA5ZmIxOWZmYjU2N2M4NTYx/lenovo-desktop-ideacentre-aio-3-gen-6-24-amd-subseries-gallery-7.png",
+                  "imageAlt": ""
+                },
+                {
+                  "imageName": "lenovo-desktop-ideacentre-aio-3-gen-6-24-amd-subseries-gallery-8.png",
+                  "imageAddress": "//p1-ofp.static.pub/medias/bWFzdGVyfHJvb3R8MjAyODAwfGltYWdlL3BuZ3xoNTAvaDg3LzExODk2NzI1MjA5MTE4LnBuZ3wwZTg1MDIxZDk1NmEzZDFkODhmNTIyODRkMTlhZmNlYzRmZGM3ZDNmNDhlZGY2NGM3ZDJjZDk4ODU5ZGVkNjUy/lenovo-desktop-ideacentre-aio-3-gen-6-24-amd-subseries-gallery-8.png",
+                  "imageAlt": ""
+                }
+              ],
+              "subseriesListImage": [
+                {
+                  "imageName": "lenovo-desktop-ideacentre-aio-3-gen-6-24-amd-series.png",
+                  "imageAddress": "//p1-ofp.static.pub/medias/bWFzdGVyfHJvb3R8NjYzOTF8aW1hZ2UvcG5nfGgyOC9oMTYvMTQyNTc2NTUwODcxMzQucG5nfGJkMDM0ODFjOGE5YWZiMzc3M2FlODdjYmIzZTk4YWJjYmVmZmY2Mzc0NTExNmQ1YmM5NDg3MGNjM2Y2NTI3ZTg/lenovo-desktop-ideacentre-aio-3-gen-6-24-amd-series.png",
+                  "imageAlt": ""
+                }
+              ],
+              "heroImage": {
+                "imageName": "lenovo-desktop-ideacentre-aio-3-gen-6-24-amd-subseries-hero.png",
+                "imageAddress": "//p1-ofp.static.pub/medias/bWFzdGVyfHJvb3R8MzA3NTMxfGltYWdlL3BuZ3xoMzgvaDY4LzE0MjU3NjU1MTUyNjcwLnBuZ3wwMjMyMzIxZjc2ODFiNjJjOTUxOTM2ZGYxZjI4MDk2NDk4MTNjMmNhOWM3NzAzOTA5MzAxZTdhMmNjOTQzNTdk/lenovo-desktop-ideacentre-aio-3-gen-6-24-amd-subseries-hero.png",
+                "imageAlt": ""
+              },
+              "energyRating": {
+                "iconLink": null,
+                "textLink": null
+              }
+            },
+            "classification": [
+              {
+                "a": "Procesador",
+                "b": "Procesador AMD Ryzen™ 7 7730U (2,00 GHz hasta 4,50 GHz)",
+                "mediaIcon": "//p3-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-processor-xs.svg",
+                "mediaIconAlt": "Processor",
+                "gamingIcon": "//p1-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-processor-pure-light.svg",
+                "gamingIconAlt": "Processor",
+                "c": 100,
+                "webExclusive": 0
+              },
+              {
+                "a": "Sistema operativo",
+                "b": "Windows 11 Home idioma único 64",
+                "mediaIcon": "//p3-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-business-and-culture-system-management-xs.svg",
+                "mediaIconAlt": "Operating System",
+                "gamingIcon": "//p1-ofp.static.pub/ShareResource/na/icons/lenovo-business-and-culture/extra-small/lenovo-system-management-pure-light.svg",
+                "gamingIconAlt": "Operating System",
+                "c": 99,
+                "webExclusive": 0
+              },
+              {
+                "a": "Tarjeta gráfica",
+                "b": "Gráficos AMD Radeon™ integrados",
+                "mediaIcon": "//p2-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-graphic-card-xs.svg",
+                "mediaIconAlt": "Graphic Card",
+                "gamingIcon": "//p2-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-graphic-card-pure-light.svg",
+                "gamingIconAlt": "Graphic Card",
+                "c": 98,
+                "webExclusive": 0
+              },
+              {
+                "a": "Memoria total",
+                "b": "16 GB DDR4-3200MT/s (SODIMM)(2 x 8 GB)",
+                "mediaIcon": "//p2-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-memory-xs.svg",
+                "mediaIconAlt": "Memory",
+                "gamingIcon": "//p3-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-memory-pure-light.svg",
+                "gamingIconAlt": "Memory",
+                "c": 97,
+                "webExclusive": 0
+              },
+              {
+                "a": "Unidad de disco primaria",
+                "b": "512 GB SSD M.2 2280 PCIe Gen4 QLC",
+                "mediaIcon": "//p2-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-storage-xs.svg",
+                "mediaIconAlt": "Storage",
+                "gamingIcon": "//p3-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-storage-pure-light.svg",
+                "gamingIconAlt": "Storage",
+                "c": 96,
+                "webExclusive": 0
+              },
+              {
+                "a": "Tipo de pantalla",
+                "b": "23,8\" FHD (1920 x 1080), IPS, antirreflectante, sin capacidad táctil, 72 % NTSC, 250 nits, 14 ms, retroiluminación WLED",
+                "mediaIcon": "//p1-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-display-display-xs.svg",
+                "mediaIconAlt": "Display",
+                "gamingIcon": "//p4-ofp.static.pub/ShareResource/na/icons/display/extra-small/lenovo-display-pure-light.svg",
+                "gamingIconAlt": "Display",
+                "c": 95,
+                "webExclusive": 0
+              },
+              {
+                "a": "Garantía",
+                "b": "1 año Premium Care",
+                "mediaIcon": "//p4-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-business-and-culture-warranty-xs.svg",
+                "mediaIconAlt": "Warranty",
+                "gamingIcon": "//p1-ofp.static.pub/ShareResource/na/icons/services-and-certification/extra-small/lenovo-warranty-pure-light.svg",
+                "gamingIconAlt": "Warranty",
+                "c": 73,
+                "webExclusive": 0
+              }
+            ],
+            "marketingLongDescription": "<ul style=\"list-style-type: disc;\"><li><p>Elegante computadora de escritorio all in one de alto rendimiento</p></li><li><p>Procesamiento hasta AMD Ryzen™ 7 con gráficos AMD Radeon integrados™</p></li><li><p>Pantalla de 23.8” FHD, táctil opcional según el modelo</p></li><li><p>Altavoces con certificación Harman Kardon<sup>®</sup></p></li><li><p>Gran espacio de almacenamiento para fotos, canciones y películas</p></li></ul>",
+            "marketingShortDescription": "<ul style=\"list-style-type: disc;\"><li><p>PC all in one perfecta para el hogar de 23.8” con tecnología AMD</p></li><li><p>Pantalla FHD con bordes delgados</p></li><li><p>Altavoces certificados por Harman Kardon<sup>®</sup></p></li></ul><p><br/></p>",
+            "summary": "IdeaCentre 3 AIO Gen 6 (23.8\" AMD)",
+            "url": "/p/computadoras-de-escritorio/ideacentre/serie-aio-300/IdeaCentre-AIO-3-Gen-6-(24-inch-AMD)/f0g1010sar",
+            "flCode": "desktops",
+            "flName": "Computadoras de Escritorio",
+            "hasClaimIndicator": false,
+            "couponConsumed": false,
+            "isDCGSubseries": false,
+            "readyToShip": true,
+            "isOutlet": false,
+            "outletFlagColor": "#4C1984",
+            "modelBadge": "15% off EXTRA con Depósito/Transferencia",
+            "modelEnabled": 0,
+            "launchDate": 0,
+            "teleUser": false,
+            "taxPrice": "117828.12",
+            "taxRate": "10",
+            "beforeTaxPrice": "1122171.88",
+            "lowestPrice": {
+              "price": null,
+              "percentage": null
+            },
+            "finalPriceType": 2,
+            "specialOffers": [
+              {
+                "headLine": "¡Garantía ampliada Premium Care!"
+              }
+            ],
+            "softBundleType": "",
+            "virtualProductCode": "",
+            "configId": "",
+            "subseriesCode": "LEN102D0016",
+            "score": 899,
+            "advancedZooming": "0",
+            "bannerPromotionalTile": false,
+            "brDesktopBundleChildren": false,
+            "goodForFeatures": {},
+            "eccn": "False",
+            "leadingSubseries": "LEN102D0016",
+            "productPreorderDTO": {
+              "preOrderFlag": "0",
+              "releaseDate": null
+            }
+          },
+          {
+            "id": "F0HN00NHAR_f31ab1f1b6026-4f65-9ed9-0142293b720b",
+            "productName": "DT IC AIO 24IRH9 I513420H 512G 16G",
+            "productType": "0",
+            "productCode": "F0HN00NHAR",
+            "productStatus": "",
+            "baseWarrantyKey": "D25",
+            "essFlag": "NO",
+            "webPrice": "1660000.00",
+            "instantSavingPrice": "1360000.00",
+            "instantSavingSaveAmount": "300000.00",
+            "instantSavingSavePercentage": "18",
+            "paymentMethod": "Bank Deposit",
+            "finalPrice": "1360000.00",
+            "saveAmount": "300000.00",
+            "savePercent": "18",
+            "isMedion": false,
+            "ratingStar": "4.5",
+            "commentCount": 123,
+            "marketingStatus": "Available",
+            "modelsCount": 0,
+            "leadTime": 1,
+            "leadTimeMessage": "",
+            "inventoryStatus": 1,
+            "currencySymbol": "$",
+            "currencyCode": "ARS",
+            "modifyTime": 1760405049584,
+            "onlineDate": 1748443429000,
+            "categoryPath": [
+              "ROOTPMI",
+              "desktops",
+              "ideacentre",
+              "aio-500-series",
+              "LEN102D0035"
+            ],
+            "machineType": "FFICF300417F0HN",
+            "purchaseFlag": true,
+            "merchandisingFlags": [
+              {
+                "text": "<p>6 CUOTAS\nSIN INTERÉS</p>",
+                "bgColor": "#f9974c",
+                "gameBackgroundColor": "#f9974c",
+                "type": "static"
+              }
+            ],
+            "media": {
+              "thumbnail": {
+                "imageName": "26091470103_IdeaCentre AIO 3 27IRH9 Luna Grey_20231011020609.png",
+                "imageAddress": "https://p1-ofp.static.pub/medias/26091470103_IdeaCentreAIO327IRH9LunaGrey_202310110206091739339351384.png",
+                "imageAlt": ""
+              },
+              "gallery": [
+                {
+                  "imageName": "ideacentre-aio-i-gen-9-24 -intel‐pdp‐gallery‐1.png",
+                  "imageAddress": "//p3-ofp.static.pub//fes/cms/2024/12/27/9dyok6aivy41oy5ek0m0qzkv7kiofu735085.png",
+                  "imageAlt": "IdeaCentre AIO i Gen 9 computer facing right"
+                },
+                {
+                  "imageName": "ideacentre-aio-i-gen-9-24 -intel‐pdp‐gallery‐2.png",
+                  "imageAddress": "//p4-ofp.static.pub//fes/cms/2024/12/27/bnex1txq3sgi2w3gbfrdkt73h0mgwi215841.png",
+                  "imageAlt": ""
+                },
+                {
+                  "imageName": "ideacentre-aio-i-gen-9-24 -intel‐pdp‐gallery‐3.png",
+                  "imageAddress": "//p4-ofp.static.pub//fes/cms/2024/12/27/tuacjfe46njmhpfs3u6n3u3mn7dze8252625.png",
+                  "imageAlt": "IdeaCentre AIO i Gen 9 computer facing left"
+                },
+                {
+                  "imageName": "ideacentre-aio-i-gen-9-24 -intel‐pdp‐gallery‐4.png",
+                  "imageAddress": "//p4-ofp.static.pub//fes/cms/2024/12/27/jvzozhrl5e8iebvkzx2j8yxi6c3ies066048.png",
+                  "imageAlt": "Rear view of IdeaCentre AIO i Gen 9 computer facing left"
+                },
+                {
+                  "imageName": "ideacentre-aio-i-gen-9-24 -intel‐pdp‐gallery‐5.png",
+                  "imageAddress": "//p2-ofp.static.pub//fes/cms/2024/12/27/bq43ml1wjwrfabp13v1rcf8nujby9a040122.png",
+                  "imageAlt": "Rear view of IdeaCentre AIO i Gen 9 computer"
+                },
+                {
+                  "imageName": "ideacentre-aio-i-gen-9-24 -intel‐pdp‐gallery‐6.png",
+                  "imageAddress": "//p4-ofp.static.pub//fes/cms/2024/12/27/7ebbe5bcxargs2b8yil0ad2v0g4evq226143.png",
+                  "imageAlt": "Rear view of IdeaCentre AIO i Gen 9 computer facing right"
+                },
+                {
+                  "imageName": "ideacentre-aio-i-gen-9-24 -intel‐pdp‐gallery‐7.png",
+                  "imageAddress": "//p4-ofp.static.pub//fes/cms/2024/12/27/4vcz7pu6pyvokrkm8vor7tvkmjk2of189128.png",
+                  "imageAlt": "Right side profile view of IdeaCentre AIO i Gen 9 computer"
+                },
+                {
+                  "imageName": "ideacentre-aio-i-gen-9-24 -intel‐pdp‐gallery‐8.png",
+                  "imageAddress": "//p2-ofp.static.pub//fes/cms/2024/12/27/i307dymjtjzgult8cmz7nkiyw5dw94230197.png",
+                  "imageAlt": "Left side profile view of IdeaCentre AIO i Gen 9 computer"
+                },
+                {
+                  "imageName": "ideacentre-aio-i-gen-9-24 -intel‐pdp‐gallery‐9.png",
+                  "imageAddress": "//p4-ofp.static.pub//fes/cms/2024/12/27/7icczdg7dnmtios4c58602gx9hfg6x164816.png",
+                  "imageAlt": "Front-facing view of Cloud Grey IdeaCentre AIO i Gen 9 computer"
+                },
+                {
+                  "imageName": "ideacentre-aio-i-gen-9-24 -intel‐pdp‐gallery‐10.png",
+                  "imageAddress": "//p3-ofp.static.pub//fes/cms/2024/12/27/8nagxvat44w19yauh8fkc74weai29q036907.png",
+                  "imageAlt": "Cloud Grey IdeaCentre AIO i Gen 9 computer facing right"
+                },
+                {
+                  "imageName": "ideacentre-aio-i-gen-9-24 -intel‐pdp‐gallery‐11.png",
+                  "imageAddress": "//p1-ofp.static.pub//fes/cms/2024/12/27/dzrb8t8x1vfybzjjgt46pfhohkhrzh046034.png",
+                  "imageAlt": "Rear view of Cloud Grey IdeaCentre AIO i Gen 9 computer facing left"
+                },
+                {
+                  "imageName": "ideacentre-aio-i-gen-9-24 -intel‐pdp‐gallery‐12.png",
+                  "imageAddress": "//p2-ofp.static.pub//fes/cms/2024/12/27/px4x92ab1jijsbx6d31kia70ju718f327927.png",
+                  "imageAlt": "Rear view of Cloud Grey IdeaCentre AIO i Gen 9 computer"
+                }
+              ],
+              "subseriesListImage": [
+                {
+                  "imageName": "lenovo-ideacentre-aio-i-gen-9-24-intel-series-tn.png",
+                  "imageAddress": "//p4-ofp.static.pub//fes/cms/2024/01/29/8q0p9g7dwn2etwyw4xz7i5upokjd23850210.png",
+                  "imageAlt": "Front-facing view of IdeaCentre AIO i Gen 9 computer"
+                }
+              ],
+              "heroImage": {
+                "imageName": "ideacentre-aio-i-gen-9-24 -intel‐pdp‐hero.png",
+                "imageAddress": "//p4-ofp.static.pub//fes/cms/2024/12/27/ohf33zozoifilr5spsc8ts0duffxb0871479.png",
+                "imageAlt": "Front-facing view of IdeaCentre AIO i Gen 9 computer"
+              },
+              "icon3": "https://p2-ofp.static.pub/ShareResource/ww/img/processor-logos/intel-badge-core-family.png",
+              "energyRating": {
+                "iconLink": null,
+                "textLink": null
+              }
+            },
+            "classification": [
+              {
+                "a": "Procesador",
+                "b": "Procesador Intel® Core™ i5-13420H de 13ᵃ Generación (núcleos E de hasta 3,40 GHz núcleos P de hasta 4,60 GHz)",
+                "mediaIcon": "//p3-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-processor-xs.svg",
+                "mediaIconAlt": "Processor",
+                "gamingIcon": "//p1-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-processor-pure-light.svg",
+                "gamingIconAlt": "Processor",
+                "c": 100,
+                "webExclusive": 0
+              },
+              {
+                "a": "Sistema operativo",
+                "b": "Windows 11 Home idioma único 64",
+                "mediaIcon": "//p3-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-business-and-culture-system-management-xs.svg",
+                "mediaIconAlt": "Operating System",
+                "gamingIcon": "//p1-ofp.static.pub/ShareResource/na/icons/lenovo-business-and-culture/extra-small/lenovo-system-management-pure-light.svg",
+                "gamingIconAlt": "Operating System",
+                "c": 99,
+                "webExclusive": 0
+              },
+              {
+                "a": "Tarjeta gráfica",
+                "b": "Gráficos Intel® UHD integrados para procesadores Intel® de 13ᵃ Generación",
+                "mediaIcon": "//p2-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-graphic-card-xs.svg",
+                "mediaIconAlt": "Graphic Card",
+                "gamingIcon": "//p2-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-graphic-card-pure-light.svg",
+                "gamingIconAlt": "Graphic Card",
+                "c": 98,
+                "webExclusive": 0
+              },
+              {
+                "a": "Memoria total",
+                "b": "16 GB DDR5-5200MT/s (SODIMM)",
+                "mediaIcon": "//p2-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-memory-xs.svg",
+                "mediaIconAlt": "Memory",
+                "gamingIcon": "//p3-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-memory-pure-light.svg",
+                "gamingIconAlt": "Memory",
+                "c": 97,
+                "webExclusive": 0
+              },
+              {
+                "a": "Unidad de disco primaria",
+                "b": "512 GB SSD M.2 2280 PCIe Gen4 QLC",
+                "mediaIcon": "//p2-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-storage-xs.svg",
+                "mediaIconAlt": "Storage",
+                "gamingIcon": "//p3-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-storage-pure-light.svg",
+                "gamingIconAlt": "Storage",
+                "c": 96,
+                "webExclusive": 0
+              },
+              {
+                "a": "Tipo de pantalla",
+                "b": "23,8\" FHD (1920 x 1080), IPS, antirreflectante, sin capacidad táctil, 99 % sRGB, 250 nits, 100 Hz, 14 ms",
+                "mediaIcon": "//p1-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-display-display-xs.svg",
+                "mediaIconAlt": "Display",
+                "gamingIcon": "//p4-ofp.static.pub/ShareResource/na/icons/display/extra-small/lenovo-display-pure-light.svg",
+                "gamingIconAlt": "Display",
+                "c": 95,
+                "webExclusive": 0
+              },
+              {
+                "a": "Garantía",
+                "b": "1 año Premium Care",
+                "mediaIcon": "//p4-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-business-and-culture-warranty-xs.svg",
+                "mediaIconAlt": "Warranty",
+                "gamingIcon": "//p1-ofp.static.pub/ShareResource/na/icons/services-and-certification/extra-small/lenovo-warranty-pure-light.svg",
+                "gamingIconAlt": "Warranty",
+                "c": 73,
+                "webExclusive": 0
+              }
+            ],
+            "marketingLongDescription": "<ul style=\"list-style-type: disc;\"><li><p>Máxima eficiencia, mínimo ruido</p></li><li><p>Pantalla deslumbrante con colores reales</p></li><li><p>Altavoces de audio Harman® y frecuencia de actualización uniforme para una experiencia cinematográfica</p></li><li><p>Videollamadas nítidas y definidas con una solución de cámara web basada en algoritmos de IA</p></li></ul>",
+            "marketingShortDescription": "<ul style=\"list-style-type: disc;\"><li><p>Máxima eficiencia, mínimo ruido</p></li><li><p>Pantalla deslumbrante con colores reales</p></li><li><p>Pantalla táctil opcional para un uso fácil</p></li><li><p>Cámara web mejorada con IA</p></li></ul>",
+            "summary": "IdeaCentre i AIO Gen 9 (23.8\" Intel)",
+            "url": "/p/computadoras-de-escritorio/ideacentre/serie-aio-500/IdeaCentre-AIO-i-Gen-9-(24-inch-Intel)/f0hn00nhar",
+            "flCode": "desktops",
+            "flName": "Computadoras de Escritorio",
+            "hasClaimIndicator": false,
+            "couponConsumed": false,
+            "isDCGSubseries": false,
+            "readyToShip": true,
+            "isOutlet": false,
+            "outletFlagColor": "#4C1984",
+            "modelBadge": "15% off EXTRA con Depósito/Transferencia",
+            "modelEnabled": 0,
+            "launchDate": 0,
+            "teleUser": false,
+            "taxPrice": "129230.84",
+            "taxRate": "10",
+            "beforeTaxPrice": "1230769.16",
+            "lowestPrice": {
+              "price": null,
+              "percentage": null
+            },
+            "finalPriceType": 2,
+            "specialOffers": [
+              {
+                "headLine": "¡Garantía ampliada Premium Care!"
+              }
+            ],
+            "softBundleType": "",
+            "virtualProductCode": "",
+            "configId": "",
+            "subseriesCode": "LEN102D0035",
+            "score": 889,
+            "advancedZooming": "0",
+            "bannerPromotionalTile": false,
+            "brDesktopBundleChildren": false,
+            "goodForFeatures": {},
+            "eccn": "False",
+            "leadingSubseries": "LEN102D0035",
+            "productPreorderDTO": {
+              "preOrderFlag": "0",
+              "releaseDate": null
+            }
+          },
+          {
+            "id": "F0HR008QAR_f31ab1f1b6026-4f65-9ed9-0142293b720b",
+            "productName": "DT IC AIO 24ARR9 A57535HS 512G 16G",
+            "productType": "0",
+            "productCode": "F0HR008QAR",
+            "productStatus": "",
+            "baseWarrantyKey": "D25",
+            "essFlag": "NO",
+            "webPrice": "1650000.01",
+            "instantSavingPrice": "1429000.00",
+            "instantSavingSaveAmount": "221000.00",
+            "instantSavingSavePercentage": "13",
+            "paymentMethod": "Bank Deposit",
+            "finalPrice": "1429000.01",
+            "saveAmount": "221000.00",
+            "savePercent": "13",
+            "isMedion": false,
+            "ratingStar": "4.6",
+            "commentCount": 40,
+            "marketingStatus": "Available",
+            "modelsCount": 0,
+            "leadTime": 1,
+            "leadTimeMessage": "",
+            "inventoryStatus": 1,
+            "currencySymbol": "$",
+            "currencyCode": "ARS",
+            "modifyTime": 1760399445211,
+            "onlineDate": 1756226720000,
+            "categoryPath": [
+              "ROOTPMI",
+              "desktops",
+              "ideacentre",
+              "aio-500-series",
+              "LEN102D0037"
+            ],
+            "machineType": "FFICF300419F0HR",
+            "purchaseFlag": true,
+            "merchandisingFlags": [
+              {
+                "text": "<p>6 CUOTAS\nSIN INTERÉS</p>",
+                "bgColor": "#f9974c",
+                "gameBackgroundColor": "#f9974c",
+                "type": "static"
+              }
+            ],
+            "media": {
+              "thumbnail": {
+                "imageName": "26091470103_IdeaCentre AIO 3 27IRH9 Luna Grey_20231011020609.png",
+                "imageAddress": "https://p1-ofp.static.pub/medias/26091470103_IdeaCentreAIO327IRH9LunaGrey_202310110206091743585405311.png",
+                "imageAlt": ""
+              },
+              "gallery": [
+                {
+                  "imageName": "lenovo‐ideacentre-aio-gen-9-24-amd‐pdp‐gallery-1.png",
+                  "imageAddress": "//p4-ofp.static.pub//fes/cms/2024/02/06/883vwe8594bdkz66lg28w13fih2tco749865.png",
+                  "imageAlt": "Vista frontal de IdeaCentre AIO Gen 9 (24'', AMD) girado hacia la derecha con el menú de inicio en la pantalla"
+                },
+                {
+                  "imageName": "lenovo‐ideacentre-aio-gen-9-24-amd‐pdp‐gallery-2.png",
+                  "imageAddress": "//p2-ofp.static.pub//fes/cms/2024/02/06/q0uvdjkbtbci08gw20j49gc974ejvk557405.png",
+                  "imageAlt": "Vista frontal del IdeaCentre AIO Gen 9 (24'', AMD)"
+                },
+                {
+                  "imageName": "lenovo‐ideacentre-aio-gen-9-24-amd‐pdp‐gallery-3.png",
+                  "imageAddress": "//p3-ofp.static.pub//fes/cms/2024/02/06/gi2brd57kihca2nv34kckrer75t8ct439344.png",
+                  "imageAlt": "Perfil lateral izquierdo del IdeaCentre AIO Gen 9 (24'', AMD)"
+                },
+                {
+                  "imageName": "lenovo‐ideacentre-aio-gen-9-24-amd‐pdp‐gallery-4.png",
+                  "imageAddress": "//p4-ofp.static.pub//fes/cms/2024/02/06/41apxbdkg98qwpg8nh9vl16h5oum0u106974.png",
+                  "imageAlt": "Perfil lateral derecho del IdeaCentre AIO Gen 9 (24'', AMD)"
+                },
+                {
+                  "imageName": "lenovo‐ideacentre-aio-gen-9-24-amd‐pdp‐gallery-5.png",
+                  "imageAddress": "//p3-ofp.static.pub//fes/cms/2024/02/06/3zljevzhphjk4lijfaqfllp8cudbpz893073.png",
+                  "imageAlt": "Parte trasera del IdeaCentre AIO Gen 9 (24'', AMD) girado hacia la izquierda"
+                },
+                {
+                  "imageName": "lenovo‐ideacentre-aio-gen-9-24-amd‐pdp‐gallery-6.png",
+                  "imageAddress": "//p2-ofp.static.pub//fes/cms/2024/02/06/jwteeg1vhxa7i9vms2aezqw0e0csvb932464.png",
+                  "imageAlt": "Vista trasera del IdeaCentre AIO Gen 9 (24'', AMD)"
+                },
+                {
+                  "imageName": "lenovo‐ideacentre-aio-gen-9-24-amd‐pdp‐gallery-7.png",
+                  "imageAddress": "//p2-ofp.static.pub//fes/cms/2024/02/06/pttkxyypx0prd8gmt0lhztex4d8wyo874416.png",
+                  "imageAlt": "Parte trasera del IdeaCentre AIO Gen 9 (24'', AMD) girado hacia la derecha"
+                }
+              ],
+              "subseriesListImage": [
+                {
+                  "imageName": "lenovo‐ideacentre-aio-gen-9-24-amd‐series-tn.png",
+                  "imageAddress": "//p3-ofp.static.pub//fes/cms/2024/02/06/z805n1lza6l9zoy980jc8gc27plmmu161830.png",
+                  "imageAlt": "IdeaCentre AIO Gen 9 (24” AMD) front facing with home screen on display "
+                }
+              ],
+              "heroImage": {
+                "imageName": "lenovo‐ideacentre-aio-gen-9-24-amd‐pdp‐hero.png",
+                "imageAddress": "//p4-ofp.static.pub//fes/cms/2024/02/06/e237geqy0a2r92xlgjg9r4fr25jzli409758.png",
+                "imageAlt": "Vista frontal de IdeaCentre AIO Gen 9 (24'', AMD) girado hacia la izquierda con el menú de inicio en la pantalla"
+              },
+              "energyRating": {
+                "iconLink": null,
+                "textLink": null
+              }
+            },
+            "classification": [
+              {
+                "a": "Procesador",
+                "b": "Procesador AMD Ryzen™ 5 7535HS (3,30 GHz hasta 4,55 GHz)",
+                "mediaIcon": "//p3-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-processor-xs.svg",
+                "mediaIconAlt": "Processor",
+                "gamingIcon": "//p1-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-processor-pure-light.svg",
+                "gamingIconAlt": "Processor",
+                "c": 100,
+                "webExclusive": 0
+              },
+              {
+                "a": "Sistema operativo",
+                "b": "Windows 11 Home idioma único 64",
+                "mediaIcon": "//p3-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-business-and-culture-system-management-xs.svg",
+                "mediaIconAlt": "Operating System",
+                "gamingIcon": "//p1-ofp.static.pub/ShareResource/na/icons/lenovo-business-and-culture/extra-small/lenovo-system-management-pure-light.svg",
+                "gamingIconAlt": "Operating System",
+                "c": 99,
+                "webExclusive": 0
+              },
+              {
+                "a": "Tarjeta gráfica",
+                "b": "Gráficos AMD Radeon™ 660M integrados",
+                "mediaIcon": "//p2-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-graphic-card-xs.svg",
+                "mediaIconAlt": "Graphic Card",
+                "gamingIcon": "//p2-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-graphic-card-pure-light.svg",
+                "gamingIconAlt": "Graphic Card",
+                "c": 98,
+                "webExclusive": 0
+              },
+              {
+                "a": "Memoria total",
+                "b": "16 GB DDR5-4800MT/s (SODIMM)",
+                "mediaIcon": "//p2-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-memory-xs.svg",
+                "mediaIconAlt": "Memory",
+                "gamingIcon": "//p3-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-memory-pure-light.svg",
+                "gamingIconAlt": "Memory",
+                "c": 97,
+                "webExclusive": 0
+              },
+              {
+                "a": "Unidad de disco primaria",
+                "b": "512 GB SSD M.2 2280 PCIe Gen4 TLC Opal",
+                "mediaIcon": "//p2-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-storage-xs.svg",
+                "mediaIconAlt": "Storage",
+                "gamingIcon": "//p3-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-storage-pure-light.svg",
+                "gamingIconAlt": "Storage",
+                "c": 96,
+                "webExclusive": 0
+              },
+              {
+                "a": "Tipo de pantalla",
+                "b": "23,8\" FHD (1920 x 1080), IPS, antirreflectante, sin capacidad táctil, 99 % sRGB, 250 nits, 100 Hz, 14 ms",
+                "mediaIcon": "//p1-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-display-display-xs.svg",
+                "mediaIconAlt": "Display",
+                "gamingIcon": "//p4-ofp.static.pub/ShareResource/na/icons/display/extra-small/lenovo-display-pure-light.svg",
+                "gamingIconAlt": "Display",
+                "c": 95,
+                "webExclusive": 0
+              },
+              {
+                "a": "Garantía",
+                "b": "1 año Premium Care",
+                "mediaIcon": "//p4-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-business-and-culture-warranty-xs.svg",
+                "mediaIconAlt": "Warranty",
+                "gamingIcon": "//p1-ofp.static.pub/ShareResource/na/icons/services-and-certification/extra-small/lenovo-warranty-pure-light.svg",
+                "gamingIconAlt": "Warranty",
+                "c": 73,
+                "webExclusive": 0
+              }
+            ],
+            "marketingLongDescription": "<ul style=\"list-style-type: disc;\"><li><p>Rendimiento sin igual y sesiones de trabajo prolongadas fáciles con los procesadores AMD Ryzen™ 7 serie 7000</p></li><li><p>Colores impresionantes, detalles nítidos en la pantalla IPS de 24”, ideal para maratones de cine</p></li><li><p>Tecnología innovadora combinada con Smart Storage</p></li><li><p>Reuniones virtuales inmersivas con una nítida resolución de 5 MP y micrófonos con cancelación de ruido&nbsp;</p></li></ul>",
+            "marketingShortDescription": "<ul style=\"list-style-type: disc;\">\n    <li>\n        <p>Experiencia visual inmersiva en pantalla panorámica\n        </p>\n    </li>\n    <li>\n        <p>Lenovo Smart Meeting y cancelación de ruido Smart</p>\n    </li>\n    <li>\n        <p>Inclina el dispositivo de forma flexible para una postura adecuada</p>\n    </li>\n</ul>",
+            "summary": "IdeaCentre AIO Gen 9 (23.8\" AMD)",
+            "url": "/p/computadoras-de-escritorio/ideacentre/serie-aio-500/Lenovo-IdeaCentre-AIO-Gen-9-(24-inch-AMD)/f0hr008qar",
+            "flCode": "desktops",
+            "flName": "Computadoras de Escritorio",
+            "hasClaimIndicator": false,
+            "couponConsumed": false,
+            "isDCGSubseries": false,
+            "readyToShip": true,
+            "isOutlet": false,
+            "outletFlagColor": "#4C1984",
+            "modelBadge": "15% off EXTRA con Depósito/Transferencia",
+            "modelEnabled": 0,
+            "launchDate": 0,
+            "teleUser": false,
+            "taxPrice": "135787.40",
+            "taxRate": "10",
+            "beforeTaxPrice": "1293212.60",
+            "lowestPrice": {
+              "price": null,
+              "percentage": null
+            },
+            "finalPriceType": 2,
+            "specialOffers": [
+              {
+                "headLine": "¡Garantía ampliada Premium Care!"
+              }
+            ],
+            "softBundleType": "",
+            "virtualProductCode": "",
+            "configId": "",
+            "score": 884,
+            "advancedZooming": "0",
+            "bannerPromotionalTile": false,
+            "brDesktopBundleChildren": false,
+            "goodForFeatures": {},
+            "eccn": "False",
+            "productPreorderDTO": {
+              "preOrderFlag": "0",
+              "releaseDate": null
+            }
+          },
+          {
+            "id": "F0HM00S6AR_f31ab1f1b6026-4f65-9ed9-0142293b720b",
+            "productName": "DT IC AIO 27IRH9 I513420H 512G 16G",
+            "productType": "0",
+            "productCode": "F0HM00S6AR",
+            "productStatus": "",
+            "baseWarrantyKey": "D25",
+            "essFlag": "NO",
+            "webPrice": "1786000.00",
+            "instantSavingPrice": "1450000.00",
+            "instantSavingSaveAmount": "336000.00",
+            "instantSavingSavePercentage": "18",
+            "paymentMethod": "Bank Deposit",
+            "finalPrice": "1450000.00",
+            "saveAmount": "336000.00",
+            "savePercent": "18",
+            "isMedion": false,
+            "ratingStar": "4.6",
+            "commentCount": 269,
+            "marketingStatus": "Available",
+            "modelsCount": 0,
+            "leadTime": 1,
+            "leadTimeMessage": "",
+            "inventoryStatus": 1,
+            "currencySymbol": "$",
+            "currencyCode": "ARS",
+            "modifyTime": 1760399419318,
+            "onlineDate": 1756226751000,
+            "categoryPath": [
+              "ROOTPMI",
+              "desktops",
+              "ideacentre",
+              "aio-500-series",
+              "LEN102D0034"
+            ],
+            "machineType": "FFICF300416F0HM",
+            "purchaseFlag": true,
+            "merchandisingFlags": [
+              {
+                "text": "<p>6 CUOTAS\nSIN INTERÉS</p>",
+                "bgColor": "#f9974c",
+                "gameBackgroundColor": "#f9974c",
+                "type": "static"
+              }
+            ],
+            "media": {
+              "thumbnail": {
+                "imageName": "26091470103_IdeaCentre AIO 3 27IRH9 Luna Grey_20231011020609.png",
+                "imageAddress": "https://p1-ofp.static.pub/medias/26091470103_IdeaCentreAIO327IRH9LunaGrey_202310110206091747224660593.png",
+                "imageAlt": ""
+              },
+              "gallery": [
+                {
+                  "imageName": "ideacentre-aio-i-gen-9-27-intel‐pdp‐gallery‐1.png",
+                  "imageAddress": "//p1-ofp.static.pub//fes/cms/2024/12/26/ncspaxyc7z2u3auqn5yab0zlcsvun2170280.png",
+                  "imageAlt": "IdeaCentre AIO i Gen 9 computer facing right"
+                },
+                {
+                  "imageName": "ideacentre-aio-i-gen-9-27-intel‐pdp‐gallery‐2.png",
+                  "imageAddress": "//p1-ofp.static.pub//fes/cms/2024/12/26/kpu7phlx5is9ipou525sk15tzregl5941256.png",
+                  "imageAlt": "IdeaCentre AIO i Gen 9 computer facing left"
+                },
+                {
+                  "imageName": "ideacentre-aio-i-gen-9-27-intel‐pdp‐gallery‐3.png",
+                  "imageAddress": "//p3-ofp.static.pub//fes/cms/2024/12/26/jxx5fg93d0vvejtksf8hbp7q74zm8g234979.png",
+                  "imageAlt": ""
+                },
+                {
+                  "imageName": "ideacentre-aio-i-gen-9-27-intel‐pdp‐gallery‐4.png",
+                  "imageAddress": "//p4-ofp.static.pub//fes/cms/2024/12/26/jg8fgf40lozkcyjpebvwhicnohg4k3794354.png",
+                  "imageAlt": "Rear view of IdeaCentre AIO i Gen 9 computer facing left"
+                },
+                {
+                  "imageName": "ideacentre-aio-i-gen-9-27-intel‐pdp‐gallery‐5.png",
+                  "imageAddress": "//p2-ofp.static.pub//fes/cms/2024/12/26/dmexuqck1aycmacubdsrzitwfw9nkm757312.png",
+                  "imageAlt": "Rear view of IdeaCentre AIO i Gen 9 computer"
+                },
+                {
+                  "imageName": "ideacentre-aio-i-gen-9-27-intel‐pdp‐gallery‐6.png",
+                  "imageAddress": "//p4-ofp.static.pub//fes/cms/2024/12/26/frghydytrv4f39hpd83qvykxp4mb3a925762.png",
+                  "imageAlt": "Rear view of IdeaCentre AIO i Gen 9 computer facing right"
+                },
+                {
+                  "imageName": "ideacentre-aio-i-gen-9-27-intel‐pdp‐gallery‐7.png",
+                  "imageAddress": "//p2-ofp.static.pub//fes/cms/2024/12/26/w8h9lktqde03xladb47pcfahs5u31a368300.png",
+                  "imageAlt": "Right side profile view of IdeaCentre AIO i Gen 9 computer"
+                },
+                {
+                  "imageName": "ideacentre-aio-i-gen-9-27-intel‐pdp‐gallery‐8.png",
+                  "imageAddress": "//p1-ofp.static.pub//fes/cms/2024/12/26/ybhiv6uxi3bzlo2meyjmx9a31wxea8939234.png",
+                  "imageAlt": "Left side profile view of IdeaCentre AIO i Gen 9 computer"
+                },
+                {
+                  "imageName": "ideacentre-aio-i-gen-9-27-intel‐pdp‐gallery‐9.png",
+                  "imageAddress": "//p2-ofp.static.pub//fes/cms/2024/12/26/24oas7nvavegevpx3q1x80wgx2uwlk738359.png",
+                  "imageAlt": "Front-facing view of Cloud Grey IdeaCentre AIO i Gen 9 computer"
+                },
+                {
+                  "imageName": "ideacentre-aio-i-gen-9-27-intel‐pdp‐gallery‐10.png",
+                  "imageAddress": "//p4-ofp.static.pub//fes/cms/2024/12/26/qqqcx9m06zl31mo1eb3c0z197c3swp097461.png",
+                  "imageAlt": "Cloud Grey IdeaCentre AIO i Gen 9 computer facing right"
+                },
+                {
+                  "imageName": "ideacentre-aio-i-gen-9-27-intel‐pdp‐gallery‐11.png",
+                  "imageAddress": "//p1-ofp.static.pub//fes/cms/2024/12/26/c58rsomxuiprjdxbr5vsuqa7up08h4385932.png",
+                  "imageAlt": "Rear view of Cloud Grey IdeaCentre AIO i Gen 9 computer facing left"
+                },
+                {
+                  "imageName": "ideacentre-aio-i-gen-9-27-intel‐pdp‐gallery‐12.png",
+                  "imageAddress": "//p2-ofp.static.pub//fes/cms/2024/12/26/472gtkijskll90gdeuoj4d1mqlg4pp310423.png",
+                  "imageAlt": "Rear view of Cloud Grey IdeaCentre AIO i Gen 9 computer"
+                }
+              ],
+              "subseriesListImage": [
+                {
+                  "imageName": "lenovo-ideacentre-aio-i-gen-9-27-intel-series-tn.png",
+                  "imageAddress": "//p4-ofp.static.pub//fes/cms/2024/01/29/mu6v7lkregl86nsb7rgjqxnmwv0qol823582.png",
+                  "imageAlt": "Front-facing view of IdeaCentre AIO i Gen 9 computer"
+                }
+              ],
+              "heroImage": {
+                "imageName": "ideacentre-aio-i-gen-9-27-intel‐pdp‐hero.png",
+                "imageAddress": "//p2-ofp.static.pub//fes/cms/2024/12/26/4pm7pfflbap1ujicop4o41wnmk184f030525.png",
+                "imageAlt": "Front-facing view of IdeaCentre AIO i Gen 9 computer"
+              },
+              "icon3": "https://p1-ofp.static.pub/ShareResource/ww/img/processor-logos/lenovo-intel-core-family-i3i5i7i9-badges-center.png",
+              "energyRating": {
+                "iconLink": null,
+                "textLink": null
+              }
+            },
+            "classification": [
+              {
+                "a": "Procesador",
+                "b": "Procesador Intel® Core™ i5-13420H de 13ᵃ Generación (núcleos E de hasta 3,40 GHz núcleos P de hasta 4,60 GHz)",
+                "mediaIcon": "//p3-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-processor-xs.svg",
+                "mediaIconAlt": "Processor",
+                "gamingIcon": "//p1-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-processor-pure-light.svg",
+                "gamingIconAlt": "Processor",
+                "c": 100,
+                "webExclusive": 0
+              },
+              {
+                "a": "Sistema operativo",
+                "b": "Windows 11 Home idioma único 64",
+                "mediaIcon": "//p3-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-business-and-culture-system-management-xs.svg",
+                "mediaIconAlt": "Operating System",
+                "gamingIcon": "//p1-ofp.static.pub/ShareResource/na/icons/lenovo-business-and-culture/extra-small/lenovo-system-management-pure-light.svg",
+                "gamingIconAlt": "Operating System",
+                "c": 99,
+                "webExclusive": 0
+              },
+              {
+                "a": "Tarjeta gráfica",
+                "b": "Gráficos Intel® UHD integrados para procesadores Intel® de 13ᵃ Generación",
+                "mediaIcon": "//p2-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-graphic-card-xs.svg",
+                "mediaIconAlt": "Graphic Card",
+                "gamingIcon": "//p2-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-graphic-card-pure-light.svg",
+                "gamingIconAlt": "Graphic Card",
+                "c": 98,
+                "webExclusive": 0
+              },
+              {
+                "a": "Memoria total",
+                "b": "16 GB DDR5-5200MT/s (SODIMM)",
+                "mediaIcon": "//p2-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-memory-xs.svg",
+                "mediaIconAlt": "Memory",
+                "gamingIcon": "//p3-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-memory-pure-light.svg",
+                "gamingIconAlt": "Memory",
+                "c": 97,
+                "webExclusive": 0
+              },
+              {
+                "a": "Unidad de disco primaria",
+                "b": "512 GB SSD M.2 2280 PCIe Gen4 TLC Opal",
+                "mediaIcon": "//p2-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-storage-xs.svg",
+                "mediaIconAlt": "Storage",
+                "gamingIcon": "//p3-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-storage-pure-light.svg",
+                "gamingIconAlt": "Storage",
+                "c": 96,
+                "webExclusive": 0
+              },
+              {
+                "a": "Tipo de pantalla",
+                "b": "27\" FHD (1920 x 1080), IPS, antirreflectante, sin capacidad táctil, 99 % sRGB, 300 nits, 100 Hz, 14 ms",
+                "mediaIcon": "//p1-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-display-display-xs.svg",
+                "mediaIconAlt": "Display",
+                "gamingIcon": "//p4-ofp.static.pub/ShareResource/na/icons/display/extra-small/lenovo-display-pure-light.svg",
+                "gamingIconAlt": "Display",
+                "c": 95,
+                "webExclusive": 0
+              },
+              {
+                "a": "Garantía",
+                "b": "1 año Premium Care",
+                "mediaIcon": "//p4-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-business-and-culture-warranty-xs.svg",
+                "mediaIconAlt": "Warranty",
+                "gamingIcon": "//p1-ofp.static.pub/ShareResource/na/icons/services-and-certification/extra-small/lenovo-warranty-pure-light.svg",
+                "gamingIconAlt": "Warranty",
+                "c": 73,
+                "webExclusive": 0
+              }
+            ],
+            "marketingLongDescription": "<ul style=\"list-style-type: disc;\"><li><p>Rendimiento excepcional con los procesadores Intel<sup>®</sup> Core™<br></p></li> <li><p>Pantalla táctil opcional para una fácil navegación</p></li> <li><p>Altavoces de audio Harman<sup>®</sup> y frecuencia de actualización uniforme para una experiencia cinematográfica</p></li> <li><p>Videollamadas nítidas y definidas con una solución de cámara web basada en algoritmos de IA</p></li></ul>",
+            "marketingShortDescription": "<ul style=\"list-style-type: disc;\"><li><p>Gráficos Intel<sup>®</sup> UHD integrados</p></li><li><p>Cámara web mejorada con IA</p></li></ul>",
+            "summary": "IdeaCentre i AIO Gen 9 (27\" Intel)",
+            "url": "/p/computadoras-de-escritorio/ideacentre/serie-aio-500/IdeaCentre-AIO-i-Gen-9-(27-inch-Intel)/f0hm00s6ar",
+            "flCode": "desktops",
+            "flName": "Computadoras de Escritorio",
+            "hasClaimIndicator": false,
+            "couponConsumed": false,
+            "isDCGSubseries": false,
+            "readyToShip": true,
+            "isOutlet": false,
+            "outletFlagColor": "#4C1984",
+            "modelBadge": "15% off EXTRA con Depósito/Transferencia",
+            "modelEnabled": 0,
+            "launchDate": 0,
+            "teleUser": false,
+            "taxPrice": "137782.88",
+            "taxRate": "10",
+            "beforeTaxPrice": "1312217.12",
+            "lowestPrice": {
+              "price": null,
+              "percentage": null
+            },
+            "finalPriceType": 2,
+            "specialOffers": [],
+            "softBundleType": "",
+            "virtualProductCode": "",
+            "configId": "",
+            "subseriesCode": "LEN102D0034",
+            "score": 882,
+            "advancedZooming": "0",
+            "bannerPromotionalTile": false,
+            "brDesktopBundleChildren": false,
+            "goodForFeatures": {},
+            "eccn": "False",
+            "leadingSubseries": "LEN102D0034",
+            "productPreorderDTO": {
+              "preOrderFlag": "0",
+              "releaseDate": null
+            }
+          },
+          {
+            "id": "12SD002DAS_f31ab1f1b6026-4f65-9ed9-0142293b720b",
+            "productName": "Desktop TC neo 50a 24 Gen 5 I513420H 16G",
+            "productType": "0",
+            "productCode": "12SD002DAS",
+            "productStatus": "",
+            "baseWarrantyKey": "D04",
+            "essFlag": "NO",
+            "webPrice": "1995999.01",
+            "instantSavingPrice": "1589999.00",
+            "instantSavingSaveAmount": "406000.00",
+            "instantSavingSavePercentage": "20",
+            "paymentMethod": "Bank Deposit",
+            "finalPrice": "1589999.01",
+            "saveAmount": "406000.00",
+            "savePercent": "20",
+            "isMedion": false,
+            "ratingStar": "4.8",
+            "commentCount": 61,
+            "marketingStatus": "Available",
+            "modelsCount": 0,
+            "leadTime": 1,
+            "leadTimeMessage": "",
+            "inventoryStatus": 1,
+            "currencySymbol": "$",
+            "currencyCode": "ARS",
+            "modifyTime": 1760399456933,
+            "onlineDate": 1748890022000,
+            "categoryPath": [
+              "ROOTPMI",
+              "desktops",
+              "thinkcentre",
+              "thinkcentre-neo-series",
+              "LEN102C0043"
+            ],
+            "machineType": "11TC1NA3A4512SD",
+            "purchaseFlag": true,
+            "merchandisingFlags": [
+              {
+                "text": "<p>6 CUOTAS\nSIN INTERÉS</p>",
+                "bgColor": "#f9974c",
+                "gameBackgroundColor": "#f9974c",
+                "type": "static"
+              }
+            ],
+            "media": {
+              "thumbnail": {
+                "imageName": "26146349384_ThinkCentreneo50a24Gen5_20231031022945.png",
+                "imageAddress": "https://p1-ofp.static.pub//medias/26146349384_ThinkCentreneo50a24Gen5_202310310229451711037372706.png",
+                "imageAlt": ""
+              },
+              "gallery": [
+                {
+                  "imageName": "lenovo-thinkcentre-neo-50a-gen-5-24-intel-pdp-gallery-1.png",
+                  "imageAddress": "//p2-ofp.static.pub//fes/cms/2025/02/13/ps3h3lhka00pv2xudico6atb52xhmr521260.png",
+                  "imageCaption": "Keyboard and mouse are optional and sold separately.",
+                  "imageAlt": "Primer plano del monitor Lenovo ThinkCentre Neo 50a de 5.ª generación de 24 pulgadas, Intel, orientado hacia la derecha, con teclado y ratón"
+                },
+                {
+                  "imageName": "lenovo-thinkcentre-neo-50a-gen-5-24-intel-pdp-gallery-3.png",
+                  "imageAddress": "//p4-ofp.static.pub//fes/cms/2025/01/28/9sb5uk1a8vcra765sm2lr6af1kushj113936.png",
+                  "imageAlt": "Vista posterior del monitor Lenovo ThinkCentre Neo 50a de 5.ª generación de 24 pulgadas, Intel"
+                },
+                {
+                  "imageName": "lenovo-thinkcentre-neo-50a-gen-5-24-intel-pdp-gallery-4.png",
+                  "imageAddress": "//p4-ofp.static.pub//fes/cms/2025/01/28/movi9xs8a8s7klrx74mwbtg4x26oid600870.png",
+                  "imageAlt": "Vista posterior del monitor Lenovo ThinkCentre Neo 50a de 5.ª generación de 24 pulgadas, Intel, orientado hacia la derecha"
+                },
+                {
+                  "imageName": "lenovo-thinkcentre-neo-50a-gen-5-24-intel-pdp-gallery-5.png",
+                  "imageAddress": "//p3-ofp.static.pub//fes/cms/2025/01/28/sqmls6ezo2730w6uyf6hxji9kxq6dq050357.png",
+                  "imageAlt": "Vista lateral izquierda del monitor Lenovo ThinkCentre Neo 50a de 5.ª generación de 24 pulgadas, Intel"
+                },
+                {
+                  "imageName": "lenovo-thinkcentre-neo-50a-gen-5-24-intel-pdp-gallery-6.png",
+                  "imageAddress": "//p2-ofp.static.pub//fes/cms/2025/01/28/csywokoc63a2mszwe4fsdnvquwiybv080988.png",
+                  "imageAlt": "Vista lateral derecha del monitor Lenovo ThinkCentre Neo 50a de 5.ª generación [60,96 cm (24\"), Intel]"
+                },
+                {
+                  "imageName": "lenovo-thinkcentre-neo-50a-gen-5-24-intel-pdp-gallery-7.png",
+                  "imageAddress": "//p3-ofp.static.pub//fes/cms/2025/01/28/6uzecakb1pxsjccj155mwqbei458su471464.png",
+                  "imageAlt": "Vista frontal del monitor Lenovo ThinkCentre Neo 50a de 5.ª generación de 24 pulgadas, Intel"
+                },
+                {
+                  "imageName": "lenovo-thinkcentre-neo-50a-gen-5-24-intel-pdp-gallery-8.png",
+                  "imageAddress": "//p1-ofp.static.pub//fes/cms/2025/01/28/1s3jl51p9geaabi34lbbpv7qg1b94o583636.png",
+                  "imageAlt": "Vista superior del monitor Lenovo ThinkCentre Neo 50a de 5.ª generación [60,96 cm (24\"), Intel]"
+                },
+                {
+                  "imageName": "lenovo-thinkcentre-neo-50a-gen-5-24-intel-pdp-gallery-2.png",
+                  "imageAddress": "//p3-ofp.static.pub//fes/cms/2025/01/28/dajkdfgolhicd1gdsyi9hw9lkjmfru073773.png",
+                  "imageAlt": "Vista posterior en ángulo del lateral derecho del monitor Lenovo ThinkCentre Neo 50a de 5.ª generación [60,96 cm (24\"), Intel]"
+                }
+              ],
+              "subseriesListImage": [
+                {
+                  "imageName": "lenovo-thinkcentre-neo-50a-gen-5-24-intel-series-tn.png",
+                  "imageAddress": "//p3-ofp.static.pub//fes/cms/2025/02/13/gxss0b5f83yb5k93r6dc09exmtwwyx038495.png",
+                  "imageAlt": "Primer plano de la parte delantera del monitor Lenovo ThinkCentre Neo 50a de 5.ª generación [60,96 cm (24\"), Intel] mostrando el menú de Windows con un fondo gráfico azul"
+                }
+              ],
+              "heroImage": {
+                "imageName": "lenovo-thinkcentre-neo-50a-gen-5-24-intel-pdp-hero.png",
+                "imageAddress": "//p2-ofp.static.pub//fes/cms/2025/02/13/ju6yqon47kpe7xhv4ek2fkrhnq5fbh653489.png",
+                "imageAlt": "Vista frontal izquierda en ángulo del monitor Lenovo ThinkCentre Neo 50a de 5.ª generación de 24 pulgadas"
+              },
+              "icon1": "//p1-ofp.static.pub/ShareResource/las/windows-logo/commercial-Conoce-Windows-11-Pro-Blue-logo_ES.jpg",
+              "icon3": "//p1-ofp.static.pub/ShareResource/ww/img/processor-logos/intel-core-7-badge.png",
+              "energyRating": {
+                "iconLink": null,
+                "textLink": null
+              }
+            },
+            "classification": [
+              {
+                "a": "Procesador",
+                "b": "Procesador Intel® Core™ i5-13420H de 13ᵃ Generación (núcleos E de hasta 3,40 GHz núcleos P de hasta 4,60 GHz)",
+                "mediaIcon": "//p3-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-processor-xs.svg",
+                "mediaIconAlt": "Processor",
+                "gamingIcon": "//p1-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-processor-pure-light.svg",
+                "gamingIconAlt": "Processor",
+                "c": 100,
+                "webExclusive": 0
+              },
+              {
+                "a": "Sistema operativo",
+                "b": "Windows 11 Pro 64",
+                "mediaIcon": "//p3-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-business-and-culture-system-management-xs.svg",
+                "mediaIconAlt": "Operating System",
+                "gamingIcon": "//p1-ofp.static.pub/ShareResource/na/icons/lenovo-business-and-culture/extra-small/lenovo-system-management-pure-light.svg",
+                "gamingIconAlt": "Operating System",
+                "c": 99,
+                "webExclusive": 0
+              },
+              {
+                "a": "Tarjeta gráfica",
+                "b": "Gráficos Intel® UHD integrados para procesadores Intel® de 13ᵃ Generación",
+                "mediaIcon": "//p2-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-graphic-card-xs.svg",
+                "mediaIconAlt": "Graphic Card",
+                "gamingIcon": "//p2-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-graphic-card-pure-light.svg",
+                "gamingIconAlt": "Graphic Card",
+                "c": 98,
+                "webExclusive": 0
+              },
+              {
+                "a": "Memoria total",
+                "b": "16 GB DDR5-5200MT/s (SODIMM)(2 x 8 GB)",
+                "mediaIcon": "//p2-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-memory-xs.svg",
+                "mediaIconAlt": "Memory",
+                "gamingIcon": "//p3-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-memory-pure-light.svg",
+                "gamingIconAlt": "Memory",
+                "c": 97,
+                "webExclusive": 0
+              },
+              {
+                "a": "Unidad de disco primaria",
+                "b": "512 GB SSD M.2 2280 PCIe Gen4 QLC",
+                "mediaIcon": "//p2-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-storage-xs.svg",
+                "mediaIconAlt": "Storage",
+                "gamingIcon": "//p3-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-storage-pure-light.svg",
+                "gamingIconAlt": "Storage",
+                "c": 96,
+                "webExclusive": 0
+              },
+              {
+                "a": "Tipo de pantalla",
+                "b": "23,8\" FHD (1920 x 1080), IPS, antirreflectante, táctil, 99 % sRGB, 250 nits, 100 Hz, 14 ms",
+                "mediaIcon": "//p1-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-display-display-xs.svg",
+                "mediaIconAlt": "Display",
+                "gamingIcon": "//p4-ofp.static.pub/ShareResource/na/icons/display/extra-small/lenovo-display-pure-light.svg",
+                "gamingIconAlt": "Display",
+                "c": 95,
+                "webExclusive": 0
+              },
+              {
+                "a": "Garantía",
+                "b": "1 año in situ",
+                "mediaIcon": "//p4-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-business-and-culture-warranty-xs.svg",
+                "mediaIconAlt": "Warranty",
+                "gamingIcon": "//p1-ofp.static.pub/ShareResource/na/icons/services-and-certification/extra-small/lenovo-warranty-pure-light.svg",
+                "gamingIconAlt": "Warranty",
+                "c": 73,
+                "webExclusive": 0
+              }
+            ],
+            "marketingLongDescription": "<ul style=\"list-style-type: disc;\"><li><p><span style=\"font-size: 14px;\">PC todo en uno compacto y de gama básica de 60,2&nbsp;cm (23,8&quot;) para pequeñas y medianas empresas</span></p></li><li><p><span style=\" font-size: 14px;\">Equipado con procesadores superrápidos Intel<sup>®</sup> Core™ de 13.ª generación</span></p></li><li><p><span style=\"font-size: 14px;\">Diseñado modularmente para compartir pantalla</span></p></li><li><p><span style=\"font-size: 14px;\">Funciones de reuniones Smart asistidas por IA con una claridad audiovisual asombrosa</span></p></li><li><p><span style=\"font-size: 14px;\">Eficiencia mejorada para tareas empresariales con amplio almacenamiento y memoria&nbsp;</span></p></li><li><p><span style=\"font-size: 14px;\">Evita la fatiga visual con una pantalla con poca luz azul&nbsp;</span></p></li></ul><p><small><em>Teclado en Español, con tecla Ñ incluida (a menos que las especificaciones del equipo indiquen lo contrario). Algunos puertos/ranuras pueden ser opcionales o variar; colores sujetos a disponibilidad</em></small></p>",
+            "marketingShortDescription": "<ul>\n    <li>\n        <p>\n            <span >PC de sobremesa todo en uno fino y compacto de 60,96 cm (24\")</span>\n        </p>\n    </li>\n    <li>\n        <p>\n            <span >Funciones de alta tecnología con carga inalámbrica opcional </span>\n        </p>\n    </li>\n    <li>\n        <p>\n            <span >Funciones de videoconferencia Smart y sonido increíble </span>\n        </p>\n    </li>\n</ul>",
+            "summary": "ThinkCentre Neo 50a AIO Gen 5 (23.8\" Intel)",
+            "url": "/p/computadoras-de-escritorio/thinkcentre/thinkcentre-serie-neo/ThinkCentre-Neo-50a-Gen-5-AIO-(24-inch-Intel)/12sd002das",
+            "flCode": "desktops",
+            "flName": "Computadoras de Escritorio",
+            "hasClaimIndicator": false,
+            "couponConsumed": false,
+            "isDCGSubseries": false,
+            "readyToShip": true,
+            "isOutlet": false,
+            "outletFlagColor": "#4C1984",
+            "modelBadge": "15% off EXTRA con Depósito/Transferencia",
+            "modelEnabled": 0,
+            "launchDate": 0,
+            "teleUser": false,
+            "taxPrice": "151085.87",
+            "taxRate": "10",
+            "beforeTaxPrice": "1438913.13",
+            "lowestPrice": {
+              "price": null,
+              "percentage": null
+            },
+            "finalPriceType": 2,
+            "specialOffers": [],
+            "softBundleType": "",
+            "virtualProductCode": "",
+            "configId": "",
+            "score": 872,
+            "advancedZooming": "0",
+            "bannerPromotionalTile": false,
+            "brDesktopBundleChildren": false,
+            "goodForFeatures": {},
+            "eccn": "False",
+            "productPreorderDTO": {
+              "preOrderFlag": "0",
+              "releaseDate": null
+            }
+          },
+          {
+            "id": "12XF002PAS_f31ab1f1b6026-4f65-9ed9-0142293b720b",
+            "productName": "Desktop TC neo 50s Gen 5 I713700 16G 1T",
+            "productType": "0",
+            "productCode": "12XF002PAS",
+            "productStatus": "",
+            "baseWarrantyKey": "D04",
+            "essFlag": "NO",
+            "webPrice": "2510999.01",
+            "instantSavingPrice": "1749999.00",
+            "instantSavingSaveAmount": "761000.00",
+            "instantSavingSavePercentage": "30",
+            "paymentMethod": "Bank Deposit",
+            "finalPrice": "1749999.01",
+            "saveAmount": "761000.00",
+            "savePercent": "30",
+            "isMedion": false,
+            "ratingStar": "4.8",
+            "commentCount": 18,
+            "marketingStatus": "Available",
+            "modelsCount": 0,
+            "leadTime": 1,
+            "leadTimeMessage": "",
+            "inventoryStatus": 1,
+            "currencySymbol": "$",
+            "currencyCode": "ARS",
+            "modifyTime": 1760399424298,
+            "onlineDate": 1756226770000,
+            "categoryPath": [
+              "ROOTPMI",
+              "desktops",
+              "thinkcentre",
+              "thinkcentre-neo-series",
+              "LEN102C0057"
+            ],
+            "machineType": "11TC1NE50S512XF",
+            "purchaseFlag": true,
+            "merchandisingFlags": [
+              {
+                "text": "<p>6 CUOTAS\nSIN INTERÉS</p>",
+                "bgColor": "#f9974c",
+                "gameBackgroundColor": "#f9974c",
+                "type": "static"
+              }
+            ],
+            "media": {
+              "thumbnail": {
+                "imageName": "26593142686_ThinkCentre neo50sGen5_20240711024528.png",
+                "imageAddress": "https://p1-ofp.static.pub/medias/26593142686_ThinkCentreneo50sGen5_202407110245281742190668825.png",
+                "imageAlt": ""
+              },
+              "gallery": [
+                {
+                  "imageName": "lenovo-thinkcentre-neo-50s-gen 5-intel-sff ‐pdp‐gallery‐1.png",
+                  "imageAddress": "//p2-ofp.static.pub//fes/cms/2024/08/02/y1wg3fv4wtjj6sl7mtel1m1reu8odt989634.png",
+                  "imageAlt": "Lenovo ThinkCentre Neo a50s Gen 5 (Intel) SFF con un diseño elegante y refinado, además de un lector de tarjetas y ODD delgado opcionales."
+                },
+                {
+                  "imageName": "lenovo-thinkcentre-neo-50s-gen 5-intel-sff ‐pdp‐gallery‐2.png",
+                  "imageAddress": "//p2-ofp.static.pub//fes/cms/2024/08/02/wpjjnnfr77l8g4txdat0p5l5ehomij620834.png",
+                  "imageAlt": "Lenovo ThinkCentre Neo 50s Gen 5 SFF con USB-C, USB-A, combinación de auriculares y micrófono y más puertos en el frontal."
+                },
+                {
+                  "imageName": "lenovo-thinkcentre-neo-50s-gen 5-intel-sff ‐pdp‐gallery‐3.png",
+                  "imageAddress": "//p1-ofp.static.pub//fes/cms/2024/08/02/42sfhjt18zdqu2z571mihm9pf5mwr0929393.png",
+                  "imageAlt": "Lenovo ThinkCentre Neo 50s Gen 5 (Intel) SFF protegido con ThinkShield Security y mucho más."
+                },
+                {
+                  "imageName": "lenovo-thinkcentre-neo-50s-gen 5-intel-sff ‐pdp‐gallery‐4.png",
+                  "imageAddress": "//p2-ofp.static.pub//fes/cms/2024/08/02/gfmsxir4o30n514copb1xjlor8q3o1560607.png",
+                  "imageAlt": "Lenovo ThinkCentre Neo 50s Gen 5 (Intel) SFF, un ordenador 8.2 con arranque rápido y encendido Smart con un atajo de teclado."
+                },
+                {
+                  "imageName": "lenovo-thinkcentre-neo-50s-gen 5-intel-sff ‐pdp‐gallery‐5.png",
+                  "imageAddress": "//p3-ofp.static.pub//fes/cms/2024/08/02/px320o04wak4m6xib0u2fozs0ja7n3340890.png",
+                  "imageAlt": "Lenovo ThinkCentre Neo 50s Gen 5 (Intel) SFF, incluye amplia memoria y opciones de almacenamiento flexibles."
+                },
+                {
+                  "imageName": "lenovo-thinkcentre-neo-50s-gen 5-intel-sff ‐pdp‐gallery‐6.png",
+                  "imageAddress": "//p3-ofp.static.pub//fes/cms/2024/08/02/i8i6fwp9i0kijh9ywt0ytyhg0o79z7554812.png",
+                  "imageAlt": "Lenovo ThinkCentre Neo 50s Gen 5 (Intel) SFF, con varios programas preinstalados para complementar tu trabajo."
+                },
+                {
+                  "imageName": "lenovo-thinkcentre-neo-50s-gen 5-intel-sff ‐pdp‐gallery‐7.png",
+                  "imageAddress": "//p4-ofp.static.pub//fes/cms/2024/08/02/vnv6mb0r5rrhsx5uiw0pponedolm2j401677.png",
+                  "imageAlt": "Lenovo ThinkCentre Neo 50s Gen 5 (Intel) SFF, incluye amplia memoria y opciones de almacenamiento flexibles."
+                },
+                {
+                  "imageName": "lenovo-thinkcentre-neo-50s-gen 5-intel-sff ‐pdp‐gallery‐8.png",
+                  "imageAddress": "//p2-ofp.static.pub//fes/cms/2024/08/02/u0ynpwarhcbq8aynbnous23nxyugts605346.png",
+                  "imageAlt": "Lenovo ThinkCentre Neo 50s Gen 5 (Intel) SFF, compatible con hasta 4 pantallas independientes."
+                },
+                {
+                  "imageName": "lenovo-thinkcentre-neo-50s-gen 5-intel-sff ‐pdp‐gallery‐9.png",
+                  "imageAddress": "//p1-ofp.static.pub//fes/cms/2024/08/02/4hqd459kneurnodgneqjg9cpx4f98b326043.png",
+                  "imageAlt": "Lenovo ThinkCentre Neo 50s Gen 5 (Intel) SFF with optional cable lock & intrusion switch cable."
+                },
+                {
+                  "imageName": "lenovo-thinkcentre-neo-50s-gen 5-intel-sff ‐pdp‐gallery‐10.png",
+                  "imageAddress": "//p1-ofp.static.pub//fes/cms/2024/08/02/7nu8jwzodysduf9ryq8pij5xdr6ept365261.png",
+                  "imageAlt": "Lenovo ThinkCentre Neo 50s Gen 5 (Intel) SFF, perfecto para profesionales de IT, entornos educativos y mucho más."
+                }
+              ],
+              "subseriesListImage": [
+                {
+                  "imageName": "lenovo-thinkcentre-neo-50s-gen 5-intel-sff ‐pdp‐series.png",
+                  "imageAddress": "//p3-ofp.static.pub//fes/cms/2024/08/02/tidf6zk64wlvn33eckv2wx6e9oci9n921139.png",
+                  "imageAlt": "Lenovo ThinkCentre Neo 50s Gen 5 (Intel) SFF con procesador Intel Core i7 (14.ª generación)."
+                }
+              ],
+              "heroImage": {
+                "imageName": "lenovo-thinkcentre-neo-50s-gen 5-intel-sff ‐pdp‐hero.png",
+                "imageAddress": "//p3-ofp.static.pub//fes/cms/2024/08/02/pvthggd255fnbgk4l5p2wtih6yt7ka753566.png",
+                "imageAlt": "Lenovo ThinkCentre Neo 50s Gen 5 (Intel) SFF para entornos comerciales, capaz de desempeñar tareas cotidianas con soltura."
+              },
+              "icon1": "https://p2-ofp.static.pub/ShareResource/ww/img/windows-11/lenovo-windows11-banner-240x35-blue.jpg",
+              "icon3": "https://p3-ofp.static.pub/ShareResource/ww/img/processor-logos/lenovo-intel-core-i7-badge.png",
+              "energyRating": {
+                "iconLink": null,
+                "textLink": null
+              }
+            },
+            "classification": [
+              {
+                "a": "Procesador",
+                "b": "Procesador Intel® Core™ i7-13700 de 13ᵃ Generación (núcleos E de hasta 4,10 GHz núcleos P de hasta 5,10 GHz)",
+                "mediaIcon": "//p3-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-processor-xs.svg",
+                "mediaIconAlt": "Processor",
+                "gamingIcon": "//p1-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-processor-pure-light.svg",
+                "gamingIconAlt": "Processor",
+                "c": 100,
+                "webExclusive": 0
+              },
+              {
+                "a": "Sistema operativo",
+                "b": "Windows 11 Pro 64",
+                "mediaIcon": "//p3-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-business-and-culture-system-management-xs.svg",
+                "mediaIconAlt": "Operating System",
+                "gamingIcon": "//p1-ofp.static.pub/ShareResource/na/icons/lenovo-business-and-culture/extra-small/lenovo-system-management-pure-light.svg",
+                "gamingIconAlt": "Operating System",
+                "c": 99,
+                "webExclusive": 0
+              },
+              {
+                "a": "Tarjeta gráfica",
+                "b": "Gráficos Intel® UHD 770 integrados",
+                "mediaIcon": "//p2-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-graphic-card-xs.svg",
+                "mediaIconAlt": "Graphic Card",
+                "gamingIcon": "//p2-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-graphic-card-pure-light.svg",
+                "gamingIconAlt": "Graphic Card",
+                "c": 98,
+                "webExclusive": 0
+              },
+              {
+                "a": "Memoria total",
+                "b": "16 GB DDR5-5600MT/s (UDIMM)",
+                "mediaIcon": "//p2-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-memory-xs.svg",
+                "mediaIconAlt": "Memory",
+                "gamingIcon": "//p3-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-memory-pure-light.svg",
+                "gamingIconAlt": "Memory",
+                "c": 97,
+                "webExclusive": 0
+              },
+              {
+                "a": "Unidad de disco primaria",
+                "b": "1 TB SSD M.2 2280 PCIe Gen4 QLC",
+                "mediaIcon": "//p2-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-storage-xs.svg",
+                "mediaIconAlt": "Storage",
+                "gamingIcon": "//p3-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-storage-pure-light.svg",
+                "gamingIconAlt": "Storage",
+                "c": 96,
+                "webExclusive": 0
+              },
+              {
+                "a": "Garantía",
+                "b": "1 año in situ",
+                "mediaIcon": "//p4-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-business-and-culture-warranty-xs.svg",
+                "mediaIconAlt": "Warranty",
+                "gamingIcon": "//p1-ofp.static.pub/ShareResource/na/icons/services-and-certification/extra-small/lenovo-warranty-pure-light.svg",
+                "gamingIconAlt": "Warranty",
+                "c": 73,
+                "webExclusive": 0
+              }
+            ],
+            "marketingLongDescription": "<ul style=\"list-style-type: disc;\">\n    <li>\n        <p>\n            Un ordenador de escritorio de pequeño formato 8,2 L con GPU Intel<sup>®</sup> Arc™ opcional para dominar en los proyectos creativos\n        </p>\n    </li>\n    <li>\n        <p>\n            Procesadores hasta Intel<sup>®</sup> Core™ (14<sup>.ª</sup> generación) para impulsar el rendimiento empresarial\n        </p>\n    </li>\n    <li>\n        <p>\n            Motor de refrigeración inteligente (ICE) 7.0 para mejorar la eficiencia de tu ordenador\n        </p>\n    </li>\n    <li>\n        <p>\n            Interacción entre dispositivos a través de la aplicación Smart Connect, los puertos y otras opciones de conectividad\n        </p>\n    </li>\n</ul>",
+            "marketingShortDescription": "<ul style=\"list-style-type: disc;\">\n    <li>\n        <p>\n            Formato pequeño de 8,2 L con ICE 7.0 para disfrutar de modos de refrigeración adaptativos<br/>\n        </p>\n    </li>\n    <li>\n        <p>\n            Ordenador Intel<sup>®</sup> con GPU independiente para fomentar la fluidez de los procesos creativos\n        </p>\n    </li>\n    <li>\n        <p>\n            Interacción entre dispositivos a través de la aplicación SmartConnect\n        </p>\n    </li>\n</ul>",
+            "summary": "ThinkCentre Neo 50s Gen 5 (SFF Intel)",
+            "url": "/p/computadoras-de-escritorio/thinkcentre/thinkcentre-serie-neo/Lenovo-ThinkCentre-Neo-50s-Gen-5-Intel-SFF/12xf002pas",
+            "flCode": "desktops",
+            "flName": "Computadoras de Escritorio",
+            "hasClaimIndicator": false,
+            "couponConsumed": false,
+            "isDCGSubseries": false,
+            "readyToShip": true,
+            "isOutlet": false,
+            "outletFlagColor": "#4C1984",
+            "modelBadge": "15% off EXTRA con Depósito/Transferencia",
+            "modelEnabled": 0,
+            "launchDate": 0,
+            "teleUser": false,
+            "taxPrice": "166289.49",
+            "taxRate": "10",
+            "beforeTaxPrice": "1583709.51",
+            "lowestPrice": {
+              "price": null,
+              "percentage": null
+            },
+            "finalPriceType": 2,
+            "specialOffers": [],
+            "softBundleType": "",
+            "virtualProductCode": "",
+            "configId": "",
+            "subseriesCode": "LEN102C0057",
+            "score": 860,
+            "advancedZooming": "0",
+            "bannerPromotionalTile": false,
+            "brDesktopBundleChildren": false,
+            "goodForFeatures": {},
+            "eccn": "False",
+            "leadingSubseries": "LEN102C0057",
+            "productPreorderDTO": {
+              "preOrderFlag": "0",
+              "releaseDate": null
+            }
+          },
+          {
+            "id": "12SB001SAS_f31ab1f1b6026-4f65-9ed9-0142293b720b",
+            "productName": "Desktop TC neo 50a 27 Gen 5 I713620H 16G",
+            "productType": "0",
+            "productCode": "12SB001SAS",
+            "productStatus": "",
+            "baseWarrantyKey": "D04",
+            "essFlag": "NO",
+            "webPrice": "2310999.01",
+            "instantSavingPrice": "1859999.00",
+            "instantSavingSaveAmount": "451000.00",
+            "instantSavingSavePercentage": "19",
+            "paymentMethod": "Bank Deposit",
+            "finalPrice": "1859999.01",
+            "saveAmount": "451000.00",
+            "savePercent": "19",
+            "isMedion": false,
+            "ratingStar": "4.5",
+            "commentCount": 71,
+            "marketingStatus": "Available",
+            "modelsCount": 0,
+            "leadTime": 1,
+            "leadTimeMessage": "",
+            "inventoryStatus": 1,
+            "currencySymbol": "$",
+            "currencyCode": "ARS",
+            "modifyTime": 1760404957613,
+            "onlineDate": 1719941477000,
+            "categoryPath": [
+              "ROOTPMI",
+              "desktops",
+              "thinkcentre",
+              "thinkcentre-neo-series",
+              "LEN102C0044"
+            ],
+            "machineType": "11TC1NA3A7512SB",
+            "purchaseFlag": true,
+            "merchandisingFlags": [
+              {
+                "text": "<p>6 CUOTAS\nSIN INTERÉS</p>",
+                "bgColor": "#f9974c",
+                "gameBackgroundColor": "#f9974c",
+                "type": "static"
+              }
+            ],
+            "media": {
+              "thumbnail": {
+                "imageName": "26145691529_27_Thinkcentre_Neo_50a_Gen5_Front_20231025112353.png",
+                "imageAddress": "https://p1-ofp.static.pub//medias/26145691529_27_Thinkcentre_Neo_50a_Gen5_Front_202310251123531709758511709.png",
+                "imageAlt": ""
+              },
+              "gallery": [
+                {
+                  "imageName": "lenovo-thinkcentre-neo-50a-gen-5-27-intel-pdp-gallery-1.png",
+                  "imageAddress": "//p3-ofp.static.pub//fes/cms/2025/01/31/ktk5kqjywvpxc31bslpztp0rp15ad9607820.png",
+                  "imageCaption": "El teclado y el ratón son opcionales y se venden por separado.",
+                  "imageAlt": "Sistema de escritorio todo en uno con teclado y ratón vistos desde el frente y ligeramente hacia la derecha, con una pantalla de 68,58 cm (27”), Lenovo ThinkCentre Neo 50a Gen 5 de 68,58 cm (27”)"
+                },
+                {
+                  "imageName": "lenovo-thinkcentre-neo-50a-gen-5-27-intel-pdp-gallery-2.png",
+                  "imageAddress": "//p2-ofp.static.pub//fes/cms/2025/01/31/msn9106sn4teu6p3lhugysgrgtrt0m592459.png",
+                  "imageAlt": "Vista posterior de un elegante monitor en gris oscuro en un soporte resistente que muestra la marca Lenovo; Lenovo ThinkCentre Neo 50a Gen 5 de 68,58 cm (27”)."
+                },
+                {
+                  "imageName": "lenovo-thinkcentre-neo-50a-gen-5-27-intel-pdp-gallery-3.png",
+                  "imageAddress": "//p2-ofp.static.pub//fes/cms/2025/01/31/x0hqkhr5zcyuyyik42mu4jcuxnraag870282.png",
+                  "imageAlt": "Vista posterior del PC de sobremesa todo en uno; Lenovo ThinkCentre Neo 50a Gen 5 de 68,58 cm (27”)"
+                },
+                {
+                  "imageName": "lenovo-thinkcentre-neo-50a-gen-5-27-intel-pdp-gallery-4.png",
+                  "imageAddress": "//p2-ofp.static.pub//fes/cms/2025/01/31/470ftr7ugddwn7rn2ski6k4hbr9vz7522161.png",
+                  "imageAlt": "Vista posterior y lateral derecha del PC de sobremesa todo en uno Lenovo ThinkCentre Neo 50a Gen 5 de 68,58 cm (27”)"
+                },
+                {
+                  "imageName": "lenovo-thinkcentre-neo-50a-gen-5-27-intel-pdp-gallery-5.png",
+                  "imageAddress": "//p3-ofp.static.pub//fes/cms/2025/01/31/edqyqdrng27winkyq06dd78lk54ksg483205.png",
+                  "imageAlt": "Vista frontal del lateral izquierdo del PC de sobremesa todo en uno Lenovo ThinkCentre Neo 50a de 68,58 cm (27\")."
+                },
+                {
+                  "imageName": "lenovo-thinkcentre-neo-50a-gen-5-27-intel-pdp-gallery-6.png",
+                  "imageAddress": "//p2-ofp.static.pub//fes/cms/2025/01/31/t0qvvp5pu6amto9cxdx3v08q4gsbd1224339.png",
+                  "imageAlt": "Vista frontal del PC de sobremesa todo en uno Lenovo ThinkCentre Neo 50a Gen 5 de 68,58 cm (27\")."
+                },
+                {
+                  "imageName": "lenovo-thinkcentre-neo-50a-gen-5-27-intel-pdp-gallery-7.png",
+                  "imageAddress": "//p4-ofp.static.pub//fes/cms/2025/01/31/mvoziewu0f2j0sk4ot7bo7vdwy9fnd299006.png",
+                  "imageAlt": "Vista lateral hacia abajo del PC de sobremesa todo en uno Lenovo ThinkCentre Neo 50a Gen 5 de 68,58 cm (27\")."
+                }
+              ],
+              "subseriesListImage": [
+                {
+                  "imageName": "lenovo-thinkcentre-neo-50a-gen-5-27-intel-series-tn.png",
+                  "imageAddress": "//p2-ofp.static.pub//fes/cms/2025/01/31/582voo3t8y46atgkv9shnqgkuw03pn479239.png",
+                  "imageAlt": "Lenovo ThinkCentre Neo 50a Gen 5 27\" all-in-one desktop PC –  front view, showing Windows 11 Pro start menu on the screen. "
+                }
+              ],
+              "heroImage": {
+                "imageName": "lenovo-thinkcentre-neo-50a-gen-5-27-intel-pdp-hero.png",
+                "imageAddress": "//p1-ofp.static.pub//fes/cms/2025/01/31/5h4n5h68e6boejcjhy7qxs84b51rln196168.png",
+                "imageAlt": "Vista frontal izquierda de un monitor de ordenador que muestra una interfaz de Windows 11 con un menú acoplado e iconos coloridos, el Lenovo ThinkCentre Neo 50a Gen 5 de 68,58 cm (27\")."
+              },
+              "video": [
+                "qA9el9Gwc24"
+              ],
+              "icon1": "//p1-ofp.static.pub/ShareResource/las/windows-logo/commercial-Conoce-Windows-11-Pro-Blue-logo_ES.jpg",
+              "icon3": "//p1-ofp.static.pub/ShareResource/ww/img/processor-logos/intel-core-7-badge.png",
+              "energyRating": {
+                "iconLink": null,
+                "textLink": null
+              }
+            },
+            "classification": [
+              {
+                "a": "Procesador",
+                "b": "Procesador Intel® Core™ i7-13620H de 13ᵃ Generación (núcleos E de hasta 3,60 GHz núcleos P de hasta 4,90 GHz)",
+                "mediaIcon": "//p3-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-processor-xs.svg",
+                "mediaIconAlt": "Processor",
+                "gamingIcon": "//p1-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-processor-pure-light.svg",
+                "gamingIconAlt": "Processor",
+                "c": 100,
+                "webExclusive": 0
+              },
+              {
+                "a": "Sistema operativo",
+                "b": "Windows 11 Pro 64",
+                "mediaIcon": "//p3-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-business-and-culture-system-management-xs.svg",
+                "mediaIconAlt": "Operating System",
+                "gamingIcon": "//p1-ofp.static.pub/ShareResource/na/icons/lenovo-business-and-culture/extra-small/lenovo-system-management-pure-light.svg",
+                "gamingIconAlt": "Operating System",
+                "c": 99,
+                "webExclusive": 0
+              },
+              {
+                "a": "Tarjeta gráfica",
+                "b": "Gráficos Intel® UHD integrados para procesadores Intel® de 13ᵃ Generación",
+                "mediaIcon": "//p2-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-graphic-card-xs.svg",
+                "mediaIconAlt": "Graphic Card",
+                "gamingIcon": "//p2-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-graphic-card-pure-light.svg",
+                "gamingIconAlt": "Graphic Card",
+                "c": 98,
+                "webExclusive": 0
+              },
+              {
+                "a": "Memoria total",
+                "b": "16 GB DDR5-5200MT/s (SODIMM)(2 x 8 GB)",
+                "mediaIcon": "//p2-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-memory-xs.svg",
+                "mediaIconAlt": "Memory",
+                "gamingIcon": "//p3-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-memory-pure-light.svg",
+                "gamingIconAlt": "Memory",
+                "c": 97,
+                "webExclusive": 0
+              },
+              {
+                "a": "Unidad de disco primaria",
+                "b": "512 GB SSD M.2 2280 PCIe Gen4 QLC",
+                "mediaIcon": "//p2-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-storage-xs.svg",
+                "mediaIconAlt": "Storage",
+                "gamingIcon": "//p3-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-storage-pure-light.svg",
+                "gamingIconAlt": "Storage",
+                "c": 96,
+                "webExclusive": 0
+              },
+              {
+                "a": "Tipo de pantalla",
+                "b": "27\" FHD (1920 x 1080), IPS, antirreflectante, sin capacidad táctil, 99 % sRGB, 300 nits, 100 Hz, 14 ms",
+                "mediaIcon": "//p1-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-display-display-xs.svg",
+                "mediaIconAlt": "Display",
+                "gamingIcon": "//p4-ofp.static.pub/ShareResource/na/icons/display/extra-small/lenovo-display-pure-light.svg",
+                "gamingIconAlt": "Display",
+                "c": 95,
+                "webExclusive": 0
+              },
+              {
+                "a": "Garantía",
+                "b": "1 año in situ",
+                "mediaIcon": "//p4-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-business-and-culture-warranty-xs.svg",
+                "mediaIconAlt": "Warranty",
+                "gamingIcon": "//p1-ofp.static.pub/ShareResource/na/icons/services-and-certification/extra-small/lenovo-warranty-pure-light.svg",
+                "gamingIconAlt": "Warranty",
+                "c": 73,
+                "webExclusive": 0
+              }
+            ],
+            "marketingLongDescription": "<ul style=\"list-style-type: disc;\"><li><p style=\"text-wrap: nowrap;\">PC todo en uno elegante de 68,58&nbsp;cm (27&quot;) adaptada principalmente para pymes.</p></li><li><p style=\"text-wrap: nowrap;\">Computación ultrarrápida equipada con el procesador Intel<sup>®</sup> Core™ de 13.ª generación</p></li><li><p style=\"text-wrap: nowrap;\">Funciones de reuniones Smart asistidas por IA con una claridad audiovisual asombrosa</p></li><li><p style=\"text-wrap: nowrap;\"><span style=\"text-wrap: nowrap;\">Ejecuciones de tareas más fluidas con amplio almacenamiento y memoria&nbsp;</span></p></li><li><p style=\"text-wrap: nowrap;\">Diseñado exclusivamente para compartir pantalla y cargar dispositivos inalámbricos (opcional)</p></li><li><p style=\"text-wrap: nowrap;\"><span style=\"text-wrap: nowrap;\">Evita la fatiga visual con una pantalla con poca luz azul</span></p></li></ul><p><small><em>Teclado en Español, con tecla Ñ incluida (a menos que las especificaciones del equipo indiquen lo contrario). Algunos puertos/ranuras pueden ser opcionales o variar; colores sujetos a disponibilidad</em></small></p>",
+            "marketingShortDescription": "<ul style=\"list-style-type: disc;\"><li><p>PC todo en uno Smart, ultrafino y compacto de 68,58 cm (27\")</p></li><li><p>Funciones asistidas por IA para todas tus tareas empresariales</p></li><li><p>Reuniones virtuales con tecnología y un increíble sistema de sonido</p></li></ul>",
+            "summary": "ThinkCentre Neo 50a AIO Gen 5 (27\" Intel)",
+            "url": "/p/computadoras-de-escritorio/thinkcentre/thinkcentre-serie-neo/ThinkCentre-Neo-50a-Gen-5-AIO-(27-inch-Intel)/12sb001sas",
+            "flCode": "desktops",
+            "flName": "Computadoras de Escritorio",
+            "hasClaimIndicator": false,
+            "couponConsumed": false,
+            "isDCGSubseries": false,
+            "readyToShip": true,
+            "isOutlet": false,
+            "outletFlagColor": "#4C1984",
+            "modelBadge": "15% off EXTRA con Depósito/Transferencia",
+            "modelEnabled": 0,
+            "launchDate": 0,
+            "teleUser": false,
+            "taxPrice": "176741.98",
+            "taxRate": "10",
+            "beforeTaxPrice": "1683257.02",
+            "lowestPrice": {
+              "price": null,
+              "percentage": null
+            },
+            "finalPriceType": 2,
+            "specialOffers": [],
+            "softBundleType": "",
+            "virtualProductCode": "",
+            "configId": "",
+            "score": 852,
+            "advancedZooming": "0",
+            "bannerPromotionalTile": false,
+            "brDesktopBundleChildren": false,
+            "goodForFeatures": {},
+            "eccn": "False",
+            "productPreorderDTO": {
+              "preOrderFlag": "0",
+              "releaseDate": null
+            }
+          },
+          {
+            "id": "91AYCTO1WWAR1_f31ab1f1b6026-4f65-9ed9-0142293b720b",
+            "productName": "LOQ Tower 17IAX10_LOQ Tower 17IAX10 - 91AY_01_AR",
+            "productType": "4",
+            "productCode": "91AYCTO1WWAR1",
+            "productStatus": "",
+            "baseWarrantyKey": "D25",
+            "essFlag": "NO",
+            "webPrice": "4461438.51",
+            "instantSavingPrice": "2543020.37",
+            "instantSavingSaveAmount": "1918418.13",
+            "instantSavingSavePercentage": "42",
+            "paymentMethod": "Bank Deposit",
+            "finalPrice": "2543020.38",
+            "saveAmount": "1918418.13",
+            "savePercent": "42",
+            "isMedion": false,
+            "ratingStar": "5.0",
+            "commentCount": 1,
+            "marketingStatus": "Available",
+            "modelsCount": 0,
+            "leadTime": 20,
+            "leadTimeMessage": "",
+            "inventoryStatus": 1,
+            "currencySymbol": "$",
+            "currencyCode": "ARS",
+            "modifyTime": 1760399376299,
+            "onlineDate": 1758548617000,
+            "categoryPath": [
+              "ROOTPMI",
+              "desktops",
+              "loq-desktops",
+              "LEN102Q0003"
+            ],
+            "machineType": "99LQ9TW051091AY",
+            "purchaseFlag": true,
+            "merchandisingFlags": [
+              {
+                "text": "<p>6 CUOTAS\nSIN INTERÉS</p>",
+                "bgColor": "#f9974c",
+                "gameBackgroundColor": "#f9974c",
+                "type": "static"
+              }
+            ],
+            "media": {
+              "gallery": [
+                {
+                  "imageName": "lenovo-loq-tower-17iax10-intel-pdp-gallery-1.png",
+                  "imageAddress": "//p3-ofp.static.pub//fes/cms/2025/04/28/5hhg293fniscv6c0re2dimqo93zdwz953287.png",
+                  "imageAlt": "Diseño frontal elegante y angular con acabado en doble tono y una sutil barra de luz en la torre del ordenador de sobremesa Lenovo LOQ 17IAX10."
+                },
+                {
+                  "imageName": "lenovo-loq-tower-17iax10-intel-pdp-gallery-2.png",
+                  "imageAddress": "//p1-ofp.static.pub//fes/cms/2025/04/28/2dty145dqfa00gtv7ocmidv3c5c8g5941435.png",
+                  "imageAlt": "Modern front panel and key side ports visible from a right angle on the Lenovo LOQ Tower 17IAX10 desktop."
+                },
+                {
+                  "imageName": "lenovo-loq-tower-17iax10-intel-pdp-gallery-3.png",
+                  "imageAddress": "//p3-ofp.static.pub//fes/cms/2025/04/28/qt45gh4vetpmnhna1t8entti4345u6193969.png",
+                  "imageAlt": "Distinct 3D texture pattern and enhanced side ventilation featured on the Lenovo LOQ Tower 17IAX10 desktop."
+                },
+                {
+                  "imageName": "lenovo-loq-tower-17iax10-intel-pdp-gallery-4.png",
+                  "imageAddress": "//p2-ofp.static.pub//fes/cms/2025/04/28/f8d9u6ehm2zpjlkbz6lq2z7r96icw7305125.png",
+                  "imageAlt": "Panel de E/S trasero con múltiples puertos y ventilaciones de flujo de aire ampliadas en la torre del ordenador de sobremesa Lenovo LOQ 17IAX10."
+                },
+                {
+                  "imageName": "lenovo-loq-tower-17iax10-intel-pdp-gallery-5.png",
+                  "imageAddress": "//p1-ofp.static.pub//fes/cms/2025/04/28/z6zt79hq13a70wxjbqxs6wxj5brxft540876.png",
+                  "imageAlt": "Perfil lateral derecho de la torre del ordenador de sobremesa Lenovo LOQ 17IAX10."
+                },
+                {
+                  "imageName": "lenovo-loq-tower-17iax10-intel-pdp-gallery-6.png",
+                  "imageAddress": "//p2-ofp.static.pub//fes/cms/2025/04/28/1obs0aoesq7rhpjzgrnqkc86qchrd4003740.png",
+                  "imageAlt": "Angled bottom view reveals elevated base design for improved airflow on the Lenovo LOQ Tower 17IAX10 desktop."
+                },
+                {
+                  "imageName": "lenovo-loq-tower-17iax10-intel-pdp-gallery-7.png",
+                  "imageAddress": "//p2-ofp.static.pub//fes/cms/2025/04/28/r8ia36pwfvvngiopfvi06kmjffrub7835843.png",
+                  "imageAlt": "La vista superior destaca las rejillas de ventilación simétricas y el llamativo diseño frontal audaz de la torre del ordenador de sobremesa Lenovo LOQ 17IAX10."
+                },
+                {
+                  "imageName": "lenovo-loq-tower-17iax10-intel-pdp-gallery-8.png",
+                  "imageAddress": "//p3-ofp.static.pub//fes/cms/2025/04/28/bgtfrjzaj4ndzxoknhzb3cc33er4yk871687.png",
+                  "imageAlt": "Vista desde un ángulo alto que muestra el panel superior limpio y el chasis frontal de dos tonos de la torre del ordenador de sobremesa Lenovo LOQ 17IAX10."
+                }
+              ],
+              "subseriesListImage": [
+                {
+                  "imageName": "lenovo-loq-tower-17iax10-intel-series-tn.png",
+                  "imageAddress": "//p2-ofp.static.pub//fes/cms/2025/04/28/qodksrtj3u61fur6yarya8huu3ehpe981922.png",
+                  "imageAlt": "Vista frontal de la torre del ordenador de sobremesa Lenovo LOQ 17IAX10 que muestra un elegante diseño de doble tono y una barra luminosa."
+                }
+              ],
+              "heroImage": {
+                "imageName": "lenovo-loq-tower-17iax10-intel‐pdp‐hero.png",
+                "imageAddress": "//p3-ofp.static.pub//fes/cms/2025/04/28/lm29d66qmicglofvh489mvbgw5gi1c803324.png",
+                "imageAlt": "El panel frontal limpio, bordes angulares y ventilación integrada con textura 3D se incluyen con la torre del ordenador de sobremesa LOQ 17IAX10."
+              },
+              "icon2": "https://p4-ofp.static.pub/ShareResource/ww/img/processor-logos/lenovo-intel-core-ultra-9-badge-1.png",
+              "energyRating": {
+                "iconLink": null,
+                "textLink": null
+              }
+            },
+            "classification": [
+              {
+                "a": "Procesador",
+                "b": "Procesador Intel® Core™ Ultra 7 255HX (núcleos E de hasta 4,50 GHz núcleos P de hasta 5,20 GHz)",
+                "mediaIcon": "//p3-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-processor-xs.svg",
+                "mediaIconAlt": "Processor",
+                "gamingIcon": "//p1-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-processor-pure-light.svg",
+                "gamingIconAlt": "Processor",
+                "c": 100,
+                "webExclusive": 0
+              },
+              {
+                "a": "Sistema operativo",
+                "b": "Windows 11 Home Single Language 64",
+                "mediaIcon": "//p3-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-business-and-culture-system-management-xs.svg",
+                "mediaIconAlt": "Operating System",
+                "gamingIcon": "//p1-ofp.static.pub/ShareResource/na/icons/lenovo-business-and-culture/extra-small/lenovo-system-management-pure-light.svg",
+                "gamingIconAlt": "Operating System",
+                "c": 99,
+                "webExclusive": 0
+              },
+              {
+                "a": "Tarjeta gráfica",
+                "b": "NVIDIA® GeForce RTX™ 5060 Ti 8GB GDDR7",
+                "mediaIcon": "//p2-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-graphic-card-xs.svg",
+                "mediaIconAlt": "Graphic Card",
+                "gamingIcon": "//p2-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-graphic-card-pure-light.svg",
+                "gamingIconAlt": "Graphic Card",
+                "c": 98,
+                "webExclusive": 0
+              },
+              {
+                "a": "Memoria total",
+                "b": "16 GB DDR5-5600MT/s (SODIMM)",
+                "mediaIcon": "//p2-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-memory-xs.svg",
+                "mediaIconAlt": "Memory",
+                "gamingIcon": "//p3-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-memory-pure-light.svg",
+                "gamingIconAlt": "Memory",
+                "c": 97,
+                "webExclusive": 0
+              },
+              {
+                "a": "Unidad de disco primaria",
+                "b": "512 GB SSD M.2 2280 PCIe Gen4 TLC",
+                "mediaIcon": "//p2-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-storage-xs.svg",
+                "mediaIconAlt": "Storage",
+                "gamingIcon": "//p3-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-storage-pure-light.svg",
+                "gamingIconAlt": "Storage",
+                "c": 96,
+                "webExclusive": 0
+              },
+              {
+                "a": "Garantía",
+                "b": "1 año Premium Care",
+                "mediaIcon": "//p4-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-business-and-culture-warranty-xs.svg",
+                "mediaIconAlt": "Warranty",
+                "gamingIcon": "//p1-ofp.static.pub/ShareResource/na/icons/services-and-certification/extra-small/lenovo-warranty-pure-light.svg",
+                "gamingIconAlt": "Warranty",
+                "c": 73,
+                "webExclusive": 0
+              }
+            ],
+            "marketingLongDescription": "<ul style=\"list-style-type: disc;\"><li><p><span>Con la tecnología de los procesadores Intel® Core™ Ultra rápidos y sin retrasos.</span></p></li><li><p><span>Con la tecnología de las GPU NVIDIA® Blackwell, GeForce RTX™ Serie 50.</span></p></li><li><p><span>La refrigeración extremadamente silenciosa garantiza el máximo rendimiento.</span></p></li></ul><p></p>",
+            "marketingShortDescription": "<ul style=\"list-style-type: disc;\">     <li>         <p>             Juegue más rápido con procesadores Intel<sup>®</sup> Core™ Ultra         </p>     </li>     <li>         <p>             Gráficos impresionantes con GPU de NVIDIA<sup>® </sup>GeForce RTX™         </p>     </li>     <li>         <p>             Permanece siempre fresco con la tecnología de refrigeración por hipercámara         </p>     </li> </ul>",
+            "description": "LOQ Tower 17 10ma gen ¡Personalizable!",
+            "summary": "Lenovo LOQ Tower Gen 10 (17L Intel) ¡Personalizable!",
+            "url": "/p/computadoras-de-escritorio/loq-desktops/Lenovo-LOQ-Tower-17IAX10/91aycto1wwar1",
+            "flCode": "desktops",
+            "flName": "Computadoras de Escritorio",
+            "hasClaimIndicator": false,
+            "couponConsumed": false,
+            "isDCGSubseries": false,
+            "isOutlet": false,
+            "outletFlagColor": "#4C1984",
+            "modelBadge": "15% off EXTRA con Depósito/Transferencia",
+            "modelEnabled": 0,
+            "launchDate": 0,
+            "teleUser": false,
+            "taxPrice": "241644.54",
+            "taxRate": "10",
+            "beforeTaxPrice": "2301375.83",
+            "lowestPrice": {
+              "price": null,
+              "percentage": null
+            },
+            "finalPriceType": 2,
+            "specialOffers": [],
+            "softBundleType": "",
+            "virtualProductCode": "",
+            "configId": "",
+            "score": 803,
+            "advancedZooming": "0",
+            "bannerPromotionalTile": false,
+            "brDesktopBundleChildren": false,
+            "goodForFeatures": {},
+            "eccn": "false",
+            "productPreorderDTO": {
+              "preOrderFlag": "0",
+              "releaseDate": null
+            }
+          }
+        ],
+        "count": 8
+      }
+    ],
+    "count": 8,
+    "pageSize": 20,
+    "maxSavingPercent": "42",
+    "hasGroup": false,
+    "maxSavingAmount": "1918418.13",
+    "page": 1,
+    "allDataFromIndex": true,
+    "currencyCode": "ARS",
+    "facetGroups": [
+      {
+        "groupName": null,
+        "facets": [
+          {
+            "facetId": "11114",
+            "facetName": "Precio",
+            "facetType": "price",
+            "isShow": true,
+            "isGrayOut": false,
+            "showType": "close",
+            "limitValue": 3,
+            "multiSelect": null,
+            "defaultValues": null,
+            "hideValues": null,
+            "sinkEndValues": null,
+            "preselectHideValues": null,
+            "weight": -1,
+            "items": [
+              {
+                "hide": false,
+                "name": "$1.000.000 a $1.499.999",
+                "count": 4,
+                "value": "1000000.0-1499999.001"
+              },
+              {
+                "hide": false,
+                "name": "$1.500.000 a $1.999.999",
+                "count": 3,
+                "value": "1500000.0-1999999.001"
+              },
+              {
+                "hide": false,
+                "name": "$2.500.000 a $2.999.999",
+                "count": 1,
+                "value": "2500000.0-2999999.001"
+              }
+            ],
+            "conditionIsBool": false,
+            "facetTooltipDomain": {
+              "videoId": "",
+              "headline": "",
+              "description": "",
+              "tooltipUrl": "",
+              "tooltipTextLink": "",
+              "specTooltip": 0
+            },
+            "nestedGroupSortRule": "count",
+            "grayOut": false,
+            "show": true
+          },
+          {
+            "facetId": "11053",
+            "facetName": "Familia",
+            "facetType": "productAttribute",
+            "isShow": true,
+            "isGrayOut": false,
+            "showType": "close",
+            "limitValue": 3,
+            "multiSelect": null,
+            "defaultValues": null,
+            "hideValues": null,
+            "sinkEndValues": null,
+            "preselectHideValues": null,
+            "weight": -2,
+            "items": [
+              {
+                "hide": false,
+                "name": "LOQ",
+                "count": 1,
+                "value": "LOQ"
+              },
+              {
+                "hide": false,
+                "name": "IdeaCentre",
+                "count": 4,
+                "value": "IdeaCentre"
+              },
+              {
+                "hide": false,
+                "name": "ThinkCentre",
+                "count": 3,
+                "value": "ThinkCentre"
+              }
+            ],
+            "conditionIsBool": false,
+            "facetTooltipDomain": {
+              "videoId": "",
+              "headline": "",
+              "description": "",
+              "tooltipUrl": "",
+              "tooltipTextLink": "",
+              "specTooltip": 0
+            },
+            "nestedGroupSortRule": "count",
+            "grayOut": false,
+            "show": true
+          },
+          {
+            "facetId": "11109",
+            "facetName": "Serie",
+            "facetType": "productAttribute",
+            "isShow": true,
+            "isGrayOut": false,
+            "showType": "close",
+            "limitValue": 3,
+            "multiSelect": null,
+            "defaultValues": null,
+            "hideValues": null,
+            "sinkEndValues": null,
+            "preselectHideValues": null,
+            "weight": -3,
+            "items": [
+              {
+                "hide": false,
+                "name": "ThinkCentre Neo Serie",
+                "count": 3,
+                "value": "ThinkCentre Neo Serie"
+              },
+              {
+                "hide": false,
+                "name": "Lenovo LOQ",
+                "count": 1,
+                "value": "Lenovo LOQ"
+              },
+              {
+                "hide": false,
+                "name": "IdeaCentre AIO 500 Serie",
+                "count": 1,
+                "value": "IdeaCentre AIO 500 Serie"
+              },
+              {
+                "hide": false,
+                "name": "IdeaCentre AIO 300 Serie",
+                "count": 3,
+                "value": "IdeaCentre AIO 300 Serie"
+              }
+            ],
+            "conditionIsBool": false,
+            "facetTooltipDomain": {
+              "videoId": "",
+              "headline": "",
+              "description": "",
+              "tooltipUrl": "",
+              "tooltipTextLink": "",
+              "specTooltip": 0
+            },
+            "nestedGroupSortRule": "count",
+            "grayOut": false,
+            "show": true
+          },
+          {
+            "facetId": "11106",
+            "facetName": "Tipo de producto",
+            "facetType": "productAttribute",
+            "isShow": true,
+            "isGrayOut": false,
+            "showType": "close",
+            "limitValue": 3,
+            "multiSelect": null,
+            "defaultValues": null,
+            "hideValues": null,
+            "sinkEndValues": null,
+            "preselectHideValues": null,
+            "weight": -4,
+            "items": [
+              {
+                "hide": false,
+                "name": "Configurable",
+                "count": 1,
+                "value": "Configurable"
+              },
+              {
+                "hide": false,
+                "name": "Lista para entregar",
+                "count": 7,
+                "value": "Lista para entregar"
+              }
+            ],
+            "conditionIsBool": false,
+            "facetTooltipDomain": {
+              "videoId": "",
+              "headline": "",
+              "description": "",
+              "tooltipUrl": "",
+              "tooltipTextLink": "",
+              "specTooltip": 0
+            },
+            "nestedGroupSortRule": "count",
+            "grayOut": false,
+            "show": true
+          },
+          {
+            "facetId": "11723",
+            "facetName": "Current and Upcoming Deals",
+            "facetType": "dealTimer",
+            "isShow": true,
+            "isGrayOut": false,
+            "showType": "close",
+            "limitValue": 3,
+            "multiSelect": null,
+            "defaultValues": null,
+            "hideValues": null,
+            "sinkEndValues": null,
+            "preselectHideValues": null,
+            "weight": -6,
+            "items": [
+              {
+                "hide": false,
+                "name": "Active Deal",
+                "count": 8,
+                "value": "ActiveDeal"
+              }
+            ],
+            "conditionIsBool": false,
+            "facetTooltipDomain": {
+              "videoId": "",
+              "headline": "",
+              "description": "",
+              "tooltipUrl": "",
+              "tooltipTextLink": "",
+              "specTooltip": 0
+            },
+            "nestedGroupSortRule": "count",
+            "grayOut": false,
+            "show": true
+          },
+          {
+            "facetId": "11107",
+            "facetName": "Tamaño de Pantalla",
+            "facetType": "productAttribute",
+            "isShow": true,
+            "isGrayOut": false,
+            "showType": "close",
+            "limitValue": 3,
+            "multiSelect": null,
+            "defaultValues": null,
+            "hideValues": null,
+            "sinkEndValues": null,
+            "preselectHideValues": null,
+            "weight": -7,
+            "items": [
+              {
+                "hide": false,
+                "name": "23\" - 24.9\"",
+                "count": 4,
+                "value": "23\" - 24.9\""
+              },
+              {
+                "hide": false,
+                "name": "27\" - 29.9\"",
+                "count": 2,
+                "value": "27\" - 29.9\""
+              }
+            ],
+            "conditionIsBool": false,
+            "facetTooltipDomain": {
+              "videoId": "",
+              "headline": "",
+              "description": "",
+              "tooltipUrl": "",
+              "tooltipTextLink": "",
+              "specTooltip": 0
+            },
+            "nestedGroupSortRule": "count",
+            "grayOut": false,
+            "show": true
+          },
+          {
+            "facetId": "11051",
+            "facetName": "Procesador",
+            "facetType": "productAttribute",
+            "isShow": true,
+            "isGrayOut": false,
+            "showType": "close",
+            "limitValue": 3,
+            "multiSelect": null,
+            "defaultValues": null,
+            "hideValues": null,
+            "sinkEndValues": null,
+            "preselectHideValues": null,
+            "weight": -8,
+            "items": [
+              {
+                "hide": false,
+                "name": "Todos los Procesadores Intel®",
+                "count": 6,
+                "value": "Todos los Procesadores Intel®"
+              },
+              {
+                "hide": false,
+                "name": "Intel® Core™ i7",
+                "count": 2,
+                "value": "Intel® Core™ i7"
+              },
+              {
+                "hide": false,
+                "name": "Intel® Core™ i5",
+                "count": 3,
+                "value": "Intel® Core™ i5"
+              },
+              {
+                "hide": false,
+                "name": "Ver todo Intel® Core™ Ultra",
+                "count": 1,
+                "value": "Ver todo Intel® Core™ Ultra"
+              },
+              {
+                "hide": false,
+                "name": "Intel® Core™ Ultra 7",
+                "count": 1,
+                "value": "Intel® Core™ Ultra 7"
+              },
+              {
+                "hide": false,
+                "name": "Todos los Procesadores AMD",
+                "count": 2,
+                "value": "Todos los Procesadores AMD"
+              },
+              {
+                "hide": false,
+                "name": "AMD Ryzen™ 7",
+                "count": 1,
+                "value": "AMD Ryzen™ 7"
+              },
+              {
+                "hide": false,
+                "name": "AMD Ryzen™ 5",
+                "count": 1,
+                "value": "AMD Ryzen™ 5"
+              }
+            ],
+            "conditionIsBool": false,
+            "facetTooltipDomain": {
+              "videoId": "",
+              "headline": "",
+              "description": "",
+              "tooltipUrl": "",
+              "tooltipTextLink": "",
+              "specTooltip": 0
+            },
+            "nestedGroupSortRule": "count",
+            "grayOut": false,
+            "show": true
+          },
+          {
+            "facetId": "11052",
+            "facetName": "Almacenamiento",
+            "facetType": "productAttribute",
+            "isShow": true,
+            "isGrayOut": false,
+            "showType": "close",
+            "limitValue": 3,
+            "multiSelect": null,
+            "defaultValues": null,
+            "hideValues": null,
+            "sinkEndValues": null,
+            "preselectHideValues": null,
+            "weight": -9,
+            "items": [
+              {
+                "hide": false,
+                "name": "1 TB",
+                "count": 1,
+                "value": "1 TB"
+              },
+              {
+                "hide": false,
+                "name": "512 GB",
+                "count": 7,
+                "value": "512 GB"
+              }
+            ],
+            "conditionIsBool": false,
+            "facetTooltipDomain": {
+              "videoId": "",
+              "headline": "",
+              "description": "",
+              "tooltipUrl": "",
+              "tooltipTextLink": "",
+              "specTooltip": 0
+            },
+            "nestedGroupSortRule": "count",
+            "grayOut": false,
+            "show": true
+          },
+          {
+            "facetId": "11172",
+            "facetName": "Memoria",
+            "facetType": "productAttribute",
+            "isShow": true,
+            "isGrayOut": false,
+            "showType": "close",
+            "limitValue": 3,
+            "multiSelect": null,
+            "defaultValues": null,
+            "hideValues": null,
+            "sinkEndValues": null,
+            "preselectHideValues": null,
+            "weight": -10,
+            "items": [
+              {
+                "hide": false,
+                "name": "16 GB",
+                "count": 8,
+                "value": "16 GB"
+              }
+            ],
+            "conditionIsBool": false,
+            "facetTooltipDomain": {
+              "videoId": "",
+              "headline": "",
+              "description": "",
+              "tooltipUrl": "",
+              "tooltipTextLink": "",
+              "specTooltip": 0
+            },
+            "nestedGroupSortRule": "count",
+            "grayOut": false,
+            "show": true
+          },
+          {
+            "facetId": "11171",
+            "facetName": "Gráficos",
+            "facetType": "productAttribute",
+            "isShow": true,
+            "isGrayOut": false,
+            "showType": "close",
+            "limitValue": 3,
+            "multiSelect": null,
+            "defaultValues": null,
+            "hideValues": null,
+            "sinkEndValues": null,
+            "preselectHideValues": null,
+            "weight": -11,
+            "items": [
+              {
+                "hide": false,
+                "name": "NVIDIA RTX™",
+                "count": 1,
+                "value": "NVIDIA RTX™"
+              },
+              {
+                "hide": false,
+                "name": "Intel® UHD",
+                "count": 5,
+                "value": "Intel® UHD"
+              },
+              {
+                "hide": false,
+                "name": "Integrated",
+                "count": 7,
+                "value": "Integrated"
+              },
+              {
+                "hide": false,
+                "name": "AMD Radeon™",
+                "count": 2,
+                "value": "AMD Radeon™"
+              }
+            ],
+            "conditionIsBool": false,
+            "facetTooltipDomain": {
+              "videoId": "",
+              "headline": "",
+              "description": "",
+              "tooltipUrl": "",
+              "tooltipTextLink": "",
+              "specTooltip": 0
+            },
+            "nestedGroupSortRule": "count",
+            "grayOut": false,
+            "show": true
+          },
+          {
+            "facetId": "11049",
+            "facetName": "Sistema Operativo",
+            "facetType": "productAttribute",
+            "isShow": true,
+            "isGrayOut": false,
+            "showType": "close",
+            "limitValue": 3,
+            "multiSelect": null,
+            "defaultValues": null,
+            "hideValues": null,
+            "sinkEndValues": null,
+            "preselectHideValues": null,
+            "weight": -12,
+            "items": [
+              {
+                "hide": false,
+                "name": "Windows 11 Pro 64",
+                "count": 3,
+                "value": "Windows 11 Pro 64"
+              },
+              {
+                "hide": false,
+                "name": "Windows 11 Home 64",
+                "count": 5,
+                "value": "Windows 11 Home 64"
+              }
+            ],
+            "conditionIsBool": false,
+            "facetTooltipDomain": {
+              "videoId": "",
+              "headline": "",
+              "description": "",
+              "tooltipUrl": "",
+              "tooltipTextLink": "",
+              "specTooltip": 0
+            },
+            "nestedGroupSortRule": "count",
+            "grayOut": false,
+            "show": true
+          },
+          {
+            "facetId": "11060",
+            "facetName": "Tipo",
+            "facetType": "productAttribute",
+            "isShow": true,
+            "isGrayOut": false,
+            "showType": "close",
+            "limitValue": 3,
+            "multiSelect": null,
+            "defaultValues": null,
+            "hideValues": null,
+            "sinkEndValues": null,
+            "preselectHideValues": null,
+            "weight": -13,
+            "items": [
+              {
+                "hide": false,
+                "name": "Todo en Uno",
+                "count": 6,
+                "value": "Todo en Uno"
+              },
+              {
+                "hide": false,
+                "name": "Torre de Formato Compacto",
+                "count": 1,
+                "value": "Torre de Formato Compacto"
+              },
+              {
+                "hide": false,
+                "name": "Torre tradicional",
+                "count": 2,
+                "value": "Torre tradicional"
+              }
+            ],
+            "conditionIsBool": false,
+            "facetTooltipDomain": {
+              "videoId": "",
+              "headline": "",
+              "description": "",
+              "tooltipUrl": "",
+              "tooltipTextLink": "",
+              "specTooltip": 0
+            },
+            "nestedGroupSortRule": "count",
+            "grayOut": false,
+            "show": true
+          },
+          {
+            "facetId": "11246",
+            "facetName": "Uso",
+            "facetType": "productAttribute",
+            "isShow": true,
+            "isGrayOut": false,
+            "showType": "close",
+            "limitValue": 3,
+            "multiSelect": null,
+            "defaultValues": null,
+            "hideValues": null,
+            "sinkEndValues": null,
+            "preselectHideValues": null,
+            "weight": -14,
+            "items": [
+              {
+                "hide": false,
+                "name": "Trabajo",
+                "count": 5,
+                "value": "Trabajo"
+              },
+              {
+                "hide": false,
+                "name": "Estudiantes",
+                "count": 4,
+                "value": "Estudiantes"
+              },
+              {
+                "hide": false,
+                "name": "Uso Diario/Entretenimiento",
+                "count": 3,
+                "value": "Uso Diario/Entretenimiento"
+              },
+              {
+                "hide": false,
+                "name": "Creador de contenido",
+                "count": 1,
+                "value": "Creador de contenido"
+              },
+              {
+                "hide": false,
+                "name": "Juegos",
+                "count": 1,
+                "value": "Juegos"
+              }
+            ],
+            "conditionIsBool": false,
+            "facetTooltipDomain": {
+              "videoId": "",
+              "headline": "",
+              "description": "",
+              "tooltipUrl": "",
+              "tooltipTextLink": "",
+              "specTooltip": 0
+            },
+            "nestedGroupSortRule": "count",
+            "grayOut": false,
+            "show": true
+          },
+          {
+            "facetId": "14025",
+            "facetName": "Cuotas sin interés",
+            "facetType": "productAttribute",
+            "isShow": true,
+            "isGrayOut": false,
+            "showType": "close",
+            "limitValue": 3,
+            "multiSelect": null,
+            "defaultValues": null,
+            "hideValues": null,
+            "sinkEndValues": null,
+            "preselectHideValues": null,
+            "weight": -15,
+            "items": [
+              {
+                "hide": false,
+                "name": "6 Cuotas sin Interés",
+                "count": 1,
+                "value": "6 Cuotas sin Interés"
+              }
+            ],
+            "conditionIsBool": false,
+            "facetTooltipDomain": {
+              "videoId": "",
+              "headline": "Cuotas sin interés",
+              "description": "<p>En los casos en que un producto con un precio inferior a $3.500.000 indique que cuenta con 9 cuotas sin interés, prevalecerá el criterio objetivo de su precio, y deberá considerarse que dicho producto cuenta con financiación de hasta 6 cuotas sin interés</p>",
+              "tooltipUrl": "",
+              "tooltipTextLink": "",
+              "specTooltip": 0
+            },
+            "nestedGroupSortRule": "count",
+            "grayOut": false,
+            "show": true
+          }
+        ],
+        "sortNumber": null,
+        "isDisplayGroupName": false,
+        "showType": null,
+        "limitValue": null
+      }
+    ],
+    "algorithmId": null
+  },
+  "params": null,
+  "success": true
+}

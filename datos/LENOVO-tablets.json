@@ -1,0 +1,2270 @@
+{
+  "xrid": "fccc804dd5b6e19c8f8f9b3ea05b086a",
+  "status": 200,
+  "msg": "operation successful!",
+  "data": {
+    "pageCount": 1,
+    "cost": 194,
+    "data": [
+      {
+        "products": [
+          {
+            "id": "ZAEH0128AR_f31ab1f1b6026-4f65-9ed9-0142293b720b",
+            "productName": "TB311FU ACC 4G+128GLG-AR-FOL+TWS",
+            "productType": "0",
+            "productCode": "ZAEH0128AR",
+            "productStatus": "",
+            "baseWarrantyKey": "T07",
+            "essFlag": "NO",
+            "webPrice": "459999.00",
+            "instantSavingPrice": "349999.00",
+            "instantSavingSaveAmount": "110000.00",
+            "instantSavingSavePercentage": "23",
+            "paymentMethod": "Bank Deposit",
+            "finalPrice": "349999.00",
+            "saveAmount": "110000.00",
+            "savePercent": "23",
+            "isMedion": false,
+            "ratingStar": "4.3",
+            "commentCount": 96,
+            "marketingStatus": "Available",
+            "modelsCount": 0,
+            "leadTime": 1,
+            "leadTimeMessage": "",
+            "inventoryStatus": 1,
+            "currencySymbol": "$",
+            "currencyCode": "ARS",
+            "modifyTime": 1760399436336,
+            "onlineDate": 1738089370000,
+            "categoryPath": [
+              "ROOTPMI",
+              "tablets_la",
+              "lenovo-tab-series",
+              "LEN103L0025"
+            ],
+            "machineType": "ZZITZTATBSXZAEH",
+            "purchaseFlag": true,
+            "merchandisingFlags": [
+              {
+                "text": "<p>6 CUOTAS\nSIN INTERÉS</p>",
+                "bgColor": "#f9974c",
+                "gameBackgroundColor": "#f9974c",
+                "type": "static"
+              }
+            ],
+            "media": {
+              "thumbnail": {
+                "imageName": "26653447512_NewGreyWifi_20250123100720.png",
+                "imageAddress": "https://p1-ofp.static.pub/medias/26653447512_NewGreyWifi_202501231007201738395056431.png",
+                "imageAlt": ""
+              },
+              "gallery": [
+                {
+                  "imageName": "Lenovo_Tab_CT1_01.png",
+                  "imageAddress": "//p2-ofp.static.pub//fes/cms/2025/06/06/pulbnjsk5f3w2zdxcfhifs8x30bp94335048.png",
+                  "imageAlt": ""
+                },
+                {
+                  "imageName": "Lenovo_Tab_CT2_01.png",
+                  "imageAddress": "//p1-ofp.static.pub//fes/cms/2025/06/06/tev3esg4xjwg0niz1b7a35ge8xu565657589.png",
+                  "imageAlt": ""
+                },
+                {
+                  "imageName": "Lenovo_Tab_CT1_09.png",
+                  "imageAddress": "//p4-ofp.static.pub//fes/cms/2025/06/06/8pzvef0e5nkyhyyvk8c6x87jbj3y9j352172.png",
+                  "imageAlt": ""
+                },
+                {
+                  "imageName": "Lenovo_Tab_CT2_03.png",
+                  "imageAddress": "//p4-ofp.static.pub//fes/cms/2025/06/06/4ljkzeh8zhht332itxsgj5639kvqyo071585.png",
+                  "imageAlt": ""
+                },
+                {
+                  "imageName": "Lenovo_Tab_CT2_04.png",
+                  "imageAddress": "//p1-ofp.static.pub//fes/cms/2025/06/06/7bahitrecv15u08b262gcm9rqtwctp889137.png",
+                  "imageAlt": ""
+                },
+                {
+                  "imageName": "Lenovo_Tab_CT2_05.png",
+                  "imageAddress": "//p4-ofp.static.pub//fes/cms/2025/06/06/7nji0li465ci4fmccghrxraf0e8gp9691140.png",
+                  "imageAlt": ""
+                },
+                {
+                  "imageName": "Lenovo_Tab_CT2_06.png",
+                  "imageAddress": "//p3-ofp.static.pub//fes/cms/2025/06/06/l48iwagpxk2nitav9xufuca6w6mav4799535.png",
+                  "imageAlt": ""
+                }
+              ],
+              "listImage": [
+                {
+                  "imageName": "lenovo-tab-e310-wireless-earbuds-ZAEH0127CO.png",
+                  "imageAddress": "//p2-ofp.static.pub//fes/cms/2025/01/31/kassm939lpjw0b5icd7ozd2u3chnhs175039.png",
+                  "imageCaption": "Lenovo Tab (con Funda + Earbuds)",
+                  "imageAlt": "Lenovo Tab (con Funda + Earbuds)"
+                }
+              ],
+              "subseriesListImage": [
+                {
+                  "imageName": "lenovo-tab-series-tn.png",
+                  "imageAddress": "//p1-ofp.static.pub//fes/cms/2024/10/29/8tk3cbvw4gdh215n6q6a3jv08std5q483670.png",
+                  "imageAlt": "Vista en ángulo de Lenovo Tab con un fondo de escritorio en tonos rosa y morado, soporte incorporado y pantalla táctil."
+                }
+              ],
+              "heroImage": {
+                "imageName": "g0q12m8cwj95o6nuq4o73vo31yyxzc144162.jpg",
+                "imageAddress": "https://p3-ofp.static.pub//fes/cms/2024/12/20/g0q12m8cwj95o6nuq4o73vo31yyxzc144162.jpg",
+                "imageAlt": ""
+              },
+              "energyRating": {
+                "iconLink": null,
+                "textLink": "https://p3-ofp.static.pub/ShareResource/we/tablets/EU_Label/Lenovo_Tab/Fiche_2226205_es.pdf"
+              },
+              "subseriesEnergyRating": {
+                "iconLink": null,
+                "textLink": "https://p3-ofp.static.pub/ShareResource/we/tablets/EU_Label/Lenovo_Tab/Fiche_2226205_es.pdf"
+              }
+            },
+            "classification": [
+              {
+                "a": "Procesador",
+                "b": "Procesador MediaTek Helio G85 (2,00 GHz )",
+                "mediaIcon": "//p3-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-processor-xs.svg",
+                "mediaIconAlt": "Processor",
+                "gamingIcon": "//p1-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-processor-pure-light.svg",
+                "gamingIconAlt": "Processor",
+                "c": 100,
+                "webExclusive": 0
+              },
+              {
+                "a": "Sistema operativo",
+                "b": "Android 14 or Later",
+                "mediaIcon": "//p3-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-business-and-culture-system-management-xs.svg",
+                "mediaIconAlt": "Operating System",
+                "gamingIcon": "//p1-ofp.static.pub/ShareResource/na/icons/lenovo-business-and-culture/extra-small/lenovo-system-management-pure-light.svg",
+                "gamingIconAlt": "Operating System",
+                "c": 99,
+                "webExclusive": 0
+              },
+              {
+                "a": "Memoria total",
+                "b": "4 GB LPDDR4X (soldado)",
+                "mediaIcon": "//p2-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-memory-xs.svg",
+                "mediaIconAlt": "Memory",
+                "gamingIcon": "//p3-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-memory-pure-light.svg",
+                "gamingIconAlt": "Memory",
+                "c": 97,
+                "webExclusive": 0
+              },
+              {
+                "a": "Unidad de disco primaria",
+                "b": "128 GB eMMC",
+                "mediaIcon": "//p2-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-storage-xs.svg",
+                "mediaIconAlt": "Storage",
+                "gamingIcon": "//p3-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-storage-pure-light.svg",
+                "gamingIconAlt": "Storage",
+                "c": 96,
+                "webExclusive": 0
+              },
+              {
+                "a": "Tipo de pantalla",
+                "b": "10,1\"\" WUXGA (1920 x 1200), IPS, táctil, 400 nits",
+                "mediaIcon": "//p1-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-display-display-xs.svg",
+                "mediaIconAlt": "Display",
+                "gamingIcon": "//p4-ofp.static.pub/ShareResource/na/icons/display/extra-small/lenovo-display-pure-light.svg",
+                "gamingIconAlt": "Display",
+                "c": 95,
+                "webExclusive": 0
+              },
+              {
+                "a": "Garantía",
+                "b": "1 año con transporte",
+                "mediaIcon": "//p4-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-business-and-culture-warranty-xs.svg",
+                "mediaIconAlt": "Warranty",
+                "gamingIcon": "//p1-ofp.static.pub/ShareResource/na/icons/services-and-certification/extra-small/lenovo-warranty-pure-light.svg",
+                "gamingIconAlt": "Warranty",
+                "c": 73,
+                "webExclusive": 0
+              }
+            ],
+            "marketingLongDescription": "<ul style=\"list-style-type: disc;\"><li>Diseño elegante y ergonómico</li><li>Pantalla envolvente de 10,1&quot;</li><li>Rendimiento fluido que dura todo el día</li></ul>",
+            "marketingShortDescription": "<ul style=\"list-style-type: disc;\"><li>Sofisticado diseño metálico con facilidad ergonómica</li><li>Experiencia envolvente en pantalla FHD de 10,1″</li><li>Rendimiento sin problemas gracias al procesador Helio G85 y batería que dura todo el día</li></ul>",
+            "description": "Su tableta. A su manera. \nVersatilidad sin esfuerzo para cada estilo de vida.",
+            "summary": "Lenovo Tab (con Funda + Earbuds)",
+            "url": "/p/tablets/lenovo-tab-series/Lenovo-Tab/zaeh0128ar",
+            "flCode": "tablets_la",
+            "flName": "Tablets",
+            "hasClaimIndicator": false,
+            "couponConsumed": false,
+            "isDCGSubseries": false,
+            "readyToShip": true,
+            "isOutlet": false,
+            "outletFlagColor": "#4C1984",
+            "modelBadge": "15% off EXTRA con Depósito/Transferencia",
+            "modelEnabled": 0,
+            "launchDate": 0,
+            "teleUser": false,
+            "taxPrice": "33257.82",
+            "taxRate": "10",
+            "beforeTaxPrice": "316741.18",
+            "lowestPrice": {
+              "price": null,
+              "percentage": null
+            },
+            "finalPriceType": 2,
+            "specialOffers": [],
+            "softBundleType": "",
+            "virtualProductCode": "",
+            "configId": "",
+            "score": 971,
+            "advancedZooming": "0",
+            "bannerPromotionalTile": false,
+            "brDesktopBundleChildren": false,
+            "goodForFeatures": {},
+            "productPreorderDTO": {
+              "preOrderFlag": "0",
+              "releaseDate": null
+            }
+          },
+          {
+            "id": "ZADB0004AR_f31ab1f1b6026-4f65-9ed9-0142293b720b",
+            "productName": "TB330XU ACC 8G+128GLG-AR-PKG",
+            "productType": "0",
+            "productCode": "ZADB0004AR",
+            "productStatus": "",
+            "baseWarrantyKey": "T07",
+            "essFlag": "NO",
+            "webPrice": "587999.01",
+            "instantSavingPrice": "484999.00",
+            "instantSavingSaveAmount": "103000.00",
+            "instantSavingSavePercentage": "17",
+            "paymentMethod": "Bank Deposit",
+            "finalPrice": "484999.01",
+            "saveAmount": "103000.00",
+            "savePercent": "17",
+            "isMedion": false,
+            "ratingStar": "4.4",
+            "commentCount": 894,
+            "marketingStatus": "Available",
+            "modelsCount": 0,
+            "leadTime": 1,
+            "leadTimeMessage": "",
+            "inventoryStatus": 1,
+            "currencySymbol": "$",
+            "currencyCode": "ARS",
+            "modifyTime": 1760399450355,
+            "onlineDate": 1712677629000,
+            "categoryPath": [
+              "ROOTPMI",
+              "tablets_la",
+              "lenovo-tab-series",
+              "LEN103L0022"
+            ],
+            "machineType": "ZZITZTATB9JZADB",
+            "purchaseFlag": true,
+            "merchandisingFlags": [
+              {
+                "text": "<p>6 CUOTAS\nSIN INTERÉS</p>",
+                "bgColor": "#f9974c",
+                "gameBackgroundColor": "#f9974c",
+                "type": "static"
+              }
+            ],
+            "media": {
+              "thumbnail": {
+                "imageName": "26028977916_newLuna_20250508095122.png",
+                "imageAddress": "https://p1-ofp.static.pub/medias/26028977916_newLuna_202505080951221746727638685.png",
+                "imageAlt": ""
+              },
+              "gallery": [
+                {
+                  "imageName": "go66le71f7wwss4e69hy9ny7yo2xsv949553.png",
+                  "imageAddress": "//p2-ofp.static.pub//fes/cms/2023/10/11/go66le71f7wwss4e69hy9ny7yo2xsv949553.png",
+                  "imageAlt": ""
+                },
+                {
+                  "imageName": "3lrx1qgqq5gbbk2uhuwx5rwak2xct9399016.png",
+                  "imageAddress": "//p2-ofp.static.pub//fes/cms/2023/10/11/3lrx1qgqq5gbbk2uhuwx5rwak2xct9399016.png",
+                  "imageAlt": ""
+                },
+                {
+                  "imageName": "c3bvu5xmmva1gjuwffp4wrmgdjd4tn853948.png",
+                  "imageAddress": "//p1-ofp.static.pub//fes/cms/2023/10/11/c3bvu5xmmva1gjuwffp4wrmgdjd4tn853948.png",
+                  "imageAlt": ""
+                },
+                {
+                  "imageName": "zq75n8vs4qrq5gckhjtnjll7d2u1x6229307.png",
+                  "imageAddress": "//p4-ofp.static.pub//fes/cms/2023/10/11/zq75n8vs4qrq5gckhjtnjll7d2u1x6229307.png",
+                  "imageAlt": ""
+                },
+                {
+                  "imageName": "23wmmjh9sh0ncw4cjhquipyywp9o5x556543.png",
+                  "imageAddress": "//p1-ofp.static.pub//fes/cms/2023/10/11/23wmmjh9sh0ncw4cjhquipyywp9o5x556543.png",
+                  "imageAlt": ""
+                },
+                {
+                  "imageName": "wneyg3n8sec1w2uga7ti57ek94lk5h137988.png",
+                  "imageAddress": "//p2-ofp.static.pub//fes/cms/2023/10/11/wneyg3n8sec1w2uga7ti57ek94lk5h137988.png",
+                  "imageAlt": ""
+                },
+                {
+                  "imageName": "g4eyj0zji402pzhrgeq4w93ytum3cs867190.png",
+                  "imageAddress": "//p2-ofp.static.pub//fes/cms/2023/10/11/g4eyj0zji402pzhrgeq4w93ytum3cs867190.png",
+                  "imageAlt": ""
+                },
+                {
+                  "imageName": "ek87uw4n4f3osrebqms6pjf3a8eveg098352.png",
+                  "imageAddress": "//p3-ofp.static.pub//fes/cms/2023/10/11/ek87uw4n4f3osrebqms6pjf3a8eveg098352.png",
+                  "imageAlt": ""
+                },
+                {
+                  "imageName": "68nto8u9y9mqpts8assa1rk7th83ud840848.png",
+                  "imageAddress": "//p4-ofp.static.pub//fes/cms/2023/10/11/68nto8u9y9mqpts8assa1rk7th83ud840848.png",
+                  "imageAlt": ""
+                },
+                {
+                  "imageName": "0qn62vtmx7l7ot3kr62s8dr8gcasfm546871.png",
+                  "imageAddress": "//p3-ofp.static.pub//fes/cms/2023/10/11/0qn62vtmx7l7ot3kr62s8dr8gcasfm546871.png",
+                  "imageAlt": ""
+                },
+                {
+                  "imageName": "1l2sm1zyugooa0z7afbuydu8lr754o231552.png",
+                  "imageAddress": "//p1-ofp.static.pub//fes/cms/2023/10/11/1l2sm1zyugooa0z7afbuydu8lr754o231552.png",
+                  "imageAlt": ""
+                },
+                {
+                  "imageName": "p4suzf2t8rkj1pzf22j95z3bsfdqhz210765.png",
+                  "imageAddress": "//p3-ofp.static.pub//fes/cms/2023/10/11/p4suzf2t8rkj1pzf22j95z3bsfdqhz210765.png",
+                  "imageAlt": ""
+                },
+                {
+                  "imageName": "dgmmdw6657bhnmp7y5waufifqn5ub0087309.png",
+                  "imageAddress": "//p3-ofp.static.pub//fes/cms/2023/10/11/dgmmdw6657bhnmp7y5waufifqn5ub0087309.png",
+                  "imageAlt": ""
+                }
+              ],
+              "listImage": [
+                {
+                  "imageName": "zr7kfr8tqagez9wgdrvyt3qaryuioe381133.png",
+                  "imageAddress": "//p4-ofp.static.pub//fes/cms/2025/04/16/zr7kfr8tqagez9wgdrvyt3qaryuioe381133.png",
+                  "imageCaption": "Lenovo Tab M11 (con Funda + Lápiz)",
+                  "imageAlt": "Lenovo Tab M11 (con Funda + Lápiz)"
+                }
+              ],
+              "subseriesListImage": [
+                {
+                  "imageName": "lenovo-tab-m11-11-mtk-series-tn.png",
+                  "imageAddress": "//p1-ofp.static.pub//fes/cms/2023/10/11/dj1n6hxzk6883kio3s57t34mo4d32c429641.png",
+                  "imageAlt": "Front-facing view of Luna Grey Lenovo Tab M11 Tablet"
+                }
+              ],
+              "heroImage": {
+                "imageName": "g4eyj0zji402pzhrgeq4w93ytum3cs867190.png",
+                "imageAddress": "//p2-ofp.static.pub//fes/cms/2023/10/11/g4eyj0zji402pzhrgeq4w93ytum3cs867190.png",
+                "imageAlt": ""
+              },
+              "energyRating": {
+                "iconLink": null,
+                "textLink": "https://p4-ofp.static.pub/ShareResource/we/tablets/EU_Label/Lenovo_Tab_M11/Fiche_2230554_es.pdf"
+              },
+              "subseriesEnergyRating": {
+                "iconLink": null,
+                "textLink": "https://p4-ofp.static.pub/ShareResource/we/tablets/EU_Label/Lenovo_Tab_M11/Fiche_2230554_es.pdf"
+              }
+            },
+            "classification": [
+              {
+                "a": "Procesador",
+                "b": "Procesador MediaTek Helio G88 (2,00 GHz )",
+                "mediaIcon": "//p3-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-processor-xs.svg",
+                "mediaIconAlt": "Processor",
+                "gamingIcon": "//p1-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-processor-pure-light.svg",
+                "gamingIconAlt": "Processor",
+                "c": 100,
+                "webExclusive": 0
+              },
+              {
+                "a": "Sistema operativo",
+                "b": "Android 14 or Later",
+                "mediaIcon": "//p3-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-business-and-culture-system-management-xs.svg",
+                "mediaIconAlt": "Operating System",
+                "gamingIcon": "//p1-ofp.static.pub/ShareResource/na/icons/lenovo-business-and-culture/extra-small/lenovo-system-management-pure-light.svg",
+                "gamingIconAlt": "Operating System",
+                "c": 99,
+                "webExclusive": 0
+              },
+              {
+                "a": "Memoria total",
+                "b": "8 GB LPDDR4X (soldado)",
+                "mediaIcon": "//p2-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-memory-xs.svg",
+                "mediaIconAlt": "Memory",
+                "gamingIcon": "//p3-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-memory-pure-light.svg",
+                "gamingIconAlt": "Memory",
+                "c": 97,
+                "webExclusive": 0
+              },
+              {
+                "a": "Unidad de disco primaria",
+                "b": "128 GB eMMC",
+                "mediaIcon": "//p2-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-storage-xs.svg",
+                "mediaIconAlt": "Storage",
+                "gamingIcon": "//p3-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-storage-pure-light.svg",
+                "gamingIconAlt": "Storage",
+                "c": 96,
+                "webExclusive": 0
+              },
+              {
+                "a": "Tipo de pantalla",
+                "b": "11\" (1920 x 1200), IPS, antirreflectante, táctil, 400 nits, LCD",
+                "mediaIcon": "//p1-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-display-display-xs.svg",
+                "mediaIconAlt": "Display",
+                "gamingIcon": "//p4-ofp.static.pub/ShareResource/na/icons/display/extra-small/lenovo-display-pure-light.svg",
+                "gamingIconAlt": "Display",
+                "c": 95,
+                "webExclusive": 0
+              },
+              {
+                "a": "Garantía",
+                "b": "1 año con transporte",
+                "mediaIcon": "//p4-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-business-and-culture-warranty-xs.svg",
+                "mediaIconAlt": "Warranty",
+                "gamingIcon": "//p1-ofp.static.pub/ShareResource/na/icons/services-and-certification/extra-small/lenovo-warranty-pure-light.svg",
+                "gamingIconAlt": "Warranty",
+                "c": 73,
+                "webExclusive": 0
+              }
+            ],
+            "marketingLongDescription": "<ul>\n    <li>Transmisión de 1080p ultranítida en una pantalla de 27,94 cm (11\")</li>\n    <li>Sonido envolvente con altavoces mejorados con Dolby Atmos®</li>\n    <li>Incluye Tab Pen para dibujar, tomar notas y mucho más</li>\n    <li>Procesador de ocho núcleos para juegos y multitarea fluidos</li>\n</ul>",
+            "marketingShortDescription": "<ul><li><p>Certificación de transmisión HD</p></li><li><p>Experiencia multitarea con pantalla dividida</p></li><li><p>Incluye Tab Pen</p></li></ul>",
+            "description": "¡Embárcate en un viaje de aprendizaje más inteligente con Lenovo Tab M11! Las opciones perfectas de multitarea, toma de notas inteligentes, lectura inmersiva y entretenimiento emocionante se unen en un dispositivo para las curiosas mentes jóvenes. Diversión ilimitada con una batería que dura todo el día.",
+            "summary": "Lenovo Tab M11 (con Funda + Lápiz)",
+            "url": "/p/tablets/lenovo-tab-series/Lenovo-Tab-M11-(11-inch-MTK)/zadb0004ar",
+            "flCode": "tablets_la",
+            "flName": "Tablets",
+            "hasClaimIndicator": false,
+            "couponConsumed": false,
+            "isDCGSubseries": false,
+            "readyToShip": true,
+            "isOutlet": false,
+            "outletFlagColor": "#4C1984",
+            "modelBadge": "15% off EXTRA con Depósito/Transferencia",
+            "modelEnabled": 0,
+            "launchDate": 0,
+            "teleUser": false,
+            "taxPrice": "46085.87",
+            "taxRate": "10",
+            "beforeTaxPrice": "438913.13",
+            "lowestPrice": {
+              "price": null,
+              "percentage": null
+            },
+            "finalPriceType": 2,
+            "specialOffers": [],
+            "softBundleType": "",
+            "virtualProductCode": "",
+            "configId": "",
+            "subseriesCode": "LEN103L0022",
+            "score": 959,
+            "advancedZooming": "0",
+            "bannerPromotionalTile": false,
+            "brDesktopBundleChildren": false,
+            "goodForFeatures": {},
+            "leadingSubseries": "LEN103L0022",
+            "productPreorderDTO": {
+              "preOrderFlag": "0",
+              "releaseDate": null
+            }
+          },
+          {
+            "id": "ZAEC0024AR_f31ab1f1b6026-4f65-9ed9-0142293b720b",
+            "productName": "TB330XUP ACC 8G+128GLG-AR-KB+P",
+            "productType": "0",
+            "productCode": "ZAEC0024AR",
+            "productStatus": "",
+            "baseWarrantyKey": "T07",
+            "essFlag": "NO",
+            "webPrice": "788999.00",
+            "instantSavingPrice": "589999.00",
+            "instantSavingSaveAmount": "199000.00",
+            "instantSavingSavePercentage": "25",
+            "paymentMethod": "Bank Deposit",
+            "finalPrice": "589999.00",
+            "saveAmount": "199000.00",
+            "savePercent": "25",
+            "isMedion": false,
+            "ratingStar": "4.6",
+            "commentCount": 87,
+            "marketingStatus": "Available",
+            "modelsCount": 0,
+            "leadTime": 1,
+            "leadTimeMessage": "",
+            "inventoryStatus": 1,
+            "currencySymbol": "$",
+            "currencyCode": "ARS",
+            "modifyTime": 1760403737579,
+            "onlineDate": 1732127172000,
+            "categoryPath": [
+              "ROOTPMI",
+              "tablets_la",
+              "lenovo-tab-series",
+              "ZZITZTATBAJ",
+              "ZZITZTATBAJZAEC"
+            ],
+            "machineType": "ZZITZTATBAJZAEC",
+            "purchaseFlag": true,
+            "merchandisingFlags": [
+              {
+                "text": "<p>6 CUOTAS\nSIN INTERÉS</p>",
+                "bgColor": "#f9974c",
+                "gameBackgroundColor": "#f9974c",
+                "type": "static"
+              }
+            ],
+            "media": {
+              "thumbnail": {
+                "imageName": "26028977916_newLuna_20250508095122.png",
+                "imageAddress": "https://p1-ofp.static.pub/medias/26028977916_newLuna_202505080951221746727650227.png",
+                "imageAlt": ""
+              },
+              "gallery": [
+                {
+                  "imageName": "3lrx1qgqq5gbbk2uhuwx5rwak2xct9399016.png",
+                  "imageAddress": "https://p2-ofp.static.pub//fes/cms/2023/10/11/3lrx1qgqq5gbbk2uhuwx5rwak2xct9399016.png",
+                  "imageAlt": ""
+                },
+                {
+                  "imageName": "c3bvu5xmmva1gjuwffp4wrmgdjd4tn853948.png",
+                  "imageAddress": "https://p1-ofp.static.pub//fes/cms/2023/10/11/c3bvu5xmmva1gjuwffp4wrmgdjd4tn853948.png",
+                  "imageAlt": ""
+                },
+                {
+                  "imageName": "zq75n8vs4qrq5gckhjtnjll7d2u1x6229307.png",
+                  "imageAddress": "https://p4-ofp.static.pub//fes/cms/2023/10/11/zq75n8vs4qrq5gckhjtnjll7d2u1x6229307.png",
+                  "imageAlt": ""
+                },
+                {
+                  "imageName": "23wmmjh9sh0ncw4cjhquipyywp9o5x556543.png",
+                  "imageAddress": "https://p1-ofp.static.pub//fes/cms/2023/10/11/23wmmjh9sh0ncw4cjhquipyywp9o5x556543.png",
+                  "imageAlt": ""
+                },
+                {
+                  "imageName": "wneyg3n8sec1w2uga7ti57ek94lk5h137988.png",
+                  "imageAddress": "https://p2-ofp.static.pub//fes/cms/2023/10/11/wneyg3n8sec1w2uga7ti57ek94lk5h137988.png",
+                  "imageAlt": ""
+                },
+                {
+                  "imageName": "g4eyj0zji402pzhrgeq4w93ytum3cs867190.png",
+                  "imageAddress": "https://p2-ofp.static.pub//fes/cms/2023/10/11/g4eyj0zji402pzhrgeq4w93ytum3cs867190.png",
+                  "imageAlt": ""
+                },
+                {
+                  "imageName": "ek87uw4n4f3osrebqms6pjf3a8eveg098352.png",
+                  "imageAddress": "https://p3-ofp.static.pub//fes/cms/2023/10/11/ek87uw4n4f3osrebqms6pjf3a8eveg098352.png",
+                  "imageAlt": ""
+                },
+                {
+                  "imageName": "68nto8u9y9mqpts8assa1rk7th83ud840848.png",
+                  "imageAddress": "https://p4-ofp.static.pub//fes/cms/2023/10/11/68nto8u9y9mqpts8assa1rk7th83ud840848.png",
+                  "imageAlt": ""
+                }
+              ],
+              "listImage": [
+                {
+                  "imageName": "K11 Enhanced Edition plus Folio Keyboard plus Tab Pen.png",
+                  "imageAddress": "//p4-ofp.static.pub//fes/cms/2025/01/29/d585cx5i1a5rvi1x28qy4mqozimxn7711911.png",
+                  "imageCaption": "Lenovo Tab K11 (con Teclado + Lápiz)",
+                  "imageAlt": "Lenovo Tab K11 (con Teclado + Lápiz)"
+                }
+              ],
+              "subseriesListImage": [
+                {
+                  "imageName": "Tab_M11-560x450-01.png",
+                  "imageAddress": "https://p4-ofp.static.pub/ShareResource/560x450/SSNP/ZADA0140US/Tab_M11-560x450-01.png",
+                  "imageAlt": ""
+                }
+              ],
+              "heroImage": {
+                "imageName": "fvoshhsv9uqb9s6iz2ahapoqys6nu3867615.png",
+                "imageAddress": "https://p3-ofp.static.pub//fes/cms/2024/05/23/fvoshhsv9uqb9s6iz2ahapoqys6nu3867615.png",
+                "imageAlt": ""
+              },
+              "energyRating": {
+                "iconLink": null,
+                "textLink": null
+              }
+            },
+            "classification": [
+              {
+                "a": "Procesador",
+                "b": "Procesador MediaTek Helio G88 (2,00 GHz )",
+                "mediaIcon": "//p3-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-processor-xs.svg",
+                "mediaIconAlt": "Processor",
+                "gamingIcon": "//p1-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-processor-pure-light.svg",
+                "gamingIconAlt": "Processor",
+                "c": 100,
+                "webExclusive": 0
+              },
+              {
+                "a": "Sistema operativo",
+                "b": "Android 14 or Later",
+                "mediaIcon": "//p3-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-business-and-culture-system-management-xs.svg",
+                "mediaIconAlt": "Operating System",
+                "gamingIcon": "//p1-ofp.static.pub/ShareResource/na/icons/lenovo-business-and-culture/extra-small/lenovo-system-management-pure-light.svg",
+                "gamingIconAlt": "Operating System",
+                "c": 99,
+                "webExclusive": 0
+              },
+              {
+                "a": "Memoria total",
+                "b": "8 GB LPDDR4X (soldado)",
+                "mediaIcon": "//p2-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-memory-xs.svg",
+                "mediaIconAlt": "Memory",
+                "gamingIcon": "//p3-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-memory-pure-light.svg",
+                "gamingIconAlt": "Memory",
+                "c": 97,
+                "webExclusive": 0
+              },
+              {
+                "a": "Unidad de disco primaria",
+                "b": "128 GB eMMC",
+                "mediaIcon": "//p2-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-storage-xs.svg",
+                "mediaIconAlt": "Storage",
+                "gamingIcon": "//p3-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-storage-pure-light.svg",
+                "gamingIconAlt": "Storage",
+                "c": 96,
+                "webExclusive": 0
+              },
+              {
+                "a": "Tipo de pantalla",
+                "b": "11\" (1920 x 1200), IPS, antirreflectante, táctil, 400 nits, LCD",
+                "mediaIcon": "//p1-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-display-display-xs.svg",
+                "mediaIconAlt": "Display",
+                "gamingIcon": "//p4-ofp.static.pub/ShareResource/na/icons/display/extra-small/lenovo-display-pure-light.svg",
+                "gamingIconAlt": "Display",
+                "c": 95,
+                "webExclusive": 0
+              },
+              {
+                "a": "Garantía",
+                "b": "1 año con transporte",
+                "mediaIcon": "//p4-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-business-and-culture-warranty-xs.svg",
+                "mediaIconAlt": "Warranty",
+                "gamingIcon": "//p1-ofp.static.pub/ShareResource/na/icons/services-and-certification/extra-small/lenovo-warranty-pure-light.svg",
+                "gamingIconAlt": "Warranty",
+                "c": 73,
+                "webExclusive": 0
+              }
+            ],
+            "marketingLongDescription": "<ul style=\"list-style-type: disc;\"><li><p>Pantalla LCD de 10,95 (27,81 cm) con resolución de 1920 x 1200</p></li><li><p>Potente procesador MediaTek G88 Octa Core</p></li><li><p>Actualización de 90 Hz para una experiencia de usuario más fluida</p></li><li><p>Batería de 7040 mAh para durar todo el día Registro Android™ sin contacto</p></li><li><p>Sistema de personalización comercial (CCS)</p></li><li><p>Kit de desarrollo de software comercial (CSDK)</p></li></ul>",
+            "marketingShortDescription": "<ul style=\"list-style-type: disc;\"><li><p>Pantalla LCD de 10,95 (27,81 cm) con resolución de 1920 x 1200</p></li><li><p>Potente procesador MediaTek G88 Octa Core</p></li><li><p>Actualización de 90 Hz para una experiencia de usuario más fluida</p></li></ul>",
+            "description": "¡Embárcate en un viaje de aprendizaje más inteligente con Lenovo Tab M11! Las opciones perfectas de multitarea, toma de notas inteligentes, lectura inmersiva y entretenimiento emocionante se unen en un dispositivo para las curiosas mentes jóvenes. Diversión ilimitada con una batería que dura todo el día.",
+            "summary": "Lenovo Tab K11 (con Teclado + Lápiz)",
+            "url": "/p/tablets/lenovo-tab-series/ZZITZTATBAJ/zaec0024ar",
+            "flCode": "tablets_la",
+            "flName": "Tablets",
+            "hasClaimIndicator": false,
+            "couponConsumed": false,
+            "isDCGSubseries": false,
+            "readyToShip": true,
+            "isOutlet": false,
+            "modelBadge": "15% off EXTRA con Depósito/Transferencia",
+            "modelEnabled": 0,
+            "launchDate": 0,
+            "teleUser": false,
+            "taxPrice": "56063.25",
+            "taxRate": "10",
+            "beforeTaxPrice": "533935.75",
+            "lowestPrice": {
+              "price": null,
+              "percentage": null
+            },
+            "finalPriceType": 2,
+            "specialOffers": [],
+            "softBundleType": "",
+            "virtualProductCode": "",
+            "configId": "",
+            "subseriesCode": "ZZITZTATBAJ",
+            "score": 951,
+            "bannerPromotionalTile": false,
+            "brDesktopBundleChildren": false,
+            "goodForFeatures": {},
+            "leadingSubseries": "ZZITZTATBAJ",
+            "productPreorderDTO": {
+              "preOrderFlag": "0",
+              "releaseDate": null
+            }
+          },
+          {
+            "id": "ZAE40163AR_f31ab1f1b6026-4f65-9ed9-0142293b720b",
+            "productName": "TB373FU ACC 8G+256GLG-AR-KB+P+TWS",
+            "productType": "0",
+            "productCode": "ZAE40163AR",
+            "productStatus": "",
+            "baseWarrantyKey": "T07",
+            "essFlag": "NO",
+            "webPrice": "1104000.00",
+            "instantSavingPrice": "919999.00",
+            "instantSavingSaveAmount": "184001.00",
+            "instantSavingSavePercentage": "16",
+            "paymentMethod": "Bank Deposit",
+            "finalPrice": "919999.00",
+            "saveAmount": "184001.00",
+            "savePercent": "16",
+            "isMedion": false,
+            "ratingStar": "4.6",
+            "commentCount": 441,
+            "marketingStatus": "Available",
+            "modelsCount": 0,
+            "leadTime": 1,
+            "leadTimeMessage": "",
+            "inventoryStatus": 1,
+            "currencySymbol": "$",
+            "currencyCode": "ARS",
+            "modifyTime": 1760401635852,
+            "onlineDate": 1738089394000,
+            "categoryPath": [
+              "ROOTPMI",
+              "tablets_la",
+              "idea-tab-series",
+              "LEN103L0026"
+            ],
+            "machineType": "ZZITZTATB4QZAE4",
+            "purchaseFlag": true,
+            "merchandisingFlags": [
+              {
+                "text": "<p>6 CUOTAS\nSIN INTERÉS</p>",
+                "bgColor": "#f9974c",
+                "gameBackgroundColor": "#f9974c",
+                "type": "static"
+              }
+            ],
+            "media": {
+              "thumbnail": {
+                "imageName": "26686325734_lunaGrey_20250121030612.png",
+                "imageAddress": "https://p1-ofp.static.pub/medias/26686325734_lunaGrey_202501210306121738530446294.png",
+                "imageAlt": ""
+              },
+              "gallery": [
+                {
+                  "imageName": "lenovo-idea-tab-pro-pdp-gallery-1.png",
+                  "imageAddress": "//p2-ofp.static.pub//fes/cms/2024/11/26/y07r5un2jld1hyaf1vthz6f9y7ri4o805180.png",
+                  "imageAlt": ""
+                },
+                {
+                  "imageName": "lenovo-idea-tab-pro-pdp-gallery-2.png",
+                  "imageAddress": "//p2-ofp.static.pub//fes/cms/2024/11/26/8rex5jcq2lugngjlfhw5szqu3yjl5a257872.png",
+                  "imageAlt": ""
+                },
+                {
+                  "imageName": "lenovo-idea-tab-pro-pdp-gallery-3.png",
+                  "imageAddress": "//p2-ofp.static.pub//fes/cms/2024/11/25/nrk77oxcth52ifefexu1n4l07xcd9e217145.png",
+                  "imageAlt": ""
+                },
+                {
+                  "imageName": "lenovo-idea-tab-pro-pdp-gallery-4.png",
+                  "imageAddress": "//p3-ofp.static.pub//fes/cms/2024/11/25/bssqw19kmmrbe1y5uvwv1h20tawbll868159.png",
+                  "imageAlt": ""
+                },
+                {
+                  "imageName": "lenovo-idea-tab-pro-pdp-gallery-5.png",
+                  "imageAddress": "//p1-ofp.static.pub//fes/cms/2024/11/26/guhfqygh7l26txpx6onv7h5yqwnzpa110668.png",
+                  "imageAlt": ""
+                },
+                {
+                  "imageName": "lenovo-idea-tab-pro-pdp-gallery-6.png",
+                  "imageAddress": "//p1-ofp.static.pub//fes/cms/2024/11/25/tjl2ed256b58k91xkyt60vmupx8fnp971018.png",
+                  "imageAlt": ""
+                },
+                {
+                  "imageName": "lenovo-idea-tab-pro-pdp-gallery-7.png",
+                  "imageAddress": "//p1-ofp.static.pub//fes/cms/2024/11/25/jnd37uunt9e8glo76w7bk5lepldk2s201259.png",
+                  "imageAlt": ""
+                },
+                {
+                  "imageName": "lenovo-idea-tab-pro-pdp-gallery-8.png",
+                  "imageAddress": "//p2-ofp.static.pub//fes/cms/2024/11/25/wlad2i5ll3dz8iwbmn5r3c9sxp9v8t567129.png",
+                  "imageAlt": ""
+                },
+                {
+                  "imageName": "lenovo-idea-tab-pro-pdp-gallery-9.png",
+                  "imageAddress": "//p4-ofp.static.pub//fes/cms/2024/11/26/rmvfhva5gh8iq0adsw668zbaknghwh866878.png",
+                  "imageAlt": ""
+                },
+                {
+                  "imageName": "lenovo-idea-tab-pro-pdp-gallery-10.png",
+                  "imageAddress": "//p1-ofp.static.pub//fes/cms/2024/11/26/qlp33uct9mem6bh8sfpqvqp3cqfk5h900551.png",
+                  "imageAlt": ""
+                },
+                {
+                  "imageName": "lenovo-idea-tab-pro-pdp-gallery-11.png",
+                  "imageAddress": "//p3-ofp.static.pub//fes/cms/2024/12/02/z8jhswaezntx4c1k7d2uh7u9eufaf1151426.png",
+                  "imageAlt": ""
+                },
+                {
+                  "imageName": "lenovo-idea-tab-pro-pdp-gallery-12.png",
+                  "imageAddress": "//p2-ofp.static.pub//fes/cms/2024/12/02/hcf4i1f91p7dzyc3erd9qpkw8pradk465344.png",
+                  "imageAlt": ""
+                }
+              ],
+              "listImage": [
+                {
+                  "imageName": "ZAE40161CO Idea Tab Pro.png",
+                  "imageAddress": "//p4-ofp.static.pub//fes/cms/2025/01/20/wupfdl9iyc5h5f5vusyn27dpxek746973883.png",
+                  "imageCaption": "Idea Tab Pro (con Teclado + Lápiz + Moto Buds)",
+                  "imageAlt": "Idea Tab Pro (con Teclado + Lápiz + Moto Buds)"
+                }
+              ],
+              "subseriesListImage": [
+                {
+                  "imageName": "lenovo-idea-tab-pro-series-tn.png",
+                  "imageAddress": "//p2-ofp.static.pub//fes/cms/2024/11/25/o36w6ogvyiyrhlyzzu8zugbxemdhmw334846.png",
+                  "imageAlt": "Lenovo Idea Tab Pro tablet in Luna Grey, front view, horizontal, with Android lock screen on the display"
+                }
+              ],
+              "heroImage": {
+                "imageName": "lenovo-idea-tab-pro-pdp-hero.png",
+                "imageAddress": "//p1-ofp.static.pub//fes/cms/2024/11/26/6ima0o4n75myqmmzveol0eyd3hjaof403715.png",
+                "imageAlt": "Two Lenovo Idea Tab Pro tablets in Luna Grey, overlapping back-to-back, view from front right, horizontal, with Android lock screen on the display of the top tablet and a Lenovo Tab Pen Plus on the back of the bottom tablet"
+              },
+              "video": [
+                "t1RGM9k_yRM"
+              ],
+              "energyRating": {
+                "iconLink": null,
+                "textLink": "https://p1-ofp.static.pub/ShareResource/we/tablets/EU_Label/Idea_Tab_Pro/Fiche_2283933_es.pdf"
+              },
+              "subseriesEnergyRating": {
+                "iconLink": null,
+                "textLink": "https://p1-ofp.static.pub/ShareResource/we/tablets/EU_Label/Idea_Tab_Pro/Fiche_2283933_es.pdf"
+              }
+            },
+            "classification": [
+              {
+                "a": "Procesador",
+                "b": "Procesador MediaTek Dimensity 8300 (3,35 GHz )",
+                "mediaIcon": "//p3-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-processor-xs.svg",
+                "mediaIconAlt": "Processor",
+                "gamingIcon": "//p1-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-processor-pure-light.svg",
+                "gamingIconAlt": "Processor",
+                "c": 100,
+                "webExclusive": 0
+              },
+              {
+                "a": "Sistema operativo",
+                "b": "Android 14 or Later",
+                "mediaIcon": "//p3-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-business-and-culture-system-management-xs.svg",
+                "mediaIconAlt": "Operating System",
+                "gamingIcon": "//p1-ofp.static.pub/ShareResource/na/icons/lenovo-business-and-culture/extra-small/lenovo-system-management-pure-light.svg",
+                "gamingIconAlt": "Operating System",
+                "c": 99,
+                "webExclusive": 0
+              },
+              {
+                "a": "Memoria total",
+                "b": "8 GB LPDDR5X (soldado)",
+                "mediaIcon": "//p2-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-memory-xs.svg",
+                "mediaIconAlt": "Memory",
+                "gamingIcon": "//p3-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-memory-pure-light.svg",
+                "gamingIconAlt": "Memory",
+                "c": 97,
+                "webExclusive": 0
+              },
+              {
+                "a": "Unidad de disco primaria",
+                "b": "256 GB UFS 4.0",
+                "mediaIcon": "//p2-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-storage-xs.svg",
+                "mediaIconAlt": "Storage",
+                "gamingIcon": "//p3-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-storage-pure-light.svg",
+                "gamingIconAlt": "Storage",
+                "c": 96,
+                "webExclusive": 0
+              },
+              {
+                "a": "Tipo de pantalla",
+                "b": "12,7\" 3K (2944 x 1840), TDDI, táctil, 400 nits",
+                "mediaIcon": "//p1-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-display-display-xs.svg",
+                "mediaIconAlt": "Display",
+                "gamingIcon": "//p4-ofp.static.pub/ShareResource/na/icons/display/extra-small/lenovo-display-pure-light.svg",
+                "gamingIconAlt": "Display",
+                "c": 95,
+                "webExclusive": 0
+              },
+              {
+                "a": "Garantía",
+                "b": "1 año con transporte",
+                "mediaIcon": "//p4-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-business-and-culture-warranty-xs.svg",
+                "mediaIconAlt": "Warranty",
+                "gamingIcon": "//p1-ofp.static.pub/ShareResource/na/icons/services-and-certification/extra-small/lenovo-warranty-pure-light.svg",
+                "gamingIconAlt": "Warranty",
+                "c": 73,
+                "webExclusive": 0
+              }
+            ],
+            "marketingLongDescription": "<p><span style=\"font-size: 20px;\"><strong>Estudia de manera más inteligente Juega más duro. Adáptate mejor.</strong></span></p><ul style=\"list-style-type: disc;\"><li><p>Amplia experiencia cinematográfica: tablet 3K de 12,7&quot; y 4 altavoces JBL sintonizados con Dolby Atmos®</p></li><li><p>Rendimiento de última generación: MediaTek Dimensity 8300 con un 60 % más de potencia</p></li><li><p>Google Gemini, Circle to Search con Google</p></li></ul>",
+            "marketingShortDescription": "<ul style=\"list-style-type: disc;\"><li><p>Tablet de 12,7&quot; con gráficos y sonido envolventes</p></li><li><p>Ideal para estudiantes o uso diario</p></li><li><p>Con Google Gemini, Circle to Search con Google</p></li></ul>",
+            "description": "Mejore su trayectoria académica con Lenovo Idea Tab Pro, con tecnología the MediaTek Dimensity 8300, para obtener un 60 % más de rendimiento.* Busque o traduzca al instante información en su pantalla con Circle para buscar con Google, todo sin cambiar de aplicación, mejorado con la precisión de Lenovo Tab Pen Plus. La Lenovo Idea Tab Pro viene con la aplicación Google Gemini. Chatee con Gemini para potenciar su creatividad y productividad. Obtenga ayuda para escribir, planificar, aprender y mucho más. Disfrute de los estudios y del tiempo libre en una impresionante pantalla de 12,7\" 3K display, mientras que los altavoces JBL cuádruples brindan un sonido envolvente para sus programas favoritos. Con una batería que dura todo el día y una carga rápida de 45 W, manténgase conectado y entretenido desde que está en clases hasta los momentos de relajo.",
+            "summary": "Idea Tab Pro (con Teclado + Lápiz + Moto Buds)",
+            "url": "/p/tablets/idea-tab-series/Lenovo-Idea-Tab-Pro/zae40163ar",
+            "flCode": "tablets_la",
+            "flName": "Tablets",
+            "hasClaimIndicator": false,
+            "couponConsumed": false,
+            "isDCGSubseries": false,
+            "readyToShip": true,
+            "isOutlet": false,
+            "outletFlagColor": "#4C1984",
+            "modelBadge": "15% off EXTRA con Depósito/Transferencia",
+            "modelEnabled": 0,
+            "launchDate": 0,
+            "teleUser": false,
+            "taxPrice": "87420.79",
+            "taxRate": "10",
+            "beforeTaxPrice": "832578.21",
+            "lowestPrice": {
+              "price": null,
+              "percentage": null
+            },
+            "finalPriceType": 2,
+            "specialOffers": [],
+            "softBundleType": "",
+            "virtualProductCode": "",
+            "configId": "",
+            "subseriesCode": "LEN103L0026",
+            "score": 924,
+            "advancedZooming": "0",
+            "bannerPromotionalTile": false,
+            "brDesktopBundleChildren": false,
+            "goodForFeatures": {},
+            "leadingSubseries": "LEN103L0026",
+            "productPreorderDTO": {
+              "preOrderFlag": "0",
+              "releaseDate": null
+            }
+          },
+          {
+            "id": "ZAEF0040AR_f31ab1f1b6026-4f65-9ed9-0142293b720b",
+            "productName": "TB321FU ACC 12G+256GBL-AR-PKG",
+            "productType": "0",
+            "productCode": "ZAEF0040AR",
+            "productStatus": "",
+            "baseWarrantyKey": "T07",
+            "essFlag": "NO",
+            "webPrice": "1209000.01",
+            "instantSavingPrice": "1020999.00",
+            "instantSavingSaveAmount": "188001.00",
+            "instantSavingSavePercentage": "15",
+            "paymentMethod": "Bank Deposit",
+            "finalPrice": "1020999.01",
+            "saveAmount": "188001.00",
+            "savePercent": "15",
+            "isMedion": false,
+            "ratingStar": "4.5",
+            "commentCount": 76,
+            "marketingStatus": "Available",
+            "modelsCount": 0,
+            "leadTime": 1,
+            "leadTimeMessage": "",
+            "inventoryStatus": 1,
+            "currencySymbol": "$",
+            "currencyCode": "ARS",
+            "modifyTime": 1760399451008,
+            "onlineDate": 1738089408000,
+            "categoryPath": [
+              "ROOTPMI",
+              "tablets_la",
+              "legion-tab-series",
+              "LEN103G0002"
+            ],
+            "machineType": "ZZITZTATB49ZAEF",
+            "purchaseFlag": true,
+            "merchandisingFlags": [
+              {
+                "text": "<p>6 CUOTAS\nSIN INTERÉS</p>",
+                "bgColor": "#f9974c",
+                "gameBackgroundColor": "#f9974c",
+                "type": "static"
+              }
+            ],
+            "media": {
+              "thumbnail": {
+                "imageName": "26739353087_NewLegion_20250205104207.png",
+                "imageAddress": "https://p1-ofp.static.pub/medias/26739353087_NewLegion_202502051042071738820730764.png",
+                "imageAlt": ""
+              },
+              "gallery": [
+                {
+                  "imageName": "lenovo-legion-tab-gen-3-01.png",
+                  "imageAddress": "//p4-ofp.static.pub//fes/cms/2025/02/24/zvqyqtflat9pfbyzkz19kc5zq9ong8895627.png",
+                  "imageAlt": ""
+                },
+                {
+                  "imageName": "zoyybttjy2geqmtg2ki3px73zckboz159419.png",
+                  "imageAddress": "//p1-ofp.static.pub//fes/cms/2025/01/16/zoyybttjy2geqmtg2ki3px73zckboz159419.png",
+                  "imageAlt": ""
+                },
+                {
+                  "imageName": "k0du1ne8wkbsd94u6cw9phidzegsk9145812.png",
+                  "imageAddress": "//p4-ofp.static.pub//fes/cms/2024/12/16/k0du1ne8wkbsd94u6cw9phidzegsk9145812.png",
+                  "imageAlt": ""
+                },
+                {
+                  "imageName": "jow3hywyytde1unvmrbo50qrr7pqpz299217.png",
+                  "imageAddress": "//p2-ofp.static.pub//fes/cms/2024/12/16/jow3hywyytde1unvmrbo50qrr7pqpz299217.png",
+                  "imageAlt": ""
+                },
+                {
+                  "imageName": "azars9w9ew2igpufjts9k2ngf1jtiz242014.png",
+                  "imageAddress": "//p1-ofp.static.pub//fes/cms/2024/12/20/azars9w9ew2igpufjts9k2ngf1jtiz242014.png",
+                  "imageAlt": ""
+                },
+                {
+                  "imageName": "ap1suale0e013f6k1fixwft5ims2fp374105.png",
+                  "imageAddress": "//p1-ofp.static.pub//fes/cms/2024/12/20/ap1suale0e013f6k1fixwft5ims2fp374105.png",
+                  "imageAlt": ""
+                },
+                {
+                  "imageName": "tv72ln1e57tjjf3qh9gfara6f193c8856596.png",
+                  "imageAddress": "//p2-ofp.static.pub//fes/cms/2024/12/20/tv72ln1e57tjjf3qh9gfara6f193c8856596.png",
+                  "imageAlt": ""
+                },
+                {
+                  "imageName": "j22vwd5nvgn98fgoj5xvksw6gaquft971432.png",
+                  "imageAddress": "//p1-ofp.static.pub//fes/cms/2024/12/20/j22vwd5nvgn98fgoj5xvksw6gaquft971432.png",
+                  "imageAlt": ""
+                }
+              ],
+              "listImage": [
+                {
+                  "imageName": "lenovo-legion-tab-gen-3-01.png",
+                  "imageAddress": "//p2-ofp.static.pub//fes/cms/2025/02/19/celghf4aheenbjpdarbn0vboq3ajii288272.png",
+                  "imageCaption": "Legion Tab Gen 3 (con Funda + Vidrio Templado)",
+                  "imageAlt": "Legion Tab Gen 3 (con Funda + Vidrio Templado)"
+                }
+              ],
+              "subseriesListImage": [
+                {
+                  "imageName": "legion-tab-gen 3-8.8-qualcomm‐pdp‐series.png",
+                  "imageAddress": "//p3-ofp.static.pub//fes/cms/2024/12/16/f7ff2hwyuheu0k4jmnhlgt0e324hgt736189.png",
+                  "imageAlt": "Legion Tab Gen 3 orientada al frente con la pantalla encendida"
+                }
+              ],
+              "heroImage": {
+                "imageName": "legion-tab-gen 3-8.8-qualcomm‐pdp‐hero.png",
+                "imageAddress": "//p3-ofp.static.pub//fes/cms/2024/12/16/sbpaeo961z0tqc2633h4hqbqwjpinb740129.png",
+                "imageAlt": "La Legion Tab Gen 3 de pie verticalmente orientada a la derecha con el logotipo de la Legion en pantalla."
+              },
+              "video": [
+                "WloUKF6gepY"
+              ],
+              "energyRating": {
+                "iconLink": null,
+                "textLink": "https://p1-ofp.static.pub/ShareResource/we/tablets/EU_Label/Legion_Tab_Gen_3/Fiche_2226336_es.pdf"
+              },
+              "subseriesEnergyRating": {
+                "iconLink": null,
+                "textLink": "https://p1-ofp.static.pub/ShareResource/we/tablets/EU_Label/Legion_Tab_Gen_3/Fiche_2226336_es.pdf"
+              }
+            },
+            "classification": [
+              {
+                "a": "Procesador",
+                "b": "Procesador Qualcomm® Snapdragon™ 8 Gen 3 (3,30 GHz )",
+                "mediaIcon": "//p3-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-processor-xs.svg",
+                "mediaIconAlt": "Processor",
+                "gamingIcon": "//p1-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-processor-pure-light.svg",
+                "gamingIconAlt": "Processor",
+                "c": 100,
+                "webExclusive": 0
+              },
+              {
+                "a": "Sistema operativo",
+                "b": "Android 14 or Later",
+                "mediaIcon": "//p3-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-business-and-culture-system-management-xs.svg",
+                "mediaIconAlt": "Operating System",
+                "gamingIcon": "//p1-ofp.static.pub/ShareResource/na/icons/lenovo-business-and-culture/extra-small/lenovo-system-management-pure-light.svg",
+                "gamingIconAlt": "Operating System",
+                "c": 99,
+                "webExclusive": 0
+              },
+              {
+                "a": "Memoria total",
+                "b": "12 GB LPDDR5X (soldado)",
+                "mediaIcon": "//p2-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-memory-xs.svg",
+                "mediaIconAlt": "Memory",
+                "gamingIcon": "//p3-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-memory-pure-light.svg",
+                "gamingIconAlt": "Memory",
+                "c": 97,
+                "webExclusive": 0
+              },
+              {
+                "a": "Unidad de disco primaria",
+                "b": "256 GB UFS 4.0",
+                "mediaIcon": "//p2-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-storage-xs.svg",
+                "mediaIconAlt": "Storage",
+                "gamingIcon": "//p3-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-storage-pure-light.svg",
+                "gamingIconAlt": "Storage",
+                "c": 96,
+                "webExclusive": 0
+              },
+              {
+                "a": "Tipo de pantalla",
+                "b": "8,8\" 2.5K (2560 x 1600), LTPS, Touch, 500 nits, 165Hz",
+                "mediaIcon": "//p1-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-display-display-xs.svg",
+                "mediaIconAlt": "Display",
+                "gamingIcon": "//p4-ofp.static.pub/ShareResource/na/icons/display/extra-small/lenovo-display-pure-light.svg",
+                "gamingIconAlt": "Display",
+                "c": 95,
+                "webExclusive": 0
+              },
+              {
+                "a": "Garantía",
+                "b": "1 año con transporte",
+                "mediaIcon": "//p4-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-business-and-culture-warranty-xs.svg",
+                "mediaIconAlt": "Warranty",
+                "gamingIcon": "//p1-ofp.static.pub/ShareResource/na/icons/services-and-certification/extra-small/lenovo-warranty-pure-light.svg",
+                "gamingIconAlt": "Warranty",
+                "c": 73,
+                "webExclusive": 0
+              }
+            ],
+            "marketingLongDescription": "<ul style=\"list-style-type: disc;\"><li>Juegos mejorados con una pantalla PureSight de 8,8″ y frecuencia de actualización de 165 Hz</li><li>Libera la potencia y el rendimiento con Snapdragon® 8 Gen 3 y el sistema de refrigeración Legion ColdFront</li><li>Mejora tu juego con sonido estéreo, retroalimentación háptica y software Legion Space</li></ul><p><small>Los productos con la marca Snapdragon son de Qualcomm Technologies, Inc. y/o sus subsidiarias.</small></p>",
+            "marketingShortDescription": "<ul style=\"list-style-type: disc;\">\n    <li>\n        <p>\n            Presume de potencia con los procesadores <sup>Snapdragon® </sup>8 Gen 3\n        </p>\n    </li>\n    <li>\n        <p>\n            Sumérgete en una pantalla de 2,5 K para disfrutar de juegos fluidos\n        </p>\n    </li>\n    <li>\n        <p>\n            No te calientes gracias a la tecnología Legion ColdFront\n        </p>\n    </li>\n</ul>",
+            "description": "Lleve los juegos móviles al siguiente nivel con Legion Tab (8,8\", 3). Con tecnología de chip Snapdragon® 8 Gen 3, el juego está en sus manos. Sumérjase por completo con la pantalla PureSight ultrarrápida de 8,8\" y 165 Hz, el sistema estéreo avanzado y la tecnología de cámara de vapor Legion ColdFront que mantiene el dispositivo fresco bajo presión. El juego ha cambiado, ¿está listo para dominar?",
+            "summary": "Legion Tab Gen 3 (con Funda + Vidrio Templado)",
+            "url": "/p/tablets/legion-tab-series/Lenovo-Legion-Tab-Gen-3/zaef0040ar",
+            "flCode": "tablets_la",
+            "flName": "Tablets",
+            "hasClaimIndicator": false,
+            "couponConsumed": false,
+            "isDCGSubseries": false,
+            "readyToShip": true,
+            "isOutlet": false,
+            "outletFlagColor": "#4C1984",
+            "modelBadge": "15% off EXTRA con Depósito/Transferencia",
+            "modelEnabled": 0,
+            "launchDate": 0,
+            "teleUser": false,
+            "taxPrice": "97018.07",
+            "taxRate": "10",
+            "beforeTaxPrice": "923980.93",
+            "lowestPrice": {
+              "price": null,
+              "percentage": null
+            },
+            "finalPriceType": 2,
+            "specialOffers": [],
+            "softBundleType": "",
+            "virtualProductCode": "",
+            "configId": "",
+            "score": 916,
+            "advancedZooming": "0",
+            "bannerPromotionalTile": false,
+            "brDesktopBundleChildren": false,
+            "goodForFeatures": {},
+            "productPreorderDTO": {
+              "preOrderFlag": "0",
+              "releaseDate": null
+            }
+          },
+          {
+            "id": "83L30002AR_f31ab1f1b6026-4f65-9ed9-0142293b720b",
+            "productName": "LN Legion Go Lite 8APU1 Z 16G 512G 11S",
+            "productType": "0",
+            "productCode": "83L30002AR",
+            "productStatus": "",
+            "baseWarrantyKey": "N01",
+            "essFlag": "NO",
+            "webPrice": "1890000.00",
+            "instantSavingPrice": "1349998.00",
+            "instantSavingSaveAmount": "540002.00",
+            "instantSavingSavePercentage": "28",
+            "paymentMethod": "Bank Deposit",
+            "finalPrice": "1349998.00",
+            "saveAmount": "540002.00",
+            "savePercent": "28",
+            "isMedion": false,
+            "ratingStar": "3.6",
+            "commentCount": 30,
+            "marketingStatus": "Available",
+            "modelsCount": 0,
+            "leadTime": 1,
+            "leadTimeMessage": "",
+            "inventoryStatus": 1,
+            "currencySymbol": "$",
+            "currencyCode": "ARS",
+            "modifyTime": 1760399463784,
+            "onlineDate": 1740505668000,
+            "categoryPath": [
+              "ROOTPMI",
+              "laptops",
+              "legion-laptops",
+              "handheld",
+              "LEN106G0002"
+            ],
+            "machineType": "88ESLGO204483L3",
+            "purchaseFlag": true,
+            "merchandisingFlags": [
+              {
+                "text": "<p>6 CUOTAS\nSIN INTERÉS</p>",
+                "bgColor": "#f9974c",
+                "gameBackgroundColor": "#f9974c",
+                "type": "static"
+              }
+            ],
+            "media": {
+              "thumbnail": {
+                "imageName": "26925398403_LegionGOS_20250108023018.png",
+                "imageAddress": "https://p1-ofp.static.pub/medias/26925398403_LegionGOS_202501080230181736689462715.png",
+                "imageAlt": ""
+              },
+              "gallery": [
+                {
+                  "imageName": "lenovo-legion-go-s-pdp-gallery-1.png",
+                  "imageAddress": "//p1-ofp.static.pub//fes/cms/2024/12/04/ba08bc863lb0ngtypbj9n1y574geir402620.png",
+                  "imageAlt": "Vista frontal del portátil Lenovo Legion Go S Gen 1 (8\") con un juego de ciencia ficción en la pantalla."
+                },
+                {
+                  "imageName": "lenovo-legion-go-s-pdp-gallery-2.png",
+                  "imageAddress": "//p1-ofp.static.pub//fes/cms/2024/12/04/z1e1un8t0hjx9ywt6r443yp5rp248d861117.png",
+                  "imageAlt": "Vista frontal en ángulo del portátil para juegos Lenovo Legion Go S Gen 1 (8\") mostrando un juego de ciencia ficción."
+                },
+                {
+                  "imageName": "lenovo-legion-go-s-pdp-gallery-3.png",
+                  "imageAddress": "//p2-ofp.static.pub//fes/cms/2024/12/04/ofqnept56pn7moknv1tjhafu9hqtea504239.png",
+                  "imageAlt": "Vista trasera de la consola portátil para gaming Lenovo Legion Go S Gen 1 (8\") mostrando las rejillas de ventilación y los gatillos."
+                },
+                {
+                  "imageName": "lenovo-legion-go-s-pdp-gallery-4.png",
+                  "imageAddress": "//p4-ofp.static.pub//fes/cms/2024/12/04/odb1wg1zxaj7o1h02j8fn7j852acei181379.png",
+                  "imageAlt": "Vista lateral del control de Lenovo Legion Go S Gen 1 (8\") destacando el diseño texturizado y los gatillos."
+                },
+                {
+                  "imageName": "lenovo-legion-go-s-pdp-gallery-5.png",
+                  "imageAddress": "//p2-ofp.static.pub//fes/cms/2024/12/04/05y1efbyh5qdt6ui53upyu8aas5sxj078968.png",
+                  "imageAlt": "Vista lateral del control de Lenovo Legion Go S Gen 1 (8\") destacando el diseño texturizado y los gatillos."
+                },
+                {
+                  "imageName": "lenovo-legion-go-s-pdp-gallery-6.png",
+                  "imageAddress": "//p4-ofp.static.pub//fes/cms/2024/12/04/zhdhi1qgzqiyuw58xwoyp0q7tj5v3n028205.png",
+                  "imageAlt": "Vista en ángulo inferior de Lenovo Legion Go S Gen 1 (8\") mostrando las rejillas de ventilación, los puertos y los gatillos."
+                },
+                {
+                  "imageName": "lenovo-legion-go-s-pdp-gallery-7.png",
+                  "imageAddress": "//p1-ofp.static.pub//fes/cms/2024/12/04/3u2jptxs493iupafqxhabajqdbfgzt102793.png",
+                  "imageAlt": "Vista inferior en ángulo de Lenovo Legion Go S Gen 1 (8\") destacando las rejillas de ventilación, los gatillos traseros y los puertos."
+                },
+                {
+                  "imageName": "lenovo-legion-go-s-pdp-gallery-8.png",
+                  "imageAddress": "//p2-ofp.static.pub//fes/cms/2024/12/04/e7uir4nv2x5uc74lyz570wyl5s229p433970.png",
+                  "imageAlt": "Vista del borde superior de Lenovo Legion Go S Gen 1 (8\") mostrando los puertos, botones y gatillos traseros."
+                },
+                {
+                  "imageName": "lenovo-legion-go-s-pdp-gallery-9.png",
+                  "imageAddress": "//p2-ofp.static.pub//fes/cms/2024/12/04/pet4tuucl8tu7v78jom9lux5z8rt6u242800.png",
+                  "imageAlt": "Vista del borde superior de Lenovo Legion Go S Gen 1 (8\") mostrando las rejillas de ventilación, los puertos, los botones y los detalles del gatillo izquierdo."
+                },
+                {
+                  "imageName": "lenovo-legion-go-s-pdp-gallery-10.png",
+                  "imageAddress": "//p4-ofp.static.pub//fes/cms/2024/12/04/okih7vn6zjq5rmn7bx484izrb61yma536447.png",
+                  "imageAlt": "Vista superior de Lenovo Legion Go S Gen 1 (8\") mostrando los puertos, botones, respiraderos y el diseño del gatillo trasero."
+                }
+              ],
+              "subseriesListImage": [
+                {
+                  "imageName": "lenovo-legion-go-s-series-tn.png",
+                  "imageAddress": "//p4-ofp.static.pub//fes/cms/2024/12/09/6lc678tq2ujhseoxkh41giolzw18vb344850.png",
+                  "imageAlt": "Vista frontal en ángulo del portátil para juegos Lenovo Legion Go S Gen 1 (8\") mostrando un juego de ciencia ficción."
+                }
+              ],
+              "heroImage": {
+                "imageName": "lenovo-legion-go-s-pdp-hero.png",
+                "imageAddress": "//p1-ofp.static.pub//fes/cms/2024/12/04/2uqbg6xjgg4dfkj6vl4wzbvlja3tya538944.png",
+                "imageAlt": "Vista frontal en ángulo del portátil para juegos Lenovo Legion Go S Gen 1 (8\") mostrando un juego de ciencia ficción."
+              },
+              "icon1": "https://p2-ofp.static.pub/ShareResource/ww/img/windows-11/lenovo-windows11-banner-240x35-blue.jpg",
+              "energyRating": {
+                "iconLink": null,
+                "textLink": null
+              }
+            },
+            "classification": [
+              {
+                "a": "Procesador",
+                "b": "Procesador AMD Ryzen™ Z2 GO (3,00 GHz hasta 4,30 GHz)",
+                "mediaIcon": "//p3-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-processor-xs.svg",
+                "mediaIconAlt": "Processor",
+                "gamingIcon": "//p1-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-processor-pure-light.svg",
+                "gamingIconAlt": "Processor",
+                "c": 100,
+                "webExclusive": 0
+              },
+              {
+                "a": "Sistema operativo",
+                "b": "Windows 11 Home idioma único 64",
+                "mediaIcon": "//p3-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-business-and-culture-system-management-xs.svg",
+                "mediaIconAlt": "Operating System",
+                "gamingIcon": "//p1-ofp.static.pub/ShareResource/na/icons/lenovo-business-and-culture/extra-small/lenovo-system-management-pure-light.svg",
+                "gamingIconAlt": "Operating System",
+                "c": 99,
+                "webExclusive": 0
+              },
+              {
+                "a": "Tarjeta gráfica",
+                "b": "Gráficos AMD Radeon™ integrados",
+                "mediaIcon": "//p2-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-graphic-card-xs.svg",
+                "mediaIconAlt": "Graphic Card",
+                "gamingIcon": "//p2-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-graphic-card-pure-light.svg",
+                "gamingIconAlt": "Graphic Card",
+                "c": 98,
+                "webExclusive": 0
+              },
+              {
+                "a": "Memoria total",
+                "b": "16 GB LPDDR5X-6400MT/s (soldado)",
+                "mediaIcon": "//p2-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-memory-xs.svg",
+                "mediaIconAlt": "Memory",
+                "gamingIcon": "//p3-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-memory-pure-light.svg",
+                "gamingIconAlt": "Memory",
+                "c": 97,
+                "webExclusive": 0
+              },
+              {
+                "a": "Unidad de disco primaria",
+                "b": "512 GB SSD M.2 2242 PCIe Gen4 TLC",
+                "mediaIcon": "//p2-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-storage-xs.svg",
+                "mediaIconAlt": "Storage",
+                "gamingIcon": "//p3-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-storage-pure-light.svg",
+                "gamingIconAlt": "Storage",
+                "c": 96,
+                "webExclusive": 0
+              },
+              {
+                "a": "Tipo de pantalla",
+                "b": "8\" WUXGA (1920 x 1200), IPS, brillante, táctil, 100 % sRGB, 500 nits, 120 Hz",
+                "mediaIcon": "//p1-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-display-display-xs.svg",
+                "mediaIconAlt": "Display",
+                "gamingIcon": "//p4-ofp.static.pub/ShareResource/na/icons/display/extra-small/lenovo-display-pure-light.svg",
+                "gamingIconAlt": "Display",
+                "c": 95,
+                "webExclusive": 0
+              },
+              {
+                "a": "Garantía",
+                "b": "1 año servicio de recogida o con transporte",
+                "mediaIcon": "//p4-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-business-and-culture-warranty-xs.svg",
+                "mediaIconAlt": "Warranty",
+                "gamingIcon": "//p1-ofp.static.pub/ShareResource/na/icons/services-and-certification/extra-small/lenovo-warranty-pure-light.svg",
+                "gamingIconAlt": "Warranty",
+                "c": 73,
+                "webExclusive": 0
+              }
+            ],
+            "marketingLongDescription": "<ul style=\"list-style-type: disc;\">\n    <li>Destruye los mejores juegos con las plataformas exclusivas AMD Ryzen™ “Z2 Go” y Z1 Extreme</li>\n<li>Ve todo el campo de batalla en una pantalla WUXGA Lenovo PureSight de 8\"</li>\n<li>Juega con precisión con los controladores Legion TrueStrike y los gatillos de disparo ajustables</li>\n<li><em>Teclado en Español, con tecla Ñ incluida (a menos que las especificaciones del equipo indiquen lo contrario). Algunos puertos/ranuras pueden ser opcionales o variar; colores sujetos a disponibilidad</em></li>\n</ul>",
+            "marketingShortDescription": "<ul style=\"list-style-type: disc;\"><li><p>Rendimiento de consola en un dispositivo de mano</p></li><li><p>Imágenes nítidas en una pantalla 20,32 cm (8&quot;) PureSight</p></li><li><p>Diseño ergonómico y controladores TrueStrike</p></li></ul>",
+            "description": "<ul style=\"list-style-type: disc;\"><li>Rendimiento de consola en un dispositivo portátil</li><li>Imágenes nítidas en una pantalla PureSight de 8&quot;</li><li>Diseño ergonómico y controladores TrueStrike</li></ul>",
+            "summary": "Legion Go S (8\" AMD)",
+            "url": "/p/notebooks/legion-laptops/serie-handheld/Legion-Go-S/83l30002ar",
+            "flCode": "laptops",
+            "flName": "Notebooks",
+            "hasClaimIndicator": false,
+            "couponConsumed": false,
+            "isDCGSubseries": false,
+            "readyToShip": true,
+            "isOutlet": false,
+            "outletFlagColor": "#4C1984",
+            "modelBadge": "15% off EXTRA con Depósito/Transferencia",
+            "modelEnabled": 0,
+            "launchDate": 0,
+            "teleUser": false,
+            "taxPrice": "234297.17",
+            "taxRate": "21",
+            "beforeTaxPrice": "1115700.83",
+            "lowestPrice": {
+              "price": null,
+              "percentage": null
+            },
+            "finalPriceType": 2,
+            "specialOffers": [],
+            "softBundleType": "",
+            "virtualProductCode": "",
+            "configId": "",
+            "score": 890,
+            "advancedZooming": "0",
+            "bannerPromotionalTile": false,
+            "brDesktopBundleChildren": false,
+            "goodForFeatures": {},
+            "eccn": "False",
+            "productPreorderDTO": {
+              "preOrderFlag": "0",
+              "releaseDate": null
+            }
+          },
+          {
+            "id": "83E10013AR_f31ab1f1b6026-4f65-9ed9-0142293b720b",
+            "productName": "LN Legion Go 8APU1 Z1_EX 16G 512G 11S",
+            "productType": "0",
+            "productCode": "83E10013AR",
+            "productStatus": "",
+            "baseWarrantyKey": "N01",
+            "essFlag": "NO",
+            "webPrice": "2901000.01",
+            "instantSavingPrice": "1935998.00",
+            "instantSavingSaveAmount": "965002.00",
+            "instantSavingSavePercentage": "33",
+            "paymentMethod": "Bank Deposit",
+            "finalPrice": "1935998.01",
+            "saveAmount": "965002.00",
+            "savePercent": "33",
+            "isMedion": false,
+            "ratingStar": "4.6",
+            "commentCount": 580,
+            "marketingStatus": "Available",
+            "modelsCount": 0,
+            "leadTime": 1,
+            "leadTimeMessage": "",
+            "inventoryStatus": 1,
+            "currencySymbol": "$",
+            "currencyCode": "ARS",
+            "modifyTime": 1760399421509,
+            "onlineDate": 1751401596000,
+            "categoryPath": [
+              "ROOTPMI",
+              "laptops",
+              "legion-laptops",
+              "handheld",
+              "LEN106G0001"
+            ],
+            "machineType": "88ESLGO192183E1",
+            "purchaseFlag": true,
+            "merchandisingFlags": [
+              {
+                "text": "<p>6 CUOTAS\nSIN INTERÉS</p>",
+                "bgColor": "#f9974c",
+                "gameBackgroundColor": "#f9974c",
+                "type": "static"
+              }
+            ],
+            "media": {
+              "thumbnail": {
+                "imageName": "25972503202_Legion GO IMG_20230818102332.png",
+                "imageAddress": "https://p1-ofp.static.pub//medias/25972503202_LegionGOIMG_202308181023321697392502301.png",
+                "imageAlt": ""
+              },
+              "gallery": [
+                {
+                  "imageName": "lenovo-legion-go-amd-pdp-gallery-1.png",
+                  "imageAddress": "//p3-ofp.static.pub//fes/cms/2023/09/22/ninmdnlfv6glh9tqsnmsdpd1oyw2tl290840.png",
+                  "imageAlt": "Vista frontal del dispositivo de mano Legion Go girado hacia la derecha"
+                },
+                {
+                  "imageName": "lenovo-legion-go-amd-pdp-gallery-2.png",
+                  "imageAddress": "//p1-ofp.static.pub//fes/cms/2023/09/22/58j0odjoja7emoiezrga4m4jbr7ilj417693.png",
+                  "imageAlt": "Vista frontal del dispositivo de mano Legion Go"
+                },
+                {
+                  "imageName": "lenovo-legion-go-amd-pdp-gallery-3.png",
+                  "imageAddress": "//p1-ofp.static.pub//fes/cms/2023/09/22/xcyfnrg7t4yuwessznc6gpgshdq4p5850902.png",
+                  "imageAlt": "Vista posterior del dispositivo de mano Legion Go"
+                },
+                {
+                  "imageName": "lenovo-legion-go-amd-pdp-gallery-4.png",
+                  "imageAddress": "//p3-ofp.static.pub//fes/cms/2023/09/22/umilq1jl247encaosxki8sa29wzq3d894295.png",
+                  "imageAlt": "Vista frontal del dispositivo de mano Legion Go con los controladores extraíbles separados "
+                },
+                {
+                  "imageName": "lenovo-legion-go-amd-pdp-gallery-5.png",
+                  "imageAddress": "//p4-ofp.static.pub//fes/cms/2023/09/22/8eiohvjt8g19yduawhg7bapvbsym0p759903.png",
+                  "imageAlt": "Vista desde arriba de la parte superior del dispositivo de mano Legion Go"
+                },
+                {
+                  "imageName": "lenovo-legion-go-amd-pdp-gallery-6.png",
+                  "imageAddress": "//p1-ofp.static.pub//fes/cms/2023/09/22/oinhcduyjrf14b0zr48ravjmb0vigb967098.png",
+                  "imageAlt": "Vista desde arriba de la parte inferior del dispositivo de mano Legion Go"
+                },
+                {
+                  "imageName": "lenovo-legion-go-amd-pdp-gallery-7.png",
+                  "imageAddress": "//p1-ofp.static.pub//fes/cms/2023/09/22/bgwtijgzumv5gjfdknkmdyv6l3xnul664564.png",
+                  "imageAlt": "Vista frontal del dispositivo de mano Legion Go"
+                },
+                {
+                  "imageName": "lenovo-legion-go-amd-pdp-gallery-8.png",
+                  "imageAddress": "//p2-ofp.static.pub//fes/cms/2023/09/22/qbhgyc9o3zgwg1exufj478cq2flmo9967358.png",
+                  "imageAlt": "Vista posterior del dispositivo de mano Legion Go con el soporte extraído"
+                },
+                {
+                  "imageName": "lenovo-legion-go-amd-pdp-gallery-9.png",
+                  "imageAddress": "//p3-ofp.static.pub//fes/cms/2023/09/22/p1o4k07a9axrvstac3rthbkn2h4x2k038964.png",
+                  "imageAlt": "Vista frontal del lateral derecho del dispositivo de mano Legion Go"
+                },
+                {
+                  "imageName": "lenovo-legion-go-amd-pdp-gallery-10.png",
+                  "imageAddress": "//p4-ofp.static.pub//fes/cms/2023/09/22/dnm4wkj9o0mfh6nxyt9x288mzi6q9e014332.png",
+                  "imageAlt": "Vista frontal del dispositivo de mano Legion Go con los controladores extraídos"
+                },
+                {
+                  "imageName": "lenovo-legion-go-amd-pdp-gallery-11.png",
+                  "imageAddress": "//p1-ofp.static.pub//fes/cms/2023/09/22/n2ddu1kfa1dqj4ouk1qm2der1tbduf605790.png",
+                  "imageAlt": "Vista del dispositivo de mano Legion Go sobre un soporte con los controladores extraídos"
+                },
+                {
+                  "imageName": "lenovo-legion-go-amd-pdp-gallery-12.png",
+                  "imageAddress": "//p4-ofp.static.pub//fes/cms/2023/09/22/d35htzswzb4bib9v9ke7b47uoe4wis517150.png",
+                  "imageAlt": "Vistas frontal y posterior del controlador izquierdo del dispositivo de mano Legion Go"
+                },
+                {
+                  "imageName": "lenovo-legion-go-amd-pdp-gallery-13.png",
+                  "imageAddress": "//p1-ofp.static.pub//fes/cms/2023/09/22/fquegp1hdlxwrkxl2qcw5w691zzwka109583.png",
+                  "imageAlt": "Vistas de los laterales derecho e izquierdo del controlador izquierdo del dispositivo de mano Legion Go"
+                },
+                {
+                  "imageName": "lenovo-legion-go-amd-pdp-gallery-14.png",
+                  "imageAddress": "//p4-ofp.static.pub//fes/cms/2023/09/22/v9jmeeuomywif04n6b7ihkhpmrsgu7250536.png",
+                  "imageAlt": "Vistas inferior y superior del controlador izquierdo del dispositivo de mano Legion Go"
+                },
+                {
+                  "imageName": "lenovo-legion-go-amd-pdp-gallery-15.png",
+                  "imageAddress": "//p3-ofp.static.pub//fes/cms/2023/09/22/o0cr339n104txvwe5fncjfn01wo11q230931.png",
+                  "imageAlt": "Vistas frontal y posterior del controlador derecho del dispositivo de mano Legion Go"
+                },
+                {
+                  "imageName": "lenovo-legion-go-amd-pdp-gallery-16.png",
+                  "imageAddress": "//p4-ofp.static.pub//fes/cms/2023/09/22/tvqcvzbuwh45cjqu1fpf3k9vsag3kk542857.png",
+                  "imageAlt": "Vistas de los laterales derecho e izquierdo del controlador derecho del dispositivo de mano Legion Go"
+                },
+                {
+                  "imageName": "lenovo-legion-go-amd-pdp-gallery-17.png",
+                  "imageAddress": "//p4-ofp.static.pub//fes/cms/2023/09/22/szynrikb22mo7aqup46vgt9gy6238e896423.png",
+                  "imageAlt": "Vistas inferior y superior del controlador derecho del dispositivo de mano Legion Go"
+                },
+                {
+                  "imageName": "lenovo-legion-go-amd-pdp-gallery-18.png",
+                  "imageAddress": "//p2-ofp.static.pub//fes/cms/2023/09/22/9fpv9fijqmri0o8a76tvb99hwhuak6261443.png",
+                  "imageAlt": "Vistas frontal y posterior del controlador derecho del dispositivo de mano Legion Go en la base"
+                }
+              ],
+              "subseriesListImage": [
+                {
+                  "imageName": "lenovo-legion-go-amd-series-tn.png",
+                  "imageAddress": "//p1-ofp.static.pub//fes/cms/2023/09/22/ii71i271iej9ejd3s7qzc476t2efrz519006.png",
+                  "imageAlt": "Vista frontal del dispositivo de mano Legion Go"
+                }
+              ],
+              "heroImage": {
+                "imageName": "lenovo-legion-go-amd-pdp-hero.png",
+                "imageAddress": "//p1-ofp.static.pub//fes/cms/2023/09/22/11w0z2gahwagl3lb9ftao79p52qw0o460975.png",
+                "imageAlt": "Vista frontal del dispositivo de mano Legion Go girado hacia la derecha"
+              },
+              "threeSixZero": [
+                "eINolq2IbQg"
+              ],
+              "icon2": "https://p2-ofp.static.pub/ShareResource/we/Products/xbox-stamp-icon-es.jpg",
+              "energyRating": {
+                "iconLink": null,
+                "textLink": null
+              }
+            },
+            "classification": [
+              {
+                "a": "Procesador",
+                "b": "Procesador AMD Ryzen™ Z1 Extreme (3,30 GHz hasta 5,10 GHz)",
+                "mediaIcon": "//p3-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-processor-xs.svg",
+                "mediaIconAlt": "Processor",
+                "gamingIcon": "//p1-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-processor-pure-light.svg",
+                "gamingIconAlt": "Processor",
+                "c": 100,
+                "webExclusive": 0
+              },
+              {
+                "a": "Sistema operativo",
+                "b": "Windows 11 Home idioma único 64",
+                "mediaIcon": "//p3-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-business-and-culture-system-management-xs.svg",
+                "mediaIconAlt": "Operating System",
+                "gamingIcon": "//p1-ofp.static.pub/ShareResource/na/icons/lenovo-business-and-culture/extra-small/lenovo-system-management-pure-light.svg",
+                "gamingIconAlt": "Operating System",
+                "c": 99,
+                "webExclusive": 0
+              },
+              {
+                "a": "Tarjeta gráfica",
+                "b": "Gráficos AMD Radeon™ integrados",
+                "mediaIcon": "//p2-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-graphic-card-xs.svg",
+                "mediaIconAlt": "Graphic Card",
+                "gamingIcon": "//p2-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-graphic-card-pure-light.svg",
+                "gamingIconAlt": "Graphic Card",
+                "c": 98,
+                "webExclusive": 0
+              },
+              {
+                "a": "Memoria total",
+                "b": "16 GB LPDDR5X-7500MT/s (soldado)",
+                "mediaIcon": "//p2-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-memory-xs.svg",
+                "mediaIconAlt": "Memory",
+                "gamingIcon": "//p3-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-memory-pure-light.svg",
+                "gamingIconAlt": "Memory",
+                "c": 97,
+                "webExclusive": 0
+              },
+              {
+                "a": "Unidad de disco primaria",
+                "b": "512 GB SSD M.2 2242 PCIe Gen4 TLC",
+                "mediaIcon": "//p2-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-storage-xs.svg",
+                "mediaIconAlt": "Storage",
+                "gamingIcon": "//p3-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-storage-pure-light.svg",
+                "gamingIconAlt": "Storage",
+                "c": 96,
+                "webExclusive": 0
+              },
+              {
+                "a": "Tipo de pantalla",
+                "b": "8,8\" WQXGA (2560 x 1600), IPS, brillante, táctil, 97 % DCI-P3, 500 nits, 144 Hz",
+                "mediaIcon": "//p1-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-display-display-xs.svg",
+                "mediaIconAlt": "Display",
+                "gamingIcon": "//p4-ofp.static.pub/ShareResource/na/icons/display/extra-small/lenovo-display-pure-light.svg",
+                "gamingIconAlt": "Display",
+                "c": 95,
+                "webExclusive": 0
+              },
+              {
+                "a": "Garantía",
+                "b": "1 año servicio de recogida o con transporte",
+                "mediaIcon": "//p4-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-business-and-culture-warranty-xs.svg",
+                "mediaIconAlt": "Warranty",
+                "gamingIcon": "//p1-ofp.static.pub/ShareResource/na/icons/services-and-certification/extra-small/lenovo-warranty-pure-light.svg",
+                "gamingIconAlt": "Warranty",
+                "c": 73,
+                "webExclusive": 0
+              }
+            ],
+            "marketingLongDescription": "<ul style=\"list-style-type: disc;\">\n    <li>Disfrutá de imágenes impresionantes en la pantalla PureSight Gaming, con colores vibrantes y detalles nítidos para que cada partida se vea increíble.</li>\n<li>Los mandos TrueStrike, meticulosamente diseñados, te ofrecen precisión y comodidad en cada movimiento.</li>\n<li>Cambiá de estilo de juego con múltiples modos pensados para adaptarse a cualquier entorno, estés donde estés.</li>\n<li>Accedé a todos tus títulos desde Legion Space, que reúne tu biblioteca en un solo lugar para que tengas todo al alcance.</li>\n<li><em>Teclado en Español, con tecla Ñ incluida (a menos que las especificaciones del equipo indiquen lo contrario). Algunos puertos/ranuras pueden ser opcionales o variar; colores sujetos a disponibilidad</em></li>\n</ul>",
+            "marketingShortDescription": "<ul style=\"list-style-type: disc;\"><li><p>Juegos a nivel de consola en un dispositivo de mano</p></li><li><p>Múltiples modos de juego para múltiples estilo de juego</p></li><li><p>Legion Space optimiza tu biblioteca</p></li></ul>",
+            "summary": "Legion Go 8 (8\" AMD)",
+            "url": "/p/notebooks/legion-laptops/serie-handheld/Legion-Go/83e10013ar",
+            "flCode": "laptops",
+            "flName": "Notebooks",
+            "hasClaimIndicator": false,
+            "couponConsumed": false,
+            "isDCGSubseries": false,
+            "readyToShip": true,
+            "isOutlet": false,
+            "outletFlagColor": "#4C1984",
+            "modelBadge": "15% off EXTRA con Depósito/Transferencia",
+            "modelEnabled": 0,
+            "launchDate": 0,
+            "teleUser": false,
+            "taxPrice": "335999.64",
+            "taxRate": "21",
+            "beforeTaxPrice": "1599998.36",
+            "lowestPrice": {
+              "price": null,
+              "percentage": null
+            },
+            "finalPriceType": 2,
+            "specialOffers": [],
+            "softBundleType": "",
+            "virtualProductCode": "",
+            "configId": "",
+            "subseriesCode": "LEN106G0001",
+            "score": 846,
+            "advancedZooming": "0",
+            "bannerPromotionalTile": false,
+            "brDesktopBundleChildren": false,
+            "goodForFeatures": {},
+            "eccn": "False",
+            "leadingSubseries": "LEN106G0001",
+            "productPreorderDTO": {
+              "preOrderFlag": "0",
+              "releaseDate": null
+            }
+          }
+        ],
+        "count": 7
+      }
+    ],
+    "count": 7,
+    "pageSize": 20,
+    "maxSavingPercent": "33",
+    "hasGroup": false,
+    "maxSavingAmount": "965002.00",
+    "page": 1,
+    "allDataFromIndex": true,
+    "currencyCode": "ARS",
+    "facetGroups": [
+      {
+        "groupName": null,
+        "facets": [
+          {
+            "facetId": "11107",
+            "facetName": "Tamaño de Pantalla",
+            "facetType": "productAttribute",
+            "isShow": true,
+            "isGrayOut": false,
+            "showType": "all",
+            "limitValue": 3,
+            "multiSelect": null,
+            "defaultValues": null,
+            "hideValues": null,
+            "sinkEndValues": null,
+            "preselectHideValues": null,
+            "weight": -1,
+            "items": [
+              {
+                "hide": false,
+                "name": "8\" - 8.9\"",
+                "count": 3,
+                "value": "8\" - 8.9\""
+              },
+              {
+                "hide": false,
+                "name": "10\" - 10.9\"",
+                "count": 1,
+                "value": "10\" - 10.9\""
+              },
+              {
+                "hide": false,
+                "name": "11\" - 11.9\"",
+                "count": 2,
+                "value": "11\" - 11.9\""
+              },
+              {
+                "hide": false,
+                "name": "12\" - 12.9\"",
+                "count": 1,
+                "value": "12\" - 12.9\""
+              }
+            ],
+            "conditionIsBool": false,
+            "facetTooltipDomain": {
+              "videoId": "",
+              "headline": "",
+              "description": "",
+              "tooltipUrl": "",
+              "tooltipTextLink": "",
+              "specTooltip": 0
+            },
+            "nestedGroupSortRule": "count",
+            "grayOut": false,
+            "show": true
+          },
+          {
+            "facetId": "11053",
+            "facetName": "Familia",
+            "facetType": "productAttribute",
+            "isShow": true,
+            "isGrayOut": false,
+            "showType": "all",
+            "limitValue": 3,
+            "multiSelect": null,
+            "defaultValues": null,
+            "hideValues": null,
+            "sinkEndValues": null,
+            "preselectHideValues": null,
+            "weight": -2,
+            "items": [
+              {
+                "hide": false,
+                "name": "Lenovo",
+                "count": 3,
+                "value": "Lenovo"
+              },
+              {
+                "hide": false,
+                "name": "Legion",
+                "count": 3,
+                "value": "Legion"
+              },
+              {
+                "hide": false,
+                "name": "Lenovo Tablets",
+                "count": 5,
+                "value": "Lenovo Tablets"
+              },
+              {
+                "hide": false,
+                "name": "Idea Tab",
+                "count": 1,
+                "value": "Idea Tab"
+              }
+            ],
+            "conditionIsBool": false,
+            "facetTooltipDomain": {
+              "videoId": "",
+              "headline": "",
+              "description": "",
+              "tooltipUrl": "",
+              "tooltipTextLink": "",
+              "specTooltip": 0
+            },
+            "nestedGroupSortRule": "count",
+            "grayOut": false,
+            "show": true
+          },
+          {
+            "facetId": "11246",
+            "facetName": "Uso",
+            "facetType": "productAttribute",
+            "isShow": true,
+            "isGrayOut": false,
+            "showType": "close",
+            "limitValue": 3,
+            "multiSelect": null,
+            "defaultValues": null,
+            "hideValues": null,
+            "sinkEndValues": null,
+            "preselectHideValues": null,
+            "weight": -3,
+            "items": [
+              {
+                "hide": false,
+                "name": "Juegos",
+                "count": 3,
+                "value": "Juegos"
+              },
+              {
+                "hide": false,
+                "name": "Estudiantes",
+                "count": 2,
+                "value": "Estudiantes"
+              },
+              {
+                "hide": false,
+                "name": "Trabajo",
+                "count": 1,
+                "value": "Trabajo"
+              },
+              {
+                "hide": false,
+                "name": "Uso Diario/Entretenimiento",
+                "count": 1,
+                "value": "Uso Diario/Entretenimiento"
+              }
+            ],
+            "conditionIsBool": false,
+            "facetTooltipDomain": {
+              "videoId": "",
+              "headline": "",
+              "description": "",
+              "tooltipUrl": "",
+              "tooltipTextLink": "",
+              "specTooltip": 0
+            },
+            "nestedGroupSortRule": "count",
+            "grayOut": false,
+            "show": true
+          },
+          {
+            "facetId": "11249",
+            "facetName": "Incluidos",
+            "facetType": "productAttribute",
+            "isShow": true,
+            "isGrayOut": false,
+            "showType": "all",
+            "limitValue": 3,
+            "multiSelect": null,
+            "defaultValues": null,
+            "hideValues": null,
+            "sinkEndValues": null,
+            "preselectHideValues": null,
+            "weight": -4,
+            "items": [
+              {
+                "hide": false,
+                "name": "Batería de larga duración",
+                "count": 1,
+                "value": "Batería de larga duración"
+              },
+              {
+                "hide": false,
+                "name": "Fundas y Folios",
+                "count": 3,
+                "value": "Fundas y Folios"
+              },
+              {
+                "hide": false,
+                "name": "Pen",
+                "count": 3,
+                "value": "Pen"
+              },
+              {
+                "hide": false,
+                "name": "Audio",
+                "count": 2,
+                "value": "Audio"
+              },
+              {
+                "hide": false,
+                "name": "4G",
+                "count": 2,
+                "value": "4G"
+              }
+            ],
+            "conditionIsBool": false,
+            "facetTooltipDomain": {
+              "videoId": "",
+              "headline": "",
+              "description": "",
+              "tooltipUrl": "",
+              "tooltipTextLink": "",
+              "specTooltip": 0
+            },
+            "nestedGroupSortRule": "count",
+            "grayOut": false,
+            "show": true
+          },
+          {
+            "facetId": "11114",
+            "facetName": "Precio",
+            "facetType": "price",
+            "isShow": true,
+            "isGrayOut": false,
+            "showType": "close",
+            "limitValue": 3,
+            "multiSelect": null,
+            "defaultValues": null,
+            "hideValues": null,
+            "sinkEndValues": null,
+            "preselectHideValues": null,
+            "weight": -5,
+            "items": [
+              {
+                "hide": false,
+                "name": "$250.000 a $499.999",
+                "count": 2,
+                "value": "250000.0-499999.001"
+              },
+              {
+                "hide": false,
+                "name": "$500.000 a $999.999",
+                "count": 2,
+                "value": "500000.0-999999.001"
+              },
+              {
+                "hide": false,
+                "name": "$1.000.000 a $1.499.999",
+                "count": 2,
+                "value": "1000000.0-1499999.001"
+              },
+              {
+                "hide": false,
+                "name": "$1.500.000 a $1.999.999",
+                "count": 1,
+                "value": "1500000.0-1999999.001"
+              }
+            ],
+            "conditionIsBool": false,
+            "facetTooltipDomain": {
+              "videoId": "",
+              "headline": "",
+              "description": "",
+              "tooltipUrl": "",
+              "tooltipTextLink": "",
+              "specTooltip": 0
+            },
+            "nestedGroupSortRule": "count",
+            "grayOut": false,
+            "show": true
+          },
+          {
+            "facetId": "11051",
+            "facetName": "Procesador",
+            "facetType": "productAttribute",
+            "isShow": true,
+            "isGrayOut": false,
+            "showType": "close",
+            "limitValue": 3,
+            "multiSelect": null,
+            "defaultValues": null,
+            "hideValues": null,
+            "sinkEndValues": null,
+            "preselectHideValues": null,
+            "weight": -6,
+            "items": [
+              {
+                "hide": false,
+                "name": "Todos los Procesadores AMD",
+                "count": 2,
+                "value": "Todos los Procesadores AMD"
+              },
+              {
+                "hide": false,
+                "name": "AMD Ryzen™ Z2 GO",
+                "count": 1,
+                "value": "AMD Ryzen™ Z2 GO"
+              },
+              {
+                "hide": false,
+                "name": "AMD Ryzen™ Z1",
+                "count": 1,
+                "value": "AMD Ryzen™ Z1"
+              },
+              {
+                "hide": false,
+                "name": "All Snapdragon Processors",
+                "count": 1,
+                "value": "All Snapdragon Processors"
+              },
+              {
+                "hide": false,
+                "name": "MediaTek™",
+                "count": 4,
+                "value": "MediaTek™"
+              },
+              {
+                "hide": false,
+                "name": "Qualcomm™",
+                "count": 1,
+                "value": "Qualcomm™"
+              }
+            ],
+            "conditionIsBool": false,
+            "facetTooltipDomain": {
+              "videoId": "",
+              "headline": "",
+              "description": "",
+              "tooltipUrl": "",
+              "tooltipTextLink": "",
+              "specTooltip": 0
+            },
+            "nestedGroupSortRule": "count",
+            "grayOut": false,
+            "show": true
+          },
+          {
+            "facetId": "11052",
+            "facetName": "Almacenamiento",
+            "facetType": "productAttribute",
+            "isShow": true,
+            "isGrayOut": false,
+            "showType": "close",
+            "limitValue": 3,
+            "multiSelect": null,
+            "defaultValues": null,
+            "hideValues": null,
+            "sinkEndValues": null,
+            "preselectHideValues": null,
+            "weight": -7,
+            "items": [
+              {
+                "hide": false,
+                "name": "512 GB",
+                "count": 2,
+                "value": "512 GB"
+              },
+              {
+                "hide": false,
+                "name": "256 GB",
+                "count": 2,
+                "value": "256 GB"
+              },
+              {
+                "hide": false,
+                "name": "128 GB",
+                "count": 3,
+                "value": "128 GB"
+              }
+            ],
+            "conditionIsBool": false,
+            "facetTooltipDomain": {
+              "videoId": "",
+              "headline": "",
+              "description": "",
+              "tooltipUrl": "",
+              "tooltipTextLink": "",
+              "specTooltip": 0
+            },
+            "nestedGroupSortRule": "count",
+            "grayOut": false,
+            "show": true
+          },
+          {
+            "facetId": "11172",
+            "facetName": "Memoria",
+            "facetType": "productAttribute",
+            "isShow": true,
+            "isGrayOut": false,
+            "showType": "close",
+            "limitValue": 3,
+            "multiSelect": null,
+            "defaultValues": null,
+            "hideValues": null,
+            "sinkEndValues": null,
+            "preselectHideValues": null,
+            "weight": -8,
+            "items": [
+              {
+                "hide": false,
+                "name": "16 GB",
+                "count": 2,
+                "value": "16 GB"
+              },
+              {
+                "hide": false,
+                "name": "12 GB",
+                "count": 1,
+                "value": "12 GB"
+              },
+              {
+                "hide": false,
+                "name": "8 GB",
+                "count": 3,
+                "value": "8 GB"
+              },
+              {
+                "hide": false,
+                "name": "4 GB",
+                "count": 1,
+                "value": "4 GB"
+              }
+            ],
+            "conditionIsBool": false,
+            "facetTooltipDomain": {
+              "videoId": "",
+              "headline": "",
+              "description": "",
+              "tooltipUrl": "",
+              "tooltipTextLink": "",
+              "specTooltip": 0
+            },
+            "nestedGroupSortRule": "count",
+            "grayOut": false,
+            "show": true
+          },
+          {
+            "facetId": "11050",
+            "facetName": "Color",
+            "facetType": "productAttribute",
+            "isShow": true,
+            "isGrayOut": false,
+            "showType": "close",
+            "limitValue": 3,
+            "multiSelect": null,
+            "defaultValues": null,
+            "hideValues": null,
+            "sinkEndValues": null,
+            "preselectHideValues": null,
+            "weight": -9,
+            "items": [
+              {
+                "hide": false,
+                "name": "White",
+                "count": 1,
+                "value": "White"
+              },
+              {
+                "hide": false,
+                "name": "Grey",
+                "count": 4,
+                "value": "Grey"
+              },
+              {
+                "hide": false,
+                "name": "Black",
+                "count": 2,
+                "value": "Black"
+              }
+            ],
+            "conditionIsBool": false,
+            "facetTooltipDomain": {
+              "videoId": "",
+              "headline": "",
+              "description": "",
+              "tooltipUrl": "",
+              "tooltipTextLink": "",
+              "specTooltip": 0
+            },
+            "nestedGroupSortRule": "count",
+            "grayOut": false,
+            "show": true
+          },
+          {
+            "facetId": "11173",
+            "facetName": "Resolución de Pantalla",
+            "facetType": "productAttribute",
+            "isShow": true,
+            "isGrayOut": false,
+            "showType": "close",
+            "limitValue": 3,
+            "multiSelect": null,
+            "defaultValues": null,
+            "hideValues": null,
+            "sinkEndValues": null,
+            "preselectHideValues": null,
+            "weight": -10,
+            "items": [
+              {
+                "hide": false,
+                "name": "WUXGA (1920 x 1200)",
+                "count": 4,
+                "value": "WUXGA (1920 x 1200)"
+              },
+              {
+                "hide": false,
+                "name": "WQXGA (2560 x 1600)",
+                "count": 2,
+                "value": "WQXGA (2560 x 1600)"
+              },
+              {
+                "hide": false,
+                "name": "3K",
+                "count": 1,
+                "value": "3K"
+              }
+            ],
+            "conditionIsBool": false,
+            "facetTooltipDomain": {
+              "videoId": "",
+              "headline": "",
+              "description": "",
+              "tooltipUrl": "",
+              "tooltipTextLink": "",
+              "specTooltip": 0
+            },
+            "nestedGroupSortRule": "count",
+            "grayOut": false,
+            "show": true
+          },
+          {
+            "facetId": "14025",
+            "facetName": "Cuotas sin interés",
+            "facetType": "productAttribute",
+            "isShow": true,
+            "isGrayOut": false,
+            "showType": "close",
+            "limitValue": 3,
+            "multiSelect": null,
+            "defaultValues": null,
+            "hideValues": null,
+            "sinkEndValues": null,
+            "preselectHideValues": null,
+            "weight": -11,
+            "items": [
+              {
+                "hide": false,
+                "name": "6 Cuotas sin Interés",
+                "count": 3,
+                "value": "6 Cuotas sin Interés"
+              }
+            ],
+            "conditionIsBool": false,
+            "facetTooltipDomain": {
+              "videoId": "",
+              "headline": "Cuotas sin interés",
+              "description": "<p>En los casos en que un producto con un precio inferior a $3.500.000 indique que cuenta con 9 cuotas sin interés, prevalecerá el criterio objetivo de su precio, y deberá considerarse que dicho producto cuenta con financiación de hasta 6 cuotas sin interés</p>",
+              "tooltipUrl": "",
+              "tooltipTextLink": "",
+              "specTooltip": 0
+            },
+            "nestedGroupSortRule": "count",
+            "grayOut": false,
+            "show": true
+          }
+        ],
+        "sortNumber": null,
+        "isDisplayGroupName": false,
+        "showType": null,
+        "limitValue": null
+      }
+    ],
+    "algorithmId": null
+  },
+  "params": null,
+  "success": true
+}
