@@ -1,9 +1,6 @@
 import requests
 import json
-
-cookies = {
-    'AWSALB': 'eY51wM4CQI4p/3nwrhKPKOnXZk83wNwMgv0ksKnIXKWCl5+WvgaMQmiQX2mKgNifp7rCwhV6ObPoWCHABJtq5R3P7Ej+X0xKIZQ9tD/862p636ThmK7IN+X0zvf0',
-}
+from env import COOKIES_FRAVEGA
 
 headers = {
     'accept': '*/*',

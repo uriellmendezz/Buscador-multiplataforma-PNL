@@ -1,14 +1,7 @@
 import requests
 import json
 from pathlib import Path
-
-cookies = {
-    'anonymous-consents': '%5B%5D',
-    'cookie-notification': 'NOT_ACCEPTED',
-    'JSESSIONID': '02453CB6A9D98722251F9BE1E10BA52B.accstorefront-76c55bc89d-2sskt',
-    'HSESSION': '1',
-    'ROUTE': '.accstorefront-76c55bc89d-2sskt',
-}
+from env import COOKIES_MUSIMUNDO
 
 headers = {
     'accept': 'application/json, text/plain, */*',
@@ -23,11 +16,10 @@ headers = {
     'sec-fetch-site': 'same-origin',
     'sec-gpc': '1',
     'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36',
-    'x-requested-with': 'XMLHttpRequest',
-    # 'cookie': 'anonymous-consents=%5B%5D; cookie-notification=NOT_ACCEPTED; JSESSIONID=02453CB6A9D98722251F9BE1E10BA52B.accstorefront-76c55bc89d-2sskt; HSESSION=1; ROUTE=.accstorefront-76c55bc89d-2sskt',
-}
+    'x-requested-with': 'XMLHttpRequest'
+    }
 
-OUT = Path("data/notebooks-musimundo.jsonl")
+OUT = Path("datos/notebooks-musimundo.jsonl")
 OUT.parent.mkdir(parents=True, exist_ok=True)
 
 with requests.Session() as s, OUT.open("a", encoding="utf-8") as f:
@@ -35,12 +27,12 @@ with requests.Session() as s, OUT.open("a", encoding="utf-8") as f:
         try:
             params = {"q": ":relevance", "page": i}
             r = s.get("https://www.musimundo.com/informatica/notebook/c/c/98/results",
-                      params=params, cookies=cookies, headers=headers, timeout=30)
+                      params=params, cookies=COOKIES_MUSIMUNDO, headers=headers, timeout=30)
             r.raise_for_status()
             data = r.json()
             productos = data.get("results", [])
 
-            if not productos:  # sin resultados → corto paginación
+            if not productos: 
                 print('Sin más productos.')
                 break
 
