@@ -1,0 +1,1080 @@
+{
+  "xrid": "9c9f0691f4e923bd5275d5ba7a1f4dfc",
+  "status": 200,
+  "msg": "operation successful!",
+  "data": {
+    "pageCount": 10,
+    "cost": 167,
+    "data": [
+      {
+        "products": [],
+        "count": 181
+      }
+    ],
+    "count": 181,
+    "pageSize": 20,
+    "maxSavingPercent": "47",
+    "hasGroup": false,
+    "maxSavingAmount": "4900660.10",
+    "page": 18,
+    "allDataFromIndex": true,
+    "currencyCode": "ARS",
+    "facetGroups": [
+      {
+        "groupName": null,
+        "facets": [
+          {
+            "facetId": "13109",
+            "facetName": "IA (Inteligencia Artificial)",
+            "facetType": "productAttribute",
+            "isShow": true,
+            "isGrayOut": false,
+            "showType": "close",
+            "limitValue": 3,
+            "multiSelect": null,
+            "defaultValues": null,
+            "hideValues": null,
+            "sinkEndValues": null,
+            "preselectHideValues": null,
+            "weight": null,
+            "items": [
+              {
+                "hide": false,
+                "name": "Workstations listas para IA",
+                "count": 25,
+                "value": "Workstations listas para IA"
+              },
+              {
+                "hide": false,
+                "name": "PCs Gaming potenciada con IA",
+                "count": 24,
+                "value": "PCs Gaming potenciada con IA"
+              },
+              {
+                "hide": false,
+                "name": "PC IA",
+                "count": 82,
+                "value": "PC IA"
+              },
+              {
+                "hide": false,
+                "name": "Copilot+ PC",
+                "count": 48,
+                "value": "Copilot+ PC"
+              },
+              {
+                "hide": false,
+                "name": "PC con IA",
+                "count": 3,
+                "value": "PC con IA"
+              },
+              {
+                "hide": false,
+                "name": "PC para gaming con IA",
+                "count": 3,
+                "value": "PC para gaming con IA"
+              }
+            ],
+            "conditionIsBool": false,
+            "facetTooltipDomain": {
+              "videoId": "",
+              "headline": "IA (Inteligencia artificial)",
+              "description": "<ul style=\"list-style-type: disc;\"><li><p><strong>AI PCs:</strong> tienen la tecla de Microsoft Copilot para correr el asistente de Copilot, a la vez que tiene un poderoso NPU de 10 TOPS.</p></li><li><p><strong>Copilot PCs:</strong> tienen al menos 16GB de RAM, 256GB de almacenamiento, un NPU que corre 40 TOPS, y la tecla de Microsoft Copilot para correr Copilot almacenado en el equipo.</p></li><li><p><strong>Workstations listas para IA:</strong> disponibles con Intel<sup>®</sup> HX, Xeon<sup>®</sup>, o AMD Ryzen™ Threadripper™ Pro CPUs con hasta 4x de los GPUs NVIDIA RTX generación 6000 Ada.</p></li><li><p><strong>PC Gaming potenciada con IA:</strong> estos sistemas presentan Lenovo IA Engine+ y GPUs NVIDIA<sup>®</sup> GeForce RTX™ para administrar tareas orientadas a IA y entregar una performance de gaming excepcional.</p></li></ul>",
+              "tooltipUrl": "",
+              "tooltipTextLink": "",
+              "specTooltip": 0
+            },
+            "nestedGroupSortRule": "count",
+            "show": true,
+            "grayOut": false
+          },
+          {
+            "facetId": "14025",
+            "facetName": "Cuotas sin interés",
+            "facetType": "productAttribute",
+            "isShow": true,
+            "isGrayOut": false,
+            "showType": "close",
+            "limitValue": 3,
+            "multiSelect": null,
+            "defaultValues": null,
+            "hideValues": null,
+            "sinkEndValues": null,
+            "preselectHideValues": null,
+            "weight": null,
+            "items": [
+              {
+                "hide": false,
+                "name": "6 Cuotas sin Interés",
+                "count": 84,
+                "value": "6 Cuotas sin Interés"
+              },
+              {
+                "hide": false,
+                "name": "9 Cuotas sin Interés",
+                "count": 21,
+                "value": "9 Cuotas sin Interés"
+              }
+            ],
+            "conditionIsBool": false,
+            "facetTooltipDomain": {
+              "videoId": "",
+              "headline": "Cuotas sin interés",
+              "description": "<p>En los casos en que un producto con un precio inferior a $3.500.000 indique que cuenta con 9 cuotas sin interés, prevalecerá el criterio objetivo de su precio, y deberá considerarse que dicho producto cuenta con financiación de hasta 6 cuotas sin interés</p>",
+              "tooltipUrl": "",
+              "tooltipTextLink": "",
+              "specTooltip": 0
+            },
+            "nestedGroupSortRule": "count",
+            "show": true,
+            "grayOut": false
+          },
+          {
+            "facetId": "11114",
+            "facetName": "Precio",
+            "facetType": "price",
+            "isShow": true,
+            "isGrayOut": false,
+            "showType": "close",
+            "limitValue": 3,
+            "multiSelect": null,
+            "defaultValues": null,
+            "hideValues": null,
+            "sinkEndValues": null,
+            "preselectHideValues": null,
+            "weight": -1,
+            "items": [
+              {
+                "hide": false,
+                "name": "$500.000 a $999.999",
+                "count": 2,
+                "value": "500000.0-999999.001"
+              },
+              {
+                "hide": false,
+                "name": "$1.000.000 a $1.499.999",
+                "count": 10,
+                "value": "1000000.0-1499999.001"
+              },
+              {
+                "hide": false,
+                "name": "$1.500.000 a $1.999.999",
+                "count": 39,
+                "value": "1500000.0-1999999.001"
+              },
+              {
+                "hide": false,
+                "name": "$2.000.000 a $2.499.999",
+                "count": 36,
+                "value": "2000000.0-2499999.001"
+              },
+              {
+                "hide": false,
+                "name": "$2.500.000 a $2.999.999",
+                "count": 34,
+                "value": "2500000.0-2999999.001"
+              },
+              {
+                "hide": false,
+                "name": "Mayor a $3.000.000",
+                "count": 60,
+                "value": "3000000.0-19999999.001"
+              }
+            ],
+            "conditionIsBool": false,
+            "facetTooltipDomain": {
+              "videoId": "",
+              "headline": "",
+              "description": "",
+              "tooltipUrl": "",
+              "tooltipTextLink": "",
+              "specTooltip": 0
+            },
+            "nestedGroupSortRule": "count",
+            "show": true,
+            "grayOut": false
+          },
+          {
+            "facetId": "11053",
+            "facetName": "Familia",
+            "facetType": "productAttribute",
+            "isShow": true,
+            "isGrayOut": false,
+            "showType": "close",
+            "limitValue": 3,
+            "multiSelect": null,
+            "defaultValues": null,
+            "hideValues": null,
+            "sinkEndValues": null,
+            "preselectHideValues": null,
+            "weight": -2,
+            "items": [
+              {
+                "hide": false,
+                "name": "Lenovo",
+                "count": 2,
+                "value": "Lenovo"
+              },
+              {
+                "hide": false,
+                "name": "LOQ",
+                "count": 15,
+                "value": "LOQ"
+              },
+              {
+                "hide": false,
+                "name": "Legion",
+                "count": 17,
+                "value": "Legion"
+              },
+              {
+                "hide": false,
+                "name": "Ideapad",
+                "count": 17,
+                "value": "Ideapad"
+              },
+              {
+                "hide": false,
+                "name": "Yoga",
+                "count": 14,
+                "value": "Yoga"
+              },
+              {
+                "hide": false,
+                "name": "ThinkBook",
+                "count": 1,
+                "value": "ThinkBook"
+              },
+              {
+                "hide": false,
+                "name": "ThinkPad",
+                "count": 115,
+                "value": "ThinkPad"
+              }
+            ],
+            "conditionIsBool": false,
+            "facetTooltipDomain": {
+              "videoId": "",
+              "headline": "",
+              "description": "",
+              "tooltipUrl": "",
+              "tooltipTextLink": "",
+              "specTooltip": 0
+            },
+            "nestedGroupSortRule": "count",
+            "show": true,
+            "grayOut": false
+          },
+          {
+            "facetId": "11109",
+            "facetName": "Serie",
+            "facetType": "productAttribute",
+            "isShow": true,
+            "isGrayOut": false,
+            "showType": "close",
+            "limitValue": 3,
+            "multiSelect": null,
+            "defaultValues": null,
+            "hideValues": null,
+            "sinkEndValues": null,
+            "preselectHideValues": null,
+            "weight": -3,
+            "items": [
+              {
+                "hide": false,
+                "name": "Lenovo LOQ",
+                "count": 15,
+                "value": "Lenovo LOQ"
+              },
+              {
+                "hide": false,
+                "name": "Yoga 2-in-1 Serie",
+                "count": 8,
+                "value": "Yoga 2-in-1 Serie"
+              },
+              {
+                "hide": false,
+                "name": "ThinkPad X1 Serie",
+                "count": 7,
+                "value": "ThinkPad X1 Serie"
+              },
+              {
+                "hide": false,
+                "name": "Yoga Slim Serie",
+                "count": 5,
+                "value": "Yoga Slim Serie"
+              },
+              {
+                "hide": false,
+                "name": "ThinkPad X Serie",
+                "count": 12,
+                "value": "ThinkPad X Serie"
+              },
+              {
+                "hide": false,
+                "name": "ThinkPad T Serie",
+                "count": 36,
+                "value": "ThinkPad T Serie"
+              },
+              {
+                "hide": false,
+                "name": "ThinkPad P Serie",
+                "count": 31,
+                "value": "ThinkPad P Serie"
+              },
+              {
+                "hide": false,
+                "name": "ThinkPad L Serie",
+                "count": 11,
+                "value": "ThinkPad L Serie"
+              },
+              {
+                "hide": false,
+                "name": "ThinkPad E Serie",
+                "count": 18,
+                "value": "ThinkPad E Serie"
+              },
+              {
+                "hide": false,
+                "name": "ThinkBook Serie",
+                "count": 3,
+                "value": "ThinkBook Serie"
+              },
+              {
+                "hide": false,
+                "name": "Legion 9 Serie",
+                "count": 2,
+                "value": "Legion 9 Serie"
+              },
+              {
+                "hide": false,
+                "name": "Legion 7 Serie",
+                "count": 3,
+                "value": "Legion 7 Serie"
+              },
+              {
+                "hide": false,
+                "name": "Legion 5 Serie",
+                "count": 11,
+                "value": "Legion 5 Serie"
+              },
+              {
+                "hide": false,
+                "name": "IdeaPad 2-in-1 Serie",
+                "count": 3,
+                "value": "IdeaPad 2-in-1 Serie"
+              },
+              {
+                "hide": false,
+                "name": "IdeaPad 5 Serie",
+                "count": 5,
+                "value": "IdeaPad 5 Serie"
+              },
+              {
+                "hide": false,
+                "name": "IdeaPad 3 Serie",
+                "count": 9,
+                "value": "IdeaPad 3 Serie"
+              },
+              {
+                "hide": false,
+                "name": "Legion Go Series",
+                "count": 1,
+                "value": "Legion Go Series"
+              },
+              {
+                "hide": false,
+                "name": "Yoga Pro 7 14\" 10ma Gen ¡Personalizable!",
+                "count": 1,
+                "value": "Yoga Pro 7 14\" 10ma Gen ¡Personalizable!"
+              }
+            ],
+            "conditionIsBool": false,
+            "facetTooltipDomain": {
+              "videoId": "",
+              "headline": "",
+              "description": "",
+              "tooltipUrl": "",
+              "tooltipTextLink": "",
+              "specTooltip": 0
+            },
+            "nestedGroupSortRule": "count",
+            "show": true,
+            "grayOut": false
+          },
+          {
+            "facetId": "11106",
+            "facetName": "Tipo de producto",
+            "facetType": "productAttribute",
+            "isShow": true,
+            "isGrayOut": false,
+            "showType": "close",
+            "limitValue": 3,
+            "multiSelect": null,
+            "defaultValues": null,
+            "hideValues": null,
+            "sinkEndValues": null,
+            "preselectHideValues": null,
+            "weight": -4,
+            "items": [
+              {
+                "hide": false,
+                "name": "Configurable",
+                "count": 110,
+                "value": "Configurable"
+              },
+              {
+                "hide": false,
+                "name": "Lista para entregar",
+                "count": 71,
+                "value": "Lista para entregar"
+              }
+            ],
+            "conditionIsBool": false,
+            "facetTooltipDomain": {
+              "videoId": "",
+              "headline": "",
+              "description": "",
+              "tooltipUrl": "",
+              "tooltipTextLink": "",
+              "specTooltip": 0
+            },
+            "nestedGroupSortRule": "count",
+            "show": true,
+            "grayOut": false
+          },
+          {
+            "facetId": "11107",
+            "facetName": "Tamaño de Pantalla",
+            "facetType": "productAttribute",
+            "isShow": true,
+            "isGrayOut": false,
+            "showType": "close",
+            "limitValue": 3,
+            "multiSelect": null,
+            "defaultValues": null,
+            "hideValues": null,
+            "sinkEndValues": null,
+            "preselectHideValues": null,
+            "weight": -7,
+            "items": [
+              {
+                "hide": false,
+                "name": "8\" - 8.9\"",
+                "count": 1,
+                "value": "8\" - 8.9\""
+              },
+              {
+                "hide": false,
+                "name": "14\" - 14.9\"",
+                "count": 84,
+                "value": "14\" - 14.9\""
+              },
+              {
+                "hide": false,
+                "name": "13\" - 13.9\"",
+                "count": 6,
+                "value": "13\" - 13.9\""
+              },
+              {
+                "hide": false,
+                "name": "15\" - 16.9\"",
+                "count": 77,
+                "value": "15\" - 16.9\""
+              },
+              {
+                "hide": false,
+                "name": "17\" - 18.9\"",
+                "count": 4,
+                "value": "17\" - 18.9\""
+              }
+            ],
+            "conditionIsBool": false,
+            "facetTooltipDomain": {
+              "videoId": "",
+              "headline": "",
+              "description": "",
+              "tooltipUrl": "",
+              "tooltipTextLink": "",
+              "specTooltip": 0
+            },
+            "nestedGroupSortRule": "count",
+            "show": true,
+            "grayOut": false
+          },
+          {
+            "facetId": "11051",
+            "facetName": "Procesador",
+            "facetType": "productAttribute",
+            "isShow": true,
+            "isGrayOut": false,
+            "showType": "close",
+            "limitValue": 3,
+            "multiSelect": null,
+            "defaultValues": null,
+            "hideValues": null,
+            "sinkEndValues": null,
+            "preselectHideValues": null,
+            "weight": -8,
+            "items": [
+              {
+                "hide": false,
+                "name": "Todos los Procesadores Intel®",
+                "count": 115,
+                "value": "Todos los Procesadores Intel®"
+              },
+              {
+                "hide": false,
+                "name": "Intel® Core™ 7",
+                "count": 3,
+                "value": "Intel® Core™ 7"
+              },
+              {
+                "hide": false,
+                "name": "Intel® Core™ 5",
+                "count": 3,
+                "value": "Intel® Core™ 5"
+              },
+              {
+                "hide": false,
+                "name": "Intel® Core™ i9",
+                "count": 2,
+                "value": "Intel® Core™ i9"
+              },
+              {
+                "hide": false,
+                "name": "Intel® Core™ i7",
+                "count": 9,
+                "value": "Intel® Core™ i7"
+              },
+              {
+                "hide": false,
+                "name": "Intel® Core™ i5",
+                "count": 12,
+                "value": "Intel® Core™ i5"
+              },
+              {
+                "hide": false,
+                "name": "Intel® Core™ i5 vPro®",
+                "count": 1,
+                "value": "Intel® Core™ i5 vPro®"
+              },
+              {
+                "hide": false,
+                "name": "Intel® Core™ i3",
+                "count": 1,
+                "value": "Intel® Core™ i3"
+              },
+              {
+                "hide": false,
+                "name": "Ver todo Intel® Core™ Ultra",
+                "count": 84,
+                "value": "Ver todo Intel® Core™ Ultra"
+              },
+              {
+                "hide": false,
+                "name": "Intel® Core™ Ultra 9 vPro®",
+                "count": 4,
+                "value": "Intel® Core™ Ultra 9 vPro®"
+              },
+              {
+                "hide": false,
+                "name": "Intel® Core™ Ultra 7 vPro®",
+                "count": 10,
+                "value": "Intel® Core™ Ultra 7 vPro®"
+              },
+              {
+                "hide": false,
+                "name": "Intel® Core™ Ultra 5 vPro®",
+                "count": 3,
+                "value": "Intel® Core™ Ultra 5 vPro®"
+              },
+              {
+                "hide": false,
+                "name": "Intel® Core™ Ultra 9",
+                "count": 10,
+                "value": "Intel® Core™ Ultra 9"
+              },
+              {
+                "hide": false,
+                "name": "Intel® Core™ Ultra 7",
+                "count": 42,
+                "value": "Intel® Core™ Ultra 7"
+              },
+              {
+                "hide": false,
+                "name": "Intel® Core™ Ultra 5",
+                "count": 18,
+                "value": "Intel® Core™ Ultra 5"
+              },
+              {
+                "hide": false,
+                "name": "Todos los Procesadores AMD",
+                "count": 64,
+                "value": "Todos los Procesadores AMD"
+              },
+              {
+                "hide": false,
+                "name": "AMD Ryzen™ Z2 GO",
+                "count": 1,
+                "value": "AMD Ryzen™ Z2 GO"
+              },
+              {
+                "hide": false,
+                "name": "AMD Ryzen™ 9",
+                "count": 2,
+                "value": "AMD Ryzen™ 9"
+              },
+              {
+                "hide": false,
+                "name": "AMD Ryzen™ 7",
+                "count": 13,
+                "value": "AMD Ryzen™ 7"
+              },
+              {
+                "hide": false,
+                "name": "AMD Ryzen™ 7 PRO",
+                "count": 8,
+                "value": "AMD Ryzen™ 7 PRO"
+              },
+              {
+                "hide": false,
+                "name": "AMD Ryzen™ 5",
+                "count": 9,
+                "value": "AMD Ryzen™ 5"
+              },
+              {
+                "hide": false,
+                "name": "AMD Ryzen™ 5 PRO",
+                "count": 3,
+                "value": "AMD Ryzen™ 5 PRO"
+              },
+              {
+                "hide": false,
+                "name": "AMD Ryzen™ 3 PRO",
+                "count": 1,
+                "value": "AMD Ryzen™ 3 PRO"
+              },
+              {
+                "hide": false,
+                "name": "AMD Ryzen™ 3",
+                "count": 4,
+                "value": "AMD Ryzen™ 3"
+              },
+              {
+                "hide": false,
+                "name": "AMD Ryzen™ AI",
+                "count": 23,
+                "value": "AMD Ryzen™ AI"
+              },
+              {
+                "hide": false,
+                "name": "All Snapdragon Processors",
+                "count": 2,
+                "value": "All Snapdragon Processors"
+              },
+              {
+                "hide": false,
+                "name": "Snapdragon® X Elite",
+                "count": 1,
+                "value": "Snapdragon® X Elite"
+              },
+              {
+                "hide": false,
+                "name": "Snapdragon® X",
+                "count": 1,
+                "value": "Snapdragon® X"
+              }
+            ],
+            "conditionIsBool": false,
+            "facetTooltipDomain": {
+              "videoId": "",
+              "headline": "",
+              "description": "",
+              "tooltipUrl": "",
+              "tooltipTextLink": "",
+              "specTooltip": 0
+            },
+            "nestedGroupSortRule": "count",
+            "show": true,
+            "grayOut": false
+          },
+          {
+            "facetId": "11052",
+            "facetName": "Almacenamiento",
+            "facetType": "productAttribute",
+            "isShow": true,
+            "isGrayOut": false,
+            "showType": "close",
+            "limitValue": 3,
+            "multiSelect": null,
+            "defaultValues": null,
+            "hideValues": null,
+            "sinkEndValues": null,
+            "preselectHideValues": null,
+            "weight": -9,
+            "items": [
+              {
+                "hide": false,
+                "name": "4 TB",
+                "count": 1,
+                "value": "4 TB"
+              },
+              {
+                "hide": false,
+                "name": "2 TB",
+                "count": 13,
+                "value": "2 TB"
+              },
+              {
+                "hide": false,
+                "name": "1 TB",
+                "count": 61,
+                "value": "1 TB"
+              },
+              {
+                "hide": false,
+                "name": "512 GB",
+                "count": 85,
+                "value": "512 GB"
+              },
+              {
+                "hide": false,
+                "name": "256 GB",
+                "count": 21,
+                "value": "256 GB"
+              }
+            ],
+            "conditionIsBool": false,
+            "facetTooltipDomain": {
+              "videoId": "",
+              "headline": "",
+              "description": "",
+              "tooltipUrl": "",
+              "tooltipTextLink": "",
+              "specTooltip": 0
+            },
+            "nestedGroupSortRule": "count",
+            "show": true,
+            "grayOut": false
+          },
+          {
+            "facetId": "11172",
+            "facetName": "Memoria",
+            "facetType": "productAttribute",
+            "isShow": true,
+            "isGrayOut": false,
+            "showType": "close",
+            "limitValue": 3,
+            "multiSelect": null,
+            "defaultValues": null,
+            "hideValues": null,
+            "sinkEndValues": null,
+            "preselectHideValues": null,
+            "weight": -10,
+            "items": [
+              {
+                "hide": false,
+                "name": "64 GB",
+                "count": 5,
+                "value": "64 GB"
+              },
+              {
+                "hide": false,
+                "name": "96 GB",
+                "count": 1,
+                "value": "96 GB"
+              },
+              {
+                "hide": false,
+                "name": "48 GB",
+                "count": 4,
+                "value": "48 GB"
+              },
+              {
+                "hide": false,
+                "name": "40 GB",
+                "count": 2,
+                "value": "40 GB"
+              },
+              {
+                "hide": false,
+                "name": "32 GB",
+                "count": 77,
+                "value": "32 GB"
+              },
+              {
+                "hide": false,
+                "name": "24 GB",
+                "count": 7,
+                "value": "24 GB"
+              },
+              {
+                "hide": false,
+                "name": "16 GB",
+                "count": 83,
+                "value": "16 GB"
+              },
+              {
+                "hide": false,
+                "name": "8 GB",
+                "count": 8,
+                "value": "8 GB"
+              }
+            ],
+            "conditionIsBool": false,
+            "facetTooltipDomain": {
+              "videoId": "",
+              "headline": "",
+              "description": "",
+              "tooltipUrl": "",
+              "tooltipTextLink": "",
+              "specTooltip": 0
+            },
+            "nestedGroupSortRule": "count",
+            "show": true,
+            "grayOut": false
+          },
+          {
+            "facetId": "11171",
+            "facetName": "Gráficos",
+            "facetType": "productAttribute",
+            "isShow": true,
+            "isGrayOut": false,
+            "showType": "close",
+            "limitValue": 3,
+            "multiSelect": null,
+            "defaultValues": null,
+            "hideValues": null,
+            "sinkEndValues": null,
+            "preselectHideValues": null,
+            "weight": -11,
+            "items": [
+              {
+                "hide": false,
+                "name": "Qualcomm™ Adreno",
+                "count": 1,
+                "value": "Qualcomm™ Adreno"
+              },
+              {
+                "hide": false,
+                "name": "NVIDIA RTX™",
+                "count": 51,
+                "value": "NVIDIA RTX™"
+              },
+              {
+                "hide": false,
+                "name": "Intel® Iris® Xe",
+                "count": 2,
+                "value": "Intel® Iris® Xe"
+              },
+              {
+                "hide": false,
+                "name": "Intel® UHD",
+                "count": 10,
+                "value": "Intel® UHD"
+              },
+              {
+                "hide": false,
+                "name": "Intel® Arc™",
+                "count": 25,
+                "value": "Intel® Arc™"
+              },
+              {
+                "hide": false,
+                "name": "Integrated",
+                "count": 127,
+                "value": "Integrated"
+              },
+              {
+                "hide": false,
+                "name": "AMD Radeon™",
+                "count": 25,
+                "value": "AMD Radeon™"
+              }
+            ],
+            "conditionIsBool": false,
+            "facetTooltipDomain": {
+              "videoId": "",
+              "headline": "",
+              "description": "",
+              "tooltipUrl": "",
+              "tooltipTextLink": "",
+              "specTooltip": 0
+            },
+            "nestedGroupSortRule": "count",
+            "show": true,
+            "grayOut": false
+          },
+          {
+            "facetId": "11049",
+            "facetName": "Sistema Operativo",
+            "facetType": "productAttribute",
+            "isShow": true,
+            "isGrayOut": false,
+            "showType": "close",
+            "limitValue": 3,
+            "multiSelect": null,
+            "defaultValues": null,
+            "hideValues": null,
+            "sinkEndValues": null,
+            "preselectHideValues": null,
+            "weight": -12,
+            "items": [
+              {
+                "hide": false,
+                "name": "Windows 11 Pro 64",
+                "count": 76,
+                "value": "Windows 11 Pro 64"
+              },
+              {
+                "hide": false,
+                "name": "Windows 11 Home 64",
+                "count": 103,
+                "value": "Windows 11 Home 64"
+              },
+              {
+                "hide": false,
+                "name": "Windows 11 Home 64 ARM",
+                "count": 2,
+                "value": "Windows 11 Home 64 ARM"
+              }
+            ],
+            "conditionIsBool": false,
+            "facetTooltipDomain": {
+              "videoId": "",
+              "headline": "",
+              "description": "",
+              "tooltipUrl": "",
+              "tooltipTextLink": "",
+              "specTooltip": 0
+            },
+            "nestedGroupSortRule": "count",
+            "show": true,
+            "grayOut": false
+          },
+          {
+            "facetId": "11060",
+            "facetName": "Tipo",
+            "facetType": "productAttribute",
+            "isShow": true,
+            "isGrayOut": false,
+            "showType": "close",
+            "limitValue": 3,
+            "multiSelect": null,
+            "defaultValues": null,
+            "hideValues": null,
+            "sinkEndValues": null,
+            "preselectHideValues": null,
+            "weight": -13,
+            "items": [
+              {
+                "hide": false,
+                "name": "2 en 1",
+                "count": 21,
+                "value": "2 en 1"
+              },
+              {
+                "hide": false,
+                "name": "Notebooks Tradicionales",
+                "count": 95,
+                "value": "Notebooks Tradicionales"
+              },
+              {
+                "hide": false,
+                "name": "Ultralivianas",
+                "count": 64,
+                "value": "Ultralivianas"
+              },
+              {
+                "hide": false,
+                "name": "Workstation",
+                "count": 28,
+                "value": "Workstation"
+              }
+            ],
+            "conditionIsBool": false,
+            "facetTooltipDomain": {
+              "videoId": "",
+              "headline": "",
+              "description": "",
+              "tooltipUrl": "",
+              "tooltipTextLink": "",
+              "specTooltip": 0
+            },
+            "nestedGroupSortRule": "count",
+            "show": true,
+            "grayOut": false
+          },
+          {
+            "facetId": "11246",
+            "facetName": "Uso",
+            "facetType": "productAttribute",
+            "isShow": true,
+            "isGrayOut": false,
+            "showType": "close",
+            "limitValue": 3,
+            "multiSelect": null,
+            "defaultValues": null,
+            "hideValues": null,
+            "sinkEndValues": null,
+            "preselectHideValues": null,
+            "weight": -14,
+            "items": [
+              {
+                "hide": false,
+                "name": "Trabajo",
+                "count": 130,
+                "value": "Trabajo"
+              },
+              {
+                "hide": false,
+                "name": "Estudiantes",
+                "count": 97,
+                "value": "Estudiantes"
+              },
+              {
+                "hide": false,
+                "name": "Creador de contenido",
+                "count": 60,
+                "value": "Creador de contenido"
+              },
+              {
+                "hide": false,
+                "name": "Uso Diario/Entretenimiento",
+                "count": 47,
+                "value": "Uso Diario/Entretenimiento"
+              },
+              {
+                "hide": false,
+                "name": "Juegos",
+                "count": 27,
+                "value": "Juegos"
+              }
+            ],
+            "conditionIsBool": false,
+            "facetTooltipDomain": {
+              "videoId": "",
+              "headline": "",
+              "description": "",
+              "tooltipUrl": "",
+              "tooltipTextLink": "",
+              "specTooltip": 0
+            },
+            "nestedGroupSortRule": "count",
+            "show": true,
+            "grayOut": false
+          }
+        ],
+        "sortNumber": null,
+        "isDisplayGroupName": false,
+        "showType": null,
+        "limitValue": null
+      }
+    ],
+    "tileCount": 1,
+    "algorithmId": null
+  },
+  "params": null,
+  "success": true
+}

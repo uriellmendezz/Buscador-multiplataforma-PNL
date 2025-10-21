@@ -1,0 +1,2276 @@
+[
+  {
+    "SourceType": "rog",
+    "GetURLFlag": 1,
+    "isRogFlag": 1,
+    "Level1ID": 8311,
+    "ProductURL": "https://rog.asus.com/ar/keyboards/keyboards/pbt-keycaps/rog-falchion-ace-model/",
+    "ProductCardURL": "https://rog.asus.com/ar/keyboards/keyboards/pbt-keycaps/rog-falchion-ace-model/",
+    "CustomizeTag": {
+      "Enabled": false,
+      "Text": ""
+    },
+    "LeftHeader": {
+      "NewsFlag": "N",
+      "DealFlag": "N",
+      "NewsFlagWording": "Nuevo",
+      "DealFlagWording": "OFERTA"
+    },
+    "RightHeader": [],
+    "ProductImage": "",
+    "Size": "",
+    "Level1Path": "Keyboards",
+    "Level2Path": "Keyboards",
+    "Level3Path": "PBT Keycaps",
+    "CategoryName": "ROG Falchion Ace",
+    "SubSeriesName": "",
+    "PDWebPath": "",
+    "Name": "<h2>Teclado Gamer ROG Falchion Ace</h2>",
+    "ReviewStar": "0.0",
+    "ReviewCount": 0,
+    "StartingAtWording": "El precio de la ASUS store es a partir de",
+    "Estore": "Precio de la ASUS store",
+    "PDCardSafety": "El precio de la ASUS store es el precio de un producto proporcionado por la ASUS store. Las especificaciones no incluidas aquí podrían no estar disponibles en la eStore y solo están como referencia.",
+    "PDCardSafety2": "",
+    "PriceLineColor": "#CCCCCC",
+    "PriceColor": "#181818",
+    "Price": "",
+    "Discount": "",
+    "DiscountColor": "#c74200",
+    "DiscountFlag": "",
+    "DiscountWording": "Guardar",
+    "RegularPrice": "",
+    "StartTimeWording": "",
+    "StartTime": "",
+    "EndTimeWording": "",
+    "EndTime": "",
+    "Notice": "1",
+    "ShippingHint": "",
+    "ModelSpec": "Teclado gamer compacto ROG Falchion Ace 65% con interruptores mecánicos ROG NX prelubricados con estabilizador de interruptores ROG, teclas PBT doubleshot, espuma insonorizante, panel táctil interactivo, puertos Tipo-C duales, tres ángulos de inclinación del teclado y funda protectora.",
+    "ProductOnlineDt": "2025-03-08 06:58:18",
+    "ImageList": [
+      {
+        "DefaultFlag": "Y",
+        "ColorCode": "XXXXX",
+        "ColorName": "",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/BAA03A74-6267-44B5-BFC7-22136E9AF51D/w185"
+        ]
+      }
+    ],
+    "ProductLogo": [],
+    "Buy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "ManualBuy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "WhereToBuy": {
+      "WTBText": "Dónde comprar",
+      "WTBFlag": 0,
+      "WTBLink": ""
+    },
+    "FindNearBy": {
+      "FindNearByText": "Encuentra una tienda",
+      "FindNearByFlag": 0
+    },
+    "VolumePurchase": {
+      "Level1Name": "",
+      "Text": "Volume purchase",
+      "Link": "https://www.connect.asus.com/ar/VolumePurchase",
+      "linkTarget": "_blank"
+    },
+    "LearnMore": "Más información",
+    "Compare": "Comparar",
+    "SeeMore": "Ver más",
+    "SeeLess": "Ver menos",
+    "ExternalID": "",
+    "ProductID": "R_90MP0346-BKUA01",
+    "RealProductID": 21129,
+    "M1Id": 21129,
+    "ProductHashedID": "",
+    "PartNo": "90MP0346-BKUA01",
+    "NewFlag": "0",
+    "DataRow": 16,
+    "ModelBaseFlag": 1,
+    "SpecFlag": 1,
+    "LowestPriceInNDayPeriod": "el precio más bajo en el periodo de 30 días anterior a la introducción del descuento",
+    "SubTagline": "",
+    "Tooltip": "",
+    "ReviewFlag": 1,
+    "HistoricLowPrice": "",
+    "SortPrice": "",
+    "StockStatus": "",
+    "SalesModelName": "M602 FALCHION ACE/NXRD/BLK/US/PBT"
+  },
+  {
+    "SourceType": "rog",
+    "GetURLFlag": 1,
+    "isRogFlag": 1,
+    "Level1ID": 8311,
+    "ProductURL": "https://rog.asus.com/ar/keyboards/keyboards/pbt-keycaps/rog-strix-scope-rx-model/",
+    "ProductCardURL": "https://rog.asus.com/ar/keyboards/keyboards/pbt-keycaps/rog-strix-scope-rx-model/",
+    "CustomizeTag": {
+      "Enabled": false,
+      "Text": ""
+    },
+    "LeftHeader": {
+      "NewsFlag": "N",
+      "DealFlag": "N",
+      "NewsFlagWording": "Nuevo",
+      "DealFlagWording": "OFERTA"
+    },
+    "RightHeader": [],
+    "ProductImage": "",
+    "Size": "",
+    "Level1Path": "Keyboards",
+    "Level2Path": "Keyboards",
+    "Level3Path": "PBT Keycaps",
+    "CategoryName": "ROG Strix Scope RX",
+    "SubSeriesName": "",
+    "PDWebPath": "",
+    "Name": "<h2>ROG Strix Scope RX Teclado Gamer</h2>",
+    "ReviewStar": "0.0",
+    "ReviewCount": 0,
+    "StartingAtWording": "El precio de la ASUS store es a partir de",
+    "Estore": "Precio de la ASUS store",
+    "PDCardSafety": "El precio de la ASUS store es el precio de un producto proporcionado por la ASUS store. Las especificaciones no incluidas aquí podrían no estar disponibles en la eStore y solo están como referencia.",
+    "PDCardSafety2": "",
+    "PriceLineColor": "#CCCCCC",
+    "PriceColor": "#181818",
+    "Price": "",
+    "Discount": "",
+    "DiscountColor": "#c74200",
+    "DiscountFlag": "",
+    "DiscountWording": "Guardar",
+    "RegularPrice": "",
+    "StartTimeWording": "",
+    "StartTime": "",
+    "EndTimeWording": "",
+    "EndTime": "",
+    "Notice": "1",
+    "ShippingHint": "",
+    "ModelSpec": "Teclado gamer ROG Strix Scope RX RGB óptico perfecto para FPS, con interruptores mecánicos ópticos ROG RX, iluminación Aura Sync RGB integral, resistencia al agua y al polvo IP57 , conexión USB 2.0, y placa superior de aleación.",
+    "ProductOnlineDt": "2025-03-08 01:28:55",
+    "ImageList": [
+      {
+        "DefaultFlag": "Y",
+        "ColorCode": "XXXXX",
+        "ColorName": "",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/A27E11D7-3711-4A85-B909-1957A0E409E4/w185"
+        ]
+      }
+    ],
+    "ProductLogo": [],
+    "Buy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "ManualBuy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "WhereToBuy": {
+      "WTBText": "Dónde comprar",
+      "WTBFlag": 0,
+      "WTBLink": ""
+    },
+    "FindNearBy": {
+      "FindNearByText": "Encuentra una tienda",
+      "FindNearByFlag": 0
+    },
+    "VolumePurchase": {
+      "Level1Name": "",
+      "Text": "Volume purchase",
+      "Link": "https://www.connect.asus.com/ar/VolumePurchase",
+      "linkTarget": "_blank"
+    },
+    "LearnMore": "Más información",
+    "Compare": "Comparar",
+    "SeeMore": "Ver más",
+    "SeeLess": "Ver menos",
+    "ExternalID": "",
+    "ProductID": "R_90MP0240-BKUA00",
+    "RealProductID": 15048,
+    "M1Id": 15048,
+    "ProductHashedID": "",
+    "PartNo": "90MP0240-BKUA00",
+    "NewFlag": "0",
+    "DataRow": 10,
+    "ModelBaseFlag": 1,
+    "SpecFlag": 1,
+    "LowestPriceInNDayPeriod": "el precio más bajo en el periodo de 30 días anterior a la introducción del descuento",
+    "SubTagline": "",
+    "Tooltip": "",
+    "ReviewFlag": 1,
+    "HistoricLowPrice": "",
+    "SortPrice": "",
+    "StockStatus": "",
+    "SalesModelName": "XA05 ROG STRIX SCOPE RX/RD/US"
+  },
+  {
+    "SourceType": "rog",
+    "GetURLFlag": 1,
+    "isRogFlag": 1,
+    "Level1ID": 8311,
+    "ProductURL": "https://rog.asus.com/ar/keyboards/keyboards/pbt-keycaps/rog-strix-scope-ii-rx/",
+    "ProductCardURL": "https://rog.asus.com/ar/keyboards/keyboards/pbt-keycaps/rog-strix-scope-ii-rx/",
+    "CustomizeTag": {
+      "Enabled": false,
+      "Text": ""
+    },
+    "LeftHeader": {
+      "NewsFlag": "N",
+      "DealFlag": "N",
+      "NewsFlagWording": "Nuevo",
+      "DealFlagWording": "OFERTA"
+    },
+    "RightHeader": [],
+    "ProductImage": "",
+    "Size": "",
+    "Level1Path": "Keyboards",
+    "Level2Path": "Keyboards",
+    "Level3Path": "PBT Keycaps",
+    "CategoryName": "ROG Strix Scope II RX",
+    "SubSeriesName": "",
+    "PDWebPath": "",
+    "Name": "<h2>Teclado Gamer ROG Strix Scope II RX</h2>",
+    "ReviewStar": "0.0",
+    "ReviewCount": 0,
+    "StartingAtWording": "El precio de la ASUS store es a partir de",
+    "Estore": "Precio de la ASUS store",
+    "PDCardSafety": "El precio de la ASUS store es el precio de un producto proporcionado por la ASUS store. Las especificaciones no incluidas aquí podrían no estar disponibles en la eStore y solo están como referencia.",
+    "PDCardSafety2": "",
+    "PriceLineColor": "#CCCCCC",
+    "PriceColor": "#181818",
+    "Price": "",
+    "Discount": "",
+    "DiscountColor": "#c74200",
+    "DiscountFlag": "",
+    "DiscountWording": "Guardar",
+    "RegularPrice": "",
+    "StartTimeWording": "",
+    "StartTime": "",
+    "EndTimeWording": "",
+    "EndTime": "",
+    "Notice": "1",
+    "ShippingHint": "",
+    "ModelSpec": "Teclado Gamer ROG Strix Scope II RX con interruptores ópticos ROG RX prelubricados, protección IP57 contra el agua, espuma insonorizante, cubiertas de teclas PBT de doble capa o cubiertas de teclas ABS con recubrimiento UV, teclas de acceso directo para streaming, controles multifunción, tres ángulos de inclinación y reposamuñecas.",
+    "ProductOnlineDt": "2025-03-08 00:33:06",
+    "ImageList": [
+      {
+        "DefaultFlag": "Y",
+        "ColorCode": "XXXXX",
+        "ColorName": "",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/8E2D8455-BE85-46D7-8BE6-17E9A0E96F5C/w185"
+        ]
+      }
+    ],
+    "ProductLogo": [],
+    "Buy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "ManualBuy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "WhereToBuy": {
+      "WTBText": "Dónde comprar",
+      "WTBFlag": 0,
+      "WTBLink": ""
+    },
+    "FindNearBy": {
+      "FindNearByText": "Encuentra una tienda",
+      "FindNearByFlag": 0
+    },
+    "VolumePurchase": {
+      "Level1Name": "",
+      "Text": "Volume purchase",
+      "Link": "https://www.connect.asus.com/ar/VolumePurchase",
+      "linkTarget": "_blank"
+    },
+    "LearnMore": "Más información",
+    "Compare": "Comparar",
+    "SeeMore": "Ver más",
+    "SeeLess": "Ver menos",
+    "ExternalID": "",
+    "ProductID": "R_90MP0350-BKAA01",
+    "RealProductID": 24018,
+    "M1Id": 23664,
+    "ProductHashedID": "",
+    "PartNo": "90MP0350-BKAA01",
+    "NewFlag": "0",
+    "DataRow": 17,
+    "ModelBaseFlag": 1,
+    "SpecFlag": 1,
+    "LowestPriceInNDayPeriod": "el precio más bajo en el periodo de 30 días anterior a la introducción del descuento",
+    "SubTagline": "",
+    "Tooltip": "",
+    "ReviewFlag": 1,
+    "HistoricLowPrice": "",
+    "SortPrice": "",
+    "StockStatus": "",
+    "SalesModelName": "XA12 ROG STRIX SCOPE II RX/RXRD/CA/PBT"
+  },
+  {
+    "SourceType": "rog",
+    "GetURLFlag": 1,
+    "isRogFlag": 1,
+    "Level1ID": 8311,
+    "ProductURL": "https://rog.asus.com/ar/keyboards/keyboards/pbt-keycaps/rog-falchion-nx-model/",
+    "ProductCardURL": "https://rog.asus.com/ar/keyboards/keyboards/pbt-keycaps/rog-falchion-nx-model/",
+    "CustomizeTag": {
+      "Enabled": false,
+      "Text": ""
+    },
+    "LeftHeader": {
+      "NewsFlag": "N",
+      "DealFlag": "N",
+      "NewsFlagWording": "Nuevo",
+      "DealFlagWording": "OFERTA"
+    },
+    "RightHeader": [],
+    "ProductImage": "",
+    "Size": "",
+    "Level1Path": "Keyboards",
+    "Level2Path": "Keyboards",
+    "Level3Path": "PBT Keycaps",
+    "CategoryName": "ROG Falchion NX",
+    "SubSeriesName": "",
+    "PDWebPath": "",
+    "Name": "<h2>ROG Falchion NX Teclado Gamer</h2>",
+    "ReviewStar": "0.0",
+    "ReviewCount": 0,
+    "StartingAtWording": "El precio de la ASUS store es a partir de",
+    "Estore": "Precio de la ASUS store",
+    "PDCardSafety": "El precio de la ASUS store es el precio de un producto proporcionado por la ASUS store. Las especificaciones no incluidas aquí podrían no estar disponibles en la eStore y solo están como referencia.",
+    "PDCardSafety2": "",
+    "PriceLineColor": "#CCCCCC",
+    "PriceColor": "#181818",
+    "Price": "",
+    "Discount": "",
+    "DiscountColor": "#c74200",
+    "DiscountFlag": "",
+    "DiscountWording": "Guardar",
+    "RegularPrice": "",
+    "StartTimeWording": "",
+    "StartTime": "",
+    "EndTimeWording": "",
+    "EndTime": "",
+    "Notice": "1",
+    "ShippingHint": "",
+    "ModelSpec": "Teclado gaming mecánico inalámbrico ROG Falchion NX 65% con 68 teclas, iluminación inalámbrica Aura Sync, panel táctil interactivo, funda protectora para el teclado, interruptores ROG NX y hasta 450 horas de duración de batería.",
+    "ProductOnlineDt": "2025-03-06 03:07:56",
+    "ImageList": [
+      {
+        "DefaultFlag": "Y",
+        "ColorCode": "XXXXX",
+        "ColorName": "",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/E6D1FFC2-6F88-43C9-ABC2-91A413FA8899/w185"
+        ]
+      }
+    ],
+    "ProductLogo": [],
+    "Buy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "ManualBuy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "WhereToBuy": {
+      "WTBText": "Dónde comprar",
+      "WTBFlag": 0,
+      "WTBLink": ""
+    },
+    "FindNearBy": {
+      "FindNearByText": "Encuentra una tienda",
+      "FindNearByFlag": 0
+    },
+    "VolumePurchase": {
+      "Level1Name": "",
+      "Text": "Volume purchase",
+      "Link": "https://www.connect.asus.com/ar/VolumePurchase",
+      "linkTarget": "_blank"
+    },
+    "LearnMore": "Más información",
+    "Compare": "Comparar",
+    "SeeMore": "Ver más",
+    "SeeLess": "Ver menos",
+    "ExternalID": "",
+    "ProductID": "R_90MP01Y6-BKUA00",
+    "RealProductID": 15616,
+    "M1Id": 15616,
+    "ProductHashedID": "",
+    "PartNo": "90MP01Y6-BKUA00",
+    "NewFlag": "0",
+    "DataRow": 9,
+    "ModelBaseFlag": 1,
+    "SpecFlag": 1,
+    "LowestPriceInNDayPeriod": "el precio más bajo en el periodo de 30 días anterior a la introducción del descuento",
+    "SubTagline": "",
+    "Tooltip": "",
+    "ReviewFlag": 1,
+    "HistoricLowPrice": "",
+    "SortPrice": "",
+    "StockStatus": "",
+    "SalesModelName": "M601 ROG FALCHION NX/NXRD/US"
+  },
+  {
+    "SourceType": "rog",
+    "GetURLFlag": 1,
+    "isRogFlag": 1,
+    "Level1ID": 8311,
+    "ProductURL": "https://rog.asus.com/ar/keyboards/keyboards/pbt-keycaps/rog-strix-scope-rx-tkl-wireless-deluxe-model/",
+    "ProductCardURL": "https://rog.asus.com/ar/keyboards/keyboards/pbt-keycaps/rog-strix-scope-rx-tkl-wireless-deluxe-model/",
+    "CustomizeTag": {
+      "Enabled": false,
+      "Text": ""
+    },
+    "LeftHeader": {
+      "NewsFlag": "N",
+      "DealFlag": "N",
+      "NewsFlagWording": "Nuevo",
+      "DealFlagWording": "OFERTA"
+    },
+    "RightHeader": [],
+    "ProductImage": "",
+    "Size": "",
+    "Level1Path": "Keyboards",
+    "Level2Path": "Keyboards",
+    "Level3Path": "PBT Keycaps",
+    "CategoryName": "ROG Strix Scope RX TKL Wireless Deluxe",
+    "SubSeriesName": "",
+    "PDWebPath": "",
+    "Name": "<h2>ROG Strix Scope RX TKL Wireless Deluxe Teclado Gamer</h2>",
+    "ReviewStar": "0.0",
+    "ReviewCount": 0,
+    "StartingAtWording": "El precio de la ASUS store es a partir de",
+    "Estore": "Precio de la ASUS store",
+    "PDCardSafety": "El precio de la ASUS store es el precio de un producto proporcionado por la ASUS store. Las especificaciones no incluidas aquí podrían no estar disponibles en la eStore y solo están como referencia.",
+    "PDCardSafety2": "",
+    "PriceLineColor": "#CCCCCC",
+    "PriceColor": "#181818",
+    "Price": "",
+    "Discount": "",
+    "DiscountColor": "#c74200",
+    "DiscountFlag": "",
+    "DiscountWording": "Guardar",
+    "RegularPrice": "",
+    "StartTimeWording": "",
+    "StartTime": "",
+    "EndTimeWording": "",
+    "EndTime": "",
+    "Notice": "1",
+    "ShippingHint": "",
+    "ModelSpec": "Teclado Inalámbrico Gamer ROG Strix Scope RX TKL Wireless Deluxe para FPS, con conectividad tri-mode, interruptores mecánicos ópticos ROG RX, tecla Ctrl ancha, teclas PBT, Aura Sync RGB, reposamuñecas magnético y placa superior de aleación.",
+    "ProductOnlineDt": "2025-03-05 22:48:28",
+    "ImageList": [
+      {
+        "DefaultFlag": "Y",
+        "ColorCode": "XXXXX",
+        "ColorName": "",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/DCBD7A8C-2AC6-4D1C-ABA8-CBE3C2C4E41E/w185"
+        ]
+      }
+    ],
+    "ProductLogo": [],
+    "Buy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "ManualBuy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "WhereToBuy": {
+      "WTBText": "Dónde comprar",
+      "WTBFlag": 0,
+      "WTBLink": ""
+    },
+    "FindNearBy": {
+      "FindNearByText": "Encuentra una tienda",
+      "FindNearByFlag": 0
+    },
+    "VolumePurchase": {
+      "Level1Name": "",
+      "Text": "Volume purchase",
+      "Link": "https://www.connect.asus.com/ar/VolumePurchase",
+      "linkTarget": "_blank"
+    },
+    "LearnMore": "Más información",
+    "Compare": "Comparar",
+    "SeeMore": "Ver más",
+    "SeeLess": "Ver menos",
+    "ExternalID": "",
+    "ProductID": "R_90MP02J0-BKUA01",
+    "RealProductID": 20464,
+    "M1Id": 20464,
+    "ProductHashedID": "",
+    "PartNo": "90MP02J0-BKUA01",
+    "NewFlag": "0",
+    "DataRow": 14,
+    "ModelBaseFlag": 1,
+    "SpecFlag": 1,
+    "LowestPriceInNDayPeriod": "el precio más bajo en el periodo de 30 días anterior a la introducción del descuento",
+    "SubTagline": "",
+    "Tooltip": "",
+    "ReviewFlag": 1,
+    "HistoricLowPrice": "",
+    "SortPrice": "",
+    "StockStatus": "",
+    "SalesModelName": "X807 STRIX SCOPE RX TKL WL D/RD/US/PBT"
+  },
+  {
+    "SourceType": "rog",
+    "GetURLFlag": 1,
+    "isRogFlag": 1,
+    "Level1ID": 8311,
+    "ProductURL": "https://rog.asus.com/ar/keyboards/keyboards/compact/rog-falchion-rx-low-profile/",
+    "ProductCardURL": "https://rog.asus.com/ar/keyboards/keyboards/compact/rog-falchion-rx-low-profile/",
+    "CustomizeTag": {
+      "Enabled": false,
+      "Text": ""
+    },
+    "LeftHeader": {
+      "NewsFlag": "N",
+      "DealFlag": "N",
+      "NewsFlagWording": "Nuevo",
+      "DealFlagWording": "OFERTA"
+    },
+    "RightHeader": [],
+    "ProductImage": "",
+    "Size": "",
+    "Level1Path": "Keyboards",
+    "Level2Path": "Keyboards",
+    "Level3Path": "Compact",
+    "CategoryName": "ROG Falchion RX Low Profile",
+    "SubSeriesName": "",
+    "PDWebPath": "",
+    "Name": "<h2>Teclado Gamer ROG Falchion RX de Perfil Bajo</h2>",
+    "ReviewStar": "0.0",
+    "ReviewCount": 0,
+    "StartingAtWording": "El precio de la ASUS store es a partir de",
+    "Estore": "Precio de la ASUS store",
+    "PDCardSafety": "El precio de la ASUS store es el precio de un producto proporcionado por la ASUS store. Las especificaciones no incluidas aquí podrían no estar disponibles en la eStore y solo están como referencia.",
+    "PDCardSafety2": "",
+    "PriceLineColor": "#CCCCCC",
+    "PriceColor": "#181818",
+    "Price": "",
+    "Discount": "",
+    "DiscountColor": "#c74200",
+    "DiscountFlag": "",
+    "DiscountWording": "Guardar",
+    "RegularPrice": "",
+    "StartTimeWording": "",
+    "StartTime": "",
+    "EndTimeWording": "",
+    "EndTime": "",
+    "Notice": "1",
+    "ShippingHint": "",
+    "ModelSpec": "Teclado inalámbrico gamer ROG Falchion RX de perfil bajo compacto al 65%, con interruptores ópticos de perfil bajo ROG RX, conexión tri-modo con tecnología inalámbrica ROG SpeedNova y receptor Omni, cubierta protectora, espuma amortiguadora de silicona integrada, panel táctil interactivo y compatibilidad con MacOS.",
+    "ProductOnlineDt": "2025-03-05 01:59:20",
+    "ImageList": [
+      {
+        "DefaultFlag": "Y",
+        "ColorCode": "XXXXX",
+        "ColorName": "",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/358CBEB5-3333-4C33-AFDA-F35880F28CD9/w185"
+        ]
+      }
+    ],
+    "ProductLogo": [],
+    "Buy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "ManualBuy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "WhereToBuy": {
+      "WTBText": "Dónde comprar",
+      "WTBFlag": 0,
+      "WTBLink": ""
+    },
+    "FindNearBy": {
+      "FindNearByText": "Encuentra una tienda",
+      "FindNearByFlag": 0
+    },
+    "VolumePurchase": {
+      "Level1Name": "",
+      "Text": "Volume purchase",
+      "Link": "https://www.connect.asus.com/ar/VolumePurchase",
+      "linkTarget": "_blank"
+    },
+    "LearnMore": "Más información",
+    "Compare": "Comparar",
+    "SeeMore": "Ver más",
+    "SeeLess": "Ver menos",
+    "ExternalID": "",
+    "ProductID": "R_90MP03EC-BKAA10",
+    "RealProductID": 25624,
+    "M1Id": 25161,
+    "ProductHashedID": "",
+    "PartNo": "90MP03EC-BKAA10",
+    "NewFlag": "0",
+    "DataRow": 20,
+    "ModelBaseFlag": 1,
+    "SpecFlag": 1,
+    "LowestPriceInNDayPeriod": "el precio más bajo en el periodo de 30 días anterior a la introducción del descuento",
+    "SubTagline": "",
+    "Tooltip": "",
+    "ReviewFlag": 1,
+    "HistoricLowPrice": "",
+    "SortPrice": "",
+    "StockStatus": "",
+    "SalesModelName": "M603 FALCHION RX LP/RLRD/CA"
+  },
+  {
+    "SourceType": "rog",
+    "GetURLFlag": 1,
+    "isRogFlag": 1,
+    "Level1ID": 8311,
+    "ProductURL": "https://rog.asus.com/ar/keyboards/keyboards/pbt-keycaps/rog-strix-scope-ii-96-wireless/",
+    "ProductCardURL": "https://rog.asus.com/ar/keyboards/keyboards/pbt-keycaps/rog-strix-scope-ii-96-wireless/",
+    "CustomizeTag": {
+      "Enabled": false,
+      "Text": ""
+    },
+    "LeftHeader": {
+      "NewsFlag": "N",
+      "DealFlag": "N",
+      "NewsFlagWording": "Nuevo",
+      "DealFlagWording": "OFERTA"
+    },
+    "RightHeader": [],
+    "ProductImage": "",
+    "Size": "",
+    "Level1Path": "Keyboards",
+    "Level2Path": "Keyboards",
+    "Level3Path": "PBT Keycaps",
+    "CategoryName": "ROG Strix Scope II 96 Wireless",
+    "SubSeriesName": "",
+    "PDWebPath": "",
+    "Name": "<h2>Teclado Inalámbrico Gamer ROG Strix Scope II 96</h2>",
+    "ReviewStar": "0.0",
+    "ReviewCount": 0,
+    "StartingAtWording": "El precio de la ASUS store es a partir de",
+    "Estore": "Precio de la ASUS store",
+    "PDCardSafety": "El precio de la ASUS store es el precio de un producto proporcionado por la ASUS store. Las especificaciones no incluidas aquí podrían no estar disponibles en la eStore y solo están como referencia.",
+    "PDCardSafety2": "",
+    "PriceLineColor": "#CCCCCC",
+    "PriceColor": "#181818",
+    "Price": "",
+    "Discount": "",
+    "DiscountColor": "#c74200",
+    "DiscountFlag": "",
+    "DiscountWording": "Guardar",
+    "RegularPrice": "",
+    "StartTimeWording": "",
+    "StartTime": "",
+    "EndTimeWording": "",
+    "EndTime": "",
+    "Notice": "1",
+    "ShippingHint": "",
+    "ModelSpec": "Teclado inalámbrico gamer ROG Strix Scope II 96con conexión tri-mode, teclas de acceso rápido para streamer, controles multifunción, interruptores mecánicos ROG NX Snow & Storm intercambiables en caliente y pre-lubrificados, estabilizadores de teclado ROG, tapas de teclado PBT doubleshot y espuma amortiguadora de silicona, tres ángulos de inclinación y reposamuñecas.",
+    "ProductOnlineDt": "2025-03-04 13:14:42",
+    "ImageList": [
+      {
+        "DefaultFlag": "Y",
+        "ColorCode": "XXXXX",
+        "ColorName": "",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/9E1FA5D0-65AB-4188-84DE-A80058422939/w185"
+        ]
+      }
+    ],
+    "ProductLogo": [],
+    "Buy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "ManualBuy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "WhereToBuy": {
+      "WTBText": "Dónde comprar",
+      "WTBFlag": 0,
+      "WTBLink": ""
+    },
+    "FindNearBy": {
+      "FindNearByText": "Encuentra una tienda",
+      "FindNearByFlag": 0
+    },
+    "VolumePurchase": {
+      "Level1Name": "",
+      "Text": "Volume purchase",
+      "Link": "https://www.connect.asus.com/ar/VolumePurchase",
+      "linkTarget": "_blank"
+    },
+    "LearnMore": "Más información",
+    "Compare": "Comparar",
+    "SeeMore": "Ver más",
+    "SeeLess": "Ver menos",
+    "ExternalID": "",
+    "ProductID": "R_90MP037A-BKAA01",
+    "RealProductID": 24006,
+    "M1Id": 23652,
+    "ProductHashedID": "",
+    "PartNo": "90MP037A-BKAA01",
+    "NewFlag": "0",
+    "DataRow": 19,
+    "ModelBaseFlag": 1,
+    "SpecFlag": 1,
+    "LowestPriceInNDayPeriod": "el precio más bajo en el periodo de 30 días anterior a la introducción del descuento",
+    "SubTagline": "",
+    "Tooltip": "",
+    "ReviewFlag": 1,
+    "HistoricLowPrice": "",
+    "SortPrice": "",
+    "StockStatus": "",
+    "SalesModelName": "X901 STRIX SCOPE II 96 WL/NXSW/CA/PBT"
+  },
+  {
+    "SourceType": "rog",
+    "GetURLFlag": 1,
+    "isRogFlag": 1,
+    "Level1ID": 8311,
+    "ProductURL": "https://rog.asus.com/ar/keyboards/keyboards/compact/rog-falchion-ace-hfx/",
+    "ProductCardURL": "https://rog.asus.com/ar/keyboards/keyboards/compact/rog-falchion-ace-hfx/",
+    "CustomizeTag": {
+      "Enabled": false,
+      "Text": ""
+    },
+    "LeftHeader": {
+      "NewsFlag": "N",
+      "DealFlag": "N",
+      "NewsFlagWording": "Nuevo",
+      "DealFlagWording": "OFERTA"
+    },
+    "RightHeader": [],
+    "ProductImage": "",
+    "Size": "",
+    "Level1Path": "Keyboards",
+    "Level2Path": "Keyboards",
+    "Level3Path": "Compact",
+    "CategoryName": "ROG Falchion Ace HFX",
+    "SubSeriesName": "",
+    "PDWebPath": "",
+    "Name": "<h2>Teclado Gamer ROG Falchion Ace HFX</h2>",
+    "ReviewStar": "0.0",
+    "ReviewCount": 0,
+    "StartingAtWording": "El precio de la ASUS store es a partir de",
+    "Estore": "Precio de la ASUS store",
+    "PDCardSafety": "El precio de la ASUS store es el precio de un producto proporcionado por la ASUS store. Las especificaciones no incluidas aquí podrían no estar disponibles en la eStore y solo están como referencia.",
+    "PDCardSafety2": "",
+    "PriceLineColor": "#CCCCCC",
+    "PriceColor": "#181818",
+    "Price": "",
+    "Discount": "",
+    "DiscountColor": "#c74200",
+    "DiscountFlag": "",
+    "DiscountWording": "Guardar",
+    "RegularPrice": "",
+    "StartTimeWording": "",
+    "StartTime": "",
+    "EndTimeWording": "",
+    "EndTime": "",
+    "Notice": "1",
+    "ShippingHint": "",
+    "ModelSpec": "<p>Teclado analógico gamer ROG Falchion Ace HFX 65% con switches magnéticos ROG HFX prelubricados, activador Rapid Trigger, modo Speed Tap, panel táctil interactivo, tasa de sondeo de 8000 Hz, amortiguación de cinco capas y montaje de junta de silicona, puertos duales Tipo C, tres ángulos de inclinación y cubierta protectora</p>",
+    "ProductOnlineDt": "2025-03-04 12:15:16",
+    "ImageList": [
+      {
+        "DefaultFlag": "Y",
+        "ColorCode": "XXXXX",
+        "ColorName": "",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/BB5CFB46-150B-468C-AAD4-A16811BDA7E8/w185"
+        ]
+      }
+    ],
+    "ProductLogo": [],
+    "Buy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "ManualBuy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "WhereToBuy": {
+      "WTBText": "Dónde comprar",
+      "WTBFlag": 0,
+      "WTBLink": ""
+    },
+    "FindNearBy": {
+      "FindNearByText": "Encuentra una tienda",
+      "FindNearByFlag": 0
+    },
+    "VolumePurchase": {
+      "Level1Name": "",
+      "Text": "Volume purchase",
+      "Link": "https://www.connect.asus.com/ar/VolumePurchase",
+      "linkTarget": "_blank"
+    },
+    "LearnMore": "Más información",
+    "Compare": "Comparar",
+    "SeeMore": "Ver más",
+    "SeeLess": "Ver menos",
+    "ExternalID": "",
+    "ProductID": "R_90MP03VE-BKAA20",
+    "RealProductID": 29178,
+    "M1Id": 28616,
+    "ProductHashedID": "",
+    "PartNo": "90MP03VE-BKAA20",
+    "NewFlag": "0",
+    "DataRow": 21,
+    "ModelBaseFlag": 1,
+    "SpecFlag": 1,
+    "LowestPriceInNDayPeriod": "el precio más bajo en el periodo de 30 días anterior a la introducción del descuento",
+    "SubTagline": "",
+    "Tooltip": "",
+    "ReviewFlag": 1,
+    "HistoricLowPrice": "",
+    "SortPrice": "",
+    "StockStatus": "",
+    "SalesModelName": "M605 ROG FALCHION ACE HFX/HFX/CA/PBT"
+  },
+  {
+    "SourceType": "rog",
+    "GetURLFlag": 1,
+    "isRogFlag": 1,
+    "Level1ID": 8311,
+    "ProductURL": "https://rog.asus.com/ar/keyboards/keyboards/compact/rog-strix-scope-tkl-electro-punk-model/",
+    "ProductCardURL": "https://rog.asus.com/ar/keyboards/keyboards/compact/rog-strix-scope-tkl-electro-punk-model/",
+    "CustomizeTag": {
+      "Enabled": false,
+      "Text": ""
+    },
+    "LeftHeader": {
+      "NewsFlag": "N",
+      "DealFlag": "N",
+      "NewsFlagWording": "Nuevo",
+      "DealFlagWording": "OFERTA"
+    },
+    "RightHeader": [],
+    "ProductImage": "",
+    "Size": "",
+    "Level1Path": "Keyboards",
+    "Level2Path": "Keyboards",
+    "Level3Path": "Compact",
+    "CategoryName": "ROG Strix Scope TKL Electro Punk",
+    "SubSeriesName": "",
+    "PDWebPath": "",
+    "Name": "<h2>ROG Strix Scope TKL Electro Punk Teclado Gamer</h2>",
+    "ReviewStar": "0.0",
+    "ReviewCount": 0,
+    "StartingAtWording": "El precio de la ASUS store es a partir de",
+    "Estore": "Precio de la ASUS store",
+    "PDCardSafety": "El precio de la ASUS store es el precio de un producto proporcionado por la ASUS store. Las especificaciones no incluidas aquí podrían no estar disponibles en la eStore y solo están como referencia.",
+    "PDCardSafety2": "",
+    "PriceLineColor": "#CCCCCC",
+    "PriceColor": "#181818",
+    "Price": "",
+    "Discount": "",
+    "DiscountColor": "#c74200",
+    "DiscountFlag": "",
+    "DiscountWording": "Guardar",
+    "RegularPrice": "",
+    "StartTimeWording": "",
+    "StartTime": "",
+    "EndTimeWording": "",
+    "EndTime": "",
+    "Notice": "1",
+    "ShippingHint": "",
+    "ModelSpec": "Teclado mecánico RGB con cable ROG Strix Scope TKL Electro Punk para juegos FPS, con interruptores Cherry MX, marco de aluminio e iluminación Aura Sync",
+    "ProductOnlineDt": "2025-02-26 01:01:45",
+    "ImageList": [
+      {
+        "DefaultFlag": "Y",
+        "ColorCode": "XXXXX",
+        "ColorName": "",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/D973617B-8AC5-4D70-9B6A-C5CAEBD3F1B7/w185"
+        ]
+      }
+    ],
+    "ProductLogo": [],
+    "Buy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "ManualBuy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "WhereToBuy": {
+      "WTBText": "Dónde comprar",
+      "WTBFlag": 0,
+      "WTBLink": ""
+    },
+    "FindNearBy": {
+      "FindNearByText": "Encuentra una tienda",
+      "FindNearByFlag": 0
+    },
+    "VolumePurchase": {
+      "Level1Name": "",
+      "Text": "Volume purchase",
+      "Link": "https://www.connect.asus.com/ar/VolumePurchase",
+      "linkTarget": "_blank"
+    },
+    "LearnMore": "Más información",
+    "Compare": "Comparar",
+    "SeeMore": "Ver más",
+    "SeeLess": "Ver menos",
+    "ExternalID": "",
+    "ProductID": "R_90MP01V0-BKUA00",
+    "RealProductID": 14693,
+    "M1Id": 14693,
+    "ProductHashedID": "",
+    "PartNo": "90MP01V0-BKUA00",
+    "NewFlag": "0",
+    "DataRow": 6,
+    "ModelBaseFlag": 1,
+    "SpecFlag": 1,
+    "LowestPriceInNDayPeriod": "el precio más bajo en el periodo de 30 días anterior a la introducción del descuento",
+    "SubTagline": "",
+    "Tooltip": "",
+    "ReviewFlag": 1,
+    "HistoricLowPrice": "",
+    "SortPrice": "",
+    "StockStatus": "",
+    "SalesModelName": "X803 STRIX SCOPE TKL EP/RD/US"
+  },
+  {
+    "SourceType": "rog",
+    "GetURLFlag": 1,
+    "isRogFlag": 1,
+    "Level1ID": 8311,
+    "ProductURL": "https://rog.asus.com/ar/keyboards/keyboards/pbt-keycaps/rog-falchion-model/",
+    "ProductCardURL": "https://rog.asus.com/ar/keyboards/keyboards/pbt-keycaps/rog-falchion-model/",
+    "CustomizeTag": {
+      "Enabled": false,
+      "Text": ""
+    },
+    "LeftHeader": {
+      "NewsFlag": "N",
+      "DealFlag": "N",
+      "NewsFlagWording": "Nuevo",
+      "DealFlagWording": "OFERTA"
+    },
+    "RightHeader": [],
+    "ProductImage": "",
+    "Size": "",
+    "Level1Path": "Keyboards",
+    "Level2Path": "Keyboards",
+    "Level3Path": "PBT Keycaps",
+    "CategoryName": "ROG Falchion",
+    "SubSeriesName": "",
+    "PDWebPath": "",
+    "Name": "<h2>ROG Falchion Teclado Gamer</h2>",
+    "ReviewStar": "0.0",
+    "ReviewCount": 0,
+    "StartingAtWording": "El precio de la ASUS store es a partir de",
+    "Estore": "Precio de la ASUS store",
+    "PDCardSafety": "El precio de la ASUS store es el precio de un producto proporcionado por la ASUS store. Las especificaciones no incluidas aquí podrían no estar disponibles en la eStore y solo están como referencia.",
+    "PDCardSafety2": "",
+    "PriceLineColor": "#CCCCCC",
+    "PriceColor": "#181818",
+    "Price": "",
+    "Discount": "",
+    "DiscountColor": "#c74200",
+    "DiscountFlag": "",
+    "DiscountWording": "Guardar",
+    "RegularPrice": "",
+    "StartTimeWording": "",
+    "StartTime": "",
+    "EndTimeWording": "",
+    "EndTime": "",
+    "Notice": "1",
+    "ShippingHint": "",
+    "ModelSpec": "Teclado mecánico inalámbrico gamer ROG Falchion 65% con 68 teclas, iluminación inalámbrica Aura Sync, panel táctil interactivo, funda protectora para el teclado, interruptores Cherry MX y hasta 450 horas de duración de las pilas.",
+    "ProductOnlineDt": "2025-02-25 02:53:07",
+    "ImageList": [
+      {
+        "DefaultFlag": "Y",
+        "ColorCode": "XXXXX",
+        "ColorName": "",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/21597AB2-8BDD-4E12-83EC-45C6B2DC9B03/w185"
+        ]
+      }
+    ],
+    "ProductLogo": [],
+    "Buy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "ManualBuy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "WhereToBuy": {
+      "WTBText": "Dónde comprar",
+      "WTBFlag": 0,
+      "WTBLink": ""
+    },
+    "FindNearBy": {
+      "FindNearByText": "Encuentra una tienda",
+      "FindNearByFlag": 0
+    },
+    "VolumePurchase": {
+      "Level1Name": "",
+      "Text": "Volume purchase",
+      "Link": "https://www.connect.asus.com/ar/VolumePurchase",
+      "linkTarget": "_blank"
+    },
+    "LearnMore": "Más información",
+    "Compare": "Comparar",
+    "SeeMore": "Ver más",
+    "SeeLess": "Ver menos",
+    "ExternalID": "",
+    "ProductID": "R_90MP01Y0-BKUA00",
+    "RealProductID": 14979,
+    "M1Id": 14979,
+    "ProductHashedID": "",
+    "PartNo": "90MP01Y0-BKUA00",
+    "NewFlag": "0",
+    "DataRow": 8,
+    "ModelBaseFlag": 1,
+    "SpecFlag": 1,
+    "LowestPriceInNDayPeriod": "el precio más bajo en el periodo de 30 días anterior a la introducción del descuento",
+    "SubTagline": "",
+    "Tooltip": "",
+    "ReviewFlag": 1,
+    "HistoricLowPrice": "",
+    "SortPrice": "",
+    "StockStatus": "",
+    "SalesModelName": "M601 ROG FALCHION/RD/US"
+  },
+  {
+    "SourceType": "rog",
+    "GetURLFlag": 1,
+    "isRogFlag": 1,
+    "Level1ID": 8311,
+    "ProductURL": "https://rog.asus.com/ar/keyboards/keyboards/pbt-keycaps/rog-claymore-ii-model/",
+    "ProductCardURL": "https://rog.asus.com/ar/keyboards/keyboards/pbt-keycaps/rog-claymore-ii-model/",
+    "CustomizeTag": {
+      "Enabled": false,
+      "Text": ""
+    },
+    "LeftHeader": {
+      "NewsFlag": "N",
+      "DealFlag": "N",
+      "NewsFlagWording": "Nuevo",
+      "DealFlagWording": "OFERTA"
+    },
+    "RightHeader": [],
+    "ProductImage": "",
+    "Size": "",
+    "Level1Path": "Keyboards",
+    "Level2Path": "Keyboards",
+    "Level3Path": "PBT Keycaps",
+    "CategoryName": "ROG Claymore II",
+    "SubSeriesName": "",
+    "PDWebPath": "",
+    "Name": "<h2>ROG Claymore II Teclado Gamer</h2>",
+    "ReviewStar": "0.0",
+    "ReviewCount": 0,
+    "StartingAtWording": "El precio de la ASUS store es a partir de",
+    "Estore": "Precio de la ASUS store",
+    "PDCardSafety": "El precio de la ASUS store es el precio de un producto proporcionado por la ASUS store. Las especificaciones no incluidas aquí podrían no estar disponibles en la eStore y solo están como referencia.",
+    "PDCardSafety2": "",
+    "PriceLineColor": "#CCCCCC",
+    "PriceColor": "#181818",
+    "Price": "",
+    "Discount": "",
+    "DiscountColor": "#c74200",
+    "DiscountFlag": "",
+    "DiscountWording": "Guardar",
+    "RegularPrice": "",
+    "StartTimeWording": "",
+    "StartTime": "",
+    "EndTimeWording": "",
+    "EndTime": "",
+    "Notice": "1",
+    "ShippingHint": "",
+    "ModelSpec": "Teclado mecánico gamer modular TKL 80% / 100% ROG Claymore II con Switches Mecánicos Ópticos ROG RX, teclado numérico y reposamuñecas desmontables, modos 2.4G alámbrico e inalámbricos, teclas de acceso rápido extra personalizables, rueda de control de volumen y Aura Sync inalámbrico.",
+    "ProductOnlineDt": "2025-02-25 00:47:04",
+    "ImageList": [
+      {
+        "DefaultFlag": "Y",
+        "ColorCode": "XXXXX",
+        "ColorName": "",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/7BDBE811-9350-400C-BE5E-AB1614972EC4/w185"
+        ]
+      }
+    ],
+    "ProductLogo": [],
+    "Buy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "ManualBuy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "WhereToBuy": {
+      "WTBText": "Dónde comprar",
+      "WTBFlag": 0,
+      "WTBLink": ""
+    },
+    "FindNearBy": {
+      "FindNearByText": "Encuentra una tienda",
+      "FindNearByFlag": 0
+    },
+    "VolumePurchase": {
+      "Level1Name": "",
+      "Text": "Volume purchase",
+      "Link": "https://www.connect.asus.com/ar/VolumePurchase",
+      "linkTarget": "_blank"
+    },
+    "LearnMore": "Más información",
+    "Compare": "Comparar",
+    "SeeMore": "Ver más",
+    "SeeLess": "Ver menos",
+    "ExternalID": "",
+    "ProductID": "R_90MP01W0-BKAA00",
+    "RealProductID": 15406,
+    "M1Id": 15406,
+    "ProductHashedID": "",
+    "PartNo": "90MP01W0-BKAA00",
+    "NewFlag": "0",
+    "DataRow": 7,
+    "ModelBaseFlag": 1,
+    "SpecFlag": 1,
+    "LowestPriceInNDayPeriod": "el precio más bajo en el periodo de 30 días anterior a la introducción del descuento",
+    "SubTagline": "",
+    "Tooltip": "",
+    "ReviewFlag": 1,
+    "HistoricLowPrice": "",
+    "SortPrice": "",
+    "StockStatus": "",
+    "SalesModelName": "MA02 ROG CLAYMORE II/RD/CA"
+  },
+  {
+    "SourceType": "rog",
+    "GetURLFlag": 1,
+    "isRogFlag": 1,
+    "Level1ID": 8311,
+    "ProductURL": "https://rog.asus.com/ar/keyboards/keyboards/aura-rgb/rog-strix-scope-nx-tkl-moonlight-white-model/",
+    "ProductCardURL": "https://rog.asus.com/ar/keyboards/keyboards/aura-rgb/rog-strix-scope-nx-tkl-moonlight-white-model/",
+    "CustomizeTag": {
+      "Enabled": false,
+      "Text": ""
+    },
+    "LeftHeader": {
+      "NewsFlag": "N",
+      "DealFlag": "N",
+      "NewsFlagWording": "Nuevo",
+      "DealFlagWording": "OFERTA"
+    },
+    "RightHeader": [],
+    "ProductImage": "",
+    "Size": "",
+    "Level1Path": "Keyboards",
+    "Level2Path": "Keyboards",
+    "Level3Path": "Aura RGB",
+    "CategoryName": "ROG Strix Scope NX TKL Moonlight White",
+    "SubSeriesName": "",
+    "PDWebPath": "",
+    "Name": "<h2>ROG Strix Scope NX TKL Moonlight White Teclado Gamer</h2>",
+    "ReviewStar": "0.0",
+    "ReviewCount": 0,
+    "StartingAtWording": "El precio de la ASUS store es a partir de",
+    "Estore": "Precio de la ASUS store",
+    "PDCardSafety": "El precio de la ASUS store es el precio de un producto proporcionado por la ASUS store. Las especificaciones no incluidas aquí podrían no estar disponibles en la eStore y solo están como referencia.",
+    "PDCardSafety2": "",
+    "PriceLineColor": "#CCCCCC",
+    "PriceColor": "#181818",
+    "Price": "",
+    "Discount": "",
+    "DiscountColor": "#c74200",
+    "DiscountFlag": "",
+    "DiscountWording": "Guardar",
+    "RegularPrice": "",
+    "StartTimeWording": "",
+    "StartTime": "",
+    "EndTimeWording": "",
+    "EndTime": "",
+    "Notice": "1",
+    "ShippingHint": "",
+    "ModelSpec": "ROG Strix Scope NX TKL Moonlight White teclado mecánico gamer RGB con cable para juegos FPS, con switches ROG NX, marco de aluminio e iluminación Aura Sync",
+    "ProductOnlineDt": "2025-02-25 00:10:34",
+    "ImageList": [
+      {
+        "DefaultFlag": "Y",
+        "ColorCode": "XXXXX",
+        "ColorName": "",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/2740F37A-4945-4923-8E02-C07EA39E1894/w185"
+        ]
+      }
+    ],
+    "ProductLogo": [],
+    "Buy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "ManualBuy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "WhereToBuy": {
+      "WTBText": "Dónde comprar",
+      "WTBFlag": 0,
+      "WTBLink": ""
+    },
+    "FindNearBy": {
+      "FindNearByText": "Encuentra una tienda",
+      "FindNearByFlag": 0
+    },
+    "VolumePurchase": {
+      "Level1Name": "",
+      "Text": "Volume purchase",
+      "Link": "https://www.connect.asus.com/ar/VolumePurchase",
+      "linkTarget": "_blank"
+    },
+    "LearnMore": "Más información",
+    "Compare": "Comparar",
+    "SeeMore": "Ver más",
+    "SeeLess": "Ver menos",
+    "ExternalID": "",
+    "ProductID": "R_90MP02B6-BKUA00",
+    "RealProductID": 16816,
+    "M1Id": 16816,
+    "ProductHashedID": "",
+    "PartNo": "90MP02B6-BKUA00",
+    "NewFlag": "0",
+    "DataRow": 11,
+    "ModelBaseFlag": 1,
+    "SpecFlag": 1,
+    "LowestPriceInNDayPeriod": "el precio más bajo en el periodo de 30 días anterior a la introducción del descuento",
+    "SubTagline": "",
+    "Tooltip": "",
+    "ReviewFlag": 1,
+    "HistoricLowPrice": "",
+    "SortPrice": "",
+    "StockStatus": "",
+    "SalesModelName": "X806 STRIX SCOPE NX TKL ML/NXRD/US"
+  },
+  {
+    "SourceType": "rog",
+    "GetURLFlag": 1,
+    "isRogFlag": 1,
+    "Level1ID": 8311,
+    "ProductURL": "https://rog.asus.com/ar/keyboards/keyboards/aura-rgb/rog-strix-scope-nx-tkl-model/",
+    "ProductCardURL": "https://rog.asus.com/ar/keyboards/keyboards/aura-rgb/rog-strix-scope-nx-tkl-model/",
+    "CustomizeTag": {
+      "Enabled": false,
+      "Text": ""
+    },
+    "LeftHeader": {
+      "NewsFlag": "N",
+      "DealFlag": "N",
+      "NewsFlagWording": "Nuevo",
+      "DealFlagWording": "OFERTA"
+    },
+    "RightHeader": [],
+    "ProductImage": "",
+    "Size": "",
+    "Level1Path": "Keyboards",
+    "Level2Path": "Keyboards",
+    "Level3Path": "Aura RGB",
+    "CategoryName": "ROG Strix Scope NX TKL",
+    "SubSeriesName": "",
+    "PDWebPath": "",
+    "Name": "<h2>ROG Strix Scope NX TKL Teclado Gamer</h2>",
+    "ReviewStar": "0.0",
+    "ReviewCount": 0,
+    "StartingAtWording": "El precio de la ASUS store es a partir de",
+    "Estore": "Precio de la ASUS store",
+    "PDCardSafety": "El precio de la ASUS store es el precio de un producto proporcionado por la ASUS store. Las especificaciones no incluidas aquí podrían no estar disponibles en la eStore y solo están como referencia.",
+    "PDCardSafety2": "",
+    "PriceLineColor": "#CCCCCC",
+    "PriceColor": "#181818",
+    "Price": "",
+    "Discount": "",
+    "DiscountColor": "#c74200",
+    "DiscountFlag": "",
+    "DiscountWording": "Guardar",
+    "RegularPrice": "",
+    "StartTimeWording": "",
+    "StartTime": "",
+    "EndTimeWording": "",
+    "EndTime": "",
+    "Notice": "1",
+    "ShippingHint": "",
+    "ModelSpec": "ROG Strix Scope NX TKL Teclado mecánico gamer RGB con cable perfecto para FPS, con interruptores ROG NX, marco de aluminio e iluminación Aura Sync",
+    "ProductOnlineDt": "2025-02-24 22:39:51",
+    "ImageList": [
+      {
+        "DefaultFlag": "Y",
+        "ColorCode": "XXXXX",
+        "ColorName": "",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/2828CC40-B430-4F68-B004-AE359074DF06/w185"
+        ]
+      }
+    ],
+    "ProductLogo": [],
+    "Buy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "ManualBuy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "WhereToBuy": {
+      "WTBText": "Dónde comprar",
+      "WTBFlag": 0,
+      "WTBLink": ""
+    },
+    "FindNearBy": {
+      "FindNearByText": "Encuentra una tienda",
+      "FindNearByFlag": 0
+    },
+    "VolumePurchase": {
+      "Level1Name": "",
+      "Text": "Volume purchase",
+      "Link": "https://www.connect.asus.com/ar/VolumePurchase",
+      "linkTarget": "_blank"
+    },
+    "LearnMore": "Más información",
+    "Compare": "Comparar",
+    "SeeMore": "Ver más",
+    "SeeLess": "Ver menos",
+    "ExternalID": "",
+    "ProductID": "R_90MP01N6-BKUA00",
+    "RealProductID": 15679,
+    "M1Id": 15679,
+    "ProductHashedID": "",
+    "PartNo": "90MP01N6-BKUA00",
+    "NewFlag": "0",
+    "DataRow": 5,
+    "ModelBaseFlag": 1,
+    "SpecFlag": 1,
+    "LowestPriceInNDayPeriod": "el precio más bajo en el periodo de 30 días anterior a la introducción del descuento",
+    "SubTagline": "",
+    "Tooltip": "",
+    "ReviewFlag": 1,
+    "HistoricLowPrice": "",
+    "SortPrice": "",
+    "StockStatus": "",
+    "SalesModelName": "X802 STRIX SCOPE NX TKL/NXRD/US"
+  },
+  {
+    "SourceType": "rog",
+    "GetURLFlag": 1,
+    "isRogFlag": 1,
+    "Level1ID": 8311,
+    "ProductURL": "https://rog.asus.com/ar/keyboards/keyboards/aura-rgb/rog-strix-scope-nx-tkl-deluxe-model/",
+    "ProductCardURL": "https://rog.asus.com/ar/keyboards/keyboards/aura-rgb/rog-strix-scope-nx-tkl-deluxe-model/",
+    "CustomizeTag": {
+      "Enabled": false,
+      "Text": ""
+    },
+    "LeftHeader": {
+      "NewsFlag": "N",
+      "DealFlag": "N",
+      "NewsFlagWording": "Nuevo",
+      "DealFlagWording": "OFERTA"
+    },
+    "RightHeader": [],
+    "ProductImage": "",
+    "Size": "",
+    "Level1Path": "Keyboards",
+    "Level2Path": "Keyboards",
+    "Level3Path": "Aura RGB",
+    "CategoryName": "ROG Strix Scope NX TKL Deluxe",
+    "SubSeriesName": "",
+    "PDWebPath": "",
+    "Name": "<h2>ROG Strix Scope NX TKL Deluxe Teclado Gamer</h2>",
+    "ReviewStar": "0.0",
+    "ReviewCount": 0,
+    "StartingAtWording": "El precio de la ASUS store es a partir de",
+    "Estore": "Precio de la ASUS store",
+    "PDCardSafety": "El precio de la ASUS store es el precio de un producto proporcionado por la ASUS store. Las especificaciones no incluidas aquí podrían no estar disponibles en la eStore y solo están como referencia.",
+    "PDCardSafety2": "",
+    "PriceLineColor": "#CCCCCC",
+    "PriceColor": "#181818",
+    "Price": "",
+    "Discount": "",
+    "DiscountColor": "#c74200",
+    "DiscountFlag": "",
+    "DiscountWording": "Guardar",
+    "RegularPrice": "",
+    "StartTimeWording": "",
+    "StartTime": "",
+    "EndTimeWording": "",
+    "EndTime": "",
+    "Notice": "1",
+    "ShippingHint": "",
+    "ModelSpec": "ROG Strix Scope NX TKL Deluxe: Teclado gamer RGB mecánico alámbrico FPS, con switches ROG NX, marco de aluminio e iluminación Aura Sync",
+    "ProductOnlineDt": "2025-02-24 21:55:10",
+    "ImageList": [
+      {
+        "DefaultFlag": "Y",
+        "ColorCode": "XXXXX",
+        "ColorName": "",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/E4226A67-3087-4FC0-B16E-7C7AAFDAB7D6/w185"
+        ]
+      }
+    ],
+    "ProductLogo": [],
+    "Buy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "ManualBuy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "WhereToBuy": {
+      "WTBText": "Dónde comprar",
+      "WTBFlag": 0,
+      "WTBLink": ""
+    },
+    "FindNearBy": {
+      "FindNearByText": "Encuentra una tienda",
+      "FindNearByFlag": 0
+    },
+    "VolumePurchase": {
+      "Level1Name": "",
+      "Text": "Volume purchase",
+      "Link": "https://www.connect.asus.com/ar/VolumePurchase",
+      "linkTarget": "_blank"
+    },
+    "LearnMore": "Más información",
+    "Compare": "Comparar",
+    "SeeMore": "Ver más",
+    "SeeLess": "Ver menos",
+    "ExternalID": "",
+    "ProductID": "R_90MP00N6-BKUA00",
+    "RealProductID": 15680,
+    "M1Id": 15680,
+    "ProductHashedID": "",
+    "PartNo": "90MP00N6-BKUA00",
+    "NewFlag": "0",
+    "DataRow": 4,
+    "ModelBaseFlag": 1,
+    "SpecFlag": 1,
+    "LowestPriceInNDayPeriod": "el precio más bajo en el periodo de 30 días anterior a la introducción del descuento",
+    "SubTagline": "",
+    "Tooltip": "",
+    "ReviewFlag": 1,
+    "HistoricLowPrice": "",
+    "SortPrice": "",
+    "StockStatus": "",
+    "SalesModelName": "X801 STRIX SCOPE NX TKL D/NXRD/US"
+  },
+  {
+    "SourceType": "rog",
+    "GetURLFlag": 1,
+    "isRogFlag": 1,
+    "Level1ID": 8311,
+    "ProductURL": "https://rog.asus.com/ar/keyboards/keyboards/aura-rgb/rog-azoth-model/",
+    "ProductCardURL": "https://rog.asus.com/ar/keyboards/keyboards/aura-rgb/rog-azoth-model/",
+    "CustomizeTag": {
+      "Enabled": false,
+      "Text": ""
+    },
+    "LeftHeader": {
+      "NewsFlag": "N",
+      "DealFlag": "N",
+      "NewsFlagWording": "Nuevo",
+      "DealFlagWording": "OFERTA"
+    },
+    "RightHeader": [],
+    "ProductImage": "",
+    "Size": "",
+    "Level1Path": "Keyboards",
+    "Level2Path": "Keyboards",
+    "Level3Path": "Aura RGB",
+    "CategoryName": "ROG Azoth",
+    "SubSeriesName": "",
+    "PDWebPath": "",
+    "Name": "<h2>Teclado Gamer ROG Azoth</h2>",
+    "ReviewStar": "0.0",
+    "ReviewCount": 0,
+    "StartingAtWording": "El precio de la ASUS store es a partir de",
+    "Estore": "Precio de la ASUS store",
+    "PDCardSafety": "El precio de la ASUS store es el precio de un producto proporcionado por la ASUS store. Las especificaciones no incluidas aquí podrían no estar disponibles en la eStore y solo están como referencia.",
+    "PDCardSafety2": "",
+    "PriceLineColor": "#CCCCCC",
+    "PriceColor": "#181818",
+    "Price": "",
+    "Discount": "",
+    "DiscountColor": "#c74200",
+    "DiscountFlag": "",
+    "DiscountWording": "Guardar",
+    "RegularPrice": "",
+    "StartTimeWording": "",
+    "StartTime": "",
+    "EndTimeWording": "",
+    "EndTime": "",
+    "Notice": "1",
+    "ShippingHint": "",
+    "ModelSpec": "Teclado gamer personalizable ROG Azoth con factor de forma de teclado de 75%, espuma amortiguadora de tres capas y cubierta superior de metal, altamente personalizable con switches mecánicos ROG NX prelubricados e intercambiables, estabilizadores de teclado ROG, teclas PBT de doble disparo y kit de lubricación, triple conexión con tecnología SpeedNova de 2.4 GHz, pantalla OLED, perilla de control de tres vías, tres ángulos de inclinación y compatibilidad con Mac",
+    "ProductOnlineDt": "2025-02-20 23:59:54",
+    "ImageList": [
+      {
+        "DefaultFlag": "Y",
+        "ColorCode": "XXXXX",
+        "ColorName": "",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/145896AC-B462-4466-A1FE-935F085741F3/w185"
+        ]
+      }
+    ],
+    "ProductLogo": [],
+    "Buy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "ManualBuy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "WhereToBuy": {
+      "WTBText": "Dónde comprar",
+      "WTBFlag": 0,
+      "WTBLink": ""
+    },
+    "FindNearBy": {
+      "FindNearByText": "Encuentra una tienda",
+      "FindNearByFlag": 0
+    },
+    "VolumePurchase": {
+      "Level1Name": "",
+      "Text": "Volume purchase",
+      "Link": "https://www.connect.asus.com/ar/VolumePurchase",
+      "linkTarget": "_blank"
+    },
+    "LearnMore": "Más información",
+    "Compare": "Comparar",
+    "SeeMore": "Ver más",
+    "SeeLess": "Ver menos",
+    "ExternalID": "",
+    "ProductID": "R_90MP0316-BKAA01",
+    "RealProductID": 22414,
+    "M1Id": 22414,
+    "ProductHashedID": "",
+    "PartNo": "90MP0316-BKAA01",
+    "NewFlag": "0",
+    "DataRow": 15,
+    "ModelBaseFlag": 1,
+    "SpecFlag": 1,
+    "LowestPriceInNDayPeriod": "el precio más bajo en el periodo de 30 días anterior a la introducción del descuento",
+    "SubTagline": "",
+    "Tooltip": "",
+    "ReviewFlag": 1,
+    "HistoricLowPrice": "",
+    "SortPrice": "",
+    "StockStatus": "",
+    "SalesModelName": "M701 ROG AZOTH/NXRD/CA/PBT"
+  },
+  {
+    "SourceType": "rog",
+    "GetURLFlag": 1,
+    "isRogFlag": 1,
+    "Level1ID": 8311,
+    "ProductURL": "https://rog.asus.com/ar/keyboards/keyboards/aura-rgb/rog-strix-flare-ii-model/",
+    "ProductCardURL": "https://rog.asus.com/ar/keyboards/keyboards/aura-rgb/rog-strix-flare-ii-model/",
+    "CustomizeTag": {
+      "Enabled": false,
+      "Text": ""
+    },
+    "LeftHeader": {
+      "NewsFlag": "N",
+      "DealFlag": "N",
+      "NewsFlagWording": "Nuevo",
+      "DealFlagWording": "OFERTA"
+    },
+    "RightHeader": [],
+    "ProductImage": "",
+    "Size": "",
+    "Level1Path": "Keyboards",
+    "Level2Path": "Keyboards",
+    "Level3Path": "Aura RGB",
+    "CategoryName": "ROG Strix Flare II",
+    "SubSeriesName": "",
+    "PDWebPath": "",
+    "Name": "<h2>ROG Strix Flare II</h2>",
+    "ReviewStar": "0.0",
+    "ReviewCount": 0,
+    "StartingAtWording": "El precio de la ASUS store es a partir de",
+    "Estore": "Precio de la ASUS store",
+    "PDCardSafety": "El precio de la ASUS store es el precio de un producto proporcionado por la ASUS store. Las especificaciones no incluidas aquí podrían no estar disponibles en la eStore y solo están como referencia.",
+    "PDCardSafety2": "",
+    "PriceLineColor": "#CCCCCC",
+    "PriceColor": "#181818",
+    "Price": "",
+    "Discount": "",
+    "DiscountColor": "#c74200",
+    "DiscountFlag": "",
+    "DiscountWording": "Guardar",
+    "RegularPrice": "",
+    "StartTimeWording": "",
+    "StartTime": "",
+    "EndTimeWording": "",
+    "EndTime": "",
+    "Notice": "1",
+    "ShippingHint": "",
+    "ModelSpec": "Teclado mecánico para juegos ROG Strix Flare II con velocidad de sondeo de 8000Hz, switches mecánicos ROG NX, teclas PBT, controles multimedia metálicos y reposamuñecas desmontable",
+    "ProductOnlineDt": "2025-02-15 06:09:04",
+    "ImageList": [
+      {
+        "DefaultFlag": "Y",
+        "ColorCode": "XXXXX",
+        "ColorName": "",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/9DBE7FB5-C52B-407C-99FE-CCDCDD7AC04E/w185"
+        ]
+      }
+    ],
+    "ProductLogo": [],
+    "Buy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "ManualBuy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "WhereToBuy": {
+      "WTBText": "Dónde comprar",
+      "WTBFlag": 0,
+      "WTBLink": ""
+    },
+    "FindNearBy": {
+      "FindNearByText": "Encuentra una tienda",
+      "FindNearByFlag": 0
+    },
+    "VolumePurchase": {
+      "Level1Name": "",
+      "Text": "Volume purchase",
+      "Link": "https://www.connect.asus.com/ar/VolumePurchase",
+      "linkTarget": "_blank"
+    },
+    "LearnMore": "Más información",
+    "Compare": "Comparar",
+    "SeeMore": "Ver más",
+    "SeeLess": "Ver menos",
+    "ExternalID": "",
+    "ProductID": "R_90MP02D6-BKUA01",
+    "RealProductID": 20319,
+    "M1Id": 20319,
+    "ProductHashedID": "",
+    "PartNo": "90MP02D6-BKUA01",
+    "NewFlag": "0",
+    "DataRow": 12,
+    "ModelBaseFlag": 1,
+    "SpecFlag": 1,
+    "LowestPriceInNDayPeriod": "el precio más bajo en el periodo de 30 días anterior a la introducción del descuento",
+    "SubTagline": "",
+    "Tooltip": "",
+    "ReviewFlag": 1,
+    "HistoricLowPrice": "",
+    "SortPrice": "",
+    "StockStatus": "",
+    "SalesModelName": "XA08 STRIX FLARE II/NXRD/US/PBT"
+  },
+  {
+    "SourceType": "rog",
+    "GetURLFlag": 1,
+    "isRogFlag": 1,
+    "Level1ID": 8311,
+    "ProductURL": "https://rog.asus.com/ar/keyboards/keyboards/aura-rgb/rog-strix-flare-ii-animate-model/",
+    "ProductCardURL": "https://rog.asus.com/ar/keyboards/keyboards/aura-rgb/rog-strix-flare-ii-animate-model/",
+    "CustomizeTag": {
+      "Enabled": false,
+      "Text": ""
+    },
+    "LeftHeader": {
+      "NewsFlag": "N",
+      "DealFlag": "N",
+      "NewsFlagWording": "Nuevo",
+      "DealFlagWording": "OFERTA"
+    },
+    "RightHeader": [],
+    "ProductImage": "",
+    "Size": "",
+    "Level1Path": "Keyboards",
+    "Level2Path": "Keyboards",
+    "Level3Path": "Aura RGB",
+    "CategoryName": "ROG Strix Flare II Animate",
+    "SubSeriesName": "",
+    "PDWebPath": "",
+    "Name": "<h2>ROG Strix Flare II Animate Teclado Gamer</h2>",
+    "ReviewStar": "0.0",
+    "ReviewCount": 0,
+    "StartingAtWording": "El precio de la ASUS store es a partir de",
+    "Estore": "Precio de la ASUS store",
+    "PDCardSafety": "El precio de la ASUS store es el precio de un producto proporcionado por la ASUS store. Las especificaciones no incluidas aquí podrían no estar disponibles en la eStore y solo están como referencia.",
+    "PDCardSafety2": "",
+    "PriceLineColor": "#CCCCCC",
+    "PriceColor": "#181818",
+    "Price": "",
+    "Discount": "",
+    "DiscountColor": "#c74200",
+    "DiscountFlag": "",
+    "DiscountWording": "Guardar",
+    "RegularPrice": "",
+    "StartTimeWording": "",
+    "StartTime": "",
+    "EndTimeWording": "",
+    "EndTime": "",
+    "Notice": "1",
+    "ShippingHint": "",
+    "ModelSpec": "Teclado mecánico para juegos ROG Strix Flare II Animate con pantalla LED AniMe Matrix™, frecuencia de sondeo de 8000Hz, switches mecánicos ROG NX o switches Cherry MX, switches intercambiables, controles de medios metálicos y un reposamuñecas con difusor de luz",
+    "ProductOnlineDt": "2025-02-15 05:33:00",
+    "ImageList": [
+      {
+        "DefaultFlag": "Y",
+        "ColorCode": "XXXXX",
+        "ColorName": "",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/7001B47D-BD67-4A07-BD1D-0ECE65169330/w185"
+        ]
+      }
+    ],
+    "ProductLogo": [],
+    "Buy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "ManualBuy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "WhereToBuy": {
+      "WTBText": "Dónde comprar",
+      "WTBFlag": 0,
+      "WTBLink": ""
+    },
+    "FindNearBy": {
+      "FindNearByText": "Encuentra una tienda",
+      "FindNearByFlag": 0
+    },
+    "VolumePurchase": {
+      "Level1Name": "",
+      "Text": "Volume purchase",
+      "Link": "https://www.connect.asus.com/ar/VolumePurchase",
+      "linkTarget": "_blank"
+    },
+    "LearnMore": "Más información",
+    "Compare": "Comparar",
+    "SeeMore": "Ver más",
+    "SeeLess": "Ver menos",
+    "ExternalID": "",
+    "ProductID": "R_90MP02E6-BKUA01",
+    "RealProductID": 20262,
+    "M1Id": 20262,
+    "ProductHashedID": "",
+    "PartNo": "90MP02E6-BKUA01",
+    "NewFlag": "0",
+    "DataRow": 13,
+    "ModelBaseFlag": 1,
+    "SpecFlag": 1,
+    "LowestPriceInNDayPeriod": "el precio más bajo en el periodo de 30 días anterior a la introducción del descuento",
+    "SubTagline": "",
+    "Tooltip": "",
+    "ReviewFlag": 1,
+    "HistoricLowPrice": "",
+    "SortPrice": "",
+    "StockStatus": "",
+    "SalesModelName": "XA07 STRIX FLARE II ANI/NXRD/US/PBT"
+  },
+  {
+    "SourceType": "rog",
+    "GetURLFlag": 1,
+    "isRogFlag": 1,
+    "Level1ID": 8311,
+    "ProductURL": "https://rog.asus.com/ar/keyboards/keyboards/aura-rgb/rog-strix-scope-ii/",
+    "ProductCardURL": "https://rog.asus.com/ar/keyboards/keyboards/aura-rgb/rog-strix-scope-ii/",
+    "CustomizeTag": {
+      "Enabled": false,
+      "Text": ""
+    },
+    "LeftHeader": {
+      "NewsFlag": "N",
+      "DealFlag": "N",
+      "NewsFlagWording": "Nuevo",
+      "DealFlagWording": "OFERTA"
+    },
+    "RightHeader": [],
+    "ProductImage": "",
+    "Size": "",
+    "Level1Path": "Keyboards",
+    "Level2Path": "Keyboards",
+    "Level3Path": "Aura RGB",
+    "CategoryName": "ROG Strix Scope II",
+    "SubSeriesName": "",
+    "PDWebPath": "",
+    "Name": "<h2>Teclado Gamer ROG Strix Scope II</h2>",
+    "ReviewStar": "0.0",
+    "ReviewCount": 0,
+    "StartingAtWording": "El precio de la ASUS store es a partir de",
+    "Estore": "Precio de la ASUS store",
+    "PDCardSafety": "El precio de la ASUS store es el precio de un producto proporcionado por la ASUS store. Las especificaciones no incluidas aquí podrían no estar disponibles en la eStore y solo están como referencia.",
+    "PDCardSafety2": "",
+    "PriceLineColor": "#CCCCCC",
+    "PriceColor": "#181818",
+    "Price": "",
+    "Discount": "",
+    "DiscountColor": "#c74200",
+    "DiscountFlag": "",
+    "DiscountWording": "Guardar",
+    "RegularPrice": "",
+    "StartTimeWording": "",
+    "StartTime": "",
+    "EndTimeWording": "",
+    "EndTime": "",
+    "Notice": "1",
+    "ShippingHint": "",
+    "ModelSpec": "Teclado gamer ROG Strix Scope II con switches mecánicos ROG NX Snow y NX Storm pre-engrasados, espuma amortiguadora de sonido, teclas PBT Doubleshot o teclas ABS con recubrimiento UV, teclas de acceso rápido para streaming, controles multifunción, tres ángulos de inclinación y reposamuñecas",
+    "ProductOnlineDt": "2025-02-14 23:51:06",
+    "ImageList": [
+      {
+        "DefaultFlag": "Y",
+        "ColorCode": "XXXXX",
+        "ColorName": "",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/B742E991-0F43-40D0-8EA8-1D552222A976/w185"
+        ]
+      }
+    ],
+    "ProductLogo": [],
+    "Buy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "ManualBuy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "WhereToBuy": {
+      "WTBText": "Dónde comprar",
+      "WTBFlag": 0,
+      "WTBLink": ""
+    },
+    "FindNearBy": {
+      "FindNearByText": "Encuentra una tienda",
+      "FindNearByFlag": 0
+    },
+    "VolumePurchase": {
+      "Level1Name": "",
+      "Text": "Volume purchase",
+      "Link": "https://www.connect.asus.com/ar/VolumePurchase",
+      "linkTarget": "_blank"
+    },
+    "LearnMore": "Más información",
+    "Compare": "Comparar",
+    "SeeMore": "Ver más",
+    "SeeLess": "Ver menos",
+    "ExternalID": "",
+    "ProductID": "R_90MP036A-BKAA01",
+    "RealProductID": 24016,
+    "M1Id": 23662,
+    "ProductHashedID": "",
+    "PartNo": "90MP036A-BKAA01",
+    "NewFlag": "0",
+    "DataRow": 18,
+    "ModelBaseFlag": 1,
+    "SpecFlag": 1,
+    "LowestPriceInNDayPeriod": "el precio más bajo en el periodo de 30 días anterior a la introducción del descuento",
+    "SubTagline": "",
+    "Tooltip": "",
+    "ReviewFlag": 1,
+    "HistoricLowPrice": "",
+    "SortPrice": "",
+    "StockStatus": "",
+    "SalesModelName": "XA11 ROG STRIX SCOPE II/NXSW/CA/PBT"
+  },
+  {
+    "SourceType": "prod",
+    "GetURLFlag": 0,
+    "isRogFlag": 0,
+    "Level1ID": 6,
+    "ProductURL": "https://www.asus.com/ar/accessories/keyboards/tuf-gaming/tuf-gaming-k3-gen-ii/",
+    "ProductCardURL": "https://www.asus.com/ar/accessories/keyboards/tuf-gaming/tuf-gaming-k3-gen-ii/",
+    "CustomizeTag": {
+      "Enabled": false,
+      "Text": ""
+    },
+    "LeftHeader": {
+      "NewsFlag": "N",
+      "DealFlag": "N",
+      "NewsFlagWording": "Nuevo",
+      "DealFlagWording": "OFERTA"
+    },
+    "RightHeader": [],
+    "ProductImage": "",
+    "Size": "",
+    "Level1Path": "Accessories",
+    "Level2Path": "Keyboards",
+    "Level3Path": "TUF-Gaming",
+    "CategoryName": "Alámbricos",
+    "SubSeriesName": "",
+    "PDWebPath": "TUF-Gaming-K3-Gen-II",
+    "Name": "<h2>TUF Gaming K3 Gen II</h2>",
+    "ReviewStar": "4.5",
+    "ReviewCount": 100,
+    "StartingAtWording": "El precio de la ASUS store es a partir de",
+    "Estore": "Precio de la ASUS store",
+    "PDCardSafety": "El precio de la ASUS store es el precio de un producto proporcionado por la ASUS store. Las especificaciones no incluidas aquí podrían no estar disponibles en la eStore y solo están como referencia.",
+    "PDCardSafety2": "",
+    "PriceLineColor": "#CCCCCC",
+    "PriceColor": "#181818",
+    "Price": "",
+    "Discount": "",
+    "DiscountColor": "#c74200",
+    "DiscountFlag": "",
+    "DiscountWording": "Guardar",
+    "RegularPrice": "",
+    "StartTimeWording": "",
+    "StartTime": "",
+    "EndTimeWording": "",
+    "EndTime": "",
+    "Notice": "",
+    "ShippingHint": "",
+    "ModelSpec": "El teclado ASUS TUF Gaming K3 Gen II incorpora interruptores óptico-mecánicos RGB y una vida útil de 100 millones de pulsaciones para una durabilidad máxima. Se complementa con un soporte de junta de silicona y espuma amortiguadora para una acústica superior. Este teclado compacto de 97 teclas cuenta con resistencia al agua IP57, iluminación RGB por tecla, soporte con junta de silicona y espuma amortiguadora para una acústica superior, una placa superior desmontable y compatibilidad con Aura Sync.",
+    "ProductOnlineDt": "2024-04-25 13:44:00",
+    "ImageList": [
+      {
+        "DefaultFlag": "Y",
+        "ColorCode": "XXXX",
+        "ColorName": "",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/93739532-e9e3-4f73-8518-972ee0a8f750/w185",
+          "https://dlcdnwebimgs.asus.com/gain/873217a9-99cb-43d8-8a5e-6a10e73b1c38/w185",
+          "https://dlcdnwebimgs.asus.com/gain/dddb9f51-9d70-4b42-9f31-f3839a0f572b/w185"
+        ]
+      }
+    ],
+    "ProductLogo": [],
+    "Buy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "ManualBuy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "WhereToBuy": {
+      "WTBText": "Dónde comprar",
+      "WTBFlag": 0,
+      "WTBLink": ""
+    },
+    "FindNearBy": {
+      "FindNearByText": "Encuentra una tienda",
+      "FindNearByFlag": 0
+    },
+    "VolumePurchase": {
+      "Level1Name": "",
+      "Text": "Volume purchase",
+      "Link": "https://www.connect.asus.com/ar/VolumePurchase",
+      "linkTarget": "_blank"
+    },
+    "LearnMore": "Más información",
+    "Compare": "Comparar",
+    "SeeMore": "Ver más",
+    "SeeLess": "Ver menos",
+    "ExternalID": "",
+    "ProductID": "26434",
+    "RealProductID": 26434,
+    "M1Id": 26434,
+    "ProductHashedID": "omvdpi5uyr1hmyno",
+    "PartNo": "",
+    "NewFlag": "0",
+    "DataRow": 3,
+    "ModelBaseFlag": 1,
+    "SpecFlag": 1,
+    "LowestPriceInNDayPeriod": "el precio más bajo en el periodo de 30 días anterior a la introducción del descuento",
+    "SubTagline": "",
+    "Tooltip": "",
+    "ReviewFlag": 0,
+    "HistoricLowPrice": "",
+    "SortPrice": "",
+    "StockStatus": "",
+    "SalesModelName": ""
+  },
+  {
+    "SourceType": "prod",
+    "GetURLFlag": 0,
+    "isRogFlag": 0,
+    "Level1ID": 6,
+    "ProductURL": "https://www.asus.com/ar/accessories/keyboards/tuf-gaming/tuf-gaming-k3/",
+    "ProductCardURL": "https://www.asus.com/ar/accessories/keyboards/tuf-gaming/tuf-gaming-k3/",
+    "CustomizeTag": {
+      "Enabled": false,
+      "Text": ""
+    },
+    "LeftHeader": {
+      "NewsFlag": "N",
+      "DealFlag": "N",
+      "NewsFlagWording": "Nuevo",
+      "DealFlagWording": "OFERTA"
+    },
+    "RightHeader": [],
+    "ProductImage": "",
+    "Size": "",
+    "Level1Path": "Accessories",
+    "Level2Path": "Keyboards",
+    "Level3Path": "TUF-Gaming",
+    "CategoryName": "Alámbricos",
+    "SubSeriesName": "",
+    "PDWebPath": "TUF-Gaming-K3",
+    "Name": "<h2>TUF Gaming K3</h2>",
+    "ReviewStar": "4.5",
+    "ReviewCount": 100,
+    "StartingAtWording": "El precio de la ASUS store es a partir de",
+    "Estore": "Precio de la ASUS store",
+    "PDCardSafety": "El precio de la ASUS store es el precio de un producto proporcionado por la ASUS store. Las especificaciones no incluidas aquí podrían no estar disponibles en la eStore y solo están como referencia.",
+    "PDCardSafety2": "",
+    "PriceLineColor": "#CCCCCC",
+    "PriceColor": "#181818",
+    "Price": "",
+    "Discount": "",
+    "DiscountColor": "#c74200",
+    "DiscountFlag": "",
+    "DiscountWording": "Guardar",
+    "RegularPrice": "",
+    "StartTimeWording": "",
+    "StartTime": "",
+    "EndTimeWording": "",
+    "EndTime": "",
+    "Notice": "",
+    "ShippingHint": "",
+    "ModelSpec": "Teclado mecánico ASUS TUF Gaming K3 RGB con tecnología N-key rollover, teclas multimedia combinadas, puerto de paso USB 2.0, cubierta superior de aleación de aluminio, reposamuñecas, ocho teclas macro programables e iluminación Aura Sync.",
+    "ProductOnlineDt": "2020-06-09 12:03:00",
+    "ImageList": [
+      {
+        "DefaultFlag": "Y",
+        "ColorCode": "XXXX",
+        "ColorName": "",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/17b38f2d-d2e5-4952-b0ea-c99181fbde04/w185",
+          "https://dlcdnwebimgs.asus.com/gain/d63df86f-1c64-4e23-8e85-d147993804ba/w185",
+          "https://dlcdnwebimgs.asus.com/gain/5dbafff5-45f2-4940-af6d-db2d4f02175f/w185"
+        ]
+      }
+    ],
+    "ProductLogo": [],
+    "Buy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "ManualBuy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "WhereToBuy": {
+      "WTBText": "Dónde comprar",
+      "WTBFlag": 0,
+      "WTBLink": ""
+    },
+    "FindNearBy": {
+      "FindNearByText": "Encuentra una tienda",
+      "FindNearByFlag": 0
+    },
+    "VolumePurchase": {
+      "Level1Name": "",
+      "Text": "Volume purchase",
+      "Link": "https://www.connect.asus.com/ar/VolumePurchase",
+      "linkTarget": "_blank"
+    },
+    "LearnMore": "Más información",
+    "Compare": "Comparar",
+    "SeeMore": "Ver más",
+    "SeeLess": "Ver menos",
+    "ExternalID": "",
+    "ProductID": "14852",
+    "RealProductID": 14852,
+    "M1Id": 14852,
+    "ProductHashedID": "8b7c2c5343834f61",
+    "PartNo": "",
+    "NewFlag": "0",
+    "DataRow": 2,
+    "ModelBaseFlag": 1,
+    "SpecFlag": 1,
+    "LowestPriceInNDayPeriod": "el precio más bajo en el periodo de 30 días anterior a la introducción del descuento",
+    "SubTagline": "",
+    "Tooltip": "",
+    "ReviewFlag": 0,
+    "HistoricLowPrice": "",
+    "SortPrice": "",
+    "StockStatus": "",
+    "SalesModelName": ""
+  },
+  {
+    "SourceType": "prod",
+    "GetURLFlag": 0,
+    "isRogFlag": 0,
+    "Level1ID": 6,
+    "ProductURL": "https://www.asus.com/ar/accessories/keyboards/tuf-gaming/tuf-gaming-k1/",
+    "ProductCardURL": "https://www.asus.com/ar/accessories/keyboards/tuf-gaming/tuf-gaming-k1/",
+    "CustomizeTag": {
+      "Enabled": false,
+      "Text": ""
+    },
+    "LeftHeader": {
+      "NewsFlag": "N",
+      "DealFlag": "N",
+      "NewsFlagWording": "Nuevo",
+      "DealFlagWording": "OFERTA"
+    },
+    "RightHeader": [],
+    "ProductImage": "",
+    "Size": "          ",
+    "Level1Path": "Accessories",
+    "Level2Path": "Keyboards",
+    "Level3Path": "TUF-Gaming",
+    "CategoryName": "Alámbricos",
+    "SubSeriesName": "",
+    "PDWebPath": "TUF-Gaming-K1",
+    "Name": "<h2>TUF Gaming K1</h2>",
+    "ReviewStar": "4.5",
+    "ReviewCount": 100,
+    "StartingAtWording": "El precio de la ASUS store es a partir de",
+    "Estore": "Precio de la ASUS store",
+    "PDCardSafety": "El precio de la ASUS store es el precio de un producto proporcionado por la ASUS store. Las especificaciones no incluidas aquí podrían no estar disponibles en la eStore y solo están como referencia.",
+    "PDCardSafety2": "",
+    "PriceLineColor": "#CCCCCC",
+    "PriceColor": "#181818",
+    "Price": "",
+    "Discount": "",
+    "DiscountColor": "#c74200",
+    "DiscountFlag": "",
+    "DiscountWording": "Guardar",
+    "RegularPrice": "",
+    "StartTimeWording": "",
+    "StartTime": "",
+    "EndTimeWording": "",
+    "EndTime": "",
+    "Notice": "",
+    "ShippingHint": "",
+    "ModelSpec": "Teclado ASUS TUF Gaming K1 RGB con perilla de volumen dedicada, resistencia a salpicaduras, barra de luz lateral y Armoury Crate",
+    "ProductOnlineDt": "2020-04-13 23:48:00",
+    "ImageList": [
+      {
+        "DefaultFlag": "Y",
+        "ColorCode": "XXXX",
+        "ColorName": "",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/8f37ce63-3fa8-4c36-9e36-13961fcca762/w185",
+          "https://dlcdnwebimgs.asus.com/gain/ce51cd09-bb10-499e-83e2-7290ec067b29/w185",
+          "https://dlcdnwebimgs.asus.com/gain/4008fdce-f050-4a02-980c-299cdd100c20/w185"
+        ]
+      }
+    ],
+    "ProductLogo": [],
+    "Buy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "ManualBuy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "WhereToBuy": {
+      "WTBText": "Dónde comprar",
+      "WTBFlag": 1,
+      "WTBLink": "https://www.asus.com/ar/accessories/keyboards/tuf-gaming/tuf-gaming-k1/where-to-buy/"
+    },
+    "FindNearBy": {
+      "FindNearByText": "Encuentra una tienda",
+      "FindNearByFlag": 0
+    },
+    "VolumePurchase": {
+      "Level1Name": "",
+      "Text": "Volume purchase",
+      "Link": "https://www.connect.asus.com/ar/VolumePurchase",
+      "linkTarget": "_blank"
+    },
+    "LearnMore": "Más información",
+    "Compare": "Comparar",
+    "SeeMore": "Ver más",
+    "SeeLess": "Ver menos",
+    "ExternalID": "",
+    "ProductID": "14667",
+    "RealProductID": 14667,
+    "M1Id": 14667,
+    "ProductHashedID": "dd65278a4a9f449e",
+    "PartNo": "",
+    "NewFlag": "0",
+    "DataRow": 1,
+    "ModelBaseFlag": 1,
+    "SpecFlag": 1,
+    "LowestPriceInNDayPeriod": "el precio más bajo en el periodo de 30 días anterior a la introducción del descuento",
+    "SubTagline": "",
+    "Tooltip": "",
+    "ReviewFlag": 0,
+    "HistoricLowPrice": "",
+    "SortPrice": "",
+    "StockStatus": "",
+    "SalesModelName": ""
+  }
+]

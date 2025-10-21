@@ -1,0 +1,1963 @@
+[
+  {
+    "SourceType": "rog",
+    "GetURLFlag": 1,
+    "isRogFlag": 1,
+    "Level1ID": 756,
+    "ProductURL": "https://rog.asus.com/ar/cases/rog-strix-helios-model/",
+    "ProductCardURL": "https://rog.asus.com/ar/cases/rog-strix-helios-model/",
+    "CustomizeTag": {
+      "Enabled": false,
+      "Text": ""
+    },
+    "LeftHeader": {
+      "NewsFlag": "N",
+      "DealFlag": "N",
+      "NewsFlagWording": "Nuevo",
+      "DealFlagWording": "OFERTA"
+    },
+    "RightHeader": [],
+    "ProductImage": "",
+    "Size": "",
+    "Level1Path": "Cases",
+    "Level2Path": "",
+    "Level3Path": "",
+    "CategoryName": "ROG Strix Helios",
+    "SubSeriesName": "",
+    "PDWebPath": "",
+    "Name": "<h2>ROG Strix Helios</h2>",
+    "ReviewStar": "0.0",
+    "ReviewCount": 0,
+    "StartingAtWording": "El precio de la ASUS store es a partir de",
+    "Estore": "Precio de la ASUS store",
+    "PDCardSafety": "El precio de la ASUS store es el precio de un producto proporcionado por la ASUS store. Las especificaciones no incluidas aquí podrían no estar disponibles en la eStore y solo están como referencia.",
+    "PDCardSafety2": "",
+    "PriceLineColor": "#CCCCCC",
+    "PriceColor": "#181818",
+    "Price": "",
+    "Discount": "",
+    "DiscountColor": "#c74200",
+    "DiscountFlag": "",
+    "DiscountWording": "Guardar",
+    "RegularPrice": "",
+    "StartTimeWording": "",
+    "StartTime": "",
+    "EndTimeWording": "",
+    "EndTime": "",
+    "Notice": "1",
+    "ShippingHint": "",
+    "ModelSpec": "Gabinete gamer ROG Strix Helios RGB mid-tower ATX/EATX con cristal templado, marco de aluminio, soportes para GPU, soporte para radiador de 450mm y Aura Sync",
+    "ProductOnlineDt": "2025-03-11 09:47:40",
+    "ImageList": [
+      {
+        "DefaultFlag": "Y",
+        "ColorCode": "XXXXX",
+        "ColorName": "",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/117ACAB9-87EE-4E2B-8D1C-CE9E578768BB/w185"
+        ]
+      }
+    ],
+    "ProductLogo": [
+      {
+        "LogoLink": "",
+        "LogoAlt": "GeForce RTX 50 Ready",
+        "LogoImageURL": {
+          "logo1x": "https://dlcdnwebimgs.asus.com/gain/B82C89AF-22A6-4BA5-A4BE-F20E0847241D/h32",
+          "logo2x": "https://dlcdnwebimgs.asus.com/gain/8A6F062E-3566-40F6-96C8-7CF6E8FD3F15/h64"
+        }
+      }
+    ],
+    "Buy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "ManualBuy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "WhereToBuy": {
+      "WTBText": "Dónde comprar",
+      "WTBFlag": 0,
+      "WTBLink": ""
+    },
+    "FindNearBy": {
+      "FindNearByText": "Encuentra una tienda",
+      "FindNearByFlag": 0
+    },
+    "VolumePurchase": {
+      "Level1Name": "",
+      "Text": "Volume purchase",
+      "Link": "https://www.connect.asus.com/ar/VolumePurchase",
+      "linkTarget": "_blank"
+    },
+    "LearnMore": "Más información",
+    "Compare": "Comparar",
+    "SeeMore": "Ver más",
+    "SeeLess": "Ver menos",
+    "ExternalID": "",
+    "ProductID": "R_90DC0020-B30000",
+    "RealProductID": 10720,
+    "M1Id": 10720,
+    "ProductHashedID": "",
+    "PartNo": "90DC0020-B30000",
+    "NewFlag": "0",
+    "DataRow": 12,
+    "ModelBaseFlag": 1,
+    "SpecFlag": 1,
+    "LowestPriceInNDayPeriod": "el precio más bajo en el periodo de 30 días anterior a la introducción del descuento",
+    "SubTagline": "",
+    "Tooltip": "",
+    "ReviewFlag": 1,
+    "HistoricLowPrice": "",
+    "SortPrice": "",
+    "StockStatus": "",
+    "SalesModelName": "GX601 ROG STRIX HELIOS CASE/BK/AL/WITH HANDLE"
+  },
+  {
+    "SourceType": "rog",
+    "GetURLFlag": 1,
+    "isRogFlag": 1,
+    "Level1ID": 756,
+    "ProductURL": "https://rog.asus.com/ar/cases/rog-strix-helios-white-edition-model/",
+    "ProductCardURL": "https://rog.asus.com/ar/cases/rog-strix-helios-white-edition-model/",
+    "CustomizeTag": {
+      "Enabled": false,
+      "Text": ""
+    },
+    "LeftHeader": {
+      "NewsFlag": "N",
+      "DealFlag": "N",
+      "NewsFlagWording": "Nuevo",
+      "DealFlagWording": "OFERTA"
+    },
+    "RightHeader": [],
+    "ProductImage": "",
+    "Size": "",
+    "Level1Path": "Cases",
+    "Level2Path": "",
+    "Level3Path": "",
+    "CategoryName": "ROG Strix Helios White Edition",
+    "SubSeriesName": "",
+    "PDWebPath": "",
+    "Name": "<h2>ROG Strix Helios White Edition</h2>",
+    "ReviewStar": "0.0",
+    "ReviewCount": 0,
+    "StartingAtWording": "El precio de la ASUS store es a partir de",
+    "Estore": "Precio de la ASUS store",
+    "PDCardSafety": "El precio de la ASUS store es el precio de un producto proporcionado por la ASUS store. Las especificaciones no incluidas aquí podrían no estar disponibles en la eStore y solo están como referencia.",
+    "PDCardSafety2": "",
+    "PriceLineColor": "#CCCCCC",
+    "PriceColor": "#181818",
+    "Price": "",
+    "Discount": "",
+    "DiscountColor": "#c74200",
+    "DiscountFlag": "",
+    "DiscountWording": "Guardar",
+    "RegularPrice": "",
+    "StartTimeWording": "",
+    "StartTime": "",
+    "EndTimeWording": "",
+    "EndTime": "",
+    "Notice": "1",
+    "ShippingHint": "",
+    "ModelSpec": "Gabinete gaming ROG Strix Helios White Edition RGB mid-tower ATX/EATX con vidrio templado, marco de aluminio, soportes para GPU, soporte para radiador de 450mm y Aura Sync",
+    "ProductOnlineDt": "2025-03-11 09:36:54",
+    "ImageList": [
+      {
+        "DefaultFlag": "Y",
+        "ColorCode": "XXXXX",
+        "ColorName": "",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/0553C8C3-DAE7-4A0E-A23B-F974ADAF1187/w185"
+        ]
+      }
+    ],
+    "ProductLogo": [
+      {
+        "LogoLink": "",
+        "LogoAlt": "GeForce RTX 50 Ready",
+        "LogoImageURL": {
+          "logo1x": "https://dlcdnwebimgs.asus.com/gain/B82C89AF-22A6-4BA5-A4BE-F20E0847241D/h32",
+          "logo2x": "https://dlcdnwebimgs.asus.com/gain/8A6F062E-3566-40F6-96C8-7CF6E8FD3F15/h64"
+        }
+      }
+    ],
+    "Buy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "ManualBuy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "WhereToBuy": {
+      "WTBText": "Dónde comprar",
+      "WTBFlag": 0,
+      "WTBLink": ""
+    },
+    "FindNearBy": {
+      "FindNearByText": "Encuentra una tienda",
+      "FindNearByFlag": 0
+    },
+    "VolumePurchase": {
+      "Level1Name": "",
+      "Text": "Volume purchase",
+      "Link": "https://www.connect.asus.com/ar/VolumePurchase",
+      "linkTarget": "_blank"
+    },
+    "LearnMore": "Más información",
+    "Compare": "Comparar",
+    "SeeMore": "Ver más",
+    "SeeLess": "Ver menos",
+    "ExternalID": "",
+    "ProductID": "R_90DC0023-B30000",
+    "RealProductID": 14787,
+    "M1Id": 14787,
+    "ProductHashedID": "",
+    "PartNo": "90DC0023-B30000",
+    "NewFlag": "0",
+    "DataRow": 13,
+    "ModelBaseFlag": 1,
+    "SpecFlag": 1,
+    "LowestPriceInNDayPeriod": "el precio más bajo en el periodo de 30 días anterior a la introducción del descuento",
+    "SubTagline": "",
+    "Tooltip": "",
+    "ReviewFlag": 1,
+    "HistoricLowPrice": "",
+    "SortPrice": "",
+    "StockStatus": "",
+    "SalesModelName": "GX601 ROG STRIX HELIOS CASE/WT/AL/WITH HANDLE"
+  },
+  {
+    "SourceType": "rog",
+    "GetURLFlag": 1,
+    "isRogFlag": 1,
+    "Level1ID": 756,
+    "ProductURL": "https://rog.asus.com/ar/cases/rog-hyperion-gr701-model/",
+    "ProductCardURL": "https://rog.asus.com/ar/cases/rog-hyperion-gr701-model/",
+    "CustomizeTag": {
+      "Enabled": false,
+      "Text": ""
+    },
+    "LeftHeader": {
+      "NewsFlag": "N",
+      "DealFlag": "N",
+      "NewsFlagWording": "Nuevo",
+      "DealFlagWording": "OFERTA"
+    },
+    "RightHeader": [],
+    "ProductImage": "",
+    "Size": "",
+    "Level1Path": "Cases",
+    "Level2Path": "",
+    "Level3Path": "",
+    "CategoryName": "ROG Hyperion GR701",
+    "SubSeriesName": "",
+    "PDWebPath": "",
+    "Name": "<h2>ROG Hyperion GR701</h2>",
+    "ReviewStar": "0.0",
+    "ReviewCount": 0,
+    "StartingAtWording": "El precio de la ASUS store es a partir de",
+    "Estore": "Precio de la ASUS store",
+    "PDCardSafety": "El precio de la ASUS store es el precio de un producto proporcionado por la ASUS store. Las especificaciones no incluidas aquí podrían no estar disponibles en la eStore y solo están como referencia.",
+    "PDCardSafety2": "",
+    "PriceLineColor": "#CCCCCC",
+    "PriceColor": "#181818",
+    "Price": "",
+    "Discount": "",
+    "DiscountColor": "#c74200",
+    "DiscountFlag": "",
+    "DiscountWording": "Guardar",
+    "RegularPrice": "",
+    "StartTimeWording": "",
+    "StartTime": "",
+    "EndTimeWording": "",
+    "EndTime": "",
+    "Notice": "1",
+    "ShippingHint": "",
+    "ModelSpec": "<p>Gabinete de PC ROG Hyperion GR701 E-ATX, soporte para radiador doble de 460 mm, cuatro ventiladores de 140 mm, soporte metálico para GPU, almacenamiento de componentes, hub de ventilador ARGB, carga rápida de 60W.</p>",
+    "ProductOnlineDt": "2025-03-11 08:33:33",
+    "ImageList": [
+      {
+        "DefaultFlag": "Y",
+        "ColorCode": "XXXXX",
+        "ColorName": "",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/5167731A-F3EA-4238-9C7D-F950D0EF838C/w185"
+        ]
+      }
+    ],
+    "ProductLogo": [
+      {
+        "LogoLink": "",
+        "LogoAlt": "GeForce RTX 50 Ready",
+        "LogoImageURL": {
+          "logo1x": "https://dlcdnwebimgs.asus.com/gain/B82C89AF-22A6-4BA5-A4BE-F20E0847241D/h32",
+          "logo2x": "https://dlcdnwebimgs.asus.com/gain/8A6F062E-3566-40F6-96C8-7CF6E8FD3F15/h64"
+        }
+      }
+    ],
+    "Buy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "ManualBuy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "WhereToBuy": {
+      "WTBText": "Dónde comprar",
+      "WTBFlag": 0,
+      "WTBLink": ""
+    },
+    "FindNearBy": {
+      "FindNearByText": "Encuentra una tienda",
+      "FindNearByFlag": 0
+    },
+    "VolumePurchase": {
+      "Level1Name": "",
+      "Text": "Volume purchase",
+      "Link": "https://www.connect.asus.com/ar/VolumePurchase",
+      "linkTarget": "_blank"
+    },
+    "LearnMore": "Más información",
+    "Compare": "Comparar",
+    "SeeMore": "Ver más",
+    "SeeLess": "Ver menos",
+    "ExternalID": "",
+    "ProductID": "R_90DC00F0-B38000",
+    "RealProductID": 22671,
+    "M1Id": 22458,
+    "ProductHashedID": "",
+    "PartNo": "90DC00F0-B38000",
+    "NewFlag": "0",
+    "DataRow": 14,
+    "ModelBaseFlag": 1,
+    "SpecFlag": 1,
+    "LowestPriceInNDayPeriod": "el precio más bajo en el periodo de 30 días anterior a la introducción del descuento",
+    "SubTagline": "",
+    "Tooltip": "",
+    "ReviewFlag": 1,
+    "HistoricLowPrice": "",
+    "SortPrice": "",
+    "StockStatus": "",
+    "SalesModelName": "GR701 ROG HYPERION"
+  },
+  {
+    "SourceType": "rog",
+    "GetURLFlag": 1,
+    "isRogFlag": 1,
+    "Level1ID": 756,
+    "ProductURL": "https://rog.asus.com/ar/cases/rog-hyperion-gr701-eva-02-edition/",
+    "ProductCardURL": "https://rog.asus.com/ar/cases/rog-hyperion-gr701-eva-02-edition/",
+    "CustomizeTag": {
+      "Enabled": false,
+      "Text": ""
+    },
+    "LeftHeader": {
+      "NewsFlag": "N",
+      "DealFlag": "N",
+      "NewsFlagWording": "Nuevo",
+      "DealFlagWording": "OFERTA"
+    },
+    "RightHeader": [],
+    "ProductImage": "",
+    "Size": "",
+    "Level1Path": "Cases",
+    "Level2Path": "",
+    "Level3Path": "",
+    "CategoryName": "ROG Hyperion GR701 EVA-02 Edition",
+    "SubSeriesName": "",
+    "PDWebPath": "",
+    "Name": "<h2>ROG Hyperion EVA-02 Edition</h2>",
+    "ReviewStar": "0.0",
+    "ReviewCount": 0,
+    "StartingAtWording": "El precio de la ASUS store es a partir de",
+    "Estore": "Precio de la ASUS store",
+    "PDCardSafety": "El precio de la ASUS store es el precio de un producto proporcionado por la ASUS store. Las especificaciones no incluidas aquí podrían no estar disponibles en la eStore y solo están como referencia.",
+    "PDCardSafety2": "",
+    "PriceLineColor": "#CCCCCC",
+    "PriceColor": "#181818",
+    "Price": "",
+    "Discount": "",
+    "DiscountColor": "#c74200",
+    "DiscountFlag": "",
+    "DiscountWording": "Guardar",
+    "RegularPrice": "",
+    "StartTimeWording": "",
+    "StartTime": "",
+    "EndTimeWording": "",
+    "EndTime": "",
+    "Notice": "1",
+    "ShippingHint": "",
+    "ModelSpec": "<p>Case para PC ROG Hyperion EVA-02, soporte para radiador dual de 460 mm, cuatro ventiladores de 140 mm, soporte para GPU de metal, almacenamiento para componentes, concentrador de ventiladores ARGB, carga rápida de 60W.</p>",
+    "ProductOnlineDt": "2025-03-04 04:52:22",
+    "ImageList": [
+      {
+        "DefaultFlag": "Y",
+        "ColorCode": "XXXXX",
+        "ColorName": "",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/90DC80EB-628D-4732-8054-B5A70B38FB2F/w185"
+        ]
+      }
+    ],
+    "ProductLogo": [
+      {
+        "LogoLink": "",
+        "LogoAlt": "GeForce RTX 50 Ready",
+        "LogoImageURL": {
+          "logo1x": "https://dlcdnwebimgs.asus.com/gain/B82C89AF-22A6-4BA5-A4BE-F20E0847241D/h32",
+          "logo2x": "https://dlcdnwebimgs.asus.com/gain/8A6F062E-3566-40F6-96C8-7CF6E8FD3F15/h64"
+        }
+      }
+    ],
+    "Buy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "ManualBuy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "WhereToBuy": {
+      "WTBText": "Dónde comprar",
+      "WTBFlag": 0,
+      "WTBLink": ""
+    },
+    "FindNearBy": {
+      "FindNearByText": "Encuentra una tienda",
+      "FindNearByFlag": 0
+    },
+    "VolumePurchase": {
+      "Level1Name": "",
+      "Text": "Volume purchase",
+      "Link": "https://www.connect.asus.com/ar/VolumePurchase",
+      "linkTarget": "_blank"
+    },
+    "LearnMore": "Más información",
+    "Compare": "Comparar",
+    "SeeMore": "Ver más",
+    "SeeLess": "Ver menos",
+    "ExternalID": "",
+    "ProductID": "R_90DC00F4-B30000",
+    "RealProductID": 24145,
+    "M1Id": 23764,
+    "ProductHashedID": "",
+    "PartNo": "90DC00F4-B30000",
+    "NewFlag": "0",
+    "DataRow": 16,
+    "ModelBaseFlag": 1,
+    "SpecFlag": 1,
+    "LowestPriceInNDayPeriod": "el precio más bajo en el periodo de 30 días anterior a la introducción del descuento",
+    "SubTagline": "",
+    "Tooltip": "",
+    "ReviewFlag": 1,
+    "HistoricLowPrice": "",
+    "SortPrice": "",
+    "StockStatus": "",
+    "SalesModelName": "GR701 ROG HYPERION EVA EDITION"
+  },
+  {
+    "SourceType": "rog",
+    "GetURLFlag": 1,
+    "isRogFlag": 1,
+    "Level1ID": 756,
+    "ProductURL": "https://rog.asus.com/ar/cases/rog-hyperion-gr701-btf-edition/",
+    "ProductCardURL": "https://rog.asus.com/ar/cases/rog-hyperion-gr701-btf-edition/",
+    "CustomizeTag": {
+      "Enabled": false,
+      "Text": ""
+    },
+    "LeftHeader": {
+      "NewsFlag": "N",
+      "DealFlag": "N",
+      "NewsFlagWording": "Nuevo",
+      "DealFlagWording": "OFERTA"
+    },
+    "RightHeader": [],
+    "ProductImage": "",
+    "Size": "",
+    "Level1Path": "Cases",
+    "Level2Path": "",
+    "Level3Path": "",
+    "CategoryName": "ROG Hyperion GR701 BTF Edition",
+    "SubSeriesName": "",
+    "PDWebPath": "",
+    "Name": "<h2>ROG Hyperion GR701 BTF Edition</h2>",
+    "ReviewStar": "0.0",
+    "ReviewCount": 0,
+    "StartingAtWording": "El precio de la ASUS store es a partir de",
+    "Estore": "Precio de la ASUS store",
+    "PDCardSafety": "El precio de la ASUS store es el precio de un producto proporcionado por la ASUS store. Las especificaciones no incluidas aquí podrían no estar disponibles en la eStore y solo están como referencia.",
+    "PDCardSafety2": "",
+    "PriceLineColor": "#CCCCCC",
+    "PriceColor": "#181818",
+    "Price": "",
+    "Discount": "",
+    "DiscountColor": "#c74200",
+    "DiscountFlag": "",
+    "DiscountWording": "Guardar",
+    "RegularPrice": "",
+    "StartTimeWording": "",
+    "StartTime": "",
+    "EndTimeWording": "",
+    "EndTime": "",
+    "Notice": "1",
+    "ShippingHint": "",
+    "ModelSpec": "<p>Case de ordenador E-ATX ROG Hyperion GR701 BTF Edition, diseño compatible con conectores ocultos de placa base, soporte para radiador dual de 460 mm, cuatro ventiladores de 140 mm, soporte metálico para GPU, almacenamiento de componentes, concentrador de ventiladores ARGB, carga rápida de 60 W.</p>",
+    "ProductOnlineDt": "2025-03-04 04:36:15",
+    "ImageList": [
+      {
+        "DefaultFlag": "Y",
+        "ColorCode": "XXXXX",
+        "ColorName": "",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/76D4B1B0-179E-4711-BB42-F9381B97A622/w185"
+        ]
+      }
+    ],
+    "ProductLogo": [
+      {
+        "LogoLink": "",
+        "LogoAlt": "GeForce RTX 50 Ready",
+        "LogoImageURL": {
+          "logo1x": "https://dlcdnwebimgs.asus.com/gain/B82C89AF-22A6-4BA5-A4BE-F20E0847241D/h32",
+          "logo2x": "https://dlcdnwebimgs.asus.com/gain/8A6F062E-3566-40F6-96C8-7CF6E8FD3F15/h64"
+        }
+      }
+    ],
+    "Buy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "ManualBuy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "WhereToBuy": {
+      "WTBText": "Dónde comprar",
+      "WTBFlag": 0,
+      "WTBLink": ""
+    },
+    "FindNearBy": {
+      "FindNearByText": "Encuentra una tienda",
+      "FindNearByFlag": 0
+    },
+    "VolumePurchase": {
+      "Level1Name": "",
+      "Text": "Volume purchase",
+      "Link": "https://www.connect.asus.com/ar/VolumePurchase",
+      "linkTarget": "_blank"
+    },
+    "LearnMore": "Más información",
+    "Compare": "Comparar",
+    "SeeMore": "Ver más",
+    "SeeLess": "Ver menos",
+    "ExternalID": "",
+    "ProductID": "R_90DC00F0-B38010",
+    "RealProductID": 25661,
+    "M1Id": 25196,
+    "ProductHashedID": "",
+    "PartNo": "90DC00F0-B38010",
+    "NewFlag": "0",
+    "DataRow": 15,
+    "ModelBaseFlag": 1,
+    "SpecFlag": 1,
+    "LowestPriceInNDayPeriod": "el precio más bajo en el periodo de 30 días anterior a la introducción del descuento",
+    "SubTagline": "",
+    "Tooltip": "",
+    "ReviewFlag": 1,
+    "HistoricLowPrice": "",
+    "SortPrice": "",
+    "StockStatus": "",
+    "SalesModelName": "GR701 ROG HYPERION BTF EDITION"
+  },
+  {
+    "SourceType": "prod",
+    "GetURLFlag": 0,
+    "isRogFlag": 0,
+    "Level1ID": 4,
+    "ProductURL": "https://www.asus.com/ar/motherboards-components/cases/proart/proart-pa602-wood-edition-tempered-glass-panel/",
+    "ProductCardURL": "https://www.asus.com/ar/motherboards-components/cases/proart/proart-pa602-wood-edition-tempered-glass-panel/",
+    "CustomizeTag": {
+      "Enabled": false,
+      "Text": ""
+    },
+    "LeftHeader": {
+      "NewsFlag": "N",
+      "DealFlag": "N",
+      "NewsFlagWording": "Nuevo",
+      "DealFlagWording": "OFERTA"
+    },
+    "RightHeader": [],
+    "ProductImage": "",
+    "Size": "",
+    "Level1Path": "Motherboards-Components",
+    "Level2Path": "Cases",
+    "Level3Path": "ProArt",
+    "CategoryName": "",
+    "SubSeriesName": "",
+    "PDWebPath": "ProArt-PA602-Wood-Edition-Tempered-Glass-Panel",
+    "Name": "<h2>ProArt PA602 Wood Edition - Tempered Glass Panel</h2>",
+    "ReviewStar": "4.5",
+    "ReviewCount": 100,
+    "StartingAtWording": "El precio de la ASUS store es a partir de",
+    "Estore": "Precio de la ASUS store",
+    "PDCardSafety": "El precio de la ASUS store es el precio de un producto proporcionado por la ASUS store. Las especificaciones no incluidas aquí podrían no estar disponibles en la eStore y solo están como referencia.",
+    "PDCardSafety2": "",
+    "PriceLineColor": "#CCCCCC",
+    "PriceColor": "#181818",
+    "Price": "",
+    "Discount": "",
+    "DiscountColor": "#c74200",
+    "DiscountFlag": "",
+    "DiscountWording": "Guardar",
+    "RegularPrice": "",
+    "StartTimeWording": "",
+    "StartTime": "",
+    "EndTimeWording": "",
+    "EndTime": "",
+    "Notice": "",
+    "ShippingHint": "",
+    "ModelSpec": "<ul>\n<li>Admite GPU de hasta 440 mm de longitud</li>\n  <li>Materiales de madera de elaboración natural con certificación FSC</li>\n  <li>Superioridad en el aire con un flujo de aire masivo</li>\n  <li>El panel lateral de vidrio templado revela una esencia personalizada</li>\n  <li>Amplio espacio para una mejor compatibilidad</li>\n  <li>Amplias E/S para un cambio y transporte rápidos</li>\n  <li>Indicador de polvo IR en el panel frontal con recordatorios oportunos</li>\n  <li>Funciones fáciles de usar para ahorrar tiempo de montaje</li>\n</ul>",
+    "ProductOnlineDt": "2024-09-25 09:05:00",
+    "ImageList": [
+      {
+        "DefaultFlag": "Y",
+        "ColorCode": "XXXX",
+        "ColorName": "",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/c8edae21-257c-46d3-92aa-412dd8e43e07/w185",
+          "https://dlcdnwebimgs.asus.com/gain/9012343e-1a51-4a5e-92e1-dac8b02a91aa/w185",
+          "https://dlcdnwebimgs.asus.com/gain/56be44e8-9876-4da0-8737-9c8086d63fcb/w185"
+        ]
+      }
+    ],
+    "ProductLogo": [
+      {
+        "LogoLink": "",
+        "LogoAlt": " Paquete de un mes de Adobe",
+        "LogoImageURL": {
+          "logo1x": "https://dlcdnwebimgs.asus.com/gain/1269fec2-7b9c-44f7-8dc8-300cab784d1b/h44",
+          "logo2x": "https://dlcdnwebimgs.asus.com/gain/1269fec2-7b9c-44f7-8dc8-300cab784d1b/"
+        }
+      },
+      {
+        "LogoLink": "",
+        "LogoAlt": "",
+        "LogoImageURL": {
+          "logo1x": "https://dlcdnwebimgs.asus.com/gain/b4bc0eed-5f97-46a1-9c82-959034bf741d/h44",
+          "logo2x": "https://dlcdnwebimgs.asus.com/gain/b4bc0eed-5f97-46a1-9c82-959034bf741d/"
+        }
+      }
+    ],
+    "Buy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "ManualBuy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "WhereToBuy": {
+      "WTBText": "Dónde comprar",
+      "WTBFlag": 0,
+      "WTBLink": ""
+    },
+    "FindNearBy": {
+      "FindNearByText": "Encuentra una tienda",
+      "FindNearByFlag": 0
+    },
+    "VolumePurchase": {
+      "Level1Name": "",
+      "Text": "Volume purchase",
+      "Link": "https://www.connect.asus.com/ar/VolumePurchase",
+      "linkTarget": "_blank"
+    },
+    "LearnMore": "Más información",
+    "Compare": "Comparar",
+    "SeeMore": "Ver más",
+    "SeeLess": "Ver menos",
+    "ExternalID": "",
+    "ProductID": "27554",
+    "RealProductID": 27554,
+    "M1Id": 27554,
+    "ProductHashedID": "mrrfjh3koncekcqi",
+    "PartNo": "",
+    "NewFlag": "0",
+    "DataRow": 10,
+    "ModelBaseFlag": 1,
+    "SpecFlag": 1,
+    "LowestPriceInNDayPeriod": "el precio más bajo en el periodo de 30 días anterior a la introducción del descuento",
+    "SubTagline": "",
+    "Tooltip": "",
+    "ReviewFlag": 0,
+    "HistoricLowPrice": "",
+    "SortPrice": "",
+    "StockStatus": "",
+    "SalesModelName": ""
+  },
+  {
+    "SourceType": "prod",
+    "GetURLFlag": 0,
+    "isRogFlag": 0,
+    "Level1ID": 4,
+    "ProductURL": "https://www.asus.com/ar/motherboards-components/cases/tuf-gaming/tuf-gaming-gt502-horizon/",
+    "ProductCardURL": "https://www.asus.com/ar/motherboards-components/cases/tuf-gaming/tuf-gaming-gt502-horizon/",
+    "CustomizeTag": {
+      "Enabled": false,
+      "Text": ""
+    },
+    "LeftHeader": {
+      "NewsFlag": "N",
+      "DealFlag": "N",
+      "NewsFlagWording": "Nuevo",
+      "DealFlagWording": "OFERTA"
+    },
+    "RightHeader": [],
+    "ProductImage": "",
+    "Size": "",
+    "Level1Path": "Motherboards-Components",
+    "Level2Path": "Cases",
+    "Level3Path": "TUF-Gaming",
+    "CategoryName": "",
+    "SubSeriesName": "",
+    "PDWebPath": "TUF-Gaming-GT502-Horizon",
+    "Name": "<h2>TUF Gaming GT502 Horizon</h2>",
+    "ReviewStar": "4.5",
+    "ReviewCount": 100,
+    "StartingAtWording": "El precio de la ASUS store es a partir de",
+    "Estore": "Precio de la ASUS store",
+    "PDCardSafety": "El precio de la ASUS store es el precio de un producto proporcionado por la ASUS store. Las especificaciones no incluidas aquí podrían no estar disponibles en la eStore y solo están como referencia.",
+    "PDCardSafety2": "",
+    "PriceLineColor": "#CCCCCC",
+    "PriceColor": "#181818",
+    "Price": "",
+    "Discount": "",
+    "DiscountColor": "#c74200",
+    "DiscountFlag": "",
+    "DiscountWording": "Guardar",
+    "RegularPrice": "",
+    "StartTimeWording": "",
+    "StartTime": "",
+    "EndTimeWording": "",
+    "EndTime": "",
+    "Notice": "",
+    "ShippingHint": "",
+    "ModelSpec": "<ul>\n<li>Admite GPU de hasta 400 mm de longitud</li>\n  <li>Chasis de doble cámara con zonas de refrigeración independientes para GPU y CPU</li>\n  <li>Diseño panorámico sin límites que ofrece una vista totalmente despejada</li>\n  <li>Panel frontal USB Tipo-C<sup>®</sup> de alta velocidad para transferencias de datos de alta velocidad</li>\n  <li>Paneles laterales sin necesidad de herramientas</li>\n  <li>Diseño totalmente modular</li>\n</ul>",
+    "ProductOnlineDt": "2024-09-18 09:32:00",
+    "ImageList": [
+      {
+        "DefaultFlag": "N",
+        "ColorCode": "#000000",
+        "ColorName": "Black",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/c9bff475-9461-4a6b-b95a-4621b0c5db97/w185",
+          "https://dlcdnwebimgs.asus.com/gain/2751ca1e-7c04-4548-b7a6-49671304b60c/w185",
+          "https://dlcdnwebimgs.asus.com/gain/790caf42-7d5d-4721-8690-34b22d7bec0d/w185"
+        ]
+      },
+      {
+        "DefaultFlag": "N",
+        "ColorCode": "#FFFFFF",
+        "ColorName": "White",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/5f4029fe-c330-429f-8936-f2a02c1bdf0f/w185",
+          "https://dlcdnwebimgs.asus.com/gain/f9976983-2013-499f-974e-b1d799d6bcf1/w185",
+          "https://dlcdnwebimgs.asus.com/gain/74cc97d2-9639-4003-adb2-92f6ccb3230a/w185"
+        ]
+      }
+    ],
+    "ProductLogo": [
+      {
+        "LogoLink": "",
+        "LogoAlt": "",
+        "LogoImageURL": {
+          "logo1x": "https://dlcdnwebimgs.asus.com/gain/b4bc0eed-5f97-46a1-9c82-959034bf741d/h44",
+          "logo2x": "https://dlcdnwebimgs.asus.com/gain/b4bc0eed-5f97-46a1-9c82-959034bf741d/"
+        }
+      }
+    ],
+    "Buy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "ManualBuy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "WhereToBuy": {
+      "WTBText": "Dónde comprar",
+      "WTBFlag": 0,
+      "WTBLink": ""
+    },
+    "FindNearBy": {
+      "FindNearByText": "Encuentra una tienda",
+      "FindNearByFlag": 0
+    },
+    "VolumePurchase": {
+      "Level1Name": "",
+      "Text": "Volume purchase",
+      "Link": "https://www.connect.asus.com/ar/VolumePurchase",
+      "linkTarget": "_blank"
+    },
+    "LearnMore": "Más información",
+    "Compare": "Comparar",
+    "SeeMore": "Ver más",
+    "SeeLess": "Ver menos",
+    "ExternalID": "",
+    "ProductID": "23871",
+    "RealProductID": 23871,
+    "M1Id": 23871,
+    "ProductHashedID": "wulgryk0t6rc5uik",
+    "PartNo": "",
+    "NewFlag": "0",
+    "DataRow": 7,
+    "ModelBaseFlag": 1,
+    "SpecFlag": 1,
+    "LowestPriceInNDayPeriod": "el precio más bajo en el periodo de 30 días anterior a la introducción del descuento",
+    "SubTagline": "",
+    "Tooltip": "",
+    "ReviewFlag": 0,
+    "HistoricLowPrice": "",
+    "SortPrice": "",
+    "StockStatus": "",
+    "SalesModelName": ""
+  },
+  {
+    "SourceType": "prod",
+    "GetURLFlag": 0,
+    "isRogFlag": 0,
+    "Level1ID": 4,
+    "ProductURL": "https://www.asus.com/ar/motherboards-components/cases/tuf-gaming/tuf-gaming-argb-lighting-kit-for-gt502-horizon-series/",
+    "ProductCardURL": "https://www.asus.com/ar/motherboards-components/cases/tuf-gaming/tuf-gaming-argb-lighting-kit-for-gt502-horizon-series/",
+    "CustomizeTag": {
+      "Enabled": false,
+      "Text": ""
+    },
+    "LeftHeader": {
+      "NewsFlag": "N",
+      "DealFlag": "N",
+      "NewsFlagWording": "Nuevo",
+      "DealFlagWording": "OFERTA"
+    },
+    "RightHeader": [],
+    "ProductImage": "",
+    "Size": "",
+    "Level1Path": "Motherboards-Components",
+    "Level2Path": "Cases",
+    "Level3Path": "TUF-Gaming",
+    "CategoryName": "",
+    "SubSeriesName": "",
+    "PDWebPath": "TUF-Gaming-ARGB-Lighting-Kit-for-GT502-Horizon-Series",
+    "Name": "<h2>TUF Gaming ARGB Lighting Kit for GT502 Horizon Series</h2>",
+    "ReviewStar": "4.5",
+    "ReviewCount": 100,
+    "StartingAtWording": "El precio de la ASUS store es a partir de",
+    "Estore": "Precio de la ASUS store",
+    "PDCardSafety": "El precio de la ASUS store es el precio de un producto proporcionado por la ASUS store. Las especificaciones no incluidas aquí podrían no estar disponibles en la eStore y solo están como referencia.",
+    "PDCardSafety2": "",
+    "PriceLineColor": "#CCCCCC",
+    "PriceColor": "#181818",
+    "Price": "",
+    "Discount": "",
+    "DiscountColor": "#c74200",
+    "DiscountFlag": "",
+    "DiscountWording": "Guardar",
+    "RegularPrice": "",
+    "StartTimeWording": "",
+    "StartTime": "",
+    "EndTimeWording": "",
+    "EndTime": "",
+    "Notice": "",
+    "ShippingHint": "",
+    "ModelSpec": " <ul>\n<li>Iluminación vibrante del sistema</li>\n<li>Diseño magnético</li>\n<li>Hasta 20.000 horas de durabilidad</li>\n<li>Aura Sync</li>\n<li>Blanco y negro</li>\n</ul>",
+    "ProductOnlineDt": "2024-09-18 09:30:00",
+    "ImageList": [
+      {
+        "DefaultFlag": "N",
+        "ColorCode": "#000000",
+        "ColorName": "Black",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/c519939c-24e7-4e21-879b-6b7119036cfa/w185",
+          "https://dlcdnwebimgs.asus.com/gain/81bca174-fba0-4299-886e-94e30f6c2e28/w185",
+          "https://dlcdnwebimgs.asus.com/gain/dc3e113b-6c1b-48ac-abe1-8cceca645057/w185"
+        ]
+      },
+      {
+        "DefaultFlag": "N",
+        "ColorCode": "#FFFFFF",
+        "ColorName": "White",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/af3bfc45-aa99-4558-a0b3-3151ab3e8609/w185",
+          "https://dlcdnwebimgs.asus.com/gain/01f71606-d6de-46bc-aac8-eeff00f9f5da/w185",
+          "https://dlcdnwebimgs.asus.com/gain/df1d2700-ab05-4239-bfdc-ee757b5a9548/w185"
+        ]
+      }
+    ],
+    "ProductLogo": [],
+    "Buy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "ManualBuy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "WhereToBuy": {
+      "WTBText": "Dónde comprar",
+      "WTBFlag": 0,
+      "WTBLink": ""
+    },
+    "FindNearBy": {
+      "FindNearByText": "Encuentra una tienda",
+      "FindNearByFlag": 0
+    },
+    "VolumePurchase": {
+      "Level1Name": "",
+      "Text": "Volume purchase",
+      "Link": "https://www.connect.asus.com/ar/VolumePurchase",
+      "linkTarget": "_blank"
+    },
+    "LearnMore": "Más información",
+    "Compare": "Comparar",
+    "SeeMore": "Ver más",
+    "SeeLess": "Ver menos",
+    "ExternalID": "",
+    "ProductID": "28605",
+    "RealProductID": 28605,
+    "M1Id": 28605,
+    "ProductHashedID": "vm72drfpmqyrltv6",
+    "PartNo": "",
+    "NewFlag": "0",
+    "DataRow": 11,
+    "ModelBaseFlag": 1,
+    "SpecFlag": 1,
+    "LowestPriceInNDayPeriod": "el precio más bajo en el periodo de 30 días anterior a la introducción del descuento",
+    "SubTagline": "",
+    "Tooltip": "",
+    "ReviewFlag": 0,
+    "HistoricLowPrice": "",
+    "SortPrice": "",
+    "StockStatus": "",
+    "SalesModelName": ""
+  },
+  {
+    "SourceType": "prod",
+    "GetURLFlag": 0,
+    "isRogFlag": 0,
+    "Level1ID": 4,
+    "ProductURL": "https://www.asus.com/ar/motherboards-components/cases/tuf-gaming/tuf-gaming-gt302-argb/",
+    "ProductCardURL": "https://www.asus.com/ar/motherboards-components/cases/tuf-gaming/tuf-gaming-gt302-argb/",
+    "CustomizeTag": {
+      "Enabled": false,
+      "Text": ""
+    },
+    "LeftHeader": {
+      "NewsFlag": "N",
+      "DealFlag": "N",
+      "NewsFlagWording": "Nuevo",
+      "DealFlagWording": "OFERTA"
+    },
+    "RightHeader": [],
+    "ProductImage": "",
+    "Size": "",
+    "Level1Path": "Motherboards-Components",
+    "Level2Path": "Cases",
+    "Level3Path": "TUF-Gaming",
+    "CategoryName": "",
+    "SubSeriesName": "",
+    "PDWebPath": "TUF-Gaming-GT302-ARGB",
+    "Name": "<h2>TUF Gaming GT302 ARGB</h2>",
+    "ReviewStar": "4.5",
+    "ReviewCount": 100,
+    "StartingAtWording": "El precio de la ASUS store es a partir de",
+    "Estore": "Precio de la ASUS store",
+    "PDCardSafety": "El precio de la ASUS store es el precio de un producto proporcionado por la ASUS store. Las especificaciones no incluidas aquí podrían no estar disponibles en la eStore y solo están como referencia.",
+    "PDCardSafety2": "",
+    "PriceLineColor": "#CCCCCC",
+    "PriceColor": "#181818",
+    "Price": "",
+    "Discount": "",
+    "DiscountColor": "#c74200",
+    "DiscountFlag": "",
+    "DiscountWording": "Guardar",
+    "RegularPrice": "",
+    "StartTimeWording": "",
+    "StartTime": "",
+    "EndTimeWording": "",
+    "EndTime": "",
+    "Notice": "",
+    "ShippingHint": "",
+    "ModelSpec": "<ul>\n<li>Admite GPU de hasta 407 mm de longitud</li>\n  <li>Refrigeración extrema con cuatro ventiladores ARGB de 140x28</li>\n  <li>Panel lateral intercambiable</li>\n  <li>Panel superior extraíble</li>\n  <li>Compatible con el diseño de conectores ocultos de las placas base</li>\n  <li>Compatible con 360 AIO en la parte superior y tarjetas gráficas de la serie 40</li>\n</ul>",
+    "ProductOnlineDt": "2024-01-03 16:25:00",
+    "ImageList": [
+      {
+        "DefaultFlag": "N",
+        "ColorCode": "#000000",
+        "ColorName": "Black",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/a1cd7e69-1da4-484e-9ccf-b1579d5196f6/w185",
+          "https://dlcdnwebimgs.asus.com/gain/ab766366-728f-4bf5-a9fb-ef5b14ba4258/w185",
+          "https://dlcdnwebimgs.asus.com/gain/6303c2d7-53fe-4fcc-a8b9-0087dba93b6b/w185"
+        ]
+      },
+      {
+        "DefaultFlag": "N",
+        "ColorCode": "#FFFFFF",
+        "ColorName": "White",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/565d96c7-8720-4d65-aedd-c10d53f3276f/w185",
+          "https://dlcdnwebimgs.asus.com/gain/42e5f0c3-e8f5-447d-9cf6-783bd8543199/w185",
+          "https://dlcdnwebimgs.asus.com/gain/fada6ee6-bf33-42f7-be0f-99855e58ed1b/w185"
+        ]
+      }
+    ],
+    "ProductLogo": [
+      {
+        "LogoLink": "",
+        "LogoAlt": "",
+        "LogoImageURL": {
+          "logo1x": "https://dlcdnwebimgs.asus.com/gain/b4bc0eed-5f97-46a1-9c82-959034bf741d/h44",
+          "logo2x": "https://dlcdnwebimgs.asus.com/gain/b4bc0eed-5f97-46a1-9c82-959034bf741d/"
+        }
+      }
+    ],
+    "Buy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "ManualBuy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "WhereToBuy": {
+      "WTBText": "Dónde comprar",
+      "WTBFlag": 0,
+      "WTBLink": ""
+    },
+    "FindNearBy": {
+      "FindNearByText": "Encuentra una tienda",
+      "FindNearByFlag": 0
+    },
+    "VolumePurchase": {
+      "Level1Name": "",
+      "Text": "Volume purchase",
+      "Link": "https://www.connect.asus.com/ar/VolumePurchase",
+      "linkTarget": "_blank"
+    },
+    "LearnMore": "Más información",
+    "Compare": "Comparar",
+    "SeeMore": "Ver más",
+    "SeeLess": "Ver menos",
+    "ExternalID": "",
+    "ProductID": "25175",
+    "RealProductID": 25175,
+    "M1Id": 25175,
+    "ProductHashedID": "3oyijoqdp8mnq8zd",
+    "PartNo": "",
+    "NewFlag": "0",
+    "DataRow": 9,
+    "ModelBaseFlag": 1,
+    "SpecFlag": 1,
+    "LowestPriceInNDayPeriod": "el precio más bajo en el periodo de 30 días anterior a la introducción del descuento",
+    "SubTagline": "",
+    "Tooltip": "",
+    "ReviewFlag": 0,
+    "HistoricLowPrice": "",
+    "SortPrice": "",
+    "StockStatus": "",
+    "SalesModelName": ""
+  },
+  {
+    "SourceType": "prod",
+    "GetURLFlag": 0,
+    "isRogFlag": 0,
+    "Level1ID": 4,
+    "ProductURL": "https://www.asus.com/ar/motherboards-components/cases/proart/proart-pa602/",
+    "ProductCardURL": "https://www.asus.com/ar/motherboards-components/cases/proart/proart-pa602/",
+    "CustomizeTag": {
+      "Enabled": false,
+      "Text": ""
+    },
+    "LeftHeader": {
+      "NewsFlag": "N",
+      "DealFlag": "N",
+      "NewsFlagWording": "Nuevo",
+      "DealFlagWording": "OFERTA"
+    },
+    "RightHeader": [],
+    "ProductImage": "",
+    "Size": "",
+    "Level1Path": "Motherboards-Components",
+    "Level2Path": "Cases",
+    "Level3Path": "ProArt",
+    "CategoryName": "",
+    "SubSeriesName": "",
+    "PDWebPath": "ProArt-PA602",
+    "Name": "<h2>ProArt PA602</h2>",
+    "ReviewStar": "4.5",
+    "ReviewCount": 100,
+    "StartingAtWording": "El precio de la ASUS store es a partir de",
+    "Estore": "Precio de la ASUS store",
+    "PDCardSafety": "El precio de la ASUS store es el precio de un producto proporcionado por la ASUS store. Las especificaciones no incluidas aquí podrían no estar disponibles en la eStore y solo están como referencia.",
+    "PDCardSafety2": "",
+    "PriceLineColor": "#CCCCCC",
+    "PriceColor": "#181818",
+    "Price": "",
+    "Discount": "",
+    "DiscountColor": "#c74200",
+    "DiscountFlag": "",
+    "DiscountWording": "Guardar",
+    "RegularPrice": "",
+    "StartTimeWording": "",
+    "StartTime": "",
+    "EndTimeWording": "",
+    "EndTime": "",
+    "Notice": "",
+    "ShippingHint": "",
+    "ModelSpec": "<ul>\n  <li>Soporta GPU de hasta 440 mm de longitud</li>\n  <li>Superioridad en refrigeración con soporte de flujo de aire masivo</li>\n  <li>Espacio amplio para una mejor compatibilidad</li>\n  <li>Extenso panel I/O para cambios rápidos y transporte más ágil</li>\n  <li>Indicador de polvo por infrarrojos en el panel frontal con recordatorios oportunos</li>\n  <li>Funciones amigables para el montaje DIY que ahorran tiempo en la instalación</li>\n  <li>Movilidad sin esfuerzo gracias a las ruedas móviles integradas</li>\n</ul>",
+    "ProductOnlineDt": "2023-11-02 15:20:00",
+    "ImageList": [
+      {
+        "DefaultFlag": "Y",
+        "ColorCode": "XXXX",
+        "ColorName": "",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/83ee3549-4a2a-4623-a382-c6b430876273/w185",
+          "https://dlcdnwebimgs.asus.com/gain/d253fb4e-b0fd-4ce6-946b-82eb2ad69fc4/w185",
+          "https://dlcdnwebimgs.asus.com/gain/da78938a-40ca-4db8-ac0f-55fc1e5af677/w185"
+        ]
+      }
+    ],
+    "ProductLogo": [
+      {
+        "LogoLink": "",
+        "LogoAlt": " Paquete de un mes de Adobe",
+        "LogoImageURL": {
+          "logo1x": "https://dlcdnwebimgs.asus.com/gain/1269fec2-7b9c-44f7-8dc8-300cab784d1b/h44",
+          "logo2x": "https://dlcdnwebimgs.asus.com/gain/1269fec2-7b9c-44f7-8dc8-300cab784d1b/"
+        }
+      },
+      {
+        "LogoLink": "",
+        "LogoAlt": "",
+        "LogoImageURL": {
+          "logo1x": "https://dlcdnwebimgs.asus.com/gain/b4bc0eed-5f97-46a1-9c82-959034bf741d/h44",
+          "logo2x": "https://dlcdnwebimgs.asus.com/gain/b4bc0eed-5f97-46a1-9c82-959034bf741d/"
+        }
+      }
+    ],
+    "Buy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "ManualBuy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "WhereToBuy": {
+      "WTBText": "Dónde comprar",
+      "WTBFlag": 0,
+      "WTBLink": ""
+    },
+    "FindNearBy": {
+      "FindNearByText": "Encuentra una tienda",
+      "FindNearByFlag": 0
+    },
+    "VolumePurchase": {
+      "Level1Name": "",
+      "Text": "Volume purchase",
+      "Link": "https://www.connect.asus.com/ar/VolumePurchase",
+      "linkTarget": "_blank"
+    },
+    "LearnMore": "Más información",
+    "Compare": "Comparar",
+    "SeeMore": "Ver más",
+    "SeeLess": "Ver menos",
+    "ExternalID": "",
+    "ProductID": "23962",
+    "RealProductID": 23962,
+    "M1Id": 23962,
+    "ProductHashedID": "mreyysgfo0o1751w",
+    "PartNo": "",
+    "NewFlag": "0",
+    "DataRow": 8,
+    "ModelBaseFlag": 1,
+    "SpecFlag": 1,
+    "LowestPriceInNDayPeriod": "el precio más bajo en el periodo de 30 días anterior a la introducción del descuento",
+    "SubTagline": "",
+    "Tooltip": "",
+    "ReviewFlag": 0,
+    "HistoricLowPrice": "",
+    "SortPrice": "",
+    "StockStatus": "",
+    "SalesModelName": ""
+  },
+  {
+    "SourceType": "prod",
+    "GetURLFlag": 0,
+    "isRogFlag": 0,
+    "Level1ID": 4,
+    "ProductURL": "https://www.asus.com/ar/motherboards-components/cases/prime/asus-prime-ap201-tempered-glass-microatx-case/",
+    "ProductCardURL": "https://www.asus.com/ar/motherboards-components/cases/prime/asus-prime-ap201-tempered-glass-microatx-case/",
+    "CustomizeTag": {
+      "Enabled": false,
+      "Text": ""
+    },
+    "LeftHeader": {
+      "NewsFlag": "N",
+      "DealFlag": "N",
+      "NewsFlagWording": "Nuevo",
+      "DealFlagWording": "OFERTA"
+    },
+    "RightHeader": [],
+    "ProductImage": "",
+    "Size": "",
+    "Level1Path": "Motherboards-Components",
+    "Level2Path": "Cases",
+    "Level3Path": "PRIME",
+    "CategoryName": "",
+    "SubSeriesName": "",
+    "PDWebPath": "ASUS-Prime-AP201-Tempered-Glass-MicroATX-Case",
+    "Name": "<h2>ASUS Prime AP201 Tempered Glass MicroATX Case</h2>",
+    "ReviewStar": "4.5",
+    "ReviewCount": 100,
+    "StartingAtWording": "El precio de la ASUS store es a partir de",
+    "Estore": "Precio de la ASUS store",
+    "PDCardSafety": "El precio de la ASUS store es el precio de un producto proporcionado por la ASUS store. Las especificaciones no incluidas aquí podrían no estar disponibles en la eStore y solo están como referencia.",
+    "PDCardSafety2": "",
+    "PriceLineColor": "#CCCCCC",
+    "PriceColor": "#181818",
+    "Price": "",
+    "Discount": "",
+    "DiscountColor": "#c74200",
+    "DiscountFlag": "",
+    "DiscountWording": "Guardar",
+    "RegularPrice": "",
+    "StartTimeWording": "",
+    "StartTime": "",
+    "EndTimeWording": "",
+    "EndTime": "",
+    "Notice": "",
+    "ShippingHint": "",
+    "ModelSpec": "<ul>\n<li>Admite GPU de hasta 338 mm de longitud</li>\n  <li>Eficiencia espacial líder en la industria</li>\n  <li>Paneles laterales libres de herramientas</li>\n  <li>Gestión de cables de 32 mm de ancho</li>\n  <li>Compatibilidad con USB Tipo-C<sup>®</sup> en el panel frontal</li>\n  <li>Cables de color a juego</li>\n</ul>",
+    "ProductOnlineDt": "2023-02-16 10:36:00",
+    "ImageList": [
+      {
+        "DefaultFlag": "N",
+        "ColorCode": "#000000",
+        "ColorName": "Black",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/0adc2446-e234-45be-a0e7-746af9e7d63b/w185",
+          "https://dlcdnwebimgs.asus.com/gain/768906ef-17ad-459f-82c7-6743c3940110/w185",
+          "https://dlcdnwebimgs.asus.com/gain/2528fc3a-6a64-4715-a5bf-3da3065e5e8f/w185"
+        ]
+      },
+      {
+        "DefaultFlag": "N",
+        "ColorCode": "#FFFFFF",
+        "ColorName": "White",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/4186c109-493d-44ee-a9dc-39ff928fd3f3/w185",
+          "https://dlcdnwebimgs.asus.com/gain/71417af1-857b-496c-95fb-ec7ceced4196/w185",
+          "https://dlcdnwebimgs.asus.com/gain/7f6aa8e7-d724-4371-a51d-34a62d232647/w185"
+        ]
+      }
+    ],
+    "ProductLogo": [
+      {
+        "LogoLink": "",
+        "LogoAlt": "",
+        "LogoImageURL": {
+          "logo1x": "https://dlcdnwebimgs.asus.com/gain/b4bc0eed-5f97-46a1-9c82-959034bf741d/h44",
+          "logo2x": "https://dlcdnwebimgs.asus.com/gain/b4bc0eed-5f97-46a1-9c82-959034bf741d/"
+        }
+      }
+    ],
+    "Buy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "ManualBuy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "WhereToBuy": {
+      "WTBText": "Dónde comprar",
+      "WTBFlag": 0,
+      "WTBLink": ""
+    },
+    "FindNearBy": {
+      "FindNearByText": "Encuentra una tienda",
+      "FindNearByFlag": 0
+    },
+    "VolumePurchase": {
+      "Level1Name": "",
+      "Text": "Volume purchase",
+      "Link": "https://www.connect.asus.com/ar/VolumePurchase",
+      "linkTarget": "_blank"
+    },
+    "LearnMore": "Más información",
+    "Compare": "Comparar",
+    "SeeMore": "Ver más",
+    "SeeLess": "Ver menos",
+    "ExternalID": "",
+    "ProductID": "22469",
+    "RealProductID": 22469,
+    "M1Id": 22469,
+    "ProductHashedID": "enkdb4cwpkruffhb",
+    "PartNo": "",
+    "NewFlag": "0",
+    "DataRow": 6,
+    "ModelBaseFlag": 1,
+    "SpecFlag": 1,
+    "LowestPriceInNDayPeriod": "el precio más bajo en el periodo de 30 días anterior a la introducción del descuento",
+    "SubTagline": "",
+    "Tooltip": "",
+    "ReviewFlag": 0,
+    "HistoricLowPrice": "",
+    "SortPrice": "",
+    "StockStatus": "",
+    "SalesModelName": ""
+  },
+  {
+    "SourceType": "prod",
+    "GetURLFlag": 0,
+    "isRogFlag": 0,
+    "Level1ID": 4,
+    "ProductURL": "https://www.asus.com/ar/motherboards-components/cases/tuf-gaming/tuf-gaming-gt502/",
+    "ProductCardURL": "https://www.asus.com/ar/motherboards-components/cases/tuf-gaming/tuf-gaming-gt502/",
+    "CustomizeTag": {
+      "Enabled": false,
+      "Text": ""
+    },
+    "LeftHeader": {
+      "NewsFlag": "N",
+      "DealFlag": "N",
+      "NewsFlagWording": "Nuevo",
+      "DealFlagWording": "OFERTA"
+    },
+    "RightHeader": [],
+    "ProductImage": "",
+    "Size": "",
+    "Level1Path": "Motherboards-Components",
+    "Level2Path": "Cases",
+    "Level3Path": "TUF-Gaming",
+    "CategoryName": "",
+    "SubSeriesName": "",
+    "PDWebPath": "TUF-Gaming-GT502",
+    "Name": "<h2>TUF Gaming GT502</h2>",
+    "ReviewStar": "4.5",
+    "ReviewCount": 100,
+    "StartingAtWording": "El precio de la ASUS store es a partir de",
+    "Estore": "Precio de la ASUS store",
+    "PDCardSafety": "El precio de la ASUS store es el precio de un producto proporcionado por la ASUS store. Las especificaciones no incluidas aquí podrían no estar disponibles en la eStore y solo están como referencia.",
+    "PDCardSafety2": "",
+    "PriceLineColor": "#CCCCCC",
+    "PriceColor": "#181818",
+    "Price": "",
+    "Discount": "",
+    "DiscountColor": "#c74200",
+    "DiscountFlag": "",
+    "DiscountWording": "Guardar",
+    "RegularPrice": "",
+    "StartTimeWording": "",
+    "StartTime": "",
+    "EndTimeWording": "",
+    "EndTime": "",
+    "Notice": "",
+    "ShippingHint": "",
+    "ModelSpec": "<ul><li>Admite GPU de hasta 400 mm de longitud</li>\n  <li>Chasis de doble cámara</li>\n  <li>Vista panorámica</li>\n  <li>Panel frontal: USB Tipo-C de alta velocidad</li>\n  <li>Paneles laterales libres de herramientas</li>\n  <li>Aura Sync</li>\n</ul>",
+    "ProductOnlineDt": "2022-09-14 14:41:00",
+    "ImageList": [
+      {
+        "DefaultFlag": "N",
+        "ColorCode": "#000000",
+        "ColorName": "Black",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/f45296ee-a638-43c2-bac0-f3ecd0b34779/w185",
+          "https://dlcdnwebimgs.asus.com/gain/3e8cdaa0-c586-4a8c-9530-91a4f9e0a11f/w185",
+          "https://dlcdnwebimgs.asus.com/gain/02bb5dbe-02f1-44dd-b304-611c76ea739b/w185"
+        ]
+      },
+      {
+        "DefaultFlag": "N",
+        "ColorCode": "#FFFFFF",
+        "ColorName": "White",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/5be955a3-c8dc-4b5e-9984-6624c06b7b69/w185",
+          "https://dlcdnwebimgs.asus.com/gain/4acdab3c-6fd3-4f07-a068-b78fe5c10342/w185",
+          "https://dlcdnwebimgs.asus.com/gain/ec2dd513-0638-4089-bb60-bb09802e34d9/w185"
+        ]
+      }
+    ],
+    "ProductLogo": [
+      {
+        "LogoLink": "",
+        "LogoAlt": "",
+        "LogoImageURL": {
+          "logo1x": "https://dlcdnwebimgs.asus.com/gain/b4bc0eed-5f97-46a1-9c82-959034bf741d/h44",
+          "logo2x": "https://dlcdnwebimgs.asus.com/gain/b4bc0eed-5f97-46a1-9c82-959034bf741d/"
+        }
+      }
+    ],
+    "Buy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "ManualBuy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "WhereToBuy": {
+      "WTBText": "Dónde comprar",
+      "WTBFlag": 1,
+      "WTBLink": "https://www.asus.com/ar/motherboards-components/cases/tuf-gaming/tuf-gaming-gt502/where-to-buy/"
+    },
+    "FindNearBy": {
+      "FindNearByText": "Encuentra una tienda",
+      "FindNearByFlag": 0
+    },
+    "VolumePurchase": {
+      "Level1Name": "",
+      "Text": "Volume purchase",
+      "Link": "https://www.connect.asus.com/ar/VolumePurchase",
+      "linkTarget": "_blank"
+    },
+    "LearnMore": "Más información",
+    "Compare": "Comparar",
+    "SeeMore": "Ver más",
+    "SeeLess": "Ver menos",
+    "ExternalID": "",
+    "ProductID": "21027",
+    "RealProductID": 21027,
+    "M1Id": 21027,
+    "ProductHashedID": "bba84c1e6f0343ce",
+    "PartNo": "",
+    "NewFlag": "0",
+    "DataRow": 5,
+    "ModelBaseFlag": 1,
+    "SpecFlag": 1,
+    "LowestPriceInNDayPeriod": "el precio más bajo en el periodo de 30 días anterior a la introducción del descuento",
+    "SubTagline": "",
+    "Tooltip": "",
+    "ReviewFlag": 0,
+    "HistoricLowPrice": "",
+    "SortPrice": "",
+    "StockStatus": "",
+    "SalesModelName": ""
+  },
+  {
+    "SourceType": "prod",
+    "GetURLFlag": 0,
+    "isRogFlag": 0,
+    "Level1ID": 4,
+    "ProductURL": "https://www.asus.com/ar/motherboards-components/cases/prime/asus-prime-ap201-microatx-case/",
+    "ProductCardURL": "https://www.asus.com/ar/motherboards-components/cases/prime/asus-prime-ap201-microatx-case/",
+    "CustomizeTag": {
+      "Enabled": false,
+      "Text": ""
+    },
+    "LeftHeader": {
+      "NewsFlag": "N",
+      "DealFlag": "N",
+      "NewsFlagWording": "Nuevo",
+      "DealFlagWording": "OFERTA"
+    },
+    "RightHeader": [],
+    "ProductImage": "",
+    "Size": "",
+    "Level1Path": "Motherboards-Components",
+    "Level2Path": "Cases",
+    "Level3Path": "PRIME",
+    "CategoryName": "",
+    "SubSeriesName": "",
+    "PDWebPath": "ASUS-Prime-AP201-MicroATX-Case",
+    "Name": "<h2>ASUS Prime AP201 MicroATX Case</h2>",
+    "ReviewStar": "4.5",
+    "ReviewCount": 100,
+    "StartingAtWording": "El precio de la ASUS store es a partir de",
+    "Estore": "Precio de la ASUS store",
+    "PDCardSafety": "El precio de la ASUS store es el precio de un producto proporcionado por la ASUS store. Las especificaciones no incluidas aquí podrían no estar disponibles en la eStore y solo están como referencia.",
+    "PDCardSafety2": "",
+    "PriceLineColor": "#CCCCCC",
+    "PriceColor": "#181818",
+    "Price": "",
+    "Discount": "",
+    "DiscountColor": "#c74200",
+    "DiscountFlag": "",
+    "DiscountWording": "Guardar",
+    "RegularPrice": "",
+    "StartTimeWording": "",
+    "StartTime": "",
+    "EndTimeWording": "",
+    "EndTime": "",
+    "Notice": "",
+    "ShippingHint": "",
+    "ModelSpec": "<ul>\n<li>Admite GPU de hasta 338 mm de longitud</li>\n<li>Paneles de malla cuasi-filtro</li>\n  <li>Eficiencia espacial líder en la industria</li>\n  <li>Paneles laterales sin herramientas</li>\n  <li>Gestión de cables de 32 mm de ancho</li>\n  <li>Soporte USB Tipo-C<sup>®</sup> en el panel frontal</li>\n</ul>",
+    "ProductOnlineDt": "2022-05-27 08:53:00",
+    "ImageList": [
+      {
+        "DefaultFlag": "N",
+        "ColorCode": "#000000",
+        "ColorName": "Black",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/cbb5f850-21cb-40a2-8974-662dd232f6ab/w185",
+          "https://dlcdnwebimgs.asus.com/gain/b095eb4d-8fbd-4b01-9f97-65335bff6f0f/w185",
+          "https://dlcdnwebimgs.asus.com/gain/4c3dce86-d431-4796-8d68-906900ab6582/w185"
+        ]
+      },
+      {
+        "DefaultFlag": "N",
+        "ColorCode": "#FFFFFF",
+        "ColorName": "White",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/93ed2a7a-f6ff-4e27-a827-31c95d15cb51/w185",
+          "https://dlcdnwebimgs.asus.com/gain/7575f782-d323-4f76-8883-ff0d4b83d666/w185",
+          "https://dlcdnwebimgs.asus.com/gain/e962a169-8817-4fbb-8945-f0a5d1f949b4/w185"
+        ]
+      }
+    ],
+    "ProductLogo": [
+      {
+        "LogoLink": "",
+        "LogoAlt": "",
+        "LogoImageURL": {
+          "logo1x": "https://dlcdnwebimgs.asus.com/gain/b4bc0eed-5f97-46a1-9c82-959034bf741d/h44",
+          "logo2x": "https://dlcdnwebimgs.asus.com/gain/b4bc0eed-5f97-46a1-9c82-959034bf741d/"
+        }
+      }
+    ],
+    "Buy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "ManualBuy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "WhereToBuy": {
+      "WTBText": "Dónde comprar",
+      "WTBFlag": 0,
+      "WTBLink": ""
+    },
+    "FindNearBy": {
+      "FindNearByText": "Encuentra una tienda",
+      "FindNearByFlag": 0
+    },
+    "VolumePurchase": {
+      "Level1Name": "",
+      "Text": "Volume purchase",
+      "Link": "https://www.connect.asus.com/ar/VolumePurchase",
+      "linkTarget": "_blank"
+    },
+    "LearnMore": "Más información",
+    "Compare": "Comparar",
+    "SeeMore": "Ver más",
+    "SeeLess": "Ver menos",
+    "ExternalID": "",
+    "ProductID": "20815",
+    "RealProductID": 20815,
+    "M1Id": 20815,
+    "ProductHashedID": "a695a695fad44d95",
+    "PartNo": "",
+    "NewFlag": "0",
+    "DataRow": 4,
+    "ModelBaseFlag": 1,
+    "SpecFlag": 1,
+    "LowestPriceInNDayPeriod": "el precio más bajo en el periodo de 30 días anterior a la introducción del descuento",
+    "SubTagline": "",
+    "Tooltip": "",
+    "ReviewFlag": 0,
+    "HistoricLowPrice": "",
+    "SortPrice": "",
+    "StockStatus": "",
+    "SalesModelName": ""
+  },
+  {
+    "SourceType": "prod",
+    "GetURLFlag": 0,
+    "isRogFlag": 0,
+    "Level1ID": 4,
+    "ProductURL": "https://www.asus.com/ar/motherboards-components/cases/tuf-gaming/tuf-gaming-gt301/",
+    "ProductCardURL": "https://www.asus.com/ar/motherboards-components/cases/tuf-gaming/tuf-gaming-gt301/",
+    "CustomizeTag": {
+      "Enabled": false,
+      "Text": ""
+    },
+    "LeftHeader": {
+      "NewsFlag": "N",
+      "DealFlag": "N",
+      "NewsFlagWording": "Nuevo",
+      "DealFlagWording": "OFERTA"
+    },
+    "RightHeader": [],
+    "ProductImage": "",
+    "Size": "          ",
+    "Level1Path": "Motherboards-Components",
+    "Level2Path": "Cases",
+    "Level3Path": "TUF-Gaming",
+    "CategoryName": "",
+    "SubSeriesName": "",
+    "PDWebPath": "TUF-Gaming-GT301",
+    "Name": "<h2>TUF Gaming GT301</h2>",
+    "ReviewStar": "4.5",
+    "ReviewCount": 100,
+    "StartingAtWording": "El precio de la ASUS store es a partir de",
+    "Estore": "Precio de la ASUS store",
+    "PDCardSafety": "El precio de la ASUS store es el precio de un producto proporcionado por la ASUS store. Las especificaciones no incluidas aquí podrían no estar disponibles en la eStore y solo están como referencia.",
+    "PDCardSafety2": "",
+    "PriceLineColor": "#CCCCCC",
+    "PriceColor": "#181818",
+    "Price": "",
+    "Discount": "",
+    "DiscountColor": "#c74200",
+    "DiscountFlag": "",
+    "DiscountWording": "Guardar",
+    "RegularPrice": "",
+    "StartTimeWording": "",
+    "StartTime": "",
+    "EndTimeWording": "",
+    "EndTime": "",
+    "Notice": "",
+    "ShippingHint": "",
+    "ModelSpec": "Soporte para GPU de hasta 320 mm de longitud</br>\nGabinete compacto ASUS TUF Gaming GT301 de torre media ATX con panel lateral de vidrio templado, panel frontal con diseño de panal, ventilador AURA Addressable RGB de 120 mm, colgador para auriculares y compatibilidad con radiadores de 360 mm.",
+    "ProductOnlineDt": "2020-08-10 10:02:00",
+    "ImageList": [
+      {
+        "DefaultFlag": "Y",
+        "ColorCode": "XXXX",
+        "ColorName": "",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/cefd241b-b64b-4c4a-acba-af8e31cf232e/w185",
+          "https://dlcdnwebimgs.asus.com/gain/cab08759-bf0f-4de2-a2a2-adc6e5403d7a/w185",
+          "https://dlcdnwebimgs.asus.com/gain/6207ee55-eb57-4b8e-94ac-84f5e52eb7ee/w185"
+        ]
+      }
+    ],
+    "ProductLogo": [
+      {
+        "LogoLink": "",
+        "LogoAlt": "",
+        "LogoImageURL": {
+          "logo1x": "https://dlcdnwebimgs.asus.com/gain/b4bc0eed-5f97-46a1-9c82-959034bf741d/h44",
+          "logo2x": "https://dlcdnwebimgs.asus.com/gain/b4bc0eed-5f97-46a1-9c82-959034bf741d/"
+        }
+      }
+    ],
+    "Buy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "ManualBuy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "WhereToBuy": {
+      "WTBText": "Dónde comprar",
+      "WTBFlag": 0,
+      "WTBLink": ""
+    },
+    "FindNearBy": {
+      "FindNearByText": "Encuentra una tienda",
+      "FindNearByFlag": 0
+    },
+    "VolumePurchase": {
+      "Level1Name": "",
+      "Text": "Volume purchase",
+      "Link": "https://www.connect.asus.com/ar/VolumePurchase",
+      "linkTarget": "_blank"
+    },
+    "LearnMore": "Más información",
+    "Compare": "Comparar",
+    "SeeMore": "Ver más",
+    "SeeLess": "Ver menos",
+    "ExternalID": "",
+    "ProductID": "14566",
+    "RealProductID": 14566,
+    "M1Id": 14566,
+    "ProductHashedID": "b09a645e6b764d10",
+    "PartNo": "",
+    "NewFlag": "0",
+    "DataRow": 2,
+    "ModelBaseFlag": 1,
+    "SpecFlag": 1,
+    "LowestPriceInNDayPeriod": "el precio más bajo en el periodo de 30 días anterior a la introducción del descuento",
+    "SubTagline": "",
+    "Tooltip": "",
+    "ReviewFlag": 0,
+    "HistoricLowPrice": "",
+    "SortPrice": "",
+    "StockStatus": "",
+    "SalesModelName": ""
+  },
+  {
+    "SourceType": "prod",
+    "GetURLFlag": 0,
+    "isRogFlag": 0,
+    "Level1ID": 4,
+    "ProductURL": "https://www.asus.com/ar/motherboards-components/cases/tuf-gaming/tuf-gaming-gt501-white-edition/",
+    "ProductCardURL": "https://www.asus.com/ar/motherboards-components/cases/tuf-gaming/tuf-gaming-gt501-white-edition/",
+    "CustomizeTag": {
+      "Enabled": false,
+      "Text": ""
+    },
+    "LeftHeader": {
+      "NewsFlag": "N",
+      "DealFlag": "N",
+      "NewsFlagWording": "Nuevo",
+      "DealFlagWording": "OFERTA"
+    },
+    "RightHeader": [],
+    "ProductImage": "",
+    "Size": "",
+    "Level1Path": "Motherboards-Components",
+    "Level2Path": "Cases",
+    "Level3Path": "TUF-Gaming",
+    "CategoryName": "",
+    "SubSeriesName": "",
+    "PDWebPath": "TUF-Gaming-GT501-White-Edition",
+    "Name": "<h2>TUF Gaming GT501 White Edition</h2>",
+    "ReviewStar": "4.5",
+    "ReviewCount": 100,
+    "StartingAtWording": "El precio de la ASUS store es a partir de",
+    "Estore": "Precio de la ASUS store",
+    "PDCardSafety": "El precio de la ASUS store es el precio de un producto proporcionado por la ASUS store. Las especificaciones no incluidas aquí podrían no estar disponibles en la eStore y solo están como referencia.",
+    "PDCardSafety2": "",
+    "PriceLineColor": "#CCCCCC",
+    "PriceColor": "#181818",
+    "Price": "",
+    "Discount": "",
+    "DiscountColor": "#c74200",
+    "DiscountFlag": "",
+    "DiscountWording": "Guardar",
+    "RegularPrice": "",
+    "StartTimeWording": "",
+    "StartTime": "",
+    "EndTimeWording": "",
+    "EndTime": "",
+    "Notice": "",
+    "ShippingHint": "",
+    "ModelSpec": "Soporte para GPU de hasta 420 mm de longitud</br>\nEl chasis ASUS TUF Gaming GT501 White Edition admite placas base de hasta EATX con panel frontal metálico, panel lateral de vidrio templado, ventilador RGB de 120 mm, ventilador PWM de 140 mm, espacio reservado para radiador y USB 3.1 Gen 1",
+    "ProductOnlineDt": "2020-06-02 14:06:00",
+    "ImageList": [
+      {
+        "DefaultFlag": "Y",
+        "ColorCode": "XXXX",
+        "ColorName": "",
+        "ImageURL": [
+          "https://www.asus.com/media/global/gallery/fsm3haxphym5wp50_setting_xxx_0_90_end_184.png",
+          "https://www.asus.com/media/global/gallery/auab6e1s2cdcr5gl_setting_xxx_0_90_end_184.png",
+          "https://www.asus.com/media/global/gallery/mn0jsmqhglllhgpu_setting_xxx_0_90_end_184.png"
+        ]
+      }
+    ],
+    "ProductLogo": [
+      {
+        "LogoLink": "",
+        "LogoAlt": "",
+        "LogoImageURL": {
+          "logo1x": "https://dlcdnwebimgs.asus.com/gain/b4bc0eed-5f97-46a1-9c82-959034bf741d/h44",
+          "logo2x": "https://dlcdnwebimgs.asus.com/gain/b4bc0eed-5f97-46a1-9c82-959034bf741d/"
+        }
+      }
+    ],
+    "Buy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "ManualBuy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "WhereToBuy": {
+      "WTBText": "Dónde comprar",
+      "WTBFlag": 1,
+      "WTBLink": "https://www.asus.com/ar/motherboards-components/cases/tuf-gaming/tuf-gaming-gt501-white-edition/where-to-buy/"
+    },
+    "FindNearBy": {
+      "FindNearByText": "Encuentra una tienda",
+      "FindNearByFlag": 0
+    },
+    "VolumePurchase": {
+      "Level1Name": "",
+      "Text": "Volume purchase",
+      "Link": "https://www.connect.asus.com/ar/VolumePurchase",
+      "linkTarget": "_blank"
+    },
+    "LearnMore": "Más información",
+    "Compare": "Comparar",
+    "SeeMore": "Ver más",
+    "SeeLess": "Ver menos",
+    "ExternalID": "",
+    "ProductID": "14801",
+    "RealProductID": 14801,
+    "M1Id": 14801,
+    "ProductHashedID": "1134d5828522491d",
+    "PartNo": "",
+    "NewFlag": "0",
+    "DataRow": 3,
+    "ModelBaseFlag": 1,
+    "SpecFlag": 1,
+    "LowestPriceInNDayPeriod": "el precio más bajo en el periodo de 30 días anterior a la introducción del descuento",
+    "SubTagline": "",
+    "Tooltip": "",
+    "ReviewFlag": 0,
+    "HistoricLowPrice": "",
+    "SortPrice": "",
+    "StockStatus": "",
+    "SalesModelName": ""
+  },
+  {
+    "SourceType": "prod",
+    "GetURLFlag": 0,
+    "isRogFlag": 0,
+    "Level1ID": 4,
+    "ProductURL": "https://www.asus.com/ar/motherboards-components/cases/tuf-gaming/tuf-gaming-gt501/",
+    "ProductCardURL": "https://www.asus.com/ar/motherboards-components/cases/tuf-gaming/tuf-gaming-gt501/",
+    "CustomizeTag": {
+      "Enabled": false,
+      "Text": ""
+    },
+    "LeftHeader": {
+      "NewsFlag": "N",
+      "DealFlag": "N",
+      "NewsFlagWording": "Nuevo",
+      "DealFlagWording": "OFERTA"
+    },
+    "RightHeader": [],
+    "ProductImage": "",
+    "Size": "          ",
+    "Level1Path": "Motherboards-Components",
+    "Level2Path": "Cases",
+    "Level3Path": "TUF-Gaming",
+    "CategoryName": "",
+    "SubSeriesName": "",
+    "PDWebPath": "TUF-Gaming-GT501",
+    "Name": "<h2>TUF Gaming GT501</h2>",
+    "ReviewStar": "4.5",
+    "ReviewCount": 100,
+    "StartingAtWording": "El precio de la ASUS store es a partir de",
+    "Estore": "Precio de la ASUS store",
+    "PDCardSafety": "El precio de la ASUS store es el precio de un producto proporcionado por la ASUS store. Las especificaciones no incluidas aquí podrían no estar disponibles en la eStore y solo están como referencia.",
+    "PDCardSafety2": "",
+    "PriceLineColor": "#CCCCCC",
+    "PriceColor": "#181818",
+    "Price": "",
+    "Discount": "",
+    "DiscountColor": "#c74200",
+    "DiscountFlag": "",
+    "DiscountWording": "Guardar",
+    "RegularPrice": "",
+    "StartTimeWording": "",
+    "StartTime": "",
+    "EndTimeWording": "",
+    "EndTime": "",
+    "Notice": "",
+    "ShippingHint": "",
+    "ModelSpec": "Soporta GPU de hasta 420mm de longitud</br> La carcasa ASUS TUF Gaming GT501 soporta hasta EATX con panel frontal metálico, panel lateral de cristal templado, ventilador RGB de 120 mm, ventilador PWM de 140 mm, espacio reservado para radiador y USB 3.1 Gen 1",
+    "ProductOnlineDt": "2019-01-30 01:02:00",
+    "ImageList": [
+      {
+        "DefaultFlag": "Y",
+        "ColorCode": "XXXX",
+        "ColorName": "",
+        "ImageURL": [
+          "https://www.asus.com/media/global/gallery/mlKfO7SfE3OwS1O5_setting_xxx_0_90_end_184.png",
+          "https://www.asus.com/media/global/gallery/lIljkP15uLs8YI0a_setting_xxx_0_90_end_184.png",
+          "https://www.asus.com/media/global/gallery/gdU47fiARib5D6tO_setting_xxx_0_90_end_184.png"
+        ]
+      }
+    ],
+    "ProductLogo": [
+      {
+        "LogoLink": "",
+        "LogoAlt": "",
+        "LogoImageURL": {
+          "logo1x": "https://dlcdnwebimgs.asus.com/gain/b4bc0eed-5f97-46a1-9c82-959034bf741d/h44",
+          "logo2x": "https://dlcdnwebimgs.asus.com/gain/b4bc0eed-5f97-46a1-9c82-959034bf741d/"
+        }
+      }
+    ],
+    "Buy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "ManualBuy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "WhereToBuy": {
+      "WTBText": "Dónde comprar",
+      "WTBFlag": 0,
+      "WTBLink": ""
+    },
+    "FindNearBy": {
+      "FindNearByText": "Encuentra una tienda",
+      "FindNearByFlag": 0
+    },
+    "VolumePurchase": {
+      "Level1Name": "",
+      "Text": "Volume purchase",
+      "Link": "https://www.connect.asus.com/ar/VolumePurchase",
+      "linkTarget": "_blank"
+    },
+    "LearnMore": "Más información",
+    "Compare": "Comparar",
+    "SeeMore": "Ver más",
+    "SeeLess": "Ver menos",
+    "ExternalID": "",
+    "ProductID": "10304",
+    "RealProductID": 10304,
+    "M1Id": 10304,
+    "ProductHashedID": "24c042c4836f4f5b",
+    "PartNo": "",
+    "NewFlag": "0",
+    "DataRow": 1,
+    "ModelBaseFlag": 1,
+    "SpecFlag": 1,
+    "LowestPriceInNDayPeriod": "el precio más bajo en el periodo de 30 días anterior a la introducción del descuento",
+    "SubTagline": "",
+    "Tooltip": "",
+    "ReviewFlag": 0,
+    "HistoricLowPrice": "",
+    "SortPrice": "",
+    "StockStatus": "",
+    "SalesModelName": ""
+  }
+]

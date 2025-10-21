@@ -1,0 +1,3557 @@
+[
+  {
+    "SourceType": "rog",
+    "GetURLFlag": 1,
+    "isRogFlag": 1,
+    "Level1ID": 908,
+    "ProductURL": "https://rog.asus.com/ar/power-supply-units/rog-strix/rog-strix-1000g/",
+    "ProductCardURL": "https://rog.asus.com/ar/power-supply-units/rog-strix/rog-strix-1000g/",
+    "CustomizeTag": {
+      "Enabled": false,
+      "Text": ""
+    },
+    "LeftHeader": {
+      "NewsFlag": "N",
+      "DealFlag": "N",
+      "NewsFlagWording": "Nuevo",
+      "DealFlagWording": "OFERTA"
+    },
+    "RightHeader": [],
+    "ProductImage": "",
+    "Size": "",
+    "Level1Path": "Power Supply Units",
+    "Level2Path": "ROG Strix",
+    "Level3Path": "",
+    "CategoryName": "ROG-STRIX-1000G",
+    "SubSeriesName": "",
+    "PDWebPath": "",
+    "Name": "<h2>ROG STRIX 1000W Gold (16-pin cable)</h2>",
+    "ReviewStar": "0.0",
+    "ReviewCount": 0,
+    "StartingAtWording": "El precio de la ASUS store es a partir de",
+    "Estore": "Precio de la ASUS store",
+    "PDCardSafety": "El precio de la ASUS store es el precio de un producto proporcionado por la ASUS store. Las especificaciones no incluidas aquí podrían no estar disponibles en la eStore y solo están como referencia.",
+    "PDCardSafety2": "",
+    "PriceLineColor": "#CCCCCC",
+    "PriceColor": "#181818",
+    "Price": "",
+    "Discount": "",
+    "DiscountColor": "#c74200",
+    "DiscountFlag": "",
+    "DiscountWording": "Guardar",
+    "RegularPrice": "",
+    "StartTimeWording": "",
+    "StartTime": "",
+    "EndTimeWording": "",
+    "EndTime": "",
+    "Notice": "1",
+    "ShippingHint": "",
+    "ModelSpec": "La fuente de alimentación ROG Strix 1000W Gold lleva el rendimiento de la refrigeración premium a la corriente principal",
+    "ProductOnlineDt": "2025-01-29 11:17:56",
+    "ImageList": [
+      {
+        "DefaultFlag": "Y",
+        "ColorCode": "XXXXX",
+        "ColorName": "",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/A3A03AFA-6A11-412D-9F99-D6F84176613D/w185"
+        ]
+      }
+    ],
+    "ProductLogo": [],
+    "Buy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "ManualBuy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "WhereToBuy": {
+      "WTBText": "Dónde comprar",
+      "WTBFlag": 0,
+      "WTBLink": ""
+    },
+    "FindNearBy": {
+      "FindNearByText": "Encuentra una tienda",
+      "FindNearByFlag": 0
+    },
+    "VolumePurchase": {
+      "Level1Name": "",
+      "Text": "Volume purchase",
+      "Link": "https://www.connect.asus.com/ar/VolumePurchase",
+      "linkTarget": "_blank"
+    },
+    "LearnMore": "Más información",
+    "Compare": "Comparar",
+    "SeeMore": "Ver más",
+    "SeeLess": "Ver menos",
+    "ExternalID": "",
+    "ProductID": "R_90YE00AA-BMAA00",
+    "RealProductID": 24193,
+    "M1Id": 23810,
+    "ProductHashedID": "",
+    "PartNo": "90YE00AA-BMAA00",
+    "NewFlag": "0",
+    "DataRow": 18,
+    "ModelBaseFlag": 1,
+    "SpecFlag": 1,
+    "LowestPriceInNDayPeriod": "el precio más bajo en el periodo de 30 días anterior a la introducción del descuento",
+    "SubTagline": "",
+    "Tooltip": "",
+    "ReviewFlag": 1,
+    "HistoricLowPrice": "",
+    "SortPrice": "",
+    "StockStatus": "",
+    "SalesModelName": "ROG-STRIX-1000G"
+  },
+  {
+    "SourceType": "rog",
+    "GetURLFlag": 1,
+    "isRogFlag": 1,
+    "Level1ID": 908,
+    "ProductURL": "https://rog.asus.com/ar/power-supply-units/rog-strix/rog-strix-750g-aura-gaming-model/",
+    "ProductCardURL": "https://rog.asus.com/ar/power-supply-units/rog-strix/rog-strix-750g-aura-gaming-model/",
+    "CustomizeTag": {
+      "Enabled": false,
+      "Text": ""
+    },
+    "LeftHeader": {
+      "NewsFlag": "N",
+      "DealFlag": "N",
+      "NewsFlagWording": "Nuevo",
+      "DealFlagWording": "OFERTA"
+    },
+    "RightHeader": [],
+    "ProductImage": "",
+    "Size": "",
+    "Level1Path": "Power Supply Units",
+    "Level2Path": "ROG Strix",
+    "Level3Path": "",
+    "CategoryName": "ROG-STRIX-750G-AURA-GAMING",
+    "SubSeriesName": "",
+    "PDWebPath": "",
+    "Name": "<h2>ROG STRIX 750W Gold Aura Edition</h2>",
+    "ReviewStar": "0.0",
+    "ReviewCount": 0,
+    "StartingAtWording": "El precio de la ASUS store es a partir de",
+    "Estore": "Precio de la ASUS store",
+    "PDCardSafety": "El precio de la ASUS store es el precio de un producto proporcionado por la ASUS store. Las especificaciones no incluidas aquí podrían no estar disponibles en la eStore y solo están como referencia.",
+    "PDCardSafety2": "",
+    "PriceLineColor": "#CCCCCC",
+    "PriceColor": "#181818",
+    "Price": "",
+    "Discount": "",
+    "DiscountColor": "#c74200",
+    "DiscountFlag": "",
+    "DiscountWording": "Guardar",
+    "RegularPrice": "",
+    "StartTimeWording": "",
+    "StartTime": "",
+    "EndTimeWording": "",
+    "EndTime": "",
+    "Notice": "1",
+    "ShippingHint": "",
+    "ModelSpec": "ROG Strix 750W Gold Aura Edition es una fuente de alimentación fría, silenciosa y potente, diseñada para la eficiencia con un estilo llamativo.",
+    "ProductOnlineDt": "2025-01-29 10:43:19",
+    "ImageList": [
+      {
+        "DefaultFlag": "Y",
+        "ColorCode": "XXXXX",
+        "ColorName": "",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/26DBC9C6-3FB0-4200-A74C-76B34C95D2D1/w185"
+        ]
+      }
+    ],
+    "ProductLogo": [],
+    "Buy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "ManualBuy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "WhereToBuy": {
+      "WTBText": "Dónde comprar",
+      "WTBFlag": 0,
+      "WTBLink": ""
+    },
+    "FindNearBy": {
+      "FindNearByText": "Encuentra una tienda",
+      "FindNearByFlag": 0
+    },
+    "VolumePurchase": {
+      "Level1Name": "",
+      "Text": "Volume purchase",
+      "Link": "https://www.connect.asus.com/ar/VolumePurchase",
+      "linkTarget": "_blank"
+    },
+    "LearnMore": "Más información",
+    "Compare": "Comparar",
+    "SeeMore": "Ver más",
+    "SeeLess": "Ver menos",
+    "ExternalID": "",
+    "ProductID": "R_90YE00P3-B0AA00",
+    "RealProductID": 20893,
+    "M1Id": 20893,
+    "ProductHashedID": "",
+    "PartNo": "90YE00P3-B0AA00",
+    "NewFlag": "0",
+    "DataRow": 30,
+    "ModelBaseFlag": 1,
+    "SpecFlag": 1,
+    "LowestPriceInNDayPeriod": "el precio más bajo en el periodo de 30 días anterior a la introducción del descuento",
+    "SubTagline": "",
+    "Tooltip": "",
+    "ReviewFlag": 1,
+    "HistoricLowPrice": "",
+    "SortPrice": "",
+    "StockStatus": "",
+    "SalesModelName": "ROG-STRIX-750G-AURA-GAMING"
+  },
+  {
+    "SourceType": "rog",
+    "GetURLFlag": 1,
+    "isRogFlag": 1,
+    "Level1ID": 908,
+    "ProductURL": "https://rog.asus.com/ar/power-supply-units/rog-strix/rog-strix-850g-aura-gaming-model/",
+    "ProductCardURL": "https://rog.asus.com/ar/power-supply-units/rog-strix/rog-strix-850g-aura-gaming-model/",
+    "CustomizeTag": {
+      "Enabled": false,
+      "Text": ""
+    },
+    "LeftHeader": {
+      "NewsFlag": "N",
+      "DealFlag": "N",
+      "NewsFlagWording": "Nuevo",
+      "DealFlagWording": "OFERTA"
+    },
+    "RightHeader": [],
+    "ProductImage": "",
+    "Size": "",
+    "Level1Path": "Power Supply Units",
+    "Level2Path": "ROG Strix",
+    "Level3Path": "",
+    "CategoryName": "ROG-STRIX-850G-AURA-GAMING",
+    "SubSeriesName": "",
+    "PDWebPath": "",
+    "Name": "<h2>ROG STRIX 850W Gold Aura Edition</h2>",
+    "ReviewStar": "0.0",
+    "ReviewCount": 0,
+    "StartingAtWording": "El precio de la ASUS store es a partir de",
+    "Estore": "Precio de la ASUS store",
+    "PDCardSafety": "El precio de la ASUS store es el precio de un producto proporcionado por la ASUS store. Las especificaciones no incluidas aquí podrían no estar disponibles en la eStore y solo están como referencia.",
+    "PDCardSafety2": "",
+    "PriceLineColor": "#CCCCCC",
+    "PriceColor": "#181818",
+    "Price": "",
+    "Discount": "",
+    "DiscountColor": "#c74200",
+    "DiscountFlag": "",
+    "DiscountWording": "Guardar",
+    "RegularPrice": "",
+    "StartTimeWording": "",
+    "StartTime": "",
+    "EndTimeWording": "",
+    "EndTime": "",
+    "Notice": "1",
+    "ShippingHint": "",
+    "ModelSpec": "ROG Strix 850W Gold Aura Edition is a cool, quiet and powerful PSU, engineered for efficiency in striking style.",
+    "ProductOnlineDt": "2025-01-29 10:13:30",
+    "ImageList": [
+      {
+        "DefaultFlag": "Y",
+        "ColorCode": "XXXXX",
+        "ColorName": "",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/AAE0A500-A40B-49F4-A615-348698A0F77E/w185"
+        ]
+      }
+    ],
+    "ProductLogo": [],
+    "Buy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "ManualBuy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "WhereToBuy": {
+      "WTBText": "Dónde comprar",
+      "WTBFlag": 0,
+      "WTBLink": ""
+    },
+    "FindNearBy": {
+      "FindNearByText": "Encuentra una tienda",
+      "FindNearByFlag": 0
+    },
+    "VolumePurchase": {
+      "Level1Name": "",
+      "Text": "Volume purchase",
+      "Link": "https://www.connect.asus.com/ar/VolumePurchase",
+      "linkTarget": "_blank"
+    },
+    "LearnMore": "Más información",
+    "Compare": "Comparar",
+    "SeeMore": "Ver más",
+    "SeeLess": "Ver menos",
+    "ExternalID": "",
+    "ProductID": "R_90YE00P2-B0AA00",
+    "RealProductID": 20894,
+    "M1Id": 20894,
+    "ProductHashedID": "",
+    "PartNo": "90YE00P2-B0AA00",
+    "NewFlag": "0",
+    "DataRow": 29,
+    "ModelBaseFlag": 1,
+    "SpecFlag": 1,
+    "LowestPriceInNDayPeriod": "el precio más bajo en el periodo de 30 días anterior a la introducción del descuento",
+    "SubTagline": "",
+    "Tooltip": "",
+    "ReviewFlag": 1,
+    "HistoricLowPrice": "",
+    "SortPrice": "",
+    "StockStatus": "",
+    "SalesModelName": "ROG-STRIX-850G-AURA-GAMING"
+  },
+  {
+    "SourceType": "rog",
+    "GetURLFlag": 1,
+    "isRogFlag": 1,
+    "Level1ID": 908,
+    "ProductURL": "https://rog.asus.com/ar/power-supply-units/rog-strix/rog-strix-1000g-aura-gaming-model/",
+    "ProductCardURL": "https://rog.asus.com/ar/power-supply-units/rog-strix/rog-strix-1000g-aura-gaming-model/",
+    "CustomizeTag": {
+      "Enabled": false,
+      "Text": ""
+    },
+    "LeftHeader": {
+      "NewsFlag": "N",
+      "DealFlag": "N",
+      "NewsFlagWording": "Nuevo",
+      "DealFlagWording": "OFERTA"
+    },
+    "RightHeader": [],
+    "ProductImage": "",
+    "Size": "",
+    "Level1Path": "Power Supply Units",
+    "Level2Path": "ROG Strix",
+    "Level3Path": "",
+    "CategoryName": "ROG-STRIX-1000G-AURA-GAMING",
+    "SubSeriesName": "",
+    "PDWebPath": "",
+    "Name": "<h2>ROG STRIX 1000W Gold Aura Edition</h2>",
+    "ReviewStar": "0.0",
+    "ReviewCount": 0,
+    "StartingAtWording": "El precio de la ASUS store es a partir de",
+    "Estore": "Precio de la ASUS store",
+    "PDCardSafety": "El precio de la ASUS store es el precio de un producto proporcionado por la ASUS store. Las especificaciones no incluidas aquí podrían no estar disponibles en la eStore y solo están como referencia.",
+    "PDCardSafety2": "",
+    "PriceLineColor": "#CCCCCC",
+    "PriceColor": "#181818",
+    "Price": "",
+    "Discount": "",
+    "DiscountColor": "#c74200",
+    "DiscountFlag": "",
+    "DiscountWording": "Guardar",
+    "RegularPrice": "",
+    "StartTimeWording": "",
+    "StartTime": "",
+    "EndTimeWording": "",
+    "EndTime": "",
+    "Notice": "1",
+    "ShippingHint": "",
+    "ModelSpec": "ROG Strix 1000W Gold Aura Edition es una fuente de alimentación fría, silenciosa y potente, diseñada para la eficiencia con un estilo llamativo.",
+    "ProductOnlineDt": "2025-01-29 09:42:58",
+    "ImageList": [
+      {
+        "DefaultFlag": "Y",
+        "ColorCode": "XXXXX",
+        "ColorName": "",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/469D42A6-4F0A-470F-BE7C-F5F68E3E7799/w185"
+        ]
+      }
+    ],
+    "ProductLogo": [],
+    "Buy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "ManualBuy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "WhereToBuy": {
+      "WTBText": "Dónde comprar",
+      "WTBFlag": 0,
+      "WTBLink": ""
+    },
+    "FindNearBy": {
+      "FindNearByText": "Encuentra una tienda",
+      "FindNearByFlag": 0
+    },
+    "VolumePurchase": {
+      "Level1Name": "",
+      "Text": "Volume purchase",
+      "Link": "https://www.connect.asus.com/ar/VolumePurchase",
+      "linkTarget": "_blank"
+    },
+    "LearnMore": "Más información",
+    "Compare": "Comparar",
+    "SeeMore": "Ver más",
+    "SeeLess": "Ver menos",
+    "ExternalID": "",
+    "ProductID": "R_90YE00P1-B0AA00",
+    "RealProductID": 20895,
+    "M1Id": 20895,
+    "ProductHashedID": "",
+    "PartNo": "90YE00P1-B0AA00",
+    "NewFlag": "0",
+    "DataRow": 28,
+    "ModelBaseFlag": 1,
+    "SpecFlag": 1,
+    "LowestPriceInNDayPeriod": "el precio más bajo en el periodo de 30 días anterior a la introducción del descuento",
+    "SubTagline": "",
+    "Tooltip": "",
+    "ReviewFlag": 1,
+    "HistoricLowPrice": "",
+    "SortPrice": "",
+    "StockStatus": "",
+    "SalesModelName": "ROG-STRIX-1000G-AURA-GAMING"
+  },
+  {
+    "SourceType": "rog",
+    "GetURLFlag": 1,
+    "isRogFlag": 1,
+    "Level1ID": 908,
+    "ProductURL": "https://rog.asus.com/ar/power-supply-units/rog-strix/rog-strix-1000g-aura-white-gaming/",
+    "ProductCardURL": "https://rog.asus.com/ar/power-supply-units/rog-strix/rog-strix-1000g-aura-white-gaming/",
+    "CustomizeTag": {
+      "Enabled": false,
+      "Text": ""
+    },
+    "LeftHeader": {
+      "NewsFlag": "N",
+      "DealFlag": "N",
+      "NewsFlagWording": "Nuevo",
+      "DealFlagWording": "OFERTA"
+    },
+    "RightHeader": [],
+    "ProductImage": "",
+    "Size": "",
+    "Level1Path": "Power Supply Units",
+    "Level2Path": "ROG Strix",
+    "Level3Path": "",
+    "CategoryName": "ROG-STRIX-1000G-AURA-WHITE-GAMING",
+    "SubSeriesName": "",
+    "PDWebPath": "",
+    "Name": "<h2>ROG STRIX 1000W Gold Aura White Edition</h2>",
+    "ReviewStar": "0.0",
+    "ReviewCount": 0,
+    "StartingAtWording": "El precio de la ASUS store es a partir de",
+    "Estore": "Precio de la ASUS store",
+    "PDCardSafety": "El precio de la ASUS store es el precio de un producto proporcionado por la ASUS store. Las especificaciones no incluidas aquí podrían no estar disponibles en la eStore y solo están como referencia.",
+    "PDCardSafety2": "",
+    "PriceLineColor": "#CCCCCC",
+    "PriceColor": "#181818",
+    "Price": "",
+    "Discount": "",
+    "DiscountColor": "#c74200",
+    "DiscountFlag": "",
+    "DiscountWording": "Guardar",
+    "RegularPrice": "",
+    "StartTimeWording": "",
+    "StartTime": "",
+    "EndTimeWording": "",
+    "EndTime": "",
+    "Notice": "1",
+    "ShippingHint": "",
+    "ModelSpec": "",
+    "ProductOnlineDt": "2025-01-29 07:32:40",
+    "ImageList": [
+      {
+        "DefaultFlag": "Y",
+        "ColorCode": "XXXXX",
+        "ColorName": "",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/52F0145C-347B-4FFC-BAAD-B060C1BD1E40/w185"
+        ]
+      }
+    ],
+    "ProductLogo": [],
+    "Buy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "ManualBuy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "WhereToBuy": {
+      "WTBText": "Dónde comprar",
+      "WTBFlag": 0,
+      "WTBLink": ""
+    },
+    "FindNearBy": {
+      "FindNearByText": "Encuentra una tienda",
+      "FindNearByFlag": 0
+    },
+    "VolumePurchase": {
+      "Level1Name": "",
+      "Text": "Volume purchase",
+      "Link": "https://www.connect.asus.com/ar/VolumePurchase",
+      "linkTarget": "_blank"
+    },
+    "LearnMore": "Más información",
+    "Compare": "Comparar",
+    "SeeMore": "Ver más",
+    "SeeLess": "Ver menos",
+    "ExternalID": "",
+    "ProductID": "R_90YE00P5-BVAA00",
+    "RealProductID": 24208,
+    "M1Id": 23825,
+    "ProductHashedID": "",
+    "PartNo": "90YE00P5-BVAA00",
+    "NewFlag": "0",
+    "DataRow": 31,
+    "ModelBaseFlag": 1,
+    "SpecFlag": 1,
+    "LowestPriceInNDayPeriod": "el precio más bajo en el periodo de 30 días anterior a la introducción del descuento",
+    "SubTagline": "",
+    "Tooltip": "",
+    "ReviewFlag": 1,
+    "HistoricLowPrice": "",
+    "SortPrice": "",
+    "StockStatus": "",
+    "SalesModelName": "ROG-STRIX-1000G-AURA-WHITE-GAMING"
+  },
+  {
+    "SourceType": "rog",
+    "GetURLFlag": 1,
+    "isRogFlag": 1,
+    "Level1ID": 908,
+    "ProductURL": "https://rog.asus.com/ar/power-supply-units/rog-strix/rog-strix-1200g-aura-gaming-model/",
+    "ProductCardURL": "https://rog.asus.com/ar/power-supply-units/rog-strix/rog-strix-1200g-aura-gaming-model/",
+    "CustomizeTag": {
+      "Enabled": false,
+      "Text": ""
+    },
+    "LeftHeader": {
+      "NewsFlag": "N",
+      "DealFlag": "N",
+      "NewsFlagWording": "Nuevo",
+      "DealFlagWording": "OFERTA"
+    },
+    "RightHeader": [],
+    "ProductImage": "",
+    "Size": "",
+    "Level1Path": "Power Supply Units",
+    "Level2Path": "ROG Strix",
+    "Level3Path": "",
+    "CategoryName": "ROG-STRIX-1200G-AURA-GAMING",
+    "SubSeriesName": "",
+    "PDWebPath": "",
+    "Name": "<h2>ROG STRIX 1200W Gold Aura Edition</h2>",
+    "ReviewStar": "0.0",
+    "ReviewCount": 0,
+    "StartingAtWording": "El precio de la ASUS store es a partir de",
+    "Estore": "Precio de la ASUS store",
+    "PDCardSafety": "El precio de la ASUS store es el precio de un producto proporcionado por la ASUS store. Las especificaciones no incluidas aquí podrían no estar disponibles en la eStore y solo están como referencia.",
+    "PDCardSafety2": "",
+    "PriceLineColor": "#CCCCCC",
+    "PriceColor": "#181818",
+    "Price": "",
+    "Discount": "",
+    "DiscountColor": "#c74200",
+    "DiscountFlag": "",
+    "DiscountWording": "Guardar",
+    "RegularPrice": "",
+    "StartTimeWording": "",
+    "StartTime": "",
+    "EndTimeWording": "",
+    "EndTime": "",
+    "Notice": "1",
+    "ShippingHint": "",
+    "ModelSpec": "",
+    "ProductOnlineDt": "2025-01-29 07:06:43",
+    "ImageList": [
+      {
+        "DefaultFlag": "Y",
+        "ColorCode": "XXXXX",
+        "ColorName": "",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/8BFB5DAE-8911-445B-BBC2-60CC933584CF/w185"
+        ]
+      }
+    ],
+    "ProductLogo": [],
+    "Buy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "ManualBuy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "WhereToBuy": {
+      "WTBText": "Dónde comprar",
+      "WTBFlag": 0,
+      "WTBLink": ""
+    },
+    "FindNearBy": {
+      "FindNearByText": "Encuentra una tienda",
+      "FindNearByFlag": 0
+    },
+    "VolumePurchase": {
+      "Level1Name": "",
+      "Text": "Volume purchase",
+      "Link": "https://www.connect.asus.com/ar/VolumePurchase",
+      "linkTarget": "_blank"
+    },
+    "LearnMore": "Más información",
+    "Compare": "Comparar",
+    "SeeMore": "Ver más",
+    "SeeLess": "Ver menos",
+    "ExternalID": "",
+    "ProductID": "R_90YE00P0-BVAA00",
+    "RealProductID": 20897,
+    "M1Id": 20897,
+    "ProductHashedID": "",
+    "PartNo": "90YE00P0-BVAA00",
+    "NewFlag": "0",
+    "DataRow": 27,
+    "ModelBaseFlag": 1,
+    "SpecFlag": 1,
+    "LowestPriceInNDayPeriod": "el precio más bajo en el periodo de 30 días anterior a la introducción del descuento",
+    "SubTagline": "",
+    "Tooltip": "",
+    "ReviewFlag": 1,
+    "HistoricLowPrice": "",
+    "SortPrice": "",
+    "StockStatus": "",
+    "SalesModelName": "ROG-STRIX-1200G-AURA-GAMING"
+  },
+  {
+    "SourceType": "rog",
+    "GetURLFlag": 1,
+    "isRogFlag": 1,
+    "Level1ID": 908,
+    "ProductURL": "https://rog.asus.com/ar/power-supply-units/rog-loki/rog-loki-750p-sfx-l-gaming-model/",
+    "ProductCardURL": "https://rog.asus.com/ar/power-supply-units/rog-loki/rog-loki-750p-sfx-l-gaming-model/",
+    "CustomizeTag": {
+      "Enabled": false,
+      "Text": ""
+    },
+    "LeftHeader": {
+      "NewsFlag": "N",
+      "DealFlag": "N",
+      "NewsFlagWording": "Nuevo",
+      "DealFlagWording": "OFERTA"
+    },
+    "RightHeader": [],
+    "ProductImage": "",
+    "Size": "",
+    "Level1Path": "Power Supply Units",
+    "Level2Path": "ROG Loki",
+    "Level3Path": "",
+    "CategoryName": "ROG-LOKI-750P-SFX-L-GAMING",
+    "SubSeriesName": "",
+    "PDWebPath": "",
+    "Name": "<h2>ROG LOKI SFX-L 750W Platinum</h2>",
+    "ReviewStar": "0.0",
+    "ReviewCount": 0,
+    "StartingAtWording": "El precio de la ASUS store es a partir de",
+    "Estore": "Precio de la ASUS store",
+    "PDCardSafety": "El precio de la ASUS store es el precio de un producto proporcionado por la ASUS store. Las especificaciones no incluidas aquí podrían no estar disponibles en la eStore y solo están como referencia.",
+    "PDCardSafety2": "",
+    "PriceLineColor": "#CCCCCC",
+    "PriceColor": "#181818",
+    "Price": "",
+    "Discount": "",
+    "DiscountColor": "#c74200",
+    "DiscountFlag": "",
+    "DiscountWording": "Guardar",
+    "RegularPrice": "",
+    "StartTimeWording": "",
+    "StartTime": "",
+    "EndTimeWording": "",
+    "EndTime": "",
+    "Notice": "1",
+    "ShippingHint": "",
+    "ModelSpec": "ROG Loki 750W Platinum es una fuente de alimentación de alto voltaje para SFF.",
+    "ProductOnlineDt": "2025-01-27 09:09:28",
+    "ImageList": [
+      {
+        "DefaultFlag": "Y",
+        "ColorCode": "XXXXX",
+        "ColorName": "",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/1FFA596F-A01A-41E3-8661-0491C4922C93/w185"
+        ]
+      }
+    ],
+    "ProductLogo": [
+      {
+        "LogoLink": "https://www.asus.com/microsite/Graphics-Cards/GeForce-RTX-50-Series/",
+        "LogoAlt": "GeForce RTX 50 Ready",
+        "LogoImageURL": {
+          "logo1x": "https://dlcdnwebimgs.asus.com/gain/B82C89AF-22A6-4BA5-A4BE-F20E0847241D/h32",
+          "logo2x": "https://dlcdnwebimgs.asus.com/gain/8A6F062E-3566-40F6-96C8-7CF6E8FD3F15/h64"
+        }
+      },
+      {
+        "LogoLink": "",
+        "LogoAlt": "ATX 3.1 compatible",
+        "LogoImageURL": {
+          "logo1x": "https://dlcdnwebimgs.asus.com/gain/B04776A5-AF8B-4B0A-8D95-CF21606274BD/h32",
+          "logo2x": "https://dlcdnwebimgs.asus.com/gain/F35ACE99-093F-4A5E-8B89-E22ABD1F598D/h64"
+        }
+      }
+    ],
+    "Buy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "ManualBuy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "WhereToBuy": {
+      "WTBText": "Dónde comprar",
+      "WTBFlag": 0,
+      "WTBLink": ""
+    },
+    "FindNearBy": {
+      "FindNearByText": "Encuentra una tienda",
+      "FindNearByFlag": 0
+    },
+    "VolumePurchase": {
+      "Level1Name": "",
+      "Text": "Volume purchase",
+      "Link": "https://www.connect.asus.com/ar/VolumePurchase",
+      "linkTarget": "_blank"
+    },
+    "LearnMore": "Más información",
+    "Compare": "Comparar",
+    "SeeMore": "Ver más",
+    "SeeLess": "Ver menos",
+    "ExternalID": "",
+    "ProductID": "R_90YE00N4-B0AA00",
+    "RealProductID": 20887,
+    "M1Id": 20887,
+    "ProductHashedID": "",
+    "PartNo": "90YE00N4-B0AA00",
+    "NewFlag": "0",
+    "DataRow": 26,
+    "ModelBaseFlag": 1,
+    "SpecFlag": 1,
+    "LowestPriceInNDayPeriod": "el precio más bajo en el periodo de 30 días anterior a la introducción del descuento",
+    "SubTagline": "",
+    "Tooltip": "",
+    "ReviewFlag": 1,
+    "HistoricLowPrice": "",
+    "SortPrice": "",
+    "StockStatus": "",
+    "SalesModelName": "ROG-LOKI-750P-SFX-L-GAMING"
+  },
+  {
+    "SourceType": "rog",
+    "GetURLFlag": 1,
+    "isRogFlag": 1,
+    "Level1ID": 908,
+    "ProductURL": "https://rog.asus.com/ar/power-supply-units/rog-loki/rog-loki-850p-sfx-l-gaming-model/",
+    "ProductCardURL": "https://rog.asus.com/ar/power-supply-units/rog-loki/rog-loki-850p-sfx-l-gaming-model/",
+    "CustomizeTag": {
+      "Enabled": false,
+      "Text": ""
+    },
+    "LeftHeader": {
+      "NewsFlag": "N",
+      "DealFlag": "N",
+      "NewsFlagWording": "Nuevo",
+      "DealFlagWording": "OFERTA"
+    },
+    "RightHeader": [],
+    "ProductImage": "",
+    "Size": "",
+    "Level1Path": "Power Supply Units",
+    "Level2Path": "ROG Loki",
+    "Level3Path": "",
+    "CategoryName": "ROG-LOKI-850P-SFX-L-GAMING",
+    "SubSeriesName": "",
+    "PDWebPath": "",
+    "Name": "<h2>ROG LOKI SFX-L 850W Platinum</h2>",
+    "ReviewStar": "0.0",
+    "ReviewCount": 0,
+    "StartingAtWording": "El precio de la ASUS store es a partir de",
+    "Estore": "Precio de la ASUS store",
+    "PDCardSafety": "El precio de la ASUS store es el precio de un producto proporcionado por la ASUS store. Las especificaciones no incluidas aquí podrían no estar disponibles en la eStore y solo están como referencia.",
+    "PDCardSafety2": "",
+    "PriceLineColor": "#CCCCCC",
+    "PriceColor": "#181818",
+    "Price": "",
+    "Discount": "",
+    "DiscountColor": "#c74200",
+    "DiscountFlag": "",
+    "DiscountWording": "Guardar",
+    "RegularPrice": "",
+    "StartTimeWording": "",
+    "StartTime": "",
+    "EndTimeWording": "",
+    "EndTime": "",
+    "Notice": "1",
+    "ShippingHint": "",
+    "ModelSpec": "ROG Loki 850W Platinum es una fuente de alimentación de alto voltaje para SFF.",
+    "ProductOnlineDt": "2025-01-27 08:44:01",
+    "ImageList": [
+      {
+        "DefaultFlag": "Y",
+        "ColorCode": "XXXXX",
+        "ColorName": "",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/74D561D3-2ADC-444C-9D30-16C1C556269F/w185"
+        ]
+      }
+    ],
+    "ProductLogo": [
+      {
+        "LogoLink": "https://www.asus.com/microsite/Graphics-Cards/GeForce-RTX-50-Series/",
+        "LogoAlt": "GeForce RTX 50 Ready",
+        "LogoImageURL": {
+          "logo1x": "https://dlcdnwebimgs.asus.com/gain/B82C89AF-22A6-4BA5-A4BE-F20E0847241D/h32",
+          "logo2x": "https://dlcdnwebimgs.asus.com/gain/8A6F062E-3566-40F6-96C8-7CF6E8FD3F15/h64"
+        }
+      },
+      {
+        "LogoLink": "",
+        "LogoAlt": "ATX 3.1 compatible",
+        "LogoImageURL": {
+          "logo1x": "https://dlcdnwebimgs.asus.com/gain/B04776A5-AF8B-4B0A-8D95-CF21606274BD/h32",
+          "logo2x": "https://dlcdnwebimgs.asus.com/gain/F35ACE99-093F-4A5E-8B89-E22ABD1F598D/h64"
+        }
+      }
+    ],
+    "Buy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "ManualBuy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "WhereToBuy": {
+      "WTBText": "Dónde comprar",
+      "WTBFlag": 0,
+      "WTBLink": ""
+    },
+    "FindNearBy": {
+      "FindNearByText": "Encuentra una tienda",
+      "FindNearByFlag": 0
+    },
+    "VolumePurchase": {
+      "Level1Name": "",
+      "Text": "Volume purchase",
+      "Link": "https://www.connect.asus.com/ar/VolumePurchase",
+      "linkTarget": "_blank"
+    },
+    "LearnMore": "Más información",
+    "Compare": "Comparar",
+    "SeeMore": "Ver más",
+    "SeeLess": "Ver menos",
+    "ExternalID": "",
+    "ProductID": "R_90YE00N3-B0AA00",
+    "RealProductID": 20888,
+    "M1Id": 20888,
+    "ProductHashedID": "",
+    "PartNo": "90YE00N3-B0AA00",
+    "NewFlag": "0",
+    "DataRow": 25,
+    "ModelBaseFlag": 1,
+    "SpecFlag": 1,
+    "LowestPriceInNDayPeriod": "el precio más bajo en el periodo de 30 días anterior a la introducción del descuento",
+    "SubTagline": "",
+    "Tooltip": "",
+    "ReviewFlag": 1,
+    "HistoricLowPrice": "",
+    "SortPrice": "",
+    "StockStatus": "",
+    "SalesModelName": "ROG-LOKI-850P-SFX-L-GAMING"
+  },
+  {
+    "SourceType": "rog",
+    "GetURLFlag": 1,
+    "isRogFlag": 1,
+    "Level1ID": 908,
+    "ProductURL": "https://rog.asus.com/ar/power-supply-units/rog-loki/rog-loki-850p-white-sfx-l-gaming-model/",
+    "ProductCardURL": "https://rog.asus.com/ar/power-supply-units/rog-loki/rog-loki-850p-white-sfx-l-gaming-model/",
+    "CustomizeTag": {
+      "Enabled": false,
+      "Text": ""
+    },
+    "LeftHeader": {
+      "NewsFlag": "N",
+      "DealFlag": "N",
+      "NewsFlagWording": "Nuevo",
+      "DealFlagWording": "OFERTA"
+    },
+    "RightHeader": [],
+    "ProductImage": "",
+    "Size": "",
+    "Level1Path": "Power Supply Units",
+    "Level2Path": "ROG Loki",
+    "Level3Path": "",
+    "CategoryName": "ROG-LOKI-850P-WHITE-SFX-L-GAMING",
+    "SubSeriesName": "",
+    "PDWebPath": "",
+    "Name": "<h2>ROG Loki 850W Platinum White Edition</h2>",
+    "ReviewStar": "0.0",
+    "ReviewCount": 0,
+    "StartingAtWording": "El precio de la ASUS store es a partir de",
+    "Estore": "Precio de la ASUS store",
+    "PDCardSafety": "El precio de la ASUS store es el precio de un producto proporcionado por la ASUS store. Las especificaciones no incluidas aquí podrían no estar disponibles en la eStore y solo están como referencia.",
+    "PDCardSafety2": "",
+    "PriceLineColor": "#CCCCCC",
+    "PriceColor": "#181818",
+    "Price": "",
+    "Discount": "",
+    "DiscountColor": "#c74200",
+    "DiscountFlag": "",
+    "DiscountWording": "Guardar",
+    "RegularPrice": "",
+    "StartTimeWording": "",
+    "StartTime": "",
+    "EndTimeWording": "",
+    "EndTime": "",
+    "Notice": "1",
+    "ShippingHint": "",
+    "ModelSpec": "ROG Loki 850W Platinum White Edition es una fuente de alimentación de alto voltaje para SFF.",
+    "ProductOnlineDt": "2025-01-27 07:50:50",
+    "ImageList": [
+      {
+        "DefaultFlag": "Y",
+        "ColorCode": "XXXXX",
+        "ColorName": "",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/F3960D00-9F95-42A3-9443-5F47E6695F59/w185"
+        ]
+      }
+    ],
+    "ProductLogo": [
+      {
+        "LogoLink": "https://www.asus.com/microsite/Graphics-Cards/GeForce-RTX-50-Series/",
+        "LogoAlt": "GeForce RTX 50 Ready",
+        "LogoImageURL": {
+          "logo1x": "https://dlcdnwebimgs.asus.com/gain/B82C89AF-22A6-4BA5-A4BE-F20E0847241D/h32",
+          "logo2x": "https://dlcdnwebimgs.asus.com/gain/8A6F062E-3566-40F6-96C8-7CF6E8FD3F15/h64"
+        }
+      },
+      {
+        "LogoLink": "",
+        "LogoAlt": "ATX 3.1 compatible",
+        "LogoImageURL": {
+          "logo1x": "https://dlcdnwebimgs.asus.com/gain/B04776A5-AF8B-4B0A-8D95-CF21606274BD/h32",
+          "logo2x": "https://dlcdnwebimgs.asus.com/gain/F35ACE99-093F-4A5E-8B89-E22ABD1F598D/h64"
+        }
+      }
+    ],
+    "Buy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "ManualBuy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "WhereToBuy": {
+      "WTBText": "Dónde comprar",
+      "WTBFlag": 0,
+      "WTBLink": ""
+    },
+    "FindNearBy": {
+      "FindNearByText": "Encuentra una tienda",
+      "FindNearByFlag": 0
+    },
+    "VolumePurchase": {
+      "Level1Name": "",
+      "Text": "Volume purchase",
+      "Link": "https://www.connect.asus.com/ar/VolumePurchase",
+      "linkTarget": "_blank"
+    },
+    "LearnMore": "Más información",
+    "Compare": "Comparar",
+    "SeeMore": "Ver más",
+    "SeeLess": "Ver menos",
+    "ExternalID": "",
+    "ProductID": "R_90YE00N2-B0AA00",
+    "RealProductID": 20889,
+    "M1Id": 20889,
+    "ProductHashedID": "",
+    "PartNo": "90YE00N2-B0AA00",
+    "NewFlag": "0",
+    "DataRow": 24,
+    "ModelBaseFlag": 1,
+    "SpecFlag": 1,
+    "LowestPriceInNDayPeriod": "el precio más bajo en el periodo de 30 días anterior a la introducción del descuento",
+    "SubTagline": "",
+    "Tooltip": "",
+    "ReviewFlag": 1,
+    "HistoricLowPrice": "",
+    "SortPrice": "",
+    "StockStatus": "",
+    "SalesModelName": "ROG-LOKI-850P-WHITE-SFX-L-GAMING"
+  },
+  {
+    "SourceType": "rog",
+    "GetURLFlag": 1,
+    "isRogFlag": 1,
+    "Level1ID": 908,
+    "ProductURL": "https://rog.asus.com/ar/power-supply-units/rog-loki/rog-loki-1000p-sfx-l-gaming-model/",
+    "ProductCardURL": "https://rog.asus.com/ar/power-supply-units/rog-loki/rog-loki-1000p-sfx-l-gaming-model/",
+    "CustomizeTag": {
+      "Enabled": false,
+      "Text": ""
+    },
+    "LeftHeader": {
+      "NewsFlag": "N",
+      "DealFlag": "N",
+      "NewsFlagWording": "Nuevo",
+      "DealFlagWording": "OFERTA"
+    },
+    "RightHeader": [],
+    "ProductImage": "",
+    "Size": "",
+    "Level1Path": "Power Supply Units",
+    "Level2Path": "ROG Loki",
+    "Level3Path": "",
+    "CategoryName": "ROG-LOKI-1000P-SFX-L-GAMING",
+    "SubSeriesName": "",
+    "PDWebPath": "",
+    "Name": "<h2>ROG LOKI SFX-L 1000W Platinum</h2>",
+    "ReviewStar": "0.0",
+    "ReviewCount": 0,
+    "StartingAtWording": "El precio de la ASUS store es a partir de",
+    "Estore": "Precio de la ASUS store",
+    "PDCardSafety": "El precio de la ASUS store es el precio de un producto proporcionado por la ASUS store. Las especificaciones no incluidas aquí podrían no estar disponibles en la eStore y solo están como referencia.",
+    "PDCardSafety2": "",
+    "PriceLineColor": "#CCCCCC",
+    "PriceColor": "#181818",
+    "Price": "",
+    "Discount": "",
+    "DiscountColor": "#c74200",
+    "DiscountFlag": "",
+    "DiscountWording": "Guardar",
+    "RegularPrice": "",
+    "StartTimeWording": "",
+    "StartTime": "",
+    "EndTimeWording": "",
+    "EndTime": "",
+    "Notice": "1",
+    "ShippingHint": "",
+    "ModelSpec": "ROG Loki 1000W Platinum is a high-wattage PSU for boundary-breaking SFF builds.",
+    "ProductOnlineDt": "2025-01-27 03:53:28",
+    "ImageList": [
+      {
+        "DefaultFlag": "Y",
+        "ColorCode": "XXXXX",
+        "ColorName": "",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/C1FE0FFF-D18E-463F-854B-7098D1551682/w185"
+        ]
+      }
+    ],
+    "ProductLogo": [
+      {
+        "LogoLink": "https://www.asus.com/microsite/Graphics-Cards/GeForce-RTX-50-Series/",
+        "LogoAlt": "GeForce RTX 50 Ready",
+        "LogoImageURL": {
+          "logo1x": "https://dlcdnwebimgs.asus.com/gain/B82C89AF-22A6-4BA5-A4BE-F20E0847241D/h32",
+          "logo2x": "https://dlcdnwebimgs.asus.com/gain/8A6F062E-3566-40F6-96C8-7CF6E8FD3F15/h64"
+        }
+      },
+      {
+        "LogoLink": "",
+        "LogoAlt": "ATX 3.1 compatible",
+        "LogoImageURL": {
+          "logo1x": "https://dlcdnwebimgs.asus.com/gain/B04776A5-AF8B-4B0A-8D95-CF21606274BD/h32",
+          "logo2x": "https://dlcdnwebimgs.asus.com/gain/F35ACE99-093F-4A5E-8B89-E22ABD1F598D/h64"
+        }
+      }
+    ],
+    "Buy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "ManualBuy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "WhereToBuy": {
+      "WTBText": "Dónde comprar",
+      "WTBFlag": 0,
+      "WTBLink": ""
+    },
+    "FindNearBy": {
+      "FindNearByText": "Encuentra una tienda",
+      "FindNearByFlag": 0
+    },
+    "VolumePurchase": {
+      "Level1Name": "",
+      "Text": "Volume purchase",
+      "Link": "https://www.connect.asus.com/ar/VolumePurchase",
+      "linkTarget": "_blank"
+    },
+    "LearnMore": "Más información",
+    "Compare": "Comparar",
+    "SeeMore": "Ver más",
+    "SeeLess": "Ver menos",
+    "ExternalID": "",
+    "ProductID": "R_90YE00N1-B0AA00",
+    "RealProductID": 20890,
+    "M1Id": 20890,
+    "ProductHashedID": "",
+    "PartNo": "90YE00N1-B0AA00",
+    "NewFlag": "0",
+    "DataRow": 23,
+    "ModelBaseFlag": 1,
+    "SpecFlag": 1,
+    "LowestPriceInNDayPeriod": "el precio más bajo en el periodo de 30 días anterior a la introducción del descuento",
+    "SubTagline": "",
+    "Tooltip": "",
+    "ReviewFlag": 1,
+    "HistoricLowPrice": "",
+    "SortPrice": "",
+    "StockStatus": "",
+    "SalesModelName": "ROG-LOKI-1000P-SFX-L-GAMING"
+  },
+  {
+    "SourceType": "rog",
+    "GetURLFlag": 1,
+    "isRogFlag": 1,
+    "Level1ID": 908,
+    "ProductURL": "https://rog.asus.com/ar/power-supply-units/rog-thor/rog-thor-850p2-gaming-model/",
+    "ProductCardURL": "https://rog.asus.com/ar/power-supply-units/rog-thor/rog-thor-850p2-gaming-model/",
+    "CustomizeTag": {
+      "Enabled": false,
+      "Text": ""
+    },
+    "LeftHeader": {
+      "NewsFlag": "N",
+      "DealFlag": "N",
+      "NewsFlagWording": "Nuevo",
+      "DealFlagWording": "OFERTA"
+    },
+    "RightHeader": [],
+    "ProductImage": "",
+    "Size": "",
+    "Level1Path": "Power Supply Units",
+    "Level2Path": "ROG Thor",
+    "Level3Path": "",
+    "CategoryName": "ROG-THOR-850P2-GAMING",
+    "SubSeriesName": "",
+    "PDWebPath": "",
+    "Name": "<h2>ROG THOR 850W Platinum II</h2>",
+    "ReviewStar": "0.0",
+    "ReviewCount": 0,
+    "StartingAtWording": "El precio de la ASUS store es a partir de",
+    "Estore": "Precio de la ASUS store",
+    "PDCardSafety": "El precio de la ASUS store es el precio de un producto proporcionado por la ASUS store. Las especificaciones no incluidas aquí podrían no estar disponibles en la eStore y solo están como referencia.",
+    "PDCardSafety2": "",
+    "PriceLineColor": "#CCCCCC",
+    "PriceColor": "#181818",
+    "Price": "",
+    "Discount": "",
+    "DiscountColor": "#c74200",
+    "DiscountFlag": "",
+    "DiscountWording": "Guardar",
+    "RegularPrice": "",
+    "StartTimeWording": "",
+    "StartTime": "",
+    "EndTimeWording": "",
+    "EndTime": "",
+    "Notice": "1",
+    "ShippingHint": "",
+    "ModelSpec": "ROG Thor 850W Platinum II es la fuente de alimentación más silenciosa de su clase.",
+    "ProductOnlineDt": "2025-01-27 02:37:53",
+    "ImageList": [
+      {
+        "DefaultFlag": "Y",
+        "ColorCode": "XXXXX",
+        "ColorName": "",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/3E1823DB-E795-4FD8-8234-520263C90333/w185"
+        ]
+      }
+    ],
+    "ProductLogo": [],
+    "Buy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "ManualBuy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "WhereToBuy": {
+      "WTBText": "Dónde comprar",
+      "WTBFlag": 0,
+      "WTBLink": ""
+    },
+    "FindNearBy": {
+      "FindNearByText": "Encuentra una tienda",
+      "FindNearByFlag": 0
+    },
+    "VolumePurchase": {
+      "Level1Name": "",
+      "Text": "Volume purchase",
+      "Link": "https://www.connect.asus.com/ar/VolumePurchase",
+      "linkTarget": "_blank"
+    },
+    "LearnMore": "Más información",
+    "Compare": "Comparar",
+    "SeeMore": "Ver más",
+    "SeeLess": "Ver menos",
+    "ExternalID": "",
+    "ProductID": "R_90YE00L2-B0AA00",
+    "RealProductID": 16860,
+    "M1Id": 16860,
+    "ProductHashedID": "",
+    "PartNo": "90YE00L2-B0AA00",
+    "NewFlag": "0",
+    "DataRow": 22,
+    "ModelBaseFlag": 1,
+    "SpecFlag": 1,
+    "LowestPriceInNDayPeriod": "el precio más bajo en el periodo de 30 días anterior a la introducción del descuento",
+    "SubTagline": "",
+    "Tooltip": "",
+    "ReviewFlag": 1,
+    "HistoricLowPrice": "",
+    "SortPrice": "",
+    "StockStatus": "",
+    "SalesModelName": "ROG-THOR-850P2-GAMING"
+  },
+  {
+    "SourceType": "rog",
+    "GetURLFlag": 1,
+    "isRogFlag": 1,
+    "Level1ID": 908,
+    "ProductURL": "https://rog.asus.com/ar/power-supply-units/rog-thor/rog-thor-1000p2-gaming-model/",
+    "ProductCardURL": "https://rog.asus.com/ar/power-supply-units/rog-thor/rog-thor-1000p2-gaming-model/",
+    "CustomizeTag": {
+      "Enabled": false,
+      "Text": ""
+    },
+    "LeftHeader": {
+      "NewsFlag": "N",
+      "DealFlag": "N",
+      "NewsFlagWording": "Nuevo",
+      "DealFlagWording": "OFERTA"
+    },
+    "RightHeader": [],
+    "ProductImage": "",
+    "Size": "",
+    "Level1Path": "Power Supply Units",
+    "Level2Path": "ROG Thor",
+    "Level3Path": "",
+    "CategoryName": "ROG-THOR-1000P2-GAMING",
+    "SubSeriesName": "",
+    "PDWebPath": "",
+    "Name": "<h2>ROG-THOR-1000P2-GAMING</h2>",
+    "ReviewStar": "0.0",
+    "ReviewCount": 0,
+    "StartingAtWording": "El precio de la ASUS store es a partir de",
+    "Estore": "Precio de la ASUS store",
+    "PDCardSafety": "El precio de la ASUS store es el precio de un producto proporcionado por la ASUS store. Las especificaciones no incluidas aquí podrían no estar disponibles en la eStore y solo están como referencia.",
+    "PDCardSafety2": "",
+    "PriceLineColor": "#CCCCCC",
+    "PriceColor": "#181818",
+    "Price": "",
+    "Discount": "",
+    "DiscountColor": "#c74200",
+    "DiscountFlag": "",
+    "DiscountWording": "Guardar",
+    "RegularPrice": "",
+    "StartTimeWording": "",
+    "StartTime": "",
+    "EndTimeWording": "",
+    "EndTime": "",
+    "Notice": "1",
+    "ShippingHint": "",
+    "ModelSpec": "ROG Thor 1000W Platinum II es la fuente de alimentación más silenciosa de su clase.",
+    "ProductOnlineDt": "2025-01-26 06:30:35",
+    "ImageList": [
+      {
+        "DefaultFlag": "Y",
+        "ColorCode": "XXXXX",
+        "ColorName": "",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/F40C3AEA-D458-41E6-BF27-045C0C8D5086/w185"
+        ]
+      }
+    ],
+    "ProductLogo": [],
+    "Buy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "ManualBuy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "WhereToBuy": {
+      "WTBText": "Dónde comprar",
+      "WTBFlag": 0,
+      "WTBLink": ""
+    },
+    "FindNearBy": {
+      "FindNearByText": "Encuentra una tienda",
+      "FindNearByFlag": 0
+    },
+    "VolumePurchase": {
+      "Level1Name": "",
+      "Text": "Volume purchase",
+      "Link": "https://www.connect.asus.com/ar/VolumePurchase",
+      "linkTarget": "_blank"
+    },
+    "LearnMore": "Más información",
+    "Compare": "Comparar",
+    "SeeMore": "Ver más",
+    "SeeLess": "Ver menos",
+    "ExternalID": "",
+    "ProductID": "R_90YE00L1-B0AA00",
+    "RealProductID": 18079,
+    "M1Id": 18079,
+    "ProductHashedID": "",
+    "PartNo": "90YE00L1-B0AA00",
+    "NewFlag": "0",
+    "DataRow": 21,
+    "ModelBaseFlag": 1,
+    "SpecFlag": 1,
+    "LowestPriceInNDayPeriod": "el precio más bajo en el periodo de 30 días anterior a la introducción del descuento",
+    "SubTagline": "",
+    "Tooltip": "",
+    "ReviewFlag": 1,
+    "HistoricLowPrice": "",
+    "SortPrice": "",
+    "StockStatus": "",
+    "SalesModelName": "ROG-THOR-1000P2-GAMING"
+  },
+  {
+    "SourceType": "rog",
+    "GetURLFlag": 1,
+    "isRogFlag": 1,
+    "Level1ID": 908,
+    "ProductURL": "https://rog.asus.com/ar/power-supply-units/rog-thor/rog-thor-1600t-gaming-model/",
+    "ProductCardURL": "https://rog.asus.com/ar/power-supply-units/rog-thor/rog-thor-1600t-gaming-model/",
+    "CustomizeTag": {
+      "Enabled": false,
+      "Text": ""
+    },
+    "LeftHeader": {
+      "NewsFlag": "N",
+      "DealFlag": "N",
+      "NewsFlagWording": "Nuevo",
+      "DealFlagWording": "OFERTA"
+    },
+    "RightHeader": [],
+    "ProductImage": "",
+    "Size": "",
+    "Level1Path": "Power Supply Units",
+    "Level2Path": "ROG Thor",
+    "Level3Path": "",
+    "CategoryName": "ROG-THOR-1600T-GAMING",
+    "SubSeriesName": "",
+    "PDWebPath": "",
+    "Name": "<h2>ROG-THOR-1600T-GAMING</h2>",
+    "ReviewStar": "0.0",
+    "ReviewCount": 0,
+    "StartingAtWording": "El precio de la ASUS store es a partir de",
+    "Estore": "Precio de la ASUS store",
+    "PDCardSafety": "El precio de la ASUS store es el precio de un producto proporcionado por la ASUS store. Las especificaciones no incluidas aquí podrían no estar disponibles en la eStore y solo están como referencia.",
+    "PDCardSafety2": "",
+    "PriceLineColor": "#CCCCCC",
+    "PriceColor": "#181818",
+    "Price": "",
+    "Discount": "",
+    "DiscountColor": "#c74200",
+    "DiscountFlag": "",
+    "DiscountWording": "Guardar",
+    "RegularPrice": "",
+    "StartTimeWording": "",
+    "StartTime": "",
+    "EndTimeWording": "",
+    "EndTime": "",
+    "Notice": "1",
+    "ShippingHint": "",
+    "ModelSpec": "Alimentada por transistores de nitruro de galio, control digital y condensadores low-ESR, la ROG Thor 1600W Titanium es la fuente de alimentación definitiva para equipos monstruosos.",
+    "ProductOnlineDt": "2025-01-26 04:22:59",
+    "ImageList": [
+      {
+        "DefaultFlag": "Y",
+        "ColorCode": "XXXXX",
+        "ColorName": "",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/B3ED82E7-D535-4595-94AA-AD4BC56F5681/w185"
+        ]
+      }
+    ],
+    "ProductLogo": [],
+    "Buy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "ManualBuy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "WhereToBuy": {
+      "WTBText": "Dónde comprar",
+      "WTBFlag": 0,
+      "WTBLink": ""
+    },
+    "FindNearBy": {
+      "FindNearByText": "Encuentra una tienda",
+      "FindNearByFlag": 0
+    },
+    "VolumePurchase": {
+      "Level1Name": "",
+      "Text": "Volume purchase",
+      "Link": "https://www.connect.asus.com/ar/VolumePurchase",
+      "linkTarget": "_blank"
+    },
+    "LearnMore": "Más información",
+    "Compare": "Comparar",
+    "SeeMore": "Ver más",
+    "SeeLess": "Ver menos",
+    "ExternalID": "",
+    "ProductID": "R_90YE00K0-B0AA00",
+    "RealProductID": 19132,
+    "M1Id": 19132,
+    "ProductHashedID": "",
+    "PartNo": "90YE00K0-B0AA00",
+    "NewFlag": "0",
+    "DataRow": 19,
+    "ModelBaseFlag": 1,
+    "SpecFlag": 1,
+    "LowestPriceInNDayPeriod": "el precio más bajo en el periodo de 30 días anterior a la introducción del descuento",
+    "SubTagline": "",
+    "Tooltip": "",
+    "ReviewFlag": 1,
+    "HistoricLowPrice": "",
+    "SortPrice": "",
+    "StockStatus": "",
+    "SalesModelName": "ROG-THOR-1600T-GAMING"
+  },
+  {
+    "SourceType": "rog",
+    "GetURLFlag": 1,
+    "isRogFlag": 1,
+    "Level1ID": 908,
+    "ProductURL": "https://rog.asus.com/ar/power-supply-units/rog-strix/rog-strix-550g-model/",
+    "ProductCardURL": "https://rog.asus.com/ar/power-supply-units/rog-strix/rog-strix-550g-model/",
+    "CustomizeTag": {
+      "Enabled": false,
+      "Text": ""
+    },
+    "LeftHeader": {
+      "NewsFlag": "N",
+      "DealFlag": "N",
+      "NewsFlagWording": "Nuevo",
+      "DealFlagWording": "OFERTA"
+    },
+    "RightHeader": [],
+    "ProductImage": "",
+    "Size": "",
+    "Level1Path": "Power Supply Units",
+    "Level2Path": "ROG Strix",
+    "Level3Path": "",
+    "CategoryName": "ROG-STRIX-550G",
+    "SubSeriesName": "",
+    "PDWebPath": "",
+    "Name": "<h2>ROG-STRIX-550G</h2>",
+    "ReviewStar": "0.0",
+    "ReviewCount": 0,
+    "StartingAtWording": "El precio de la ASUS store es a partir de",
+    "Estore": "Precio de la ASUS store",
+    "PDCardSafety": "El precio de la ASUS store es el precio de un producto proporcionado por la ASUS store. Las especificaciones no incluidas aquí podrían no estar disponibles en la eStore y solo están como referencia.",
+    "PDCardSafety2": "",
+    "PriceLineColor": "#CCCCCC",
+    "PriceColor": "#181818",
+    "Price": "",
+    "Discount": "",
+    "DiscountColor": "#c74200",
+    "DiscountFlag": "",
+    "DiscountWording": "Guardar",
+    "RegularPrice": "",
+    "StartTimeWording": "",
+    "StartTime": "",
+    "EndTimeWording": "",
+    "EndTime": "",
+    "Notice": "1",
+    "ShippingHint": "",
+    "ModelSpec": "La fuente de poder ROG Strix 550W Gold refrigera mejor que los modelos habituales.",
+    "ProductOnlineDt": "2025-01-22 01:19:28",
+    "ImageList": [
+      {
+        "DefaultFlag": "Y",
+        "ColorCode": "XXXXX",
+        "ColorName": "",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/46618305-E919-4A31-AEB0-32D691D26F16/w185"
+        ]
+      }
+    ],
+    "ProductLogo": [],
+    "Buy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "ManualBuy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "WhereToBuy": {
+      "WTBText": "Dónde comprar",
+      "WTBFlag": 0,
+      "WTBLink": ""
+    },
+    "FindNearBy": {
+      "FindNearByText": "Encuentra una tienda",
+      "FindNearByFlag": 0
+    },
+    "VolumePurchase": {
+      "Level1Name": "",
+      "Text": "Volume purchase",
+      "Link": "https://www.connect.asus.com/ar/VolumePurchase",
+      "linkTarget": "_blank"
+    },
+    "LearnMore": "Más información",
+    "Compare": "Comparar",
+    "SeeMore": "Ver más",
+    "SeeLess": "Ver menos",
+    "ExternalID": "",
+    "ProductID": "R_90YE00A2-B0AA00",
+    "RealProductID": 12459,
+    "M1Id": 12459,
+    "ProductHashedID": "",
+    "PartNo": "90YE00A2-B0AA00",
+    "NewFlag": "0",
+    "DataRow": 14,
+    "ModelBaseFlag": 1,
+    "SpecFlag": 1,
+    "LowestPriceInNDayPeriod": "el precio más bajo en el periodo de 30 días anterior a la introducción del descuento",
+    "SubTagline": "",
+    "Tooltip": "",
+    "ReviewFlag": 1,
+    "HistoricLowPrice": "",
+    "SortPrice": "",
+    "StockStatus": "",
+    "SalesModelName": "ROG-STRIX-550G"
+  },
+  {
+    "SourceType": "rog",
+    "GetURLFlag": 1,
+    "isRogFlag": 1,
+    "Level1ID": 908,
+    "ProductURL": "https://rog.asus.com/ar/power-supply-units/rog-strix/rog-strix-650g-model/",
+    "ProductCardURL": "https://rog.asus.com/ar/power-supply-units/rog-strix/rog-strix-650g-model/",
+    "CustomizeTag": {
+      "Enabled": false,
+      "Text": ""
+    },
+    "LeftHeader": {
+      "NewsFlag": "N",
+      "DealFlag": "N",
+      "NewsFlagWording": "Nuevo",
+      "DealFlagWording": "OFERTA"
+    },
+    "RightHeader": [],
+    "ProductImage": "",
+    "Size": "",
+    "Level1Path": "Power Supply Units",
+    "Level2Path": "ROG Strix",
+    "Level3Path": "",
+    "CategoryName": "ROG-STRIX-650G",
+    "SubSeriesName": "",
+    "PDWebPath": "",
+    "Name": "<h2>ROG-STRIX-650G</h2>",
+    "ReviewStar": "0.0",
+    "ReviewCount": 0,
+    "StartingAtWording": "El precio de la ASUS store es a partir de",
+    "Estore": "Precio de la ASUS store",
+    "PDCardSafety": "El precio de la ASUS store es el precio de un producto proporcionado por la ASUS store. Las especificaciones no incluidas aquí podrían no estar disponibles en la eStore y solo están como referencia.",
+    "PDCardSafety2": "",
+    "PriceLineColor": "#CCCCCC",
+    "PriceColor": "#181818",
+    "Price": "",
+    "Discount": "",
+    "DiscountColor": "#c74200",
+    "DiscountFlag": "",
+    "DiscountWording": "Guardar",
+    "RegularPrice": "",
+    "StartTimeWording": "",
+    "StartTime": "",
+    "EndTimeWording": "",
+    "EndTime": "",
+    "Notice": "1",
+    "ShippingHint": "",
+    "ModelSpec": "La fuente de alimentación ROG Strix 650W Gold brinda un rendimiento de refrigeración superior a lo convencional.",
+    "ProductOnlineDt": "2025-01-21 22:57:15",
+    "ImageList": [
+      {
+        "DefaultFlag": "Y",
+        "ColorCode": "XXXXX",
+        "ColorName": "",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/336AB0B1-D0F6-4438-B245-F523F80D99E5/w185"
+        ]
+      }
+    ],
+    "ProductLogo": [],
+    "Buy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "ManualBuy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "WhereToBuy": {
+      "WTBText": "Dónde comprar",
+      "WTBFlag": 0,
+      "WTBLink": ""
+    },
+    "FindNearBy": {
+      "FindNearByText": "Encuentra una tienda",
+      "FindNearByFlag": 0
+    },
+    "VolumePurchase": {
+      "Level1Name": "",
+      "Text": "Volume purchase",
+      "Link": "https://www.connect.asus.com/ar/VolumePurchase",
+      "linkTarget": "_blank"
+    },
+    "LearnMore": "Más información",
+    "Compare": "Comparar",
+    "SeeMore": "Ver más",
+    "SeeLess": "Ver menos",
+    "ExternalID": "",
+    "ProductID": "R_90YE00A1-B0AA00",
+    "RealProductID": 11024,
+    "M1Id": 11024,
+    "ProductHashedID": "",
+    "PartNo": "90YE00A1-B0AA00",
+    "NewFlag": "0",
+    "DataRow": 13,
+    "ModelBaseFlag": 1,
+    "SpecFlag": 1,
+    "LowestPriceInNDayPeriod": "el precio más bajo en el periodo de 30 días anterior a la introducción del descuento",
+    "SubTagline": "",
+    "Tooltip": "",
+    "ReviewFlag": 1,
+    "HistoricLowPrice": "",
+    "SortPrice": "",
+    "StockStatus": "",
+    "SalesModelName": "ROG-STRIX-650G"
+  },
+  {
+    "SourceType": "rog",
+    "GetURLFlag": 1,
+    "isRogFlag": 1,
+    "Level1ID": 908,
+    "ProductURL": "https://rog.asus.com/ar/power-supply-units/rog-strix/rog-strix-750g-model/",
+    "ProductCardURL": "https://rog.asus.com/ar/power-supply-units/rog-strix/rog-strix-750g-model/",
+    "CustomizeTag": {
+      "Enabled": false,
+      "Text": ""
+    },
+    "LeftHeader": {
+      "NewsFlag": "N",
+      "DealFlag": "N",
+      "NewsFlagWording": "Nuevo",
+      "DealFlagWording": "OFERTA"
+    },
+    "RightHeader": [],
+    "ProductImage": "",
+    "Size": "",
+    "Level1Path": "Power Supply Units",
+    "Level2Path": "ROG Strix",
+    "Level3Path": "",
+    "CategoryName": "ROG-STRIX-750G",
+    "SubSeriesName": "",
+    "PDWebPath": "",
+    "Name": "<h2>ROG-STRIX-750G</h2>",
+    "ReviewStar": "0.0",
+    "ReviewCount": 0,
+    "StartingAtWording": "El precio de la ASUS store es a partir de",
+    "Estore": "Precio de la ASUS store",
+    "PDCardSafety": "El precio de la ASUS store es el precio de un producto proporcionado por la ASUS store. Las especificaciones no incluidas aquí podrían no estar disponibles en la eStore y solo están como referencia.",
+    "PDCardSafety2": "",
+    "PriceLineColor": "#CCCCCC",
+    "PriceColor": "#181818",
+    "Price": "",
+    "Discount": "",
+    "DiscountColor": "#c74200",
+    "DiscountFlag": "",
+    "DiscountWording": "Guardar",
+    "RegularPrice": "",
+    "StartTimeWording": "",
+    "StartTime": "",
+    "EndTimeWording": "",
+    "EndTime": "",
+    "Notice": "1",
+    "ShippingHint": "",
+    "ModelSpec": "La fuente de alimentación ROG Strix 750W Gold brinda un rendimiento de refrigeración superior a lo convencional.",
+    "ProductOnlineDt": "2025-01-21 22:09:06",
+    "ImageList": [
+      {
+        "DefaultFlag": "Y",
+        "ColorCode": "XXXXX",
+        "ColorName": "",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/14422411-D938-4125-A9EC-EA950F4BEB2E/w185"
+        ]
+      }
+    ],
+    "ProductLogo": [],
+    "Buy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "ManualBuy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "WhereToBuy": {
+      "WTBText": "Dónde comprar",
+      "WTBFlag": 0,
+      "WTBLink": ""
+    },
+    "FindNearBy": {
+      "FindNearByText": "Encuentra una tienda",
+      "FindNearByFlag": 0
+    },
+    "VolumePurchase": {
+      "Level1Name": "",
+      "Text": "Volume purchase",
+      "Link": "https://www.connect.asus.com/ar/VolumePurchase",
+      "linkTarget": "_blank"
+    },
+    "LearnMore": "Más información",
+    "Compare": "Comparar",
+    "SeeMore": "Ver más",
+    "SeeLess": "Ver menos",
+    "ExternalID": "",
+    "ProductID": "R_90YE00A0-B0AA00",
+    "RealProductID": 11023,
+    "M1Id": 11023,
+    "ProductHashedID": "",
+    "PartNo": "90YE00A0-B0AA00",
+    "NewFlag": "0",
+    "DataRow": 12,
+    "ModelBaseFlag": 1,
+    "SpecFlag": 1,
+    "LowestPriceInNDayPeriod": "el precio más bajo en el periodo de 30 días anterior a la introducción del descuento",
+    "SubTagline": "",
+    "Tooltip": "",
+    "ReviewFlag": 1,
+    "HistoricLowPrice": "",
+    "SortPrice": "",
+    "StockStatus": "",
+    "SalesModelName": "ROG-STRIX-750G"
+  },
+  {
+    "SourceType": "rog",
+    "GetURLFlag": 1,
+    "isRogFlag": 1,
+    "Level1ID": 908,
+    "ProductURL": "https://rog.asus.com/ar/power-supply-units/rog-strix/rog-strix-850g-model/",
+    "ProductCardURL": "https://rog.asus.com/ar/power-supply-units/rog-strix/rog-strix-850g-model/",
+    "CustomizeTag": {
+      "Enabled": false,
+      "Text": ""
+    },
+    "LeftHeader": {
+      "NewsFlag": "N",
+      "DealFlag": "N",
+      "NewsFlagWording": "Nuevo",
+      "DealFlagWording": "OFERTA"
+    },
+    "RightHeader": [],
+    "ProductImage": "",
+    "Size": "",
+    "Level1Path": "Power Supply Units",
+    "Level2Path": "ROG Strix",
+    "Level3Path": "",
+    "CategoryName": "ROG-STRIX-850G",
+    "SubSeriesName": "",
+    "PDWebPath": "",
+    "Name": "<h2>ROG-STRIX-850G</h2>",
+    "ReviewStar": "0.0",
+    "ReviewCount": 0,
+    "StartingAtWording": "El precio de la ASUS store es a partir de",
+    "Estore": "Precio de la ASUS store",
+    "PDCardSafety": "El precio de la ASUS store es el precio de un producto proporcionado por la ASUS store. Las especificaciones no incluidas aquí podrían no estar disponibles en la eStore y solo están como referencia.",
+    "PDCardSafety2": "",
+    "PriceLineColor": "#CCCCCC",
+    "PriceColor": "#181818",
+    "Price": "",
+    "Discount": "",
+    "DiscountColor": "#c74200",
+    "DiscountFlag": "",
+    "DiscountWording": "Guardar",
+    "RegularPrice": "",
+    "StartTimeWording": "",
+    "StartTime": "",
+    "EndTimeWording": "",
+    "EndTime": "",
+    "Notice": "1",
+    "ShippingHint": "",
+    "ModelSpec": "La fuente de poder ROG Strix 850W Gold ofrece un rendimiento de enfriamiento premium al alcance del mercado principal.",
+    "ProductOnlineDt": "2025-01-21 05:40:21",
+    "ImageList": [
+      {
+        "DefaultFlag": "Y",
+        "ColorCode": "XXXXX",
+        "ColorName": "",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/ECB79DEC-A4F3-4F96-9411-6D2690B8E573/w185"
+        ]
+      }
+    ],
+    "ProductLogo": [],
+    "Buy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "ManualBuy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "WhereToBuy": {
+      "WTBText": "Dónde comprar",
+      "WTBFlag": 0,
+      "WTBLink": ""
+    },
+    "FindNearBy": {
+      "FindNearByText": "Encuentra una tienda",
+      "FindNearByFlag": 0
+    },
+    "VolumePurchase": {
+      "Level1Name": "",
+      "Text": "Volume purchase",
+      "Link": "https://www.connect.asus.com/ar/VolumePurchase",
+      "linkTarget": "_blank"
+    },
+    "LearnMore": "Más información",
+    "Compare": "Comparar",
+    "SeeMore": "Ver más",
+    "SeeLess": "Ver menos",
+    "ExternalID": "",
+    "ProductID": "R_90YE00A3-B0AA00",
+    "RealProductID": 14643,
+    "M1Id": 14643,
+    "ProductHashedID": "",
+    "PartNo": "90YE00A3-B0AA00",
+    "NewFlag": "0",
+    "DataRow": 15,
+    "ModelBaseFlag": 1,
+    "SpecFlag": 1,
+    "LowestPriceInNDayPeriod": "el precio más bajo en el periodo de 30 días anterior a la introducción del descuento",
+    "SubTagline": "",
+    "Tooltip": "",
+    "ReviewFlag": 1,
+    "HistoricLowPrice": "",
+    "SortPrice": "",
+    "StockStatus": "",
+    "SalesModelName": "ROG-STRIX-850G"
+  },
+  {
+    "SourceType": "rog",
+    "GetURLFlag": 1,
+    "isRogFlag": 1,
+    "Level1ID": 908,
+    "ProductURL": "https://rog.asus.com/ar/power-supply-units/rog-strix/rog-strix-850g-white-model/",
+    "ProductCardURL": "https://rog.asus.com/ar/power-supply-units/rog-strix/rog-strix-850g-white-model/",
+    "CustomizeTag": {
+      "Enabled": false,
+      "Text": ""
+    },
+    "LeftHeader": {
+      "NewsFlag": "N",
+      "DealFlag": "N",
+      "NewsFlagWording": "Nuevo",
+      "DealFlagWording": "OFERTA"
+    },
+    "RightHeader": [],
+    "ProductImage": "",
+    "Size": "",
+    "Level1Path": "Power Supply Units",
+    "Level2Path": "ROG Strix",
+    "Level3Path": "",
+    "CategoryName": "ROG-STRIX-850G-WHITE",
+    "SubSeriesName": "",
+    "PDWebPath": "",
+    "Name": "<h2>ROG-STRIX-850G-WHITE</h2>",
+    "ReviewStar": "0.0",
+    "ReviewCount": 0,
+    "StartingAtWording": "El precio de la ASUS store es a partir de",
+    "Estore": "Precio de la ASUS store",
+    "PDCardSafety": "El precio de la ASUS store es el precio de un producto proporcionado por la ASUS store. Las especificaciones no incluidas aquí podrían no estar disponibles en la eStore y solo están como referencia.",
+    "PDCardSafety2": "",
+    "PriceLineColor": "#CCCCCC",
+    "PriceColor": "#181818",
+    "Price": "",
+    "Discount": "",
+    "DiscountColor": "#c74200",
+    "DiscountFlag": "",
+    "DiscountWording": "Guardar",
+    "RegularPrice": "",
+    "StartTimeWording": "",
+    "StartTime": "",
+    "EndTimeWording": "",
+    "EndTime": "",
+    "Notice": "1",
+    "ShippingHint": "",
+    "ModelSpec": "La fuente de poder ROG Strix 850W White Edition, con certificación 80 PLUS Gold, brinda un rendimiento superior.",
+    "ProductOnlineDt": "2025-01-21 04:17:45",
+    "ImageList": [
+      {
+        "DefaultFlag": "Y",
+        "ColorCode": "XXXXX",
+        "ColorName": "",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/280C0CB0-727B-4745-86DE-447F7068B941/w185"
+        ]
+      }
+    ],
+    "ProductLogo": [],
+    "Buy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "ManualBuy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "WhereToBuy": {
+      "WTBText": "Dónde comprar",
+      "WTBFlag": 0,
+      "WTBLink": ""
+    },
+    "FindNearBy": {
+      "FindNearByText": "Encuentra una tienda",
+      "FindNearByFlag": 0
+    },
+    "VolumePurchase": {
+      "Level1Name": "",
+      "Text": "Volume purchase",
+      "Link": "https://www.connect.asus.com/ar/VolumePurchase",
+      "linkTarget": "_blank"
+    },
+    "LearnMore": "Más información",
+    "Compare": "Comparar",
+    "SeeMore": "Ver más",
+    "SeeLess": "Ver menos",
+    "ExternalID": "",
+    "ProductID": "R_90YE00A4-B0AA00",
+    "RealProductID": 14642,
+    "M1Id": 14642,
+    "ProductHashedID": "",
+    "PartNo": "90YE00A4-B0AA00",
+    "NewFlag": "0",
+    "DataRow": 16,
+    "ModelBaseFlag": 1,
+    "SpecFlag": 1,
+    "LowestPriceInNDayPeriod": "el precio más bajo en el periodo de 30 días anterior a la introducción del descuento",
+    "SubTagline": "",
+    "Tooltip": "",
+    "ReviewFlag": 1,
+    "HistoricLowPrice": "",
+    "SortPrice": "",
+    "StockStatus": "",
+    "SalesModelName": "ROG-STRIX-850G-WHITE"
+  },
+  {
+    "SourceType": "rog",
+    "GetURLFlag": 1,
+    "isRogFlag": 1,
+    "Level1ID": 908,
+    "ProductURL": "https://rog.asus.com/ar/power-supply-units/rog-strix/rog-strix-1000g-model/",
+    "ProductCardURL": "https://rog.asus.com/ar/power-supply-units/rog-strix/rog-strix-1000g-model/",
+    "CustomizeTag": {
+      "Enabled": false,
+      "Text": ""
+    },
+    "LeftHeader": {
+      "NewsFlag": "N",
+      "DealFlag": "N",
+      "NewsFlagWording": "Nuevo",
+      "DealFlagWording": "OFERTA"
+    },
+    "RightHeader": [],
+    "ProductImage": "",
+    "Size": "",
+    "Level1Path": "Power Supply Units",
+    "Level2Path": "ROG Strix",
+    "Level3Path": "",
+    "CategoryName": "ROG-STRIX-1000G",
+    "SubSeriesName": "",
+    "PDWebPath": "",
+    "Name": "<h2>ROG-STRIX-1000G</h2>",
+    "ReviewStar": "0.0",
+    "ReviewCount": 0,
+    "StartingAtWording": "El precio de la ASUS store es a partir de",
+    "Estore": "Precio de la ASUS store",
+    "PDCardSafety": "El precio de la ASUS store es el precio de un producto proporcionado por la ASUS store. Las especificaciones no incluidas aquí podrían no estar disponibles en la eStore y solo están como referencia.",
+    "PDCardSafety2": "",
+    "PriceLineColor": "#CCCCCC",
+    "PriceColor": "#181818",
+    "Price": "",
+    "Discount": "",
+    "DiscountColor": "#c74200",
+    "DiscountFlag": "",
+    "DiscountWording": "Guardar",
+    "RegularPrice": "",
+    "StartTimeWording": "",
+    "StartTime": "",
+    "EndTimeWording": "",
+    "EndTime": "",
+    "Notice": "1",
+    "ShippingHint": "",
+    "ModelSpec": "ROG Strix 1000W Gold es una fuente de poder fresca, silenciosa y potente, diseñada para la eficiencia en un estilo llamativo.",
+    "ProductOnlineDt": "2025-01-21 02:37:17",
+    "ImageList": [
+      {
+        "DefaultFlag": "Y",
+        "ColorCode": "XXXXX",
+        "ColorName": "",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/0CB64E96-7BAF-446C-893E-E96BBF09A133/w185"
+        ]
+      }
+    ],
+    "ProductLogo": [],
+    "Buy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "ManualBuy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "WhereToBuy": {
+      "WTBText": "Dónde comprar",
+      "WTBFlag": 0,
+      "WTBLink": ""
+    },
+    "FindNearBy": {
+      "FindNearByText": "Encuentra una tienda",
+      "FindNearByFlag": 0
+    },
+    "VolumePurchase": {
+      "Level1Name": "",
+      "Text": "Volume purchase",
+      "Link": "https://www.connect.asus.com/ar/VolumePurchase",
+      "linkTarget": "_blank"
+    },
+    "LearnMore": "Más información",
+    "Compare": "Comparar",
+    "SeeMore": "Ver más",
+    "SeeLess": "Ver menos",
+    "ExternalID": "",
+    "ProductID": "R_90YE00A5-B0AA00",
+    "RealProductID": 14937,
+    "M1Id": 14937,
+    "ProductHashedID": "",
+    "PartNo": "90YE00A5-B0AA00",
+    "NewFlag": "0",
+    "DataRow": 17,
+    "ModelBaseFlag": 1,
+    "SpecFlag": 1,
+    "LowestPriceInNDayPeriod": "el precio más bajo en el periodo de 30 días anterior a la introducción del descuento",
+    "SubTagline": "",
+    "Tooltip": "",
+    "ReviewFlag": 1,
+    "HistoricLowPrice": "",
+    "SortPrice": "",
+    "StockStatus": "",
+    "SalesModelName": "ROG-STRIX-1000G"
+  },
+  {
+    "SourceType": "rog",
+    "GetURLFlag": 1,
+    "isRogFlag": 1,
+    "Level1ID": 908,
+    "ProductURL": "https://rog.asus.com/ar/power-supply-units/rog-thor/rog-thor-850p-model/",
+    "ProductCardURL": "https://rog.asus.com/ar/power-supply-units/rog-thor/rog-thor-850p-model/",
+    "CustomizeTag": {
+      "Enabled": false,
+      "Text": ""
+    },
+    "LeftHeader": {
+      "NewsFlag": "N",
+      "DealFlag": "N",
+      "NewsFlagWording": "Nuevo",
+      "DealFlagWording": "OFERTA"
+    },
+    "RightHeader": [],
+    "ProductImage": "",
+    "Size": "",
+    "Level1Path": "Power Supply Units",
+    "Level2Path": "ROG Thor",
+    "Level3Path": "",
+    "CategoryName": "ROG-THOR-850P",
+    "SubSeriesName": "",
+    "PDWebPath": "",
+    "Name": "<h2>ROG-THOR-850P</h2>",
+    "ReviewStar": "0.0",
+    "ReviewCount": 0,
+    "StartingAtWording": "El precio de la ASUS store es a partir de",
+    "Estore": "Precio de la ASUS store",
+    "PDCardSafety": "El precio de la ASUS store es el precio de un producto proporcionado por la ASUS store. Las especificaciones no incluidas aquí podrían no estar disponibles en la eStore y solo están como referencia.",
+    "PDCardSafety2": "",
+    "PriceLineColor": "#CCCCCC",
+    "PriceColor": "#181818",
+    "Price": "",
+    "Discount": "",
+    "DiscountColor": "#c74200",
+    "DiscountFlag": "",
+    "DiscountWording": "Guardar",
+    "RegularPrice": "",
+    "StartTimeWording": "",
+    "StartTime": "",
+    "EndTimeWording": "",
+    "EndTime": "",
+    "Notice": "1",
+    "ShippingHint": "",
+    "ModelSpec": "ROG Thor 850W Platinum, fuente de poder con Aura Sync y una pantalla OLED",
+    "ProductOnlineDt": "2025-01-21 01:32:10",
+    "ImageList": [
+      {
+        "DefaultFlag": "Y",
+        "ColorCode": "XXXXX",
+        "ColorName": "",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/1630FF2A-79C8-44BE-9083-FB857ABD9AE7/w185"
+        ]
+      }
+    ],
+    "ProductLogo": [],
+    "Buy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "ManualBuy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "WhereToBuy": {
+      "WTBText": "Dónde comprar",
+      "WTBFlag": 0,
+      "WTBLink": ""
+    },
+    "FindNearBy": {
+      "FindNearByText": "Encuentra una tienda",
+      "FindNearByFlag": 0
+    },
+    "VolumePurchase": {
+      "Level1Name": "",
+      "Text": "Volume purchase",
+      "Link": "https://www.connect.asus.com/ar/VolumePurchase",
+      "linkTarget": "_blank"
+    },
+    "LearnMore": "Más información",
+    "Compare": "Comparar",
+    "SeeMore": "Ver más",
+    "SeeLess": "Ver menos",
+    "ExternalID": "",
+    "ProductID": "R_90YE0090-B001A0",
+    "RealProductID": 10302,
+    "M1Id": 10302,
+    "ProductHashedID": "",
+    "PartNo": "90YE0090-B001A0",
+    "NewFlag": "0",
+    "DataRow": 11,
+    "ModelBaseFlag": 1,
+    "SpecFlag": 1,
+    "LowestPriceInNDayPeriod": "el precio más bajo en el periodo de 30 días anterior a la introducción del descuento",
+    "SubTagline": "",
+    "Tooltip": "",
+    "ReviewFlag": 1,
+    "HistoricLowPrice": "",
+    "SortPrice": "",
+    "StockStatus": "",
+    "SalesModelName": "ROG-THOR-850P"
+  },
+  {
+    "SourceType": "rog",
+    "GetURLFlag": 1,
+    "isRogFlag": 1,
+    "Level1ID": 908,
+    "ProductURL": "https://rog.asus.com/ar/power-supply-units/rog-thor/rog-thor-1200p2-gaming-model/",
+    "ProductCardURL": "https://rog.asus.com/ar/power-supply-units/rog-thor/rog-thor-1200p2-gaming-model/",
+    "CustomizeTag": {
+      "Enabled": false,
+      "Text": ""
+    },
+    "LeftHeader": {
+      "NewsFlag": "N",
+      "DealFlag": "N",
+      "NewsFlagWording": "Nuevo",
+      "DealFlagWording": "OFERTA"
+    },
+    "RightHeader": [],
+    "ProductImage": "",
+    "Size": "",
+    "Level1Path": "Power Supply Units",
+    "Level2Path": "ROG Thor",
+    "Level3Path": "",
+    "CategoryName": "ROG-THOR-1200P2-GAMING",
+    "SubSeriesName": "",
+    "PDWebPath": "",
+    "Name": "<h2>ROG-THOR-1200P2-GAMING</h2>",
+    "ReviewStar": "0.0",
+    "ReviewCount": 0,
+    "StartingAtWording": "El precio de la ASUS store es a partir de",
+    "Estore": "Precio de la ASUS store",
+    "PDCardSafety": "El precio de la ASUS store es el precio de un producto proporcionado por la ASUS store. Las especificaciones no incluidas aquí podrían no estar disponibles en la eStore y solo están como referencia.",
+    "PDCardSafety2": "",
+    "PriceLineColor": "#CCCCCC",
+    "PriceColor": "#181818",
+    "Price": "",
+    "Discount": "",
+    "DiscountColor": "#c74200",
+    "DiscountFlag": "",
+    "DiscountWording": "Guardar",
+    "RegularPrice": "",
+    "StartTimeWording": "",
+    "StartTime": "",
+    "EndTimeWording": "",
+    "EndTime": "",
+    "Notice": "1",
+    "ShippingHint": "",
+    "ModelSpec": "ROG-THOR-1200P2-GAMING",
+    "ProductOnlineDt": "2025-01-21 00:42:03",
+    "ImageList": [
+      {
+        "DefaultFlag": "Y",
+        "ColorCode": "XXXXX",
+        "ColorName": "",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/9EF5DAC6-BCC2-4874-A205-C624C3EFC50A/w185"
+        ]
+      }
+    ],
+    "ProductLogo": [],
+    "Buy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "ManualBuy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "WhereToBuy": {
+      "WTBText": "Dónde comprar",
+      "WTBFlag": 0,
+      "WTBLink": ""
+    },
+    "FindNearBy": {
+      "FindNearByText": "Encuentra una tienda",
+      "FindNearByFlag": 0
+    },
+    "VolumePurchase": {
+      "Level1Name": "",
+      "Text": "Volume purchase",
+      "Link": "https://www.connect.asus.com/ar/VolumePurchase",
+      "linkTarget": "_blank"
+    },
+    "LearnMore": "Más información",
+    "Compare": "Comparar",
+    "SeeMore": "Ver más",
+    "SeeLess": "Ver menos",
+    "ExternalID": "",
+    "ProductID": "R_90YE00L0-B0AA00",
+    "RealProductID": 18078,
+    "M1Id": 18078,
+    "ProductHashedID": "",
+    "PartNo": "90YE00L0-B0AA00",
+    "NewFlag": "0",
+    "DataRow": 20,
+    "ModelBaseFlag": 1,
+    "SpecFlag": 1,
+    "LowestPriceInNDayPeriod": "el precio más bajo en el periodo de 30 días anterior a la introducción del descuento",
+    "SubTagline": "",
+    "Tooltip": "",
+    "ReviewFlag": 1,
+    "HistoricLowPrice": "",
+    "SortPrice": "",
+    "StockStatus": "",
+    "SalesModelName": "ROG-THOR-1200P2-GAMING"
+  },
+  {
+    "SourceType": "prod",
+    "GetURLFlag": 0,
+    "isRogFlag": 0,
+    "Level1ID": 4,
+    "ProductURL": "https://www.asus.com/ar/motherboards-components/power-supply-units/tuf-gaming/tuf-gaming-1000g-white/",
+    "ProductCardURL": "https://www.asus.com/ar/motherboards-components/power-supply-units/tuf-gaming/tuf-gaming-1000g-white/",
+    "CustomizeTag": {
+      "Enabled": false,
+      "Text": ""
+    },
+    "LeftHeader": {
+      "NewsFlag": "N",
+      "DealFlag": "N",
+      "NewsFlagWording": "Nuevo",
+      "DealFlagWording": "OFERTA"
+    },
+    "RightHeader": [],
+    "ProductImage": "",
+    "Size": "",
+    "Level1Path": "Motherboards-Components",
+    "Level2Path": "Power-Supply-Units",
+    "Level3Path": "TUF-Gaming",
+    "CategoryName": "1000W",
+    "SubSeriesName": "",
+    "PDWebPath": "TUF-GAMING-1000G-WHITE",
+    "Name": "<h2>TUF Gaming 1000W Gold White Edition</h2>",
+    "ReviewStar": "4.5",
+    "ReviewCount": 100,
+    "StartingAtWording": "El precio de la ASUS store es a partir de",
+    "Estore": "Precio de la ASUS store",
+    "PDCardSafety": "El precio de la ASUS store es el precio de un producto proporcionado por la ASUS store. Las especificaciones no incluidas aquí podrían no estar disponibles en la eStore y solo están como referencia.",
+    "PDCardSafety2": "",
+    "PriceLineColor": "#CCCCCC",
+    "PriceColor": "#181818",
+    "Price": "",
+    "Discount": "",
+    "DiscountColor": "#c74200",
+    "DiscountFlag": "",
+    "DiscountWording": "Guardar",
+    "RegularPrice": "",
+    "StartTimeWording": "",
+    "StartTime": "",
+    "EndTimeWording": "",
+    "EndTime": "",
+    "Notice": "",
+    "ShippingHint": "",
+    "ModelSpec": "La TUF Gaming 1000W Gold White Edition es una fuente de alimentación eficiente, resistente y fiable, diseñada para el largo plazo.",
+    "ProductOnlineDt": "2023-12-18 13:34:00",
+    "ImageList": [
+      {
+        "DefaultFlag": "Y",
+        "ColorCode": "XXXX",
+        "ColorName": "",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/161e737a-852f-42e6-be4b-a3ff2fac8d2f/w185",
+          "https://dlcdnwebimgs.asus.com/gain/69f838a9-c50a-42ea-b829-ec35d7b5be8b/w185",
+          "https://dlcdnwebimgs.asus.com/gain/525a4916-061a-494d-bb37-a0cd2ab16809/w185"
+        ]
+      }
+    ],
+    "ProductLogo": [
+      {
+        "LogoLink": "",
+        "LogoAlt": "",
+        "LogoImageURL": {
+          "logo1x": "https://dlcdnwebimgs.asus.com/gain/b4bc0eed-5f97-46a1-9c82-959034bf741d/h44",
+          "logo2x": "https://dlcdnwebimgs.asus.com/gain/b4bc0eed-5f97-46a1-9c82-959034bf741d/"
+        }
+      },
+      {
+        "LogoLink": "",
+        "LogoAlt": "",
+        "LogoImageURL": {
+          "logo1x": "https://dlcdnwebimgs.asus.com/gain/9607c6ea-cc21-4a18-ac69-58485fb7530e/h44",
+          "logo2x": "https://dlcdnwebimgs.asus.com/gain/9607c6ea-cc21-4a18-ac69-58485fb7530e/"
+        }
+      }
+    ],
+    "Buy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "ManualBuy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "WhereToBuy": {
+      "WTBText": "Dónde comprar",
+      "WTBFlag": 0,
+      "WTBLink": ""
+    },
+    "FindNearBy": {
+      "FindNearByText": "Encuentra una tienda",
+      "FindNearByFlag": 0
+    },
+    "VolumePurchase": {
+      "Level1Name": "",
+      "Text": "Volume purchase",
+      "Link": "https://www.connect.asus.com/ar/VolumePurchase",
+      "linkTarget": "_blank"
+    },
+    "LearnMore": "Más información",
+    "Compare": "Comparar",
+    "SeeMore": "Ver más",
+    "SeeLess": "Ver menos",
+    "ExternalID": "",
+    "ProductID": "23974",
+    "RealProductID": 23974,
+    "M1Id": 23974,
+    "ProductHashedID": "psfwym78qgjl7nin",
+    "PartNo": "",
+    "NewFlag": "0",
+    "DataRow": 10,
+    "ModelBaseFlag": 1,
+    "SpecFlag": 1,
+    "LowestPriceInNDayPeriod": "el precio más bajo en el periodo de 30 días anterior a la introducción del descuento",
+    "SubTagline": "",
+    "Tooltip": "",
+    "ReviewFlag": 0,
+    "HistoricLowPrice": "",
+    "SortPrice": "",
+    "StockStatus": "",
+    "SalesModelName": ""
+  },
+  {
+    "SourceType": "prod",
+    "GetURLFlag": 0,
+    "isRogFlag": 0,
+    "Level1ID": 4,
+    "ProductURL": "https://www.asus.com/ar/motherboards-components/power-supply-units/prime/ap-850g/",
+    "ProductCardURL": "https://www.asus.com/ar/motherboards-components/power-supply-units/prime/ap-850g/",
+    "CustomizeTag": {
+      "Enabled": false,
+      "Text": ""
+    },
+    "LeftHeader": {
+      "NewsFlag": "N",
+      "DealFlag": "N",
+      "NewsFlagWording": "Nuevo",
+      "DealFlagWording": "OFERTA"
+    },
+    "RightHeader": [],
+    "ProductImage": "",
+    "Size": "",
+    "Level1Path": "Motherboards-Components",
+    "Level2Path": "Power-Supply-Units",
+    "Level3Path": "PRIME",
+    "CategoryName": "850W",
+    "SubSeriesName": "",
+    "PDWebPath": "AP-850G",
+    "Name": "<h2>ASUS Prime 850W Gold</h2>",
+    "ReviewStar": "4.5",
+    "ReviewCount": 100,
+    "StartingAtWording": "El precio de la ASUS store es a partir de",
+    "Estore": "Precio de la ASUS store",
+    "PDCardSafety": "El precio de la ASUS store es el precio de un producto proporcionado por la ASUS store. Las especificaciones no incluidas aquí podrían no estar disponibles en la eStore y solo están como referencia.",
+    "PDCardSafety2": "",
+    "PriceLineColor": "#CCCCCC",
+    "PriceColor": "#181818",
+    "Price": "",
+    "Discount": "",
+    "DiscountColor": "#c74200",
+    "DiscountFlag": "",
+    "DiscountWording": "Guardar",
+    "RegularPrice": "",
+    "StartTimeWording": "",
+    "StartTime": "",
+    "EndTimeWording": "",
+    "EndTime": "",
+    "Notice": "",
+    "ShippingHint": "",
+    "ModelSpec": "La fuente de poder ASUS Prime 850W Gold brinda una entrega de energía eficiente y duradera para PC y equipos de juego completos",
+    "ProductOnlineDt": "2023-07-06 18:23:00",
+    "ImageList": [
+      {
+        "DefaultFlag": "Y",
+        "ColorCode": "XXXX",
+        "ColorName": "",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/60d0235d-e3ac-48aa-9baa-ce76a322f979/w185",
+          "https://dlcdnwebimgs.asus.com/gain/174c8dab-57be-4501-b096-92d667f52cbf/w185",
+          "https://dlcdnwebimgs.asus.com/gain/b11f172d-424e-4707-8779-43d173479c0b/w185"
+        ]
+      }
+    ],
+    "ProductLogo": [
+      {
+        "LogoLink": "",
+        "LogoAlt": "",
+        "LogoImageURL": {
+          "logo1x": "https://dlcdnwebimgs.asus.com/gain/b4bc0eed-5f97-46a1-9c82-959034bf741d/h44",
+          "logo2x": "https://dlcdnwebimgs.asus.com/gain/b4bc0eed-5f97-46a1-9c82-959034bf741d/"
+        }
+      },
+      {
+        "LogoLink": "",
+        "LogoAlt": "",
+        "LogoImageURL": {
+          "logo1x": "https://dlcdnwebimgs.asus.com/gain/9607c6ea-cc21-4a18-ac69-58485fb7530e/h44",
+          "logo2x": "https://dlcdnwebimgs.asus.com/gain/9607c6ea-cc21-4a18-ac69-58485fb7530e/"
+        }
+      }
+    ],
+    "Buy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "ManualBuy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "WhereToBuy": {
+      "WTBText": "Dónde comprar",
+      "WTBFlag": 0,
+      "WTBLink": ""
+    },
+    "FindNearBy": {
+      "FindNearByText": "Encuentra una tienda",
+      "FindNearByFlag": 0
+    },
+    "VolumePurchase": {
+      "Level1Name": "",
+      "Text": "Volume purchase",
+      "Link": "https://www.connect.asus.com/ar/VolumePurchase",
+      "linkTarget": "_blank"
+    },
+    "LearnMore": "Más información",
+    "Compare": "Comparar",
+    "SeeMore": "Ver más",
+    "SeeLess": "Ver menos",
+    "ExternalID": "",
+    "ProductID": "23681",
+    "RealProductID": 23681,
+    "M1Id": 23681,
+    "ProductHashedID": "20g8mr7pkuddvize",
+    "PartNo": "",
+    "NewFlag": "0",
+    "DataRow": 9,
+    "ModelBaseFlag": 1,
+    "SpecFlag": 1,
+    "LowestPriceInNDayPeriod": "el precio más bajo en el periodo de 30 días anterior a la introducción del descuento",
+    "SubTagline": "",
+    "Tooltip": "",
+    "ReviewFlag": 0,
+    "HistoricLowPrice": "",
+    "SortPrice": "",
+    "StockStatus": "",
+    "SalesModelName": ""
+  },
+  {
+    "SourceType": "prod",
+    "GetURLFlag": 0,
+    "isRogFlag": 0,
+    "Level1ID": 4,
+    "ProductURL": "https://www.asus.com/ar/motherboards-components/power-supply-units/prime/ap-750g/",
+    "ProductCardURL": "https://www.asus.com/ar/motherboards-components/power-supply-units/prime/ap-750g/",
+    "CustomizeTag": {
+      "Enabled": false,
+      "Text": ""
+    },
+    "LeftHeader": {
+      "NewsFlag": "N",
+      "DealFlag": "N",
+      "NewsFlagWording": "Nuevo",
+      "DealFlagWording": "OFERTA"
+    },
+    "RightHeader": [],
+    "ProductImage": "",
+    "Size": "",
+    "Level1Path": "Motherboards-Components",
+    "Level2Path": "Power-Supply-Units",
+    "Level3Path": "PRIME",
+    "CategoryName": "750W",
+    "SubSeriesName": "",
+    "PDWebPath": "AP-750G",
+    "Name": "<h2>ASUS Prime 750W Gold</h2>",
+    "ReviewStar": "4.5",
+    "ReviewCount": 100,
+    "StartingAtWording": "El precio de la ASUS store es a partir de",
+    "Estore": "Precio de la ASUS store",
+    "PDCardSafety": "El precio de la ASUS store es el precio de un producto proporcionado por la ASUS store. Las especificaciones no incluidas aquí podrían no estar disponibles en la eStore y solo están como referencia.",
+    "PDCardSafety2": "",
+    "PriceLineColor": "#CCCCCC",
+    "PriceColor": "#181818",
+    "Price": "",
+    "Discount": "",
+    "DiscountColor": "#c74200",
+    "DiscountFlag": "",
+    "DiscountWording": "Guardar",
+    "RegularPrice": "",
+    "StartTimeWording": "",
+    "StartTime": "",
+    "EndTimeWording": "",
+    "EndTime": "",
+    "Notice": "",
+    "ShippingHint": "",
+    "ModelSpec": "La fuente de poder ASUS Prime 750W Gold brinda una entrega de energía eficiente y duradera para PC y equipos de juego completos",
+    "ProductOnlineDt": "2023-07-06 18:22:00",
+    "ImageList": [
+      {
+        "DefaultFlag": "Y",
+        "ColorCode": "XXXX",
+        "ColorName": "",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/a2cc5ec3-13f4-41e3-bf8d-360f4b502715/w185",
+          "https://dlcdnwebimgs.asus.com/gain/51d9ba4d-3da9-4ce5-8712-104cd5d4cf40/w185",
+          "https://dlcdnwebimgs.asus.com/gain/588b4fd0-346e-462f-8052-ad947ae3929b/w185"
+        ]
+      }
+    ],
+    "ProductLogo": [
+      {
+        "LogoLink": "",
+        "LogoAlt": "",
+        "LogoImageURL": {
+          "logo1x": "https://dlcdnwebimgs.asus.com/gain/b4bc0eed-5f97-46a1-9c82-959034bf741d/h44",
+          "logo2x": "https://dlcdnwebimgs.asus.com/gain/b4bc0eed-5f97-46a1-9c82-959034bf741d/"
+        }
+      },
+      {
+        "LogoLink": "",
+        "LogoAlt": "",
+        "LogoImageURL": {
+          "logo1x": "https://dlcdnwebimgs.asus.com/gain/9607c6ea-cc21-4a18-ac69-58485fb7530e/h44",
+          "logo2x": "https://dlcdnwebimgs.asus.com/gain/9607c6ea-cc21-4a18-ac69-58485fb7530e/"
+        }
+      }
+    ],
+    "Buy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "ManualBuy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "WhereToBuy": {
+      "WTBText": "Dónde comprar",
+      "WTBFlag": 0,
+      "WTBLink": ""
+    },
+    "FindNearBy": {
+      "FindNearByText": "Encuentra una tienda",
+      "FindNearByFlag": 0
+    },
+    "VolumePurchase": {
+      "Level1Name": "",
+      "Text": "Volume purchase",
+      "Link": "https://www.connect.asus.com/ar/VolumePurchase",
+      "linkTarget": "_blank"
+    },
+    "LearnMore": "Más información",
+    "Compare": "Comparar",
+    "SeeMore": "Ver más",
+    "SeeLess": "Ver menos",
+    "ExternalID": "",
+    "ProductID": "23680",
+    "RealProductID": 23680,
+    "M1Id": 23680,
+    "ProductHashedID": "5ytzdwdjcclkcaw2",
+    "PartNo": "",
+    "NewFlag": "0",
+    "DataRow": 8,
+    "ModelBaseFlag": 1,
+    "SpecFlag": 1,
+    "LowestPriceInNDayPeriod": "el precio más bajo en el periodo de 30 días anterior a la introducción del descuento",
+    "SubTagline": "",
+    "Tooltip": "",
+    "ReviewFlag": 0,
+    "HistoricLowPrice": "",
+    "SortPrice": "",
+    "StockStatus": "",
+    "SalesModelName": ""
+  },
+  {
+    "SourceType": "prod",
+    "GetURLFlag": 0,
+    "isRogFlag": 0,
+    "Level1ID": 4,
+    "ProductURL": "https://www.asus.com/ar/motherboards-components/power-supply-units/tuf-gaming/tuf-gaming-1200g/",
+    "ProductCardURL": "https://www.asus.com/ar/motherboards-components/power-supply-units/tuf-gaming/tuf-gaming-1200g/",
+    "CustomizeTag": {
+      "Enabled": false,
+      "Text": ""
+    },
+    "LeftHeader": {
+      "NewsFlag": "N",
+      "DealFlag": "N",
+      "NewsFlagWording": "Nuevo",
+      "DealFlagWording": "OFERTA"
+    },
+    "RightHeader": [],
+    "ProductImage": "",
+    "Size": "",
+    "Level1Path": "Motherboards-Components",
+    "Level2Path": "Power-Supply-Units",
+    "Level3Path": "TUF-Gaming",
+    "CategoryName": "1200W",
+    "SubSeriesName": "",
+    "PDWebPath": "TUF-GAMING-1200G",
+    "Name": "<h2>TUF Gaming 1200W Gold</h2>",
+    "ReviewStar": "4.5",
+    "ReviewCount": 100,
+    "StartingAtWording": "El precio de la ASUS store es a partir de",
+    "Estore": "Precio de la ASUS store",
+    "PDCardSafety": "El precio de la ASUS store es el precio de un producto proporcionado por la ASUS store. Las especificaciones no incluidas aquí podrían no estar disponibles en la eStore y solo están como referencia.",
+    "PDCardSafety2": "",
+    "PriceLineColor": "#CCCCCC",
+    "PriceColor": "#181818",
+    "Price": "",
+    "Discount": "",
+    "DiscountColor": "#c74200",
+    "DiscountFlag": "",
+    "DiscountWording": "Guardar",
+    "RegularPrice": "",
+    "StartTimeWording": "",
+    "StartTime": "",
+    "EndTimeWording": "",
+    "EndTime": "",
+    "Notice": "",
+    "ShippingHint": "",
+    "ModelSpec": "La TUF Gaming 1200W Gold es una fuente de alimentación eficiente, resistente y fiable, diseñada para el largo plazo.",
+    "ProductOnlineDt": "2022-12-22 16:22:00",
+    "ImageList": [
+      {
+        "DefaultFlag": "Y",
+        "ColorCode": "XXXX",
+        "ColorName": "",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/3a9629c4-8859-43bf-9271-8e7aa4a51d6e/w185",
+          "https://dlcdnwebimgs.asus.com/gain/0b8a8ef9-363f-4b54-9f0a-4e96e4da4ebe/w185",
+          "https://dlcdnwebimgs.asus.com/gain/c20ef367-57ff-4ac7-90fa-4a45c1ac8e0a/w185"
+        ]
+      }
+    ],
+    "ProductLogo": [
+      {
+        "LogoLink": "",
+        "LogoAlt": "",
+        "LogoImageURL": {
+          "logo1x": "https://dlcdnwebimgs.asus.com/gain/b4bc0eed-5f97-46a1-9c82-959034bf741d/h44",
+          "logo2x": "https://dlcdnwebimgs.asus.com/gain/b4bc0eed-5f97-46a1-9c82-959034bf741d/"
+        }
+      },
+      {
+        "LogoLink": "",
+        "LogoAlt": "",
+        "LogoImageURL": {
+          "logo1x": "https://dlcdnwebimgs.asus.com/gain/9607c6ea-cc21-4a18-ac69-58485fb7530e/h44",
+          "logo2x": "https://dlcdnwebimgs.asus.com/gain/9607c6ea-cc21-4a18-ac69-58485fb7530e/"
+        }
+      }
+    ],
+    "Buy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "ManualBuy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "WhereToBuy": {
+      "WTBText": "Dónde comprar",
+      "WTBFlag": 0,
+      "WTBLink": ""
+    },
+    "FindNearBy": {
+      "FindNearByText": "Encuentra una tienda",
+      "FindNearByFlag": 0
+    },
+    "VolumePurchase": {
+      "Level1Name": "",
+      "Text": "Volume purchase",
+      "Link": "https://www.connect.asus.com/ar/VolumePurchase",
+      "linkTarget": "_blank"
+    },
+    "LearnMore": "Más información",
+    "Compare": "Comparar",
+    "SeeMore": "Ver más",
+    "SeeLess": "Ver menos",
+    "ExternalID": "",
+    "ProductID": "20973",
+    "RealProductID": 20973,
+    "M1Id": 20973,
+    "ProductHashedID": "a12a77e67dd843d7",
+    "PartNo": "",
+    "NewFlag": "0",
+    "DataRow": 7,
+    "ModelBaseFlag": 1,
+    "SpecFlag": 1,
+    "LowestPriceInNDayPeriod": "el precio más bajo en el periodo de 30 días anterior a la introducción del descuento",
+    "SubTagline": "",
+    "Tooltip": "",
+    "ReviewFlag": 0,
+    "HistoricLowPrice": "",
+    "SortPrice": "",
+    "StockStatus": "",
+    "SalesModelName": ""
+  },
+  {
+    "SourceType": "prod",
+    "GetURLFlag": 0,
+    "isRogFlag": 0,
+    "Level1ID": 4,
+    "ProductURL": "https://www.asus.com/ar/motherboards-components/power-supply-units/tuf-gaming/tuf-gaming-850g/",
+    "ProductCardURL": "https://www.asus.com/ar/motherboards-components/power-supply-units/tuf-gaming/tuf-gaming-850g/",
+    "CustomizeTag": {
+      "Enabled": false,
+      "Text": ""
+    },
+    "LeftHeader": {
+      "NewsFlag": "N",
+      "DealFlag": "N",
+      "NewsFlagWording": "Nuevo",
+      "DealFlagWording": "OFERTA"
+    },
+    "RightHeader": [],
+    "ProductImage": "",
+    "Size": "",
+    "Level1Path": "Motherboards-Components",
+    "Level2Path": "Power-Supply-Units",
+    "Level3Path": "TUF-Gaming",
+    "CategoryName": "850W",
+    "SubSeriesName": "",
+    "PDWebPath": "TUF-GAMING-850G",
+    "Name": "<h2>TUF Gaming 850W Gold</h2>",
+    "ReviewStar": "4.5",
+    "ReviewCount": 100,
+    "StartingAtWording": "El precio de la ASUS store es a partir de",
+    "Estore": "Precio de la ASUS store",
+    "PDCardSafety": "El precio de la ASUS store es el precio de un producto proporcionado por la ASUS store. Las especificaciones no incluidas aquí podrían no estar disponibles en la eStore y solo están como referencia.",
+    "PDCardSafety2": "",
+    "PriceLineColor": "#CCCCCC",
+    "PriceColor": "#181818",
+    "Price": "",
+    "Discount": "",
+    "DiscountColor": "#c74200",
+    "DiscountFlag": "",
+    "DiscountWording": "Guardar",
+    "RegularPrice": "",
+    "StartTimeWording": "",
+    "StartTime": "",
+    "EndTimeWording": "",
+    "EndTime": "",
+    "Notice": "",
+    "ShippingHint": "",
+    "ModelSpec": "La TUF Gaming 850W Gold es una fuente de poder eficiente, resistente y confiable que está diseñada para el largo plazo.",
+    "ProductOnlineDt": "2022-09-20 15:14:00",
+    "ImageList": [
+      {
+        "DefaultFlag": "Y",
+        "ColorCode": "XXXX",
+        "ColorName": "",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/233610a2-269c-4657-840f-8c0dd7cc919c/w185",
+          "https://dlcdnwebimgs.asus.com/gain/dba22898-beaa-4917-887f-59c5db4d2df4/w185",
+          "https://dlcdnwebimgs.asus.com/gain/f177c8b4-2f99-415f-8477-12df46a47c27/w185"
+        ]
+      }
+    ],
+    "ProductLogo": [
+      {
+        "LogoLink": "",
+        "LogoAlt": "",
+        "LogoImageURL": {
+          "logo1x": "https://dlcdnwebimgs.asus.com/gain/b4bc0eed-5f97-46a1-9c82-959034bf741d/h44",
+          "logo2x": "https://dlcdnwebimgs.asus.com/gain/b4bc0eed-5f97-46a1-9c82-959034bf741d/"
+        }
+      },
+      {
+        "LogoLink": "",
+        "LogoAlt": "",
+        "LogoImageURL": {
+          "logo1x": "https://dlcdnwebimgs.asus.com/gain/9607c6ea-cc21-4a18-ac69-58485fb7530e/h44",
+          "logo2x": "https://dlcdnwebimgs.asus.com/gain/9607c6ea-cc21-4a18-ac69-58485fb7530e/"
+        }
+      }
+    ],
+    "Buy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "ManualBuy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "WhereToBuy": {
+      "WTBText": "Dónde comprar",
+      "WTBFlag": 0,
+      "WTBLink": ""
+    },
+    "FindNearBy": {
+      "FindNearByText": "Encuentra una tienda",
+      "FindNearByFlag": 0
+    },
+    "VolumePurchase": {
+      "Level1Name": "",
+      "Text": "Volume purchase",
+      "Link": "https://www.connect.asus.com/ar/VolumePurchase",
+      "linkTarget": "_blank"
+    },
+    "LearnMore": "Más información",
+    "Compare": "Comparar",
+    "SeeMore": "Ver más",
+    "SeeLess": "Ver menos",
+    "ExternalID": "",
+    "ProductID": "20971",
+    "RealProductID": 20971,
+    "M1Id": 20971,
+    "ProductHashedID": "9f71f59fe0854fd6",
+    "PartNo": "",
+    "NewFlag": "0",
+    "DataRow": 5,
+    "ModelBaseFlag": 1,
+    "SpecFlag": 1,
+    "LowestPriceInNDayPeriod": "el precio más bajo en el periodo de 30 días anterior a la introducción del descuento",
+    "SubTagline": "",
+    "Tooltip": "",
+    "ReviewFlag": 0,
+    "HistoricLowPrice": "",
+    "SortPrice": "",
+    "StockStatus": "",
+    "SalesModelName": ""
+  },
+  {
+    "SourceType": "prod",
+    "GetURLFlag": 0,
+    "isRogFlag": 0,
+    "Level1ID": 4,
+    "ProductURL": "https://www.asus.com/ar/motherboards-components/power-supply-units/tuf-gaming/tuf-gaming-750g/",
+    "ProductCardURL": "https://www.asus.com/ar/motherboards-components/power-supply-units/tuf-gaming/tuf-gaming-750g/",
+    "CustomizeTag": {
+      "Enabled": false,
+      "Text": ""
+    },
+    "LeftHeader": {
+      "NewsFlag": "N",
+      "DealFlag": "N",
+      "NewsFlagWording": "Nuevo",
+      "DealFlagWording": "OFERTA"
+    },
+    "RightHeader": [],
+    "ProductImage": "",
+    "Size": "",
+    "Level1Path": "Motherboards-Components",
+    "Level2Path": "Power-Supply-Units",
+    "Level3Path": "TUF-Gaming",
+    "CategoryName": "750W",
+    "SubSeriesName": "",
+    "PDWebPath": "TUF-GAMING-750G",
+    "Name": "<h2>TUF Gaming 750W Gold</h2>",
+    "ReviewStar": "4.5",
+    "ReviewCount": 100,
+    "StartingAtWording": "El precio de la ASUS store es a partir de",
+    "Estore": "Precio de la ASUS store",
+    "PDCardSafety": "El precio de la ASUS store es el precio de un producto proporcionado por la ASUS store. Las especificaciones no incluidas aquí podrían no estar disponibles en la eStore y solo están como referencia.",
+    "PDCardSafety2": "",
+    "PriceLineColor": "#CCCCCC",
+    "PriceColor": "#181818",
+    "Price": "",
+    "Discount": "",
+    "DiscountColor": "#c74200",
+    "DiscountFlag": "",
+    "DiscountWording": "Guardar",
+    "RegularPrice": "",
+    "StartTimeWording": "",
+    "StartTime": "",
+    "EndTimeWording": "",
+    "EndTime": "",
+    "Notice": "",
+    "ShippingHint": "",
+    "ModelSpec": "La TUF Gaming 750W Gold es una fuente de poder eficiente, resistente y confiable que está diseñada para el largo plazo.",
+    "ProductOnlineDt": "2022-09-20 15:14:00",
+    "ImageList": [
+      {
+        "DefaultFlag": "Y",
+        "ColorCode": "XXXX",
+        "ColorName": "",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/d38ef86f-6abf-45ed-a19b-fb76f98f2e0a/w185",
+          "https://dlcdnwebimgs.asus.com/gain/3ed27aea-f2f6-42a0-8372-9cbb8daf8c99/w185",
+          "https://dlcdnwebimgs.asus.com/gain/bc39f9a2-aae7-4412-80d1-93ee40f1b50d/w185"
+        ]
+      }
+    ],
+    "ProductLogo": [
+      {
+        "LogoLink": "",
+        "LogoAlt": "",
+        "LogoImageURL": {
+          "logo1x": "https://dlcdnwebimgs.asus.com/gain/b4bc0eed-5f97-46a1-9c82-959034bf741d/h44",
+          "logo2x": "https://dlcdnwebimgs.asus.com/gain/b4bc0eed-5f97-46a1-9c82-959034bf741d/"
+        }
+      },
+      {
+        "LogoLink": "",
+        "LogoAlt": "",
+        "LogoImageURL": {
+          "logo1x": "https://dlcdnwebimgs.asus.com/gain/9607c6ea-cc21-4a18-ac69-58485fb7530e/h44",
+          "logo2x": "https://dlcdnwebimgs.asus.com/gain/9607c6ea-cc21-4a18-ac69-58485fb7530e/"
+        }
+      }
+    ],
+    "Buy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "ManualBuy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "WhereToBuy": {
+      "WTBText": "Dónde comprar",
+      "WTBFlag": 0,
+      "WTBLink": ""
+    },
+    "FindNearBy": {
+      "FindNearByText": "Encuentra una tienda",
+      "FindNearByFlag": 0
+    },
+    "VolumePurchase": {
+      "Level1Name": "",
+      "Text": "Volume purchase",
+      "Link": "https://www.connect.asus.com/ar/VolumePurchase",
+      "linkTarget": "_blank"
+    },
+    "LearnMore": "Más información",
+    "Compare": "Comparar",
+    "SeeMore": "Ver más",
+    "SeeLess": "Ver menos",
+    "ExternalID": "",
+    "ProductID": "20970",
+    "RealProductID": 20970,
+    "M1Id": 20970,
+    "ProductHashedID": "4797f250fe6b4bf8",
+    "PartNo": "",
+    "NewFlag": "0",
+    "DataRow": 4,
+    "ModelBaseFlag": 1,
+    "SpecFlag": 1,
+    "LowestPriceInNDayPeriod": "el precio más bajo en el periodo de 30 días anterior a la introducción del descuento",
+    "SubTagline": "",
+    "Tooltip": "",
+    "ReviewFlag": 0,
+    "HistoricLowPrice": "",
+    "SortPrice": "",
+    "StockStatus": "",
+    "SalesModelName": ""
+  },
+  {
+    "SourceType": "prod",
+    "GetURLFlag": 0,
+    "isRogFlag": 0,
+    "Level1ID": 4,
+    "ProductURL": "https://www.asus.com/ar/motherboards-components/power-supply-units/tuf-gaming/tuf-gaming-1000g/",
+    "ProductCardURL": "https://www.asus.com/ar/motherboards-components/power-supply-units/tuf-gaming/tuf-gaming-1000g/",
+    "CustomizeTag": {
+      "Enabled": false,
+      "Text": ""
+    },
+    "LeftHeader": {
+      "NewsFlag": "N",
+      "DealFlag": "N",
+      "NewsFlagWording": "Nuevo",
+      "DealFlagWording": "OFERTA"
+    },
+    "RightHeader": [],
+    "ProductImage": "",
+    "Size": "",
+    "Level1Path": "Motherboards-Components",
+    "Level2Path": "Power-Supply-Units",
+    "Level3Path": "TUF-Gaming",
+    "CategoryName": "1000W",
+    "SubSeriesName": "",
+    "PDWebPath": "TUF-GAMING-1000G",
+    "Name": "<h2>TUF Gaming 1000W Gold</h2>",
+    "ReviewStar": "4.5",
+    "ReviewCount": 100,
+    "StartingAtWording": "El precio de la ASUS store es a partir de",
+    "Estore": "Precio de la ASUS store",
+    "PDCardSafety": "El precio de la ASUS store es el precio de un producto proporcionado por la ASUS store. Las especificaciones no incluidas aquí podrían no estar disponibles en la eStore y solo están como referencia.",
+    "PDCardSafety2": "",
+    "PriceLineColor": "#CCCCCC",
+    "PriceColor": "#181818",
+    "Price": "",
+    "Discount": "",
+    "DiscountColor": "#c74200",
+    "DiscountFlag": "",
+    "DiscountWording": "Guardar",
+    "RegularPrice": "",
+    "StartTimeWording": "",
+    "StartTime": "",
+    "EndTimeWording": "",
+    "EndTime": "",
+    "Notice": "",
+    "ShippingHint": "",
+    "ModelSpec": "La TUF Gaming 1000W Gold es una fuente de poder eficiente, resistente y confiable que está diseñada para el largo plazo.",
+    "ProductOnlineDt": "2022-09-20 15:14:00",
+    "ImageList": [
+      {
+        "DefaultFlag": "Y",
+        "ColorCode": "XXXX",
+        "ColorName": "",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/8fbfebd6-e0e7-4f6b-8bef-51f6c66dfe44/w185",
+          "https://dlcdnwebimgs.asus.com/gain/2e1b0ba8-af23-4ba4-8d70-c0136f1fafdf/w185",
+          "https://dlcdnwebimgs.asus.com/gain/be06d373-ce28-4d43-8eb4-f81f6a1d0471/w185"
+        ]
+      }
+    ],
+    "ProductLogo": [
+      {
+        "LogoLink": "",
+        "LogoAlt": "",
+        "LogoImageURL": {
+          "logo1x": "https://dlcdnwebimgs.asus.com/gain/b4bc0eed-5f97-46a1-9c82-959034bf741d/h44",
+          "logo2x": "https://dlcdnwebimgs.asus.com/gain/b4bc0eed-5f97-46a1-9c82-959034bf741d/"
+        }
+      },
+      {
+        "LogoLink": "",
+        "LogoAlt": "",
+        "LogoImageURL": {
+          "logo1x": "https://dlcdnwebimgs.asus.com/gain/9607c6ea-cc21-4a18-ac69-58485fb7530e/h44",
+          "logo2x": "https://dlcdnwebimgs.asus.com/gain/9607c6ea-cc21-4a18-ac69-58485fb7530e/"
+        }
+      }
+    ],
+    "Buy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "ManualBuy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "WhereToBuy": {
+      "WTBText": "Dónde comprar",
+      "WTBFlag": 0,
+      "WTBLink": ""
+    },
+    "FindNearBy": {
+      "FindNearByText": "Encuentra una tienda",
+      "FindNearByFlag": 0
+    },
+    "VolumePurchase": {
+      "Level1Name": "",
+      "Text": "Volume purchase",
+      "Link": "https://www.connect.asus.com/ar/VolumePurchase",
+      "linkTarget": "_blank"
+    },
+    "LearnMore": "Más información",
+    "Compare": "Comparar",
+    "SeeMore": "Ver más",
+    "SeeLess": "Ver menos",
+    "ExternalID": "",
+    "ProductID": "20972",
+    "RealProductID": 20972,
+    "M1Id": 20972,
+    "ProductHashedID": "7496e8bb614a451f",
+    "PartNo": "",
+    "NewFlag": "0",
+    "DataRow": 6,
+    "ModelBaseFlag": 1,
+    "SpecFlag": 1,
+    "LowestPriceInNDayPeriod": "el precio más bajo en el periodo de 30 días anterior a la introducción del descuento",
+    "SubTagline": "",
+    "Tooltip": "",
+    "ReviewFlag": 0,
+    "HistoricLowPrice": "",
+    "SortPrice": "",
+    "StockStatus": "",
+    "SalesModelName": ""
+  },
+  {
+    "SourceType": "prod",
+    "GetURLFlag": 0,
+    "isRogFlag": 0,
+    "Level1ID": 4,
+    "ProductURL": "https://www.asus.com/ar/motherboards-components/power-supply-units/tuf-gaming/tuf-gaming-750b/",
+    "ProductCardURL": "https://www.asus.com/ar/motherboards-components/power-supply-units/tuf-gaming/tuf-gaming-750b/",
+    "CustomizeTag": {
+      "Enabled": false,
+      "Text": ""
+    },
+    "LeftHeader": {
+      "NewsFlag": "N",
+      "DealFlag": "N",
+      "NewsFlagWording": "Nuevo",
+      "DealFlagWording": "OFERTA"
+    },
+    "RightHeader": [],
+    "ProductImage": "",
+    "Size": "",
+    "Level1Path": "Motherboards-Components",
+    "Level2Path": "Power-Supply-Units",
+    "Level3Path": "TUF-Gaming",
+    "CategoryName": "750W",
+    "SubSeriesName": "",
+    "PDWebPath": "TUF-GAMING-750B",
+    "Name": "<h2>TUF Gaming 750W Bronze</h2>",
+    "ReviewStar": "4.5",
+    "ReviewCount": 100,
+    "StartingAtWording": "El precio de la ASUS store es a partir de",
+    "Estore": "Precio de la ASUS store",
+    "PDCardSafety": "El precio de la ASUS store es el precio de un producto proporcionado por la ASUS store. Las especificaciones no incluidas aquí podrían no estar disponibles en la eStore y solo están como referencia.",
+    "PDCardSafety2": "",
+    "PriceLineColor": "#CCCCCC",
+    "PriceColor": "#181818",
+    "Price": "",
+    "Discount": "",
+    "DiscountColor": "#c74200",
+    "DiscountFlag": "",
+    "DiscountWording": "Guardar",
+    "RegularPrice": "",
+    "StartTimeWording": "",
+    "StartTime": "",
+    "EndTimeWording": "",
+    "EndTime": "",
+    "Notice": "",
+    "ShippingHint": "",
+    "ModelSpec": "La fuente de poder ASUS TUF Gaming 750W Bronze es líder en durabilidad.",
+    "ProductOnlineDt": "2020-09-24 10:36:00",
+    "ImageList": [
+      {
+        "DefaultFlag": "Y",
+        "ColorCode": "XXXX",
+        "ColorName": "",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/936c80d7-fc6a-4050-af0e-d0d485f791af/w185",
+          "https://dlcdnwebimgs.asus.com/gain/bb81c06e-c2bd-4cd9-93c1-a9e119d94c6e/w185",
+          "https://dlcdnwebimgs.asus.com/gain/a715eb89-ded9-4179-8aef-082f53821c9a/w185"
+        ]
+      }
+    ],
+    "ProductLogo": [],
+    "Buy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "ManualBuy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "WhereToBuy": {
+      "WTBText": "Dónde comprar",
+      "WTBFlag": 0,
+      "WTBLink": ""
+    },
+    "FindNearBy": {
+      "FindNearByText": "Encuentra una tienda",
+      "FindNearByFlag": 0
+    },
+    "VolumePurchase": {
+      "Level1Name": "",
+      "Text": "Volume purchase",
+      "Link": "https://www.connect.asus.com/ar/VolumePurchase",
+      "linkTarget": "_blank"
+    },
+    "LearnMore": "Más información",
+    "Compare": "Comparar",
+    "SeeMore": "Ver más",
+    "SeeLess": "Ver menos",
+    "ExternalID": "",
+    "ProductID": "15036",
+    "RealProductID": 15036,
+    "M1Id": 15036,
+    "ProductHashedID": "eb389ad7cdde4efe",
+    "PartNo": "",
+    "NewFlag": "0",
+    "DataRow": 3,
+    "ModelBaseFlag": 1,
+    "SpecFlag": 1,
+    "LowestPriceInNDayPeriod": "el precio más bajo en el periodo de 30 días anterior a la introducción del descuento",
+    "SubTagline": "",
+    "Tooltip": "",
+    "ReviewFlag": 0,
+    "HistoricLowPrice": "",
+    "SortPrice": "",
+    "StockStatus": "",
+    "SalesModelName": ""
+  },
+  {
+    "SourceType": "prod",
+    "GetURLFlag": 0,
+    "isRogFlag": 0,
+    "Level1ID": 4,
+    "ProductURL": "https://www.asus.com/ar/motherboards-components/power-supply-units/tuf-gaming/tuf-gaming-550b/",
+    "ProductCardURL": "https://www.asus.com/ar/motherboards-components/power-supply-units/tuf-gaming/tuf-gaming-550b/",
+    "CustomizeTag": {
+      "Enabled": false,
+      "Text": ""
+    },
+    "LeftHeader": {
+      "NewsFlag": "N",
+      "DealFlag": "N",
+      "NewsFlagWording": "Nuevo",
+      "DealFlagWording": "OFERTA"
+    },
+    "RightHeader": [],
+    "ProductImage": "",
+    "Size": "",
+    "Level1Path": "Motherboards-Components",
+    "Level2Path": "Power-Supply-Units",
+    "Level3Path": "TUF-Gaming",
+    "CategoryName": "Intel",
+    "SubSeriesName": "",
+    "PDWebPath": "TUF-GAMING-550B",
+    "Name": "<h2>TUF Gaming 550W Bronze</h2>",
+    "ReviewStar": "4.5",
+    "ReviewCount": 100,
+    "StartingAtWording": "El precio de la ASUS store es a partir de",
+    "Estore": "Precio de la ASUS store",
+    "PDCardSafety": "El precio de la ASUS store es el precio de un producto proporcionado por la ASUS store. Las especificaciones no incluidas aquí podrían no estar disponibles en la eStore y solo están como referencia.",
+    "PDCardSafety2": "",
+    "PriceLineColor": "#CCCCCC",
+    "PriceColor": "#181818",
+    "Price": "",
+    "Discount": "",
+    "DiscountColor": "#c74200",
+    "DiscountFlag": "",
+    "DiscountWording": "Guardar",
+    "RegularPrice": "",
+    "StartTimeWording": "",
+    "StartTime": "",
+    "EndTimeWording": "",
+    "EndTime": "",
+    "Notice": "",
+    "ShippingHint": "",
+    "ModelSpec": "La fuente de poder ASUS TUF Gaming 550W Bronze es líder en durabilidad.",
+    "ProductOnlineDt": "2020-09-22 10:30:00",
+    "ImageList": [
+      {
+        "DefaultFlag": "Y",
+        "ColorCode": "XXXX",
+        "ColorName": "",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/d2b0b966-a96e-44bc-83dd-2393c69bc20b/w185",
+          "https://dlcdnwebimgs.asus.com/gain/714ea064-0aa5-48a1-a423-b4adffe7f05b/w185",
+          "https://dlcdnwebimgs.asus.com/gain/f56ca712-5d1a-4405-891b-eed60ff78a25/w185"
+        ]
+      }
+    ],
+    "ProductLogo": [],
+    "Buy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "ManualBuy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "WhereToBuy": {
+      "WTBText": "Dónde comprar",
+      "WTBFlag": 0,
+      "WTBLink": ""
+    },
+    "FindNearBy": {
+      "FindNearByText": "Encuentra una tienda",
+      "FindNearByFlag": 0
+    },
+    "VolumePurchase": {
+      "Level1Name": "",
+      "Text": "Volume purchase",
+      "Link": "https://www.connect.asus.com/ar/VolumePurchase",
+      "linkTarget": "_blank"
+    },
+    "LearnMore": "Más información",
+    "Compare": "Comparar",
+    "SeeMore": "Ver más",
+    "SeeLess": "Ver menos",
+    "ExternalID": "",
+    "ProductID": "14988",
+    "RealProductID": 14988,
+    "M1Id": 14988,
+    "ProductHashedID": "ff7cd5cc64374394",
+    "PartNo": "",
+    "NewFlag": "0",
+    "DataRow": 1,
+    "ModelBaseFlag": 1,
+    "SpecFlag": 1,
+    "LowestPriceInNDayPeriod": "el precio más bajo en el periodo de 30 días anterior a la introducción del descuento",
+    "SubTagline": "",
+    "Tooltip": "",
+    "ReviewFlag": 0,
+    "HistoricLowPrice": "",
+    "SortPrice": "",
+    "StockStatus": "",
+    "SalesModelName": ""
+  },
+  {
+    "SourceType": "prod",
+    "GetURLFlag": 0,
+    "isRogFlag": 0,
+    "Level1ID": 4,
+    "ProductURL": "https://www.asus.com/ar/motherboards-components/power-supply-units/tuf-gaming/tuf-gaming-650b/",
+    "ProductCardURL": "https://www.asus.com/ar/motherboards-components/power-supply-units/tuf-gaming/tuf-gaming-650b/",
+    "CustomizeTag": {
+      "Enabled": false,
+      "Text": ""
+    },
+    "LeftHeader": {
+      "NewsFlag": "N",
+      "DealFlag": "N",
+      "NewsFlagWording": "Nuevo",
+      "DealFlagWording": "OFERTA"
+    },
+    "RightHeader": [],
+    "ProductImage": "",
+    "Size": "",
+    "Level1Path": "Motherboards-Components",
+    "Level2Path": "Power-Supply-Units",
+    "Level3Path": "TUF-Gaming",
+    "CategoryName": "Intel",
+    "SubSeriesName": "",
+    "PDWebPath": "TUF-GAMING-650B",
+    "Name": "<h2>TUF Gaming 650W Bronze</h2>",
+    "ReviewStar": "4.5",
+    "ReviewCount": 100,
+    "StartingAtWording": "El precio de la ASUS store es a partir de",
+    "Estore": "Precio de la ASUS store",
+    "PDCardSafety": "El precio de la ASUS store es el precio de un producto proporcionado por la ASUS store. Las especificaciones no incluidas aquí podrían no estar disponibles en la eStore y solo están como referencia.",
+    "PDCardSafety2": "",
+    "PriceLineColor": "#CCCCCC",
+    "PriceColor": "#181818",
+    "Price": "",
+    "Discount": "",
+    "DiscountColor": "#c74200",
+    "DiscountFlag": "",
+    "DiscountWording": "Guardar",
+    "RegularPrice": "",
+    "StartTimeWording": "",
+    "StartTime": "",
+    "EndTimeWording": "",
+    "EndTime": "",
+    "Notice": "",
+    "ShippingHint": "",
+    "ModelSpec": "La fuente de poder ASUS TUF Gaming 650W Bronze es líder en durabilidad.",
+    "ProductOnlineDt": "2020-09-22 10:28:00",
+    "ImageList": [
+      {
+        "DefaultFlag": "Y",
+        "ColorCode": "XXXX",
+        "ColorName": "",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/032f68d1-5594-4de0-80cc-f9ec078d0e7a/w185",
+          "https://dlcdnwebimgs.asus.com/gain/23144f45-f7cf-4735-bae4-73b70bbf4f0e/w185",
+          "https://dlcdnwebimgs.asus.com/gain/35c0194e-d413-41ee-a008-b21d405c6fc8/w185"
+        ]
+      }
+    ],
+    "ProductLogo": [],
+    "Buy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "ManualBuy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "WhereToBuy": {
+      "WTBText": "Dónde comprar",
+      "WTBFlag": 0,
+      "WTBLink": ""
+    },
+    "FindNearBy": {
+      "FindNearByText": "Encuentra una tienda",
+      "FindNearByFlag": 0
+    },
+    "VolumePurchase": {
+      "Level1Name": "",
+      "Text": "Volume purchase",
+      "Link": "https://www.connect.asus.com/ar/VolumePurchase",
+      "linkTarget": "_blank"
+    },
+    "LearnMore": "Más información",
+    "Compare": "Comparar",
+    "SeeMore": "Ver más",
+    "SeeLess": "Ver menos",
+    "ExternalID": "",
+    "ProductID": "14989",
+    "RealProductID": 14989,
+    "M1Id": 14989,
+    "ProductHashedID": "06221d958952436a",
+    "PartNo": "",
+    "NewFlag": "0",
+    "DataRow": 2,
+    "ModelBaseFlag": 1,
+    "SpecFlag": 1,
+    "LowestPriceInNDayPeriod": "el precio más bajo en el periodo de 30 días anterior a la introducción del descuento",
+    "SubTagline": "",
+    "Tooltip": "",
+    "ReviewFlag": 0,
+    "HistoricLowPrice": "",
+    "SortPrice": "",
+    "StockStatus": "",
+    "SalesModelName": ""
+  }
+]

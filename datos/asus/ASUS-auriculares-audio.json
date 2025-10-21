@@ -1,0 +1,3065 @@
+[
+  {
+    "SourceType": "rog",
+    "GetURLFlag": 1,
+    "isRogFlag": 1,
+    "Level1ID": 2992,
+    "ProductURL": "https://rog.asus.com/ar/headsets-audio/headsets/usb-headsets/rog-delta-s-animate-model/",
+    "ProductCardURL": "https://rog.asus.com/ar/headsets-audio/headsets/usb-headsets/rog-delta-s-animate-model/",
+    "CustomizeTag": {
+      "Enabled": false,
+      "Text": ""
+    },
+    "LeftHeader": {
+      "NewsFlag": "N",
+      "DealFlag": "N",
+      "NewsFlagWording": "Nuevo",
+      "DealFlagWording": "OFERTA"
+    },
+    "RightHeader": [],
+    "ProductImage": "",
+    "Size": "",
+    "Level1Path": "Headsets & Audio",
+    "Level2Path": "Headsets",
+    "Level3Path": "USB Headsets",
+    "CategoryName": "ROG Delta S Animate",
+    "SubSeriesName": "",
+    "PDWebPath": "",
+    "Name": "<h2>ROG Delta S Animate</h2>",
+    "ReviewStar": "0.0",
+    "ReviewCount": 0,
+    "StartingAtWording": "El precio de la ASUS store es a partir de",
+    "Estore": "Precio de la ASUS store",
+    "PDCardSafety": "El precio de la ASUS store es el precio de un producto proporcionado por la ASUS store. Las especificaciones no incluidas aquí podrían no estar disponibles en la eStore y solo están como referencia.",
+    "PDCardSafety2": "",
+    "PriceLineColor": "#CCCCCC",
+    "PriceColor": "#181818",
+    "Price": "",
+    "Discount": "",
+    "DiscountColor": "#c74200",
+    "DiscountFlag": "",
+    "DiscountWording": "Guardar",
+    "RegularPrice": "",
+    "StartTimeWording": "",
+    "StartTime": "",
+    "EndTimeWording": "",
+    "EndTime": "",
+    "Notice": "1",
+    "ShippingHint": "",
+    "ModelSpec": "Auriculares gaming ligeros USB-C<sup>®</sup> con pantalla personalizable AniMe Matrix™, Hi-Fi ESS 9281 Quad DAC™, MQA, micrófono con supresión de ruido asistida por IA, compatible con PC, PlayStation<sup>® </sup>5, Nintendo Switch™.",
+    "ProductOnlineDt": "2025-02-22 13:44:19",
+    "ImageList": [
+      {
+        "DefaultFlag": "Y",
+        "ColorCode": "XXXXX",
+        "ColorName": "",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/459EC147-E757-4C4A-92CE-23EB38B0C81D/w185"
+        ]
+      }
+    ],
+    "ProductLogo": [],
+    "Buy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "ManualBuy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "WhereToBuy": {
+      "WTBText": "Dónde comprar",
+      "WTBFlag": 0,
+      "WTBLink": ""
+    },
+    "FindNearBy": {
+      "FindNearByText": "Encuentra una tienda",
+      "FindNearByFlag": 0
+    },
+    "VolumePurchase": {
+      "Level1Name": "",
+      "Text": "Volume purchase",
+      "Link": "https://www.connect.asus.com/ar/VolumePurchase",
+      "linkTarget": "_blank"
+    },
+    "LearnMore": "Más información",
+    "Compare": "Comparar",
+    "SeeMore": "Ver más",
+    "SeeLess": "Ver menos",
+    "ExternalID": "",
+    "ProductID": "R_90YH037M-B2UA00",
+    "RealProductID": 19179,
+    "M1Id": 19179,
+    "ProductHashedID": "",
+    "PartNo": "90YH037M-B2UA00",
+    "NewFlag": "0",
+    "DataRow": 22,
+    "ModelBaseFlag": 1,
+    "SpecFlag": 1,
+    "LowestPriceInNDayPeriod": "el precio más bajo en el periodo de 30 días anterior a la introducción del descuento",
+    "SubTagline": "",
+    "Tooltip": "",
+    "ReviewFlag": 1,
+    "HistoricLowPrice": "",
+    "SortPrice": "",
+    "StockStatus": "",
+    "SalesModelName": "ROG DELTA S ANIMATE"
+  },
+  {
+    "SourceType": "rog",
+    "GetURLFlag": 1,
+    "isRogFlag": 1,
+    "Level1ID": 2992,
+    "ProductURL": "https://rog.asus.com/ar/headsets-audio/headsets/usb-headsets/rog-delta-white-edition-model/",
+    "ProductCardURL": "https://rog.asus.com/ar/headsets-audio/headsets/usb-headsets/rog-delta-white-edition-model/",
+    "CustomizeTag": {
+      "Enabled": false,
+      "Text": ""
+    },
+    "LeftHeader": {
+      "NewsFlag": "N",
+      "DealFlag": "N",
+      "NewsFlagWording": "Nuevo",
+      "DealFlagWording": "OFERTA"
+    },
+    "RightHeader": [],
+    "ProductImage": "",
+    "Size": "",
+    "Level1Path": "Headsets & Audio",
+    "Level2Path": "Headsets",
+    "Level3Path": "USB Headsets",
+    "CategoryName": "ROG Delta White Edition",
+    "SubSeriesName": "",
+    "PDWebPath": "",
+    "Name": "<h2>ROG Delta White Edition</h2>",
+    "ReviewStar": "0.0",
+    "ReviewCount": 0,
+    "StartingAtWording": "El precio de la ASUS store es a partir de",
+    "Estore": "Precio de la ASUS store",
+    "PDCardSafety": "El precio de la ASUS store es el precio de un producto proporcionado por la ASUS store. Las especificaciones no incluidas aquí podrían no estar disponibles en la eStore y solo están como referencia.",
+    "PDCardSafety2": "",
+    "PriceLineColor": "#CCCCCC",
+    "PriceColor": "#181818",
+    "Price": "",
+    "Discount": "",
+    "DiscountColor": "#c74200",
+    "DiscountFlag": "",
+    "DiscountWording": "Guardar",
+    "RegularPrice": "",
+    "StartTimeWording": "",
+    "StartTime": "",
+    "EndTimeWording": "",
+    "EndTime": "",
+    "Notice": "1",
+    "ShippingHint": "",
+    "ModelSpec": "Auriculares RGB para juegos con Hi-Res ESS Quad-DAC, efecto de iluminación RGB circular y conector USB-C para PC, PS5, consolas y juegos móviles.",
+    "ProductOnlineDt": "2025-02-22 05:10:06",
+    "ImageList": [
+      {
+        "DefaultFlag": "Y",
+        "ColorCode": "XXXXX",
+        "ColorName": "",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/5A3E1722-D327-4AF4-B846-FCA8678C99A1/w185"
+        ]
+      }
+    ],
+    "ProductLogo": [],
+    "Buy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "ManualBuy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "WhereToBuy": {
+      "WTBText": "Dónde comprar",
+      "WTBFlag": 0,
+      "WTBLink": ""
+    },
+    "FindNearBy": {
+      "FindNearByText": "Encuentra una tienda",
+      "FindNearByFlag": 0
+    },
+    "VolumePurchase": {
+      "Level1Name": "",
+      "Text": "Volume purchase",
+      "Link": "https://www.connect.asus.com/ar/VolumePurchase",
+      "linkTarget": "_blank"
+    },
+    "LearnMore": "Más información",
+    "Compare": "Comparar",
+    "SeeMore": "Ver más",
+    "SeeLess": "Ver menos",
+    "ExternalID": "",
+    "ProductID": "R_90YH02HW-B2UA00",
+    "RealProductID": 12451,
+    "M1Id": 12451,
+    "ProductHashedID": "",
+    "PartNo": "90YH02HW-B2UA00",
+    "NewFlag": "0",
+    "DataRow": 11,
+    "ModelBaseFlag": 1,
+    "SpecFlag": 1,
+    "LowestPriceInNDayPeriod": "el precio más bajo en el periodo de 30 días anterior a la introducción del descuento",
+    "SubTagline": "",
+    "Tooltip": "",
+    "ReviewFlag": 1,
+    "HistoricLowPrice": "",
+    "SortPrice": "",
+    "StockStatus": "",
+    "SalesModelName": "ROG DELTA WHITE"
+  },
+  {
+    "SourceType": "rog",
+    "GetURLFlag": 1,
+    "isRogFlag": 1,
+    "Level1ID": 2992,
+    "ProductURL": "https://rog.asus.com/ar/headsets-audio/headsets/wireless-headsets/rog-delta-s-wireless-model/",
+    "ProductCardURL": "https://rog.asus.com/ar/headsets-audio/headsets/wireless-headsets/rog-delta-s-wireless-model/",
+    "CustomizeTag": {
+      "Enabled": false,
+      "Text": ""
+    },
+    "LeftHeader": {
+      "NewsFlag": "N",
+      "DealFlag": "N",
+      "NewsFlagWording": "Nuevo",
+      "DealFlagWording": "OFERTA"
+    },
+    "RightHeader": [],
+    "ProductImage": "",
+    "Size": "",
+    "Level1Path": "Headsets & Audio",
+    "Level2Path": "Headsets",
+    "Level3Path": "Wireless Headsets",
+    "CategoryName": "ROG Delta S Wireless",
+    "SubSeriesName": "",
+    "PDWebPath": "",
+    "Name": "<h2>ROG Delta S Wireless</h2>",
+    "ReviewStar": "0.0",
+    "ReviewCount": 0,
+    "StartingAtWording": "El precio de la ASUS store es a partir de",
+    "Estore": "Precio de la ASUS store",
+    "PDCardSafety": "El precio de la ASUS store es el precio de un producto proporcionado por la ASUS store. Las especificaciones no incluidas aquí podrían no estar disponibles en la eStore y solo están como referencia.",
+    "PDCardSafety2": "",
+    "PriceLineColor": "#CCCCCC",
+    "PriceColor": "#181818",
+    "Price": "",
+    "Discount": "",
+    "DiscountColor": "#c74200",
+    "DiscountFlag": "",
+    "DiscountWording": "Guardar",
+    "RegularPrice": "",
+    "StartTimeWording": "",
+    "StartTime": "",
+    "EndTimeWording": "",
+    "EndTime": "",
+    "Notice": "1",
+    "ShippingHint": "",
+    "ModelSpec": "Auriculares inalámbricos ligeros para juegos con conectividad de 2,4 GHz y Bluetooth, controladores ASUS Essence de 50 mm, micrófonos AI Beamforming con AI Noise Cancelation, compatibles con PC, Mac, PlayStation<sup>®</sup> 5, Nintendo Switch™.",
+    "ProductOnlineDt": "2025-02-21 11:04:26",
+    "ImageList": [
+      {
+        "DefaultFlag": "Y",
+        "ColorCode": "XXXXX",
+        "ColorName": "",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/F223AA9E-DC85-421B-990A-EA07C27D19E5/w185"
+        ]
+      }
+    ],
+    "ProductLogo": [],
+    "Buy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "ManualBuy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "WhereToBuy": {
+      "WTBText": "Dónde comprar",
+      "WTBFlag": 0,
+      "WTBLink": ""
+    },
+    "FindNearBy": {
+      "FindNearByText": "Encuentra una tienda",
+      "FindNearByFlag": 0
+    },
+    "VolumePurchase": {
+      "Level1Name": "",
+      "Text": "Volume purchase",
+      "Link": "https://www.connect.asus.com/ar/VolumePurchase",
+      "linkTarget": "_blank"
+    },
+    "LearnMore": "Más información",
+    "Compare": "Comparar",
+    "SeeMore": "Ver más",
+    "SeeLess": "Ver menos",
+    "ExternalID": "",
+    "ProductID": "R_90YH03IW-B3UA00",
+    "RealProductID": 20826,
+    "M1Id": 20826,
+    "ProductHashedID": "",
+    "PartNo": "90YH03IW-B3UA00",
+    "NewFlag": "0",
+    "DataRow": 25,
+    "ModelBaseFlag": 1,
+    "SpecFlag": 1,
+    "LowestPriceInNDayPeriod": "el precio más bajo en el periodo de 30 días anterior a la introducción del descuento",
+    "SubTagline": "",
+    "Tooltip": "",
+    "ReviewFlag": 1,
+    "HistoricLowPrice": "",
+    "SortPrice": "",
+    "StockStatus": "",
+    "SalesModelName": "ROG DELTA S WIRELESS"
+  },
+  {
+    "SourceType": "rog",
+    "GetURLFlag": 1,
+    "isRogFlag": 1,
+    "Level1ID": 9697,
+    "ProductURL": "https://rog.asus.com/ar/headsets-audio/in-ear-headphone/rog-cetra-ii-core-moonlight-white-model/",
+    "ProductCardURL": "https://rog.asus.com/ar/headsets-audio/in-ear-headphone/rog-cetra-ii-core-moonlight-white-model/",
+    "CustomizeTag": {
+      "Enabled": false,
+      "Text": ""
+    },
+    "LeftHeader": {
+      "NewsFlag": "N",
+      "DealFlag": "N",
+      "NewsFlagWording": "Nuevo",
+      "DealFlagWording": "OFERTA"
+    },
+    "RightHeader": [],
+    "ProductImage": "",
+    "Size": "",
+    "Level1Path": "Headsets & Audio",
+    "Level2Path": "In-ear headphone",
+    "Level3Path": "",
+    "CategoryName": "ROG Cetra II Core Moonlight White",
+    "SubSeriesName": "",
+    "PDWebPath": "",
+    "Name": "<h2>ROG Cetra II Core Moonlight White</h2>",
+    "ReviewStar": "0.0",
+    "ReviewCount": 0,
+    "StartingAtWording": "El precio de la ASUS store es a partir de",
+    "Estore": "Precio de la ASUS store",
+    "PDCardSafety": "El precio de la ASUS store es el precio de un producto proporcionado por la ASUS store. Las especificaciones no incluidas aquí podrían no estar disponibles en la eStore y solo están como referencia.",
+    "PDCardSafety2": "",
+    "PriceLineColor": "#CCCCCC",
+    "PriceColor": "#181818",
+    "Price": "",
+    "Discount": "",
+    "DiscountColor": "#c74200",
+    "DiscountFlag": "",
+    "DiscountWording": "Guardar",
+    "RegularPrice": "",
+    "StartTimeWording": "",
+    "StartTime": "",
+    "EndTimeWording": "",
+    "EndTime": "",
+    "Notice": "1",
+    "ShippingHint": "",
+    "ModelSpec": "Auriculares in-ear para gaming ROG Cetra II Core Moonlight White con drivers ASUS Essence especialmente afinados y conector de 3,5 mm compatibles con PC, portátiles, teléfonos móviles, ROG Phone 5, PlayStation 5, Xbox Series X/S y Nintendo Switch.",
+    "ProductOnlineDt": "2025-02-21 06:04:29",
+    "ImageList": [
+      {
+        "DefaultFlag": "Y",
+        "ColorCode": "XXXXX",
+        "ColorName": "",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/A822B517-F1E6-4EB4-9F6E-0648EDF28F7D/w185"
+        ]
+      }
+    ],
+    "ProductLogo": [],
+    "Buy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "ManualBuy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "WhereToBuy": {
+      "WTBText": "Dónde comprar",
+      "WTBFlag": 0,
+      "WTBLink": ""
+    },
+    "FindNearBy": {
+      "FindNearByText": "Encuentra una tienda",
+      "FindNearByFlag": 0
+    },
+    "VolumePurchase": {
+      "Level1Name": "",
+      "Text": "Volume purchase",
+      "Link": "https://www.connect.asus.com/ar/VolumePurchase",
+      "linkTarget": "_blank"
+    },
+    "LearnMore": "Más información",
+    "Compare": "Comparar",
+    "SeeMore": "Ver más",
+    "SeeLess": "Ver menos",
+    "ExternalID": "",
+    "ProductID": "R_90YH0360-B2UA00",
+    "RealProductID": 16795,
+    "M1Id": 16795,
+    "ProductHashedID": "",
+    "PartNo": "90YH0360-B2UA00",
+    "NewFlag": "0",
+    "DataRow": 21,
+    "ModelBaseFlag": 1,
+    "SpecFlag": 1,
+    "LowestPriceInNDayPeriod": "el precio más bajo en el periodo de 30 días anterior a la introducción del descuento",
+    "SubTagline": "",
+    "Tooltip": "",
+    "ReviewFlag": 1,
+    "HistoricLowPrice": "",
+    "SortPrice": "",
+    "StockStatus": "",
+    "SalesModelName": "ROG CETRA II CORE ML"
+  },
+  {
+    "SourceType": "rog",
+    "GetURLFlag": 1,
+    "isRogFlag": 1,
+    "Level1ID": 2992,
+    "ProductURL": "https://rog.asus.com/ar/headsets-audio/headsets/3-5mm-headsets/rog-delta-s-core-model/",
+    "ProductCardURL": "https://rog.asus.com/ar/headsets-audio/headsets/3-5mm-headsets/rog-delta-s-core-model/",
+    "CustomizeTag": {
+      "Enabled": false,
+      "Text": ""
+    },
+    "LeftHeader": {
+      "NewsFlag": "N",
+      "DealFlag": "N",
+      "NewsFlagWording": "Nuevo",
+      "DealFlagWording": "OFERTA"
+    },
+    "RightHeader": [],
+    "ProductImage": "",
+    "Size": "",
+    "Level1Path": "Headsets & Audio",
+    "Level2Path": "Headsets",
+    "Level3Path": "3.5mm Headsets",
+    "CategoryName": "ROG Delta S Core",
+    "SubSeriesName": "",
+    "PDWebPath": "",
+    "Name": "<h2>ROG Delta S Core</h2>",
+    "ReviewStar": "0.0",
+    "ReviewCount": 0,
+    "StartingAtWording": "El precio de la ASUS store es a partir de",
+    "Estore": "Precio de la ASUS store",
+    "PDCardSafety": "El precio de la ASUS store es el precio de un producto proporcionado por la ASUS store. Las especificaciones no incluidas aquí podrían no estar disponibles en la eStore y solo están como referencia.",
+    "PDCardSafety2": "",
+    "PriceLineColor": "#CCCCCC",
+    "PriceColor": "#181818",
+    "Price": "",
+    "Discount": "",
+    "DiscountColor": "#c74200",
+    "DiscountFlag": "",
+    "DiscountWording": "Guardar",
+    "RegularPrice": "",
+    "StartTimeWording": "",
+    "StartTime": "",
+    "EndTimeWording": "",
+    "EndTime": "",
+    "Notice": "1",
+    "ShippingHint": "",
+    "ModelSpec": "Auriculares ligeros para juegos de 3,5 mm con controladores ASUS Essence de 50 mm, sonido envolvente 7.1 virtual, compatibles con PC, PlayStation<sup>®</sup> 5, Nintendo Switch™ y Xbox.",
+    "ProductOnlineDt": "2025-02-19 08:12:48",
+    "ImageList": [
+      {
+        "DefaultFlag": "Y",
+        "ColorCode": "XXXXX",
+        "ColorName": "",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/6AA18038-5009-46AE-8E57-46A18AFE3C89/w185"
+        ]
+      }
+    ],
+    "ProductLogo": [],
+    "Buy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "ManualBuy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "WhereToBuy": {
+      "WTBText": "Dónde comprar",
+      "WTBFlag": 0,
+      "WTBLink": ""
+    },
+    "FindNearBy": {
+      "FindNearByText": "Encuentra una tienda",
+      "FindNearByFlag": 0
+    },
+    "VolumePurchase": {
+      "Level1Name": "",
+      "Text": "Volume purchase",
+      "Link": "https://www.connect.asus.com/ar/VolumePurchase",
+      "linkTarget": "_blank"
+    },
+    "LearnMore": "Más información",
+    "Compare": "Comparar",
+    "SeeMore": "Ver más",
+    "SeeLess": "Ver menos",
+    "ExternalID": "",
+    "ProductID": "R_90YH03JC-B1UA00",
+    "RealProductID": 20825,
+    "M1Id": 20825,
+    "ProductHashedID": "",
+    "PartNo": "90YH03JC-B1UA00",
+    "NewFlag": "0",
+    "DataRow": 26,
+    "ModelBaseFlag": 1,
+    "SpecFlag": 1,
+    "LowestPriceInNDayPeriod": "el precio más bajo en el periodo de 30 días anterior a la introducción del descuento",
+    "SubTagline": "",
+    "Tooltip": "",
+    "ReviewFlag": 1,
+    "HistoricLowPrice": "",
+    "SortPrice": "",
+    "StockStatus": "",
+    "SalesModelName": "ROG DELTA S CORE"
+  },
+  {
+    "SourceType": "rog",
+    "GetURLFlag": 1,
+    "isRogFlag": 1,
+    "Level1ID": 9697,
+    "ProductURL": "https://rog.asus.com/ar/headsets-audio/in-ear-headphone/rog-cetra-true-wireless-model/",
+    "ProductCardURL": "https://rog.asus.com/ar/headsets-audio/in-ear-headphone/rog-cetra-true-wireless-model/",
+    "CustomizeTag": {
+      "Enabled": false,
+      "Text": ""
+    },
+    "LeftHeader": {
+      "NewsFlag": "N",
+      "DealFlag": "N",
+      "NewsFlagWording": "Nuevo",
+      "DealFlagWording": "OFERTA"
+    },
+    "RightHeader": [],
+    "ProductImage": "",
+    "Size": "",
+    "Level1Path": "Headsets & Audio",
+    "Level2Path": "In-ear headphone",
+    "Level3Path": "",
+    "CategoryName": "ROG Cetra True Wireless",
+    "SubSeriesName": "",
+    "PDWebPath": "",
+    "Name": "<h2>ROG Cetra True Wireless</h2>",
+    "ReviewStar": "0.0",
+    "ReviewCount": 0,
+    "StartingAtWording": "El precio de la ASUS store es a partir de",
+    "Estore": "Precio de la ASUS store",
+    "PDCardSafety": "El precio de la ASUS store es el precio de un producto proporcionado por la ASUS store. Las especificaciones no incluidas aquí podrían no estar disponibles en la eStore y solo están como referencia.",
+    "PDCardSafety2": "",
+    "PriceLineColor": "#CCCCCC",
+    "PriceColor": "#181818",
+    "Price": "",
+    "Discount": "",
+    "DiscountColor": "#c74200",
+    "DiscountFlag": "",
+    "DiscountWording": "Guardar",
+    "RegularPrice": "",
+    "StartTimeWording": "",
+    "StartTime": "",
+    "EndTimeWording": "",
+    "EndTime": "",
+    "Notice": "1",
+    "ShippingHint": "",
+    "ModelSpec": "<p>Auriculares para juegos ROG Cetra True Wireless con conexión inalámbrica de baja latencia, ANC, batería de hasta 27 horas con case de carga inalámbrica, resistencia al agua IPX4 y compatibilidad con EQ/virtual 7.1 a través de Armoury Crate.</p>",
+    "ProductOnlineDt": "2025-02-19 07:39:23",
+    "ImageList": [
+      {
+        "DefaultFlag": "Y",
+        "ColorCode": "XXXXX",
+        "ColorName": "",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/DDB1FED2-DAD2-4BB3-9F9F-7449831E0B51/w185"
+        ]
+      }
+    ],
+    "ProductLogo": [],
+    "Buy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "ManualBuy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "WhereToBuy": {
+      "WTBText": "Dónde comprar",
+      "WTBFlag": 0,
+      "WTBLink": ""
+    },
+    "FindNearBy": {
+      "FindNearByText": "Encuentra una tienda",
+      "FindNearByFlag": 0
+    },
+    "VolumePurchase": {
+      "Level1Name": "",
+      "Text": "Volume purchase",
+      "Link": "https://www.connect.asus.com/ar/VolumePurchase",
+      "linkTarget": "_blank"
+    },
+    "LearnMore": "Más información",
+    "Compare": "Comparar",
+    "SeeMore": "Ver más",
+    "SeeLess": "Ver menos",
+    "ExternalID": "",
+    "ProductID": "R_90YH03G1-B5UA00",
+    "RealProductID": 20410,
+    "M1Id": 20410,
+    "ProductHashedID": "",
+    "PartNo": "90YH03G1-B5UA00",
+    "NewFlag": "0",
+    "DataRow": 24,
+    "ModelBaseFlag": 1,
+    "SpecFlag": 1,
+    "LowestPriceInNDayPeriod": "el precio más bajo en el periodo de 30 días anterior a la introducción del descuento",
+    "SubTagline": "",
+    "Tooltip": "",
+    "ReviewFlag": 1,
+    "HistoricLowPrice": "",
+    "SortPrice": "",
+    "StockStatus": "",
+    "SalesModelName": "ROG CETRA TRUE WIRELESS"
+  },
+  {
+    "SourceType": "rog",
+    "GetURLFlag": 1,
+    "isRogFlag": 1,
+    "Level1ID": 2992,
+    "ProductURL": "https://rog.asus.com/ar/headsets-audio/headsets/usb-headsets/rog-pelta/",
+    "ProductCardURL": "https://rog.asus.com/ar/headsets-audio/headsets/usb-headsets/rog-pelta/",
+    "CustomizeTag": {
+      "Enabled": false,
+      "Text": ""
+    },
+    "LeftHeader": {
+      "NewsFlag": "N",
+      "DealFlag": "N",
+      "NewsFlagWording": "Nuevo",
+      "DealFlagWording": "OFERTA"
+    },
+    "RightHeader": [],
+    "ProductImage": "",
+    "Size": "",
+    "Level1Path": "Headsets & Audio",
+    "Level2Path": "Headsets",
+    "Level3Path": "USB Headsets",
+    "CategoryName": "ROG Pelta",
+    "SubSeriesName": "",
+    "PDWebPath": "",
+    "Name": "<h2>ROG Pelta</h2>",
+    "ReviewStar": "0.0",
+    "ReviewCount": 0,
+    "StartingAtWording": "El precio de la ASUS store es a partir de",
+    "Estore": "Precio de la ASUS store",
+    "PDCardSafety": "El precio de la ASUS store es el precio de un producto proporcionado por la ASUS store. Las especificaciones no incluidas aquí podrían no estar disponibles en la eStore y solo están como referencia.",
+    "PDCardSafety2": "",
+    "PriceLineColor": "#CCCCCC",
+    "PriceColor": "#181818",
+    "Price": "",
+    "Discount": "",
+    "DiscountColor": "#c74200",
+    "DiscountFlag": "",
+    "DiscountWording": "Guardar",
+    "RegularPrice": "",
+    "StartTimeWording": "",
+    "StartTime": "",
+    "EndTimeWording": "",
+    "EndTime": "",
+    "Notice": "1",
+    "ShippingHint": "",
+    "ModelSpec": "<p>Auriculares para juegos RGB trimodo con tecnología inalámbrica ROG SpeedNova, controladores de diafragma de 50 mm ROG chapados en titanio, firma de sonido inalámbrica refinada, micrófono boom de 10 mm de banda superancha, diseño ligero de 309 gr., además de iluminación ASUS Aura Sync RGB.</p>",
+    "ProductOnlineDt": "2025-02-19 02:57:51",
+    "ImageList": [
+      {
+        "DefaultFlag": "Y",
+        "ColorCode": "XXXXX",
+        "ColorName": "",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/7B1D87D2-A41F-445F-8802-BD7D52E0BB45/w185"
+        ]
+      }
+    ],
+    "ProductLogo": [],
+    "Buy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "ManualBuy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "WhereToBuy": {
+      "WTBText": "Dónde comprar",
+      "WTBFlag": 0,
+      "WTBLink": ""
+    },
+    "FindNearBy": {
+      "FindNearByText": "Encuentra una tienda",
+      "FindNearByFlag": 0
+    },
+    "VolumePurchase": {
+      "Level1Name": "",
+      "Text": "Volume purchase",
+      "Link": "https://www.connect.asus.com/ar/VolumePurchase",
+      "linkTarget": "_blank"
+    },
+    "LearnMore": "Más información",
+    "Compare": "Comparar",
+    "SeeMore": "Ver más",
+    "SeeLess": "Ver menos",
+    "ExternalID": "",
+    "ProductID": "R_90YH0410-BHAA00",
+    "RealProductID": 29202,
+    "M1Id": 28632,
+    "ProductHashedID": "",
+    "PartNo": "90YH0410-BHAA00",
+    "NewFlag": "0",
+    "DataRow": 28,
+    "ModelBaseFlag": 1,
+    "SpecFlag": 1,
+    "LowestPriceInNDayPeriod": "el precio más bajo en el periodo de 30 días anterior a la introducción del descuento",
+    "SubTagline": "",
+    "Tooltip": "",
+    "ReviewFlag": 1,
+    "HistoricLowPrice": "",
+    "SortPrice": "",
+    "StockStatus": "",
+    "SalesModelName": "A501 ROG PELTA/BLK"
+  },
+  {
+    "SourceType": "rog",
+    "GetURLFlag": 1,
+    "isRogFlag": 1,
+    "Level1ID": 9697,
+    "ProductURL": "https://rog.asus.com/ar/headsets-audio/in-ear-headphone/rog-cetra-true-wireless-speednova/",
+    "ProductCardURL": "https://rog.asus.com/ar/headsets-audio/in-ear-headphone/rog-cetra-true-wireless-speednova/",
+    "CustomizeTag": {
+      "Enabled": false,
+      "Text": ""
+    },
+    "LeftHeader": {
+      "NewsFlag": "N",
+      "DealFlag": "N",
+      "NewsFlagWording": "Nuevo",
+      "DealFlagWording": "OFERTA"
+    },
+    "RightHeader": [],
+    "ProductImage": "",
+    "Size": "",
+    "Level1Path": "Headsets & Audio",
+    "Level2Path": "In-ear headphone",
+    "Level3Path": "",
+    "CategoryName": "ROG Cetra True Wireless SpeedNova",
+    "SubSeriesName": "",
+    "PDWebPath": "",
+    "Name": "<h2>ROG Cetra True Wireless SpeedNova</h2>",
+    "ReviewStar": "0.0",
+    "ReviewCount": 0,
+    "StartingAtWording": "El precio de la ASUS store es a partir de",
+    "Estore": "Precio de la ASUS store",
+    "PDCardSafety": "El precio de la ASUS store es el precio de un producto proporcionado por la ASUS store. Las especificaciones no incluidas aquí podrían no estar disponibles en la eStore y solo están como referencia.",
+    "PDCardSafety2": "",
+    "PriceLineColor": "#CCCCCC",
+    "PriceColor": "#181818",
+    "Price": "",
+    "Discount": "",
+    "DiscountColor": "#c74200",
+    "DiscountFlag": "",
+    "DiscountWording": "Guardar",
+    "RegularPrice": "",
+    "StartTimeWording": "",
+    "StartTime": "",
+    "EndTimeWording": "",
+    "EndTime": "",
+    "Notice": "1",
+    "ShippingHint": "",
+    "ModelSpec": "Auriculares gaming inalámbricos Bluetooth<sup>®</sup> y 2,4 GHz con tecnología inalámbrica ROG SpeedNova, audio de 24 bits a 96 kHz y Dirac Opteo™, micrófonos con IA de conducción ósea, ANC adaptativo con modo Auto, hasta 46 horas de autonomía, Hybrid Multipoint, y soporte de iluminación ASUS Aura RGB.",
+    "ProductOnlineDt": "2025-02-18 22:07:27",
+    "ImageList": [
+      {
+        "DefaultFlag": "Y",
+        "ColorCode": "XXXXX",
+        "ColorName": "",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/51F6F5BD-6477-4573-9B67-551253E12B03/w185"
+        ]
+      }
+    ],
+    "ProductLogo": [],
+    "Buy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "ManualBuy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "WhereToBuy": {
+      "WTBText": "Dónde comprar",
+      "WTBFlag": 0,
+      "WTBLink": ""
+    },
+    "FindNearBy": {
+      "FindNearByText": "Encuentra una tienda",
+      "FindNearByFlag": 0
+    },
+    "VolumePurchase": {
+      "Level1Name": "",
+      "Text": "Volume purchase",
+      "Link": "https://www.connect.asus.com/ar/VolumePurchase",
+      "linkTarget": "_blank"
+    },
+    "LearnMore": "Más información",
+    "Compare": "Comparar",
+    "SeeMore": "Ver más",
+    "SeeLess": "Ver menos",
+    "ExternalID": "",
+    "ProductID": "R_90YH03Y0-BTAA00",
+    "RealProductID": 25577,
+    "M1Id": 25115,
+    "ProductHashedID": "",
+    "PartNo": "90YH03Y0-BTAA00",
+    "NewFlag": "0",
+    "DataRow": 27,
+    "ModelBaseFlag": 1,
+    "SpecFlag": 1,
+    "LowestPriceInNDayPeriod": "el precio más bajo en el periodo de 30 días anterior a la introducción del descuento",
+    "SubTagline": "",
+    "Tooltip": "",
+    "ReviewFlag": 1,
+    "HistoricLowPrice": "",
+    "SortPrice": "",
+    "StockStatus": "",
+    "SalesModelName": "R55ES ROG CETRA TWS SPEEDNOVA/BLK"
+  },
+  {
+    "SourceType": "rog",
+    "GetURLFlag": 1,
+    "isRogFlag": 1,
+    "Level1ID": 2992,
+    "ProductURL": "https://rog.asus.com/ar/headsets-audio/headsets/usb-headsets/rog-delta-model/",
+    "ProductCardURL": "https://rog.asus.com/ar/headsets-audio/headsets/usb-headsets/rog-delta-model/",
+    "CustomizeTag": {
+      "Enabled": false,
+      "Text": ""
+    },
+    "LeftHeader": {
+      "NewsFlag": "N",
+      "DealFlag": "N",
+      "NewsFlagWording": "Nuevo",
+      "DealFlagWording": "OFERTA"
+    },
+    "RightHeader": [],
+    "ProductImage": "",
+    "Size": "",
+    "Level1Path": "Headsets & Audio",
+    "Level2Path": "Headsets",
+    "Level3Path": "USB Headsets",
+    "CategoryName": "ROG Delta",
+    "SubSeriesName": "",
+    "PDWebPath": "",
+    "Name": "<h2>ROG Delta</h2>",
+    "ReviewStar": "0.0",
+    "ReviewCount": 0,
+    "StartingAtWording": "El precio de la ASUS store es a partir de",
+    "Estore": "Precio de la ASUS store",
+    "PDCardSafety": "El precio de la ASUS store es el precio de un producto proporcionado por la ASUS store. Las especificaciones no incluidas aquí podrían no estar disponibles en la eStore y solo están como referencia.",
+    "PDCardSafety2": "",
+    "PriceLineColor": "#CCCCCC",
+    "PriceColor": "#181818",
+    "Price": "",
+    "Discount": "",
+    "DiscountColor": "#c74200",
+    "DiscountFlag": "",
+    "DiscountWording": "Guardar",
+    "RegularPrice": "",
+    "StartTimeWording": "",
+    "StartTime": "",
+    "EndTimeWording": "",
+    "EndTime": "",
+    "Notice": "1",
+    "ShippingHint": "",
+    "ModelSpec": "Auriculares gaming con Hi-Res ESS Quad-DAC, iluminación RGB circular y conector USB-C para PC, consolas y gaming móvil",
+    "ProductOnlineDt": "2025-02-18 14:25:32",
+    "ImageList": [
+      {
+        "DefaultFlag": "Y",
+        "ColorCode": "XXXXX",
+        "ColorName": "",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/D7DAAA71-A71D-4C96-A3E7-ED2C88217668/w185"
+        ]
+      }
+    ],
+    "ProductLogo": [],
+    "Buy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "ManualBuy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "WhereToBuy": {
+      "WTBText": "Dónde comprar",
+      "WTBFlag": 0,
+      "WTBLink": ""
+    },
+    "FindNearBy": {
+      "FindNearByText": "Encuentra una tienda",
+      "FindNearByFlag": 0
+    },
+    "VolumePurchase": {
+      "Level1Name": "",
+      "Text": "Volume purchase",
+      "Link": "https://www.connect.asus.com/ar/VolumePurchase",
+      "linkTarget": "_blank"
+    },
+    "LearnMore": "Más información",
+    "Compare": "Comparar",
+    "SeeMore": "Ver más",
+    "SeeLess": "Ver menos",
+    "ExternalID": "",
+    "ProductID": "R_90YH00Z1-B2UA00",
+    "RealProductID": 10486,
+    "M1Id": 10486,
+    "ProductHashedID": "",
+    "PartNo": "90YH00Z1-B2UA00",
+    "NewFlag": "0",
+    "DataRow": 7,
+    "ModelBaseFlag": 1,
+    "SpecFlag": 1,
+    "LowestPriceInNDayPeriod": "el precio más bajo en el periodo de 30 días anterior a la introducción del descuento",
+    "SubTagline": "",
+    "Tooltip": "",
+    "ReviewFlag": 1,
+    "HistoricLowPrice": "",
+    "SortPrice": "",
+    "StockStatus": "",
+    "SalesModelName": "ROG DELTA"
+  },
+  {
+    "SourceType": "rog",
+    "GetURLFlag": 1,
+    "isRogFlag": 1,
+    "Level1ID": 2992,
+    "ProductURL": "https://rog.asus.com/ar/headsets-audio/headsets/usb-headsets/rog-delta-s-model/",
+    "ProductCardURL": "https://rog.asus.com/ar/headsets-audio/headsets/usb-headsets/rog-delta-s-model/",
+    "CustomizeTag": {
+      "Enabled": false,
+      "Text": ""
+    },
+    "LeftHeader": {
+      "NewsFlag": "N",
+      "DealFlag": "N",
+      "NewsFlagWording": "Nuevo",
+      "DealFlagWording": "OFERTA"
+    },
+    "RightHeader": [],
+    "ProductImage": "",
+    "Size": "",
+    "Level1Path": "Headsets & Audio",
+    "Level2Path": "Headsets",
+    "Level3Path": "USB Headsets",
+    "CategoryName": "ROG Delta S",
+    "SubSeriesName": "",
+    "PDWebPath": "",
+    "Name": "<h2>ROG Delta S</h2>",
+    "ReviewStar": "0.0",
+    "ReviewCount": 0,
+    "StartingAtWording": "El precio de la ASUS store es a partir de",
+    "Estore": "Precio de la ASUS store",
+    "PDCardSafety": "El precio de la ASUS store es el precio de un producto proporcionado por la ASUS store. Las especificaciones no incluidas aquí podrían no estar disponibles en la eStore y solo están como referencia.",
+    "PDCardSafety2": "",
+    "PriceLineColor": "#CCCCCC",
+    "PriceColor": "#181818",
+    "Price": "",
+    "Discount": "",
+    "DiscountColor": "#c74200",
+    "DiscountFlag": "",
+    "DiscountWording": "Guardar",
+    "RegularPrice": "",
+    "StartTimeWording": "",
+    "StartTime": "",
+    "EndTimeWording": "",
+    "EndTime": "",
+    "Notice": "1",
+    "ShippingHint": "",
+    "ModelSpec": "Auriculares ligeros USB-C para juegos con micrófono con cancelación de ruido AI, tecnología de renderizado MQA, Hi-Res ESS 9281 QUAD DAC, iluminación RGB, compatibles con PC, Nintendo Switch™ y Sony PlayStation<sup>®</sup>5.",
+    "ProductOnlineDt": "2025-02-18 14:01:55",
+    "ImageList": [
+      {
+        "DefaultFlag": "Y",
+        "ColorCode": "XXXXX",
+        "ColorName": "",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/28EFE950-BAD3-4B17-9C43-05F86CA7B6B5/w185"
+        ]
+      }
+    ],
+    "ProductLogo": [],
+    "Buy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "ManualBuy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "WhereToBuy": {
+      "WTBText": "Dónde comprar",
+      "WTBFlag": 0,
+      "WTBLink": ""
+    },
+    "FindNearBy": {
+      "FindNearByText": "Encuentra una tienda",
+      "FindNearByFlag": 0
+    },
+    "VolumePurchase": {
+      "Level1Name": "",
+      "Text": "Volume purchase",
+      "Link": "https://www.connect.asus.com/ar/VolumePurchase",
+      "linkTarget": "_blank"
+    },
+    "LearnMore": "Más información",
+    "Compare": "Comparar",
+    "SeeMore": "Ver más",
+    "SeeLess": "Ver menos",
+    "ExternalID": "",
+    "ProductID": "R_90YH02K0-B2UA00",
+    "RealProductID": 15049,
+    "M1Id": 15049,
+    "ProductHashedID": "",
+    "PartNo": "90YH02K0-B2UA00",
+    "NewFlag": "0",
+    "DataRow": 12,
+    "ModelBaseFlag": 1,
+    "SpecFlag": 1,
+    "LowestPriceInNDayPeriod": "el precio más bajo en el periodo de 30 días anterior a la introducción del descuento",
+    "SubTagline": "",
+    "Tooltip": "",
+    "ReviewFlag": 1,
+    "HistoricLowPrice": "",
+    "SortPrice": "",
+    "StockStatus": "",
+    "SalesModelName": "ROG DELTA S"
+  },
+  {
+    "SourceType": "rog",
+    "GetURLFlag": 1,
+    "isRogFlag": 1,
+    "Level1ID": 2992,
+    "ProductURL": "https://rog.asus.com/ar/headsets-audio/headsets/3-5mm-headsets/rog-strix-go-core-model/",
+    "ProductCardURL": "https://rog.asus.com/ar/headsets-audio/headsets/3-5mm-headsets/rog-strix-go-core-model/",
+    "CustomizeTag": {
+      "Enabled": false,
+      "Text": ""
+    },
+    "LeftHeader": {
+      "NewsFlag": "N",
+      "DealFlag": "N",
+      "NewsFlagWording": "Nuevo",
+      "DealFlagWording": "OFERTA"
+    },
+    "RightHeader": [],
+    "ProductImage": "",
+    "Size": "",
+    "Level1Path": "Headsets & Audio",
+    "Level2Path": "Headsets",
+    "Level3Path": "3.5mm Headsets",
+    "CategoryName": "ROG STRIX GO CORE",
+    "SubSeriesName": "",
+    "PDWebPath": "",
+    "Name": "<h2>ROG STRIX GO CORE</h2>",
+    "ReviewStar": "0.0",
+    "ReviewCount": 0,
+    "StartingAtWording": "El precio de la ASUS store es a partir de",
+    "Estore": "Precio de la ASUS store",
+    "PDCardSafety": "El precio de la ASUS store es el precio de un producto proporcionado por la ASUS store. Las especificaciones no incluidas aquí podrían no estar disponibles en la eStore y solo están como referencia.",
+    "PDCardSafety2": "",
+    "PriceLineColor": "#CCCCCC",
+    "PriceColor": "#181818",
+    "Price": "",
+    "Discount": "",
+    "DiscountColor": "#c74200",
+    "DiscountFlag": "",
+    "DiscountWording": "Guardar",
+    "RegularPrice": "",
+    "StartTimeWording": "",
+    "StartTime": "",
+    "EndTimeWording": "",
+    "EndTime": "",
+    "Notice": "1",
+    "ShippingHint": "",
+    "ModelSpec": "Los audífonos para juegos ROG Strix Go Core ofrecen audio de juego inmersivo y una comodidad increíble, y son compatibles con PC, PS4, Xbox One, Nintendo Switch y dispositivos móviles.",
+    "ProductOnlineDt": "2025-02-13 04:17:45",
+    "ImageList": [
+      {
+        "DefaultFlag": "Y",
+        "ColorCode": "XXXXX",
+        "ColorName": "",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/2FAA2882-5564-4A2A-80DA-C76BA236E933/w185"
+        ]
+      }
+    ],
+    "ProductLogo": [],
+    "Buy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "ManualBuy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "WhereToBuy": {
+      "WTBText": "Dónde comprar",
+      "WTBFlag": 0,
+      "WTBLink": ""
+    },
+    "FindNearBy": {
+      "FindNearByText": "Encuentra una tienda",
+      "FindNearByFlag": 0
+    },
+    "VolumePurchase": {
+      "Level1Name": "",
+      "Text": "Volume purchase",
+      "Link": "https://www.connect.asus.com/ar/VolumePurchase",
+      "linkTarget": "_blank"
+    },
+    "LearnMore": "Más información",
+    "Compare": "Comparar",
+    "SeeMore": "Ver más",
+    "SeeLess": "Ver menos",
+    "ExternalID": "",
+    "ProductID": "R_90YH02R1-B1UA00",
+    "RealProductID": 14969,
+    "M1Id": 14969,
+    "ProductHashedID": "",
+    "PartNo": "90YH02R1-B1UA00",
+    "NewFlag": "0",
+    "DataRow": 14,
+    "ModelBaseFlag": 1,
+    "SpecFlag": 1,
+    "LowestPriceInNDayPeriod": "el precio más bajo en el periodo de 30 días anterior a la introducción del descuento",
+    "SubTagline": "",
+    "Tooltip": "",
+    "ReviewFlag": 1,
+    "HistoricLowPrice": "",
+    "SortPrice": "",
+    "StockStatus": "",
+    "SalesModelName": "ROG STRIX GO CORE"
+  },
+  {
+    "SourceType": "rog",
+    "GetURLFlag": 1,
+    "isRogFlag": 1,
+    "Level1ID": 2992,
+    "ProductURL": "https://rog.asus.com/ar/headsets-audio/headsets/3-5mm-headsets/rog-strix-go-core-moonlight-white-model/",
+    "ProductCardURL": "https://rog.asus.com/ar/headsets-audio/headsets/3-5mm-headsets/rog-strix-go-core-moonlight-white-model/",
+    "CustomizeTag": {
+      "Enabled": false,
+      "Text": ""
+    },
+    "LeftHeader": {
+      "NewsFlag": "N",
+      "DealFlag": "N",
+      "NewsFlagWording": "Nuevo",
+      "DealFlagWording": "OFERTA"
+    },
+    "RightHeader": [],
+    "ProductImage": "",
+    "Size": "",
+    "Level1Path": "Headsets & Audio",
+    "Level2Path": "Headsets",
+    "Level3Path": "3.5mm Headsets",
+    "CategoryName": "ROG Strix Go Core Moonlight White",
+    "SubSeriesName": "",
+    "PDWebPath": "",
+    "Name": "<h2>ROG Strix Go Core Moonlight White</h2>",
+    "ReviewStar": "0.0",
+    "ReviewCount": 0,
+    "StartingAtWording": "El precio de la ASUS store es a partir de",
+    "Estore": "Precio de la ASUS store",
+    "PDCardSafety": "El precio de la ASUS store es el precio de un producto proporcionado por la ASUS store. Las especificaciones no incluidas aquí podrían no estar disponibles en la eStore y solo están como referencia.",
+    "PDCardSafety2": "",
+    "PriceLineColor": "#CCCCCC",
+    "PriceColor": "#181818",
+    "Price": "",
+    "Discount": "",
+    "DiscountColor": "#c74200",
+    "DiscountFlag": "",
+    "DiscountWording": "Guardar",
+    "RegularPrice": "",
+    "StartTimeWording": "",
+    "StartTime": "",
+    "EndTimeWording": "",
+    "EndTime": "",
+    "Notice": "1",
+    "ShippingHint": "",
+    "ModelSpec": "Los audífonos para juegos ROG Strix Go Core Moonlight White brindan un audio de juego envolvente y una comodidad increíble, y son compatibles con PC, Mac, teléfonos móviles, PlayStation® 5, Xbox® Series X y S, y Nintendo Switch™",
+    "ProductOnlineDt": "2025-02-13 03:47:19",
+    "ImageList": [
+      {
+        "DefaultFlag": "Y",
+        "ColorCode": "XXXXX",
+        "ColorName": "",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/B43F05B8-6236-4225-8FB5-107B414D6104/w185"
+        ]
+      }
+    ],
+    "ProductLogo": [],
+    "Buy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "ManualBuy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "WhereToBuy": {
+      "WTBText": "Dónde comprar",
+      "WTBFlag": 0,
+      "WTBLink": ""
+    },
+    "FindNearBy": {
+      "FindNearByText": "Encuentra una tienda",
+      "FindNearByFlag": 0
+    },
+    "VolumePurchase": {
+      "Level1Name": "",
+      "Text": "Volume purchase",
+      "Link": "https://www.connect.asus.com/ar/VolumePurchase",
+      "linkTarget": "_blank"
+    },
+    "LearnMore": "Más información",
+    "Compare": "Comparar",
+    "SeeMore": "Ver más",
+    "SeeLess": "Ver menos",
+    "ExternalID": "",
+    "ProductID": "R_90YH0381-B1UA00",
+    "RealProductID": 16815,
+    "M1Id": 16815,
+    "ProductHashedID": "",
+    "PartNo": "90YH0381-B1UA00",
+    "NewFlag": "0",
+    "DataRow": 23,
+    "ModelBaseFlag": 1,
+    "SpecFlag": 1,
+    "LowestPriceInNDayPeriod": "el precio más bajo en el periodo de 30 días anterior a la introducción del descuento",
+    "SubTagline": "",
+    "Tooltip": "",
+    "ReviewFlag": 1,
+    "HistoricLowPrice": "",
+    "SortPrice": "",
+    "StockStatus": "",
+    "SalesModelName": "ROG STRIX GO CORE ML"
+  },
+  {
+    "SourceType": "rog",
+    "GetURLFlag": 1,
+    "isRogFlag": 1,
+    "Level1ID": 2992,
+    "ProductURL": "https://rog.asus.com/ar/headsets-audio/headsets/usb-headsets/rog-delta-origin-model/",
+    "ProductCardURL": "https://rog.asus.com/ar/headsets-audio/headsets/usb-headsets/rog-delta-origin-model/",
+    "CustomizeTag": {
+      "Enabled": false,
+      "Text": ""
+    },
+    "LeftHeader": {
+      "NewsFlag": "N",
+      "DealFlag": "N",
+      "NewsFlagWording": "Nuevo",
+      "DealFlagWording": "OFERTA"
+    },
+    "RightHeader": [],
+    "ProductImage": "",
+    "Size": "",
+    "Level1Path": "Headsets & Audio",
+    "Level2Path": "Headsets",
+    "Level3Path": "USB Headsets",
+    "CategoryName": "ROG Delta Origin",
+    "SubSeriesName": "",
+    "PDWebPath": "",
+    "Name": "<h2>ROG Delta Origin</h2>",
+    "ReviewStar": "0.0",
+    "ReviewCount": 0,
+    "StartingAtWording": "El precio de la ASUS store es a partir de",
+    "Estore": "Precio de la ASUS store",
+    "PDCardSafety": "El precio de la ASUS store es el precio de un producto proporcionado por la ASUS store. Las especificaciones no incluidas aquí podrían no estar disponibles en la eStore y solo están como referencia.",
+    "PDCardSafety2": "",
+    "PriceLineColor": "#CCCCCC",
+    "PriceColor": "#181818",
+    "Price": "",
+    "Discount": "",
+    "DiscountColor": "#c74200",
+    "DiscountFlag": "",
+    "DiscountWording": "Guardar",
+    "RegularPrice": "",
+    "StartTimeWording": "",
+    "StartTime": "",
+    "EndTimeWording": "",
+    "EndTime": "",
+    "Notice": "1",
+    "ShippingHint": "",
+    "ModelSpec": "Auriculares para gaming ROG con anillos de iluminación LED rojos, un micrófono y conexión USB-C® para jugar en PC, Mac, smartphones y consola.",
+    "ProductOnlineDt": "2025-02-13 00:16:34",
+    "ImageList": [
+      {
+        "DefaultFlag": "Y",
+        "ColorCode": "XXXXX",
+        "ColorName": "",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/885FBEEF-DAFD-484C-A806-CBDFD02087A4/w185"
+        ]
+      }
+    ],
+    "ProductLogo": [],
+    "Buy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "ManualBuy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "WhereToBuy": {
+      "WTBText": "Dónde comprar",
+      "WTBFlag": 0,
+      "WTBLink": ""
+    },
+    "FindNearBy": {
+      "FindNearByText": "Encuentra una tienda",
+      "FindNearByFlag": 0
+    },
+    "VolumePurchase": {
+      "Level1Name": "",
+      "Text": "Volume purchase",
+      "Link": "https://www.connect.asus.com/ar/VolumePurchase",
+      "linkTarget": "_blank"
+    },
+    "LearnMore": "Más información",
+    "Compare": "Comparar",
+    "SeeMore": "Ver más",
+    "SeeLess": "Ver menos",
+    "ExternalID": "",
+    "ProductID": "R_90YH032O-B2UA00",
+    "RealProductID": 15231,
+    "M1Id": 15231,
+    "ProductHashedID": "",
+    "PartNo": "90YH032O-B2UA00",
+    "NewFlag": "0",
+    "DataRow": 20,
+    "ModelBaseFlag": 1,
+    "SpecFlag": 1,
+    "LowestPriceInNDayPeriod": "el precio más bajo en el periodo de 30 días anterior a la introducción del descuento",
+    "SubTagline": "",
+    "Tooltip": "",
+    "ReviewFlag": 1,
+    "HistoricLowPrice": "",
+    "SortPrice": "",
+    "StockStatus": "",
+    "SalesModelName": "ROG DELTA ORIGIN"
+  },
+  {
+    "SourceType": "rog",
+    "GetURLFlag": 1,
+    "isRogFlag": 1,
+    "Level1ID": 2992,
+    "ProductURL": "https://rog.asus.com/ar/headsets-audio/headsets/3-5mm-headsets/rog-delta-core-model/",
+    "ProductCardURL": "https://rog.asus.com/ar/headsets-audio/headsets/3-5mm-headsets/rog-delta-core-model/",
+    "CustomizeTag": {
+      "Enabled": false,
+      "Text": ""
+    },
+    "LeftHeader": {
+      "NewsFlag": "N",
+      "DealFlag": "N",
+      "NewsFlagWording": "Nuevo",
+      "DealFlagWording": "OFERTA"
+    },
+    "RightHeader": [],
+    "ProductImage": "",
+    "Size": "",
+    "Level1Path": "Headsets & Audio",
+    "Level2Path": "Headsets",
+    "Level3Path": "3.5mm Headsets",
+    "CategoryName": "ROG Delta Core",
+    "SubSeriesName": "",
+    "PDWebPath": "",
+    "Name": "<h2>ROG Delta Core</h2>",
+    "ReviewStar": "0.0",
+    "ReviewCount": 0,
+    "StartingAtWording": "El precio de la ASUS store es a partir de",
+    "Estore": "Precio de la ASUS store",
+    "PDCardSafety": "El precio de la ASUS store es el precio de un producto proporcionado por la ASUS store. Las especificaciones no incluidas aquí podrían no estar disponibles en la eStore y solo están como referencia.",
+    "PDCardSafety2": "",
+    "PriceLineColor": "#CCCCCC",
+    "PriceColor": "#181818",
+    "Price": "",
+    "Discount": "",
+    "DiscountColor": "#c74200",
+    "DiscountFlag": "",
+    "DiscountWording": "Guardar",
+    "RegularPrice": "",
+    "StartTimeWording": "",
+    "StartTime": "",
+    "EndTimeWording": "",
+    "EndTime": "",
+    "Notice": "1",
+    "ShippingHint": "",
+    "ModelSpec": "Audifonos de gaming ROG Delta Core para disfrutar de una experiencia de juego inmersiva, cómoda y compatibilidad con PC, PS4, Xbox One, Nintendo switch y dispositivos móviles",
+    "ProductOnlineDt": "2025-02-12 23:50:05",
+    "ImageList": [
+      {
+        "DefaultFlag": "Y",
+        "ColorCode": "XXXXX",
+        "ColorName": "",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/E5E1D30F-BDF5-48EF-8EFB-9EA9A2445077/w185"
+        ]
+      }
+    ],
+    "ProductLogo": [],
+    "Buy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "ManualBuy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "WhereToBuy": {
+      "WTBText": "Dónde comprar",
+      "WTBFlag": 0,
+      "WTBLink": ""
+    },
+    "FindNearBy": {
+      "FindNearByText": "Encuentra una tienda",
+      "FindNearByFlag": 0
+    },
+    "VolumePurchase": {
+      "Level1Name": "",
+      "Text": "Volume purchase",
+      "Link": "https://www.connect.asus.com/ar/VolumePurchase",
+      "linkTarget": "_blank"
+    },
+    "LearnMore": "Más información",
+    "Compare": "Comparar",
+    "SeeMore": "Ver más",
+    "SeeLess": "Ver menos",
+    "ExternalID": "",
+    "ProductID": "R_90YH00Z1-B1UA00",
+    "RealProductID": 10487,
+    "M1Id": 10487,
+    "ProductHashedID": "",
+    "PartNo": "90YH00Z1-B1UA00",
+    "NewFlag": "0",
+    "DataRow": 6,
+    "ModelBaseFlag": 1,
+    "SpecFlag": 1,
+    "LowestPriceInNDayPeriod": "el precio más bajo en el periodo de 30 días anterior a la introducción del descuento",
+    "SubTagline": "",
+    "Tooltip": "",
+    "ReviewFlag": 1,
+    "HistoricLowPrice": "",
+    "SortPrice": "",
+    "StockStatus": "",
+    "SalesModelName": "ROG DELTA CORE"
+  },
+  {
+    "SourceType": "rog",
+    "GetURLFlag": 1,
+    "isRogFlag": 1,
+    "Level1ID": 2992,
+    "ProductURL": "https://rog.asus.com/ar/headsets-audio/headsets/usb-headsets/rog-strix-go-model/",
+    "ProductCardURL": "https://rog.asus.com/ar/headsets-audio/headsets/usb-headsets/rog-strix-go-model/",
+    "CustomizeTag": {
+      "Enabled": false,
+      "Text": ""
+    },
+    "LeftHeader": {
+      "NewsFlag": "N",
+      "DealFlag": "N",
+      "NewsFlagWording": "Nuevo",
+      "DealFlagWording": "OFERTA"
+    },
+    "RightHeader": [],
+    "ProductImage": "",
+    "Size": "",
+    "Level1Path": "Headsets & Audio",
+    "Level2Path": "Headsets",
+    "Level3Path": "USB Headsets",
+    "CategoryName": "ROG Strix Go",
+    "SubSeriesName": "",
+    "PDWebPath": "",
+    "Name": "<h2>ROG Strix Go</h2>",
+    "ReviewStar": "0.0",
+    "ReviewCount": 0,
+    "StartingAtWording": "El precio de la ASUS store es a partir de",
+    "Estore": "Precio de la ASUS store",
+    "PDCardSafety": "El precio de la ASUS store es el precio de un producto proporcionado por la ASUS store. Las especificaciones no incluidas aquí podrían no estar disponibles en la eStore y solo están como referencia.",
+    "PDCardSafety2": "",
+    "PriceLineColor": "#CCCCCC",
+    "PriceColor": "#181818",
+    "Price": "",
+    "Discount": "",
+    "DiscountColor": "#c74200",
+    "DiscountFlag": "",
+    "DiscountWording": "Guardar",
+    "RegularPrice": "",
+    "StartTimeWording": "",
+    "StartTime": "",
+    "EndTimeWording": "",
+    "EndTime": "",
+    "Notice": "1",
+    "ShippingHint": "",
+    "ModelSpec": "Los auriculares gaming ROG Strix Go USB-C con micrófono con cancelación de ruido por IA ofrecen un audio de juego inmersivo y una comodidad increíble, con soporte para PC, Mac, Nintendo Switch, dispositivos inteligentes y PS5",
+    "ProductOnlineDt": "2025-02-12 22:30:07",
+    "ImageList": [
+      {
+        "DefaultFlag": "Y",
+        "ColorCode": "XXXXX",
+        "ColorName": "",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/0007ACEA-3911-4BC1-A5FC-38E4337D875C/w185"
+        ]
+      }
+    ],
+    "ProductLogo": [],
+    "Buy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "ManualBuy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "WhereToBuy": {
+      "WTBText": "Dónde comprar",
+      "WTBFlag": 0,
+      "WTBLink": ""
+    },
+    "FindNearBy": {
+      "FindNearByText": "Encuentra una tienda",
+      "FindNearByFlag": 0
+    },
+    "VolumePurchase": {
+      "Level1Name": "",
+      "Text": "Volume purchase",
+      "Link": "https://www.connect.asus.com/ar/VolumePurchase",
+      "linkTarget": "_blank"
+    },
+    "LearnMore": "Más información",
+    "Compare": "Comparar",
+    "SeeMore": "Ver más",
+    "SeeLess": "Ver menos",
+    "ExternalID": "",
+    "ProductID": "R_90YH02Q1-B2UA00",
+    "RealProductID": 14875,
+    "M1Id": 14875,
+    "ProductHashedID": "",
+    "PartNo": "90YH02Q1-B2UA00",
+    "NewFlag": "0",
+    "DataRow": 13,
+    "ModelBaseFlag": 1,
+    "SpecFlag": 1,
+    "LowestPriceInNDayPeriod": "el precio más bajo en el periodo de 30 días anterior a la introducción del descuento",
+    "SubTagline": "",
+    "Tooltip": "",
+    "ReviewFlag": 1,
+    "HistoricLowPrice": "",
+    "SortPrice": "",
+    "StockStatus": "",
+    "SalesModelName": "ROG STRIX GO USB-C"
+  },
+  {
+    "SourceType": "rog",
+    "GetURLFlag": 1,
+    "isRogFlag": 1,
+    "Level1ID": 9697,
+    "ProductURL": "https://rog.asus.com/ar/headsets-audio/in-ear-headphone/rog-cetra-ii-model/",
+    "ProductCardURL": "https://rog.asus.com/ar/headsets-audio/in-ear-headphone/rog-cetra-ii-model/",
+    "CustomizeTag": {
+      "Enabled": false,
+      "Text": ""
+    },
+    "LeftHeader": {
+      "NewsFlag": "N",
+      "DealFlag": "N",
+      "NewsFlagWording": "Nuevo",
+      "DealFlagWording": "OFERTA"
+    },
+    "RightHeader": [],
+    "ProductImage": "",
+    "Size": "",
+    "Level1Path": "Headsets & Audio",
+    "Level2Path": "In-ear headphone",
+    "Level3Path": "",
+    "CategoryName": "ROG Cetra II",
+    "SubSeriesName": "",
+    "PDWebPath": "",
+    "Name": "<h2>ROG Cetra II</h2>",
+    "ReviewStar": "0.0",
+    "ReviewCount": 0,
+    "StartingAtWording": "El precio de la ASUS store es a partir de",
+    "Estore": "Precio de la ASUS store",
+    "PDCardSafety": "El precio de la ASUS store es el precio de un producto proporcionado por la ASUS store. Las especificaciones no incluidas aquí podrían no estar disponibles en la eStore y solo están como referencia.",
+    "PDCardSafety2": "",
+    "PriceLineColor": "#CCCCCC",
+    "PriceColor": "#181818",
+    "Price": "",
+    "Discount": "",
+    "DiscountColor": "#c74200",
+    "DiscountFlag": "",
+    "DiscountWording": "Guardar",
+    "RegularPrice": "",
+    "StartTimeWording": "",
+    "StartTime": "",
+    "EndTimeWording": "",
+    "EndTime": "",
+    "Notice": "1",
+    "ShippingHint": "",
+    "ModelSpec": "Audífonos internos para juegos con cancelación de ruido ROG Cetra II con micrófono con supresión de ruido, cancelación activa de ruido (ANC), controladores de caucho de silicona líquida (LSR), iluminación Aura Sync RGB y conector USB-C para ROG Phone 5, PC, dispositivos móviles y Nintendo Switch",
+    "ProductOnlineDt": "2025-02-12 01:56:12",
+    "ImageList": [
+      {
+        "DefaultFlag": "Y",
+        "ColorCode": "XXXXX",
+        "ColorName": "",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/37318753-662D-4B63-9EA8-A84E7F6880C0/w185"
+        ]
+      }
+    ],
+    "ProductLogo": [],
+    "Buy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "ManualBuy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "WhereToBuy": {
+      "WTBText": "Dónde comprar",
+      "WTBFlag": 0,
+      "WTBLink": ""
+    },
+    "FindNearBy": {
+      "FindNearByText": "Encuentra una tienda",
+      "FindNearByFlag": 0
+    },
+    "VolumePurchase": {
+      "Level1Name": "",
+      "Text": "Volume purchase",
+      "Link": "https://www.connect.asus.com/ar/VolumePurchase",
+      "linkTarget": "_blank"
+    },
+    "LearnMore": "Más información",
+    "Compare": "Comparar",
+    "SeeMore": "Ver más",
+    "SeeLess": "Ver menos",
+    "ExternalID": "",
+    "ProductID": "R_90YH02S0-B2UA00",
+    "RealProductID": 15588,
+    "M1Id": 15588,
+    "ProductHashedID": "",
+    "PartNo": "90YH02S0-B2UA00",
+    "NewFlag": "0",
+    "DataRow": 15,
+    "ModelBaseFlag": 1,
+    "SpecFlag": 1,
+    "LowestPriceInNDayPeriod": "el precio más bajo en el periodo de 30 días anterior a la introducción del descuento",
+    "SubTagline": "",
+    "Tooltip": "",
+    "ReviewFlag": 1,
+    "HistoricLowPrice": "",
+    "SortPrice": "",
+    "StockStatus": "",
+    "SalesModelName": "ROG CETRA II"
+  },
+  {
+    "SourceType": "rog",
+    "GetURLFlag": 1,
+    "isRogFlag": 1,
+    "Level1ID": 2992,
+    "ProductURL": "https://rog.asus.com/ar/headsets-audio/headsets/3-5mm-headsets/rog-strix-go-2-4-model/",
+    "ProductCardURL": "https://rog.asus.com/ar/headsets-audio/headsets/3-5mm-headsets/rog-strix-go-2-4-model/",
+    "CustomizeTag": {
+      "Enabled": false,
+      "Text": ""
+    },
+    "LeftHeader": {
+      "NewsFlag": "N",
+      "DealFlag": "N",
+      "NewsFlagWording": "Nuevo",
+      "DealFlagWording": "OFERTA"
+    },
+    "RightHeader": [],
+    "ProductImage": "",
+    "Size": "",
+    "Level1Path": "Headsets & Audio",
+    "Level2Path": "Headsets",
+    "Level3Path": "3.5mm Headsets",
+    "CategoryName": "ROG Strix Go 2.4",
+    "SubSeriesName": "",
+    "PDWebPath": "",
+    "Name": "<h2>ROG Strix Go 2.4</h2>",
+    "ReviewStar": "0.0",
+    "ReviewCount": 0,
+    "StartingAtWording": "El precio de la ASUS store es a partir de",
+    "Estore": "Precio de la ASUS store",
+    "PDCardSafety": "El precio de la ASUS store es el precio de un producto proporcionado por la ASUS store. Las especificaciones no incluidas aquí podrían no estar disponibles en la eStore y solo están como referencia.",
+    "PDCardSafety2": "",
+    "PriceLineColor": "#CCCCCC",
+    "PriceColor": "#181818",
+    "Price": "",
+    "Discount": "",
+    "DiscountColor": "#c74200",
+    "DiscountFlag": "",
+    "DiscountWording": "Guardar",
+    "RegularPrice": "",
+    "StartTimeWording": "",
+    "StartTime": "",
+    "EndTimeWording": "",
+    "EndTime": "",
+    "Notice": "1",
+    "ShippingHint": "",
+    "ModelSpec": "Audífonos inalámbricos ROG Strix Go 2.4 para juegos USB-C® de 2.4GHz equipado con un cable de 3.5mm incluido y un micrófono con cancelación de ruido AI que brinda un rendimiento de baja latencia en PC, Mac, Nintendo Switch™, PS5 y dispositivos inteligentes.",
+    "ProductOnlineDt": "2025-02-12 00:16:43",
+    "ImageList": [
+      {
+        "DefaultFlag": "Y",
+        "ColorCode": "XXXXX",
+        "ColorName": "",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/B47A68E6-068E-47C6-A67A-84DDC7C7D733/w185"
+        ]
+      }
+    ],
+    "ProductLogo": [],
+    "Buy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "ManualBuy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "WhereToBuy": {
+      "WTBText": "Dónde comprar",
+      "WTBFlag": 0,
+      "WTBLink": ""
+    },
+    "FindNearBy": {
+      "FindNearByText": "Encuentra una tienda",
+      "FindNearByFlag": 0
+    },
+    "VolumePurchase": {
+      "Level1Name": "",
+      "Text": "Volume purchase",
+      "Link": "https://www.connect.asus.com/ar/VolumePurchase",
+      "linkTarget": "_blank"
+    },
+    "LearnMore": "Más información",
+    "Compare": "Comparar",
+    "SeeMore": "Ver más",
+    "SeeLess": "Ver menos",
+    "ExternalID": "",
+    "ProductID": "R_90YH01X1-B3UA00",
+    "RealProductID": 12361,
+    "M1Id": 12361,
+    "ProductHashedID": "",
+    "PartNo": "90YH01X1-B3UA00",
+    "NewFlag": "0",
+    "DataRow": 10,
+    "ModelBaseFlag": 1,
+    "SpecFlag": 1,
+    "LowestPriceInNDayPeriod": "el precio más bajo en el periodo de 30 días anterior a la introducción del descuento",
+    "SubTagline": "",
+    "Tooltip": "",
+    "ReviewFlag": 1,
+    "HistoricLowPrice": "",
+    "SortPrice": "",
+    "StockStatus": "",
+    "SalesModelName": "ROG STRIX GO 2.4"
+  },
+  {
+    "SourceType": "rog",
+    "GetURLFlag": 1,
+    "isRogFlag": 1,
+    "Level1ID": 2992,
+    "ProductURL": "https://rog.asus.com/ar/headsets-audio/headsets/3-5mm-headsets/rog-strix-go-bt-model/",
+    "ProductCardURL": "https://rog.asus.com/ar/headsets-audio/headsets/3-5mm-headsets/rog-strix-go-bt-model/",
+    "CustomizeTag": {
+      "Enabled": false,
+      "Text": ""
+    },
+    "LeftHeader": {
+      "NewsFlag": "N",
+      "DealFlag": "N",
+      "NewsFlagWording": "Nuevo",
+      "DealFlagWording": "OFERTA"
+    },
+    "RightHeader": [],
+    "ProductImage": "",
+    "Size": "",
+    "Level1Path": "Headsets & Audio",
+    "Level2Path": "Headsets",
+    "Level3Path": "3.5mm Headsets",
+    "CategoryName": "ROG Strix Go BT",
+    "SubSeriesName": "",
+    "PDWebPath": "",
+    "Name": "<h2>ROG Strix Go BT</h2>",
+    "ReviewStar": "0.0",
+    "ReviewCount": 0,
+    "StartingAtWording": "El precio de la ASUS store es a partir de",
+    "Estore": "Precio de la ASUS store",
+    "PDCardSafety": "El precio de la ASUS store es el precio de un producto proporcionado por la ASUS store. Las especificaciones no incluidas aquí podrían no estar disponibles en la eStore y solo están como referencia.",
+    "PDCardSafety2": "",
+    "PriceLineColor": "#CCCCCC",
+    "PriceColor": "#181818",
+    "Price": "",
+    "Discount": "",
+    "DiscountColor": "#c74200",
+    "DiscountFlag": "",
+    "DiscountWording": "Guardar",
+    "RegularPrice": "",
+    "StartTimeWording": "",
+    "StartTime": "",
+    "EndTimeWording": "",
+    "EndTime": "",
+    "Notice": "1",
+    "ShippingHint": "",
+    "ModelSpec": "Audífonos inalámbricos para juegos Bluetooth® con tecnología de audio adaptable Qualcomm® aptX™, tecnología de cancelación activa de ruido (ANC), micrófono con cancelación de ruido ASUS AI, rendimiento de baja latencia y compatibilidad con PC, Nintendo Switch™, dispositivos inteligentes y PS5™",
+    "ProductOnlineDt": "2025-02-11 23:10:05",
+    "ImageList": [
+      {
+        "DefaultFlag": "Y",
+        "ColorCode": "XXXXX",
+        "ColorName": "",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/F82F8792-B3BE-4B58-B5EB-616ED8D52F39/w185"
+        ]
+      }
+    ],
+    "ProductLogo": [],
+    "Buy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "ManualBuy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "WhereToBuy": {
+      "WTBText": "Dónde comprar",
+      "WTBFlag": 0,
+      "WTBLink": ""
+    },
+    "FindNearBy": {
+      "FindNearByText": "Encuentra una tienda",
+      "FindNearByFlag": 0
+    },
+    "VolumePurchase": {
+      "Level1Name": "",
+      "Text": "Volume purchase",
+      "Link": "https://www.connect.asus.com/ar/VolumePurchase",
+      "linkTarget": "_blank"
+    },
+    "LearnMore": "Más información",
+    "Compare": "Comparar",
+    "SeeMore": "Ver más",
+    "SeeLess": "Ver menos",
+    "ExternalID": "",
+    "ProductID": "R_90YH02Y1-B5UA00",
+    "RealProductID": 15390,
+    "M1Id": 15390,
+    "ProductHashedID": "",
+    "PartNo": "90YH02Y1-B5UA00",
+    "NewFlag": "0",
+    "DataRow": 19,
+    "ModelBaseFlag": 1,
+    "SpecFlag": 1,
+    "LowestPriceInNDayPeriod": "el precio más bajo en el periodo de 30 días anterior a la introducción del descuento",
+    "SubTagline": "",
+    "Tooltip": "",
+    "ReviewFlag": 1,
+    "HistoricLowPrice": "",
+    "SortPrice": "",
+    "StockStatus": "",
+    "SalesModelName": "ROG STRIX GO BT"
+  },
+  {
+    "SourceType": "rog",
+    "GetURLFlag": 1,
+    "isRogFlag": 1,
+    "Level1ID": 9697,
+    "ProductURL": "https://rog.asus.com/ar/headsets-audio/in-ear-headphone/rog-cetra-rgb-model/",
+    "ProductCardURL": "https://rog.asus.com/ar/headsets-audio/in-ear-headphone/rog-cetra-rgb-model/",
+    "CustomizeTag": {
+      "Enabled": false,
+      "Text": ""
+    },
+    "LeftHeader": {
+      "NewsFlag": "N",
+      "DealFlag": "N",
+      "NewsFlagWording": "Nuevo",
+      "DealFlagWording": "OFERTA"
+    },
+    "RightHeader": [],
+    "ProductImage": "",
+    "Size": "",
+    "Level1Path": "Headsets & Audio",
+    "Level2Path": "In-ear headphone",
+    "Level3Path": "",
+    "CategoryName": "ROG Cetra RGB",
+    "SubSeriesName": "",
+    "PDWebPath": "",
+    "Name": "<h2>ROG Cetra RGB</h2>",
+    "ReviewStar": "0.0",
+    "ReviewCount": 0,
+    "StartingAtWording": "El precio de la ASUS store es a partir de",
+    "Estore": "Precio de la ASUS store",
+    "PDCardSafety": "El precio de la ASUS store es el precio de un producto proporcionado por la ASUS store. Las especificaciones no incluidas aquí podrían no estar disponibles en la eStore y solo están como referencia.",
+    "PDCardSafety2": "",
+    "PriceLineColor": "#CCCCCC",
+    "PriceColor": "#181818",
+    "Price": "",
+    "Discount": "",
+    "DiscountColor": "#c74200",
+    "DiscountFlag": "",
+    "DiscountWording": "Guardar",
+    "RegularPrice": "",
+    "StartTimeWording": "",
+    "StartTime": "",
+    "EndTimeWording": "",
+    "EndTime": "",
+    "Notice": "1",
+    "ShippingHint": "",
+    "ModelSpec": "Audífonos intraaurales para gaming ROG Cetra RGB con Cancelación Activa de Ruido (ANC), controladores ASUS Essence de 10 mm y conector USB-C para PC, dispositivos móviles y Nintendo Switch, con iluminación Aura Sync.",
+    "ProductOnlineDt": "2025-02-11 06:48:18",
+    "ImageList": [
+      {
+        "DefaultFlag": "Y",
+        "ColorCode": "XXXXX",
+        "ColorName": "",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/817B6F7C-BB62-4BEE-8419-CA42159475BC/w185"
+        ]
+      }
+    ],
+    "ProductLogo": [],
+    "Buy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "ManualBuy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "WhereToBuy": {
+      "WTBText": "Dónde comprar",
+      "WTBFlag": 0,
+      "WTBLink": ""
+    },
+    "FindNearBy": {
+      "FindNearByText": "Encuentra una tienda",
+      "FindNearByFlag": 0
+    },
+    "VolumePurchase": {
+      "Level1Name": "",
+      "Text": "Volume purchase",
+      "Link": "https://www.connect.asus.com/ar/VolumePurchase",
+      "linkTarget": "_blank"
+    },
+    "LearnMore": "Más información",
+    "Compare": "Comparar",
+    "SeeMore": "Ver más",
+    "SeeLess": "Ver menos",
+    "ExternalID": "",
+    "ProductID": "R_90YH02U0-B2UA00",
+    "RealProductID": 14793,
+    "M1Id": 14793,
+    "ProductHashedID": "",
+    "PartNo": "90YH02U0-B2UA00",
+    "NewFlag": "0",
+    "DataRow": 16,
+    "ModelBaseFlag": 1,
+    "SpecFlag": 1,
+    "LowestPriceInNDayPeriod": "el precio más bajo en el periodo de 30 días anterior a la introducción del descuento",
+    "SubTagline": "",
+    "Tooltip": "",
+    "ReviewFlag": 1,
+    "HistoricLowPrice": "",
+    "SortPrice": "",
+    "StockStatus": "",
+    "SalesModelName": "ROG CETRA RGB"
+  },
+  {
+    "SourceType": "rog",
+    "GetURLFlag": 1,
+    "isRogFlag": 1,
+    "Level1ID": 2992,
+    "ProductURL": "https://rog.asus.com/ar/headsets-audio/headsets/usb-headsets/rog-fusion-ii-300-model/",
+    "ProductCardURL": "https://rog.asus.com/ar/headsets-audio/headsets/usb-headsets/rog-fusion-ii-300-model/",
+    "CustomizeTag": {
+      "Enabled": false,
+      "Text": ""
+    },
+    "LeftHeader": {
+      "NewsFlag": "N",
+      "DealFlag": "N",
+      "NewsFlagWording": "Nuevo",
+      "DealFlagWording": "OFERTA"
+    },
+    "RightHeader": [],
+    "ProductImage": "",
+    "Size": "",
+    "Level1Path": "Headsets & Audio",
+    "Level2Path": "Headsets",
+    "Level3Path": "USB Headsets",
+    "CategoryName": "ROG Fusion II 300",
+    "SubSeriesName": "",
+    "PDWebPath": "",
+    "Name": "<h2>ROG Fusion II 300</h2>",
+    "ReviewStar": "0.0",
+    "ReviewCount": 0,
+    "StartingAtWording": "El precio de la ASUS store es a partir de",
+    "Estore": "Precio de la ASUS store",
+    "PDCardSafety": "El precio de la ASUS store es el precio de un producto proporcionado por la ASUS store. Las especificaciones no incluidas aquí podrían no estar disponibles en la eStore y solo están como referencia.",
+    "PDCardSafety2": "",
+    "PriceLineColor": "#CCCCCC",
+    "PriceColor": "#181818",
+    "Price": "",
+    "Discount": "",
+    "DiscountColor": "#c74200",
+    "DiscountFlag": "",
+    "DiscountWording": "Guardar",
+    "RegularPrice": "",
+    "StartTimeWording": "",
+    "StartTime": "",
+    "EndTimeWording": "",
+    "EndTime": "",
+    "Notice": "1",
+    "ShippingHint": "",
+    "ModelSpec": "Audífonos para juegos RGB con ESS 9280 Quad DAC™ de alta resolución, graves profundos y sonido surround virtual 7.1, Beamforming Microphones con cancelación de ruido AI, compatible con PC, PlayStation® 5 y Nintendo Switch™.",
+    "ProductOnlineDt": "2025-02-11 06:15:57",
+    "ImageList": [
+      {
+        "DefaultFlag": "Y",
+        "ColorCode": "XXXXX",
+        "ColorName": "",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/AE87E296-D3B4-4286-B174-8A50EB4F642E/w185"
+        ]
+      }
+    ],
+    "ProductLogo": [],
+    "Buy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "ManualBuy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "WhereToBuy": {
+      "WTBText": "Dónde comprar",
+      "WTBFlag": 0,
+      "WTBLink": ""
+    },
+    "FindNearBy": {
+      "FindNearByText": "Encuentra una tienda",
+      "FindNearByFlag": 0
+    },
+    "VolumePurchase": {
+      "Level1Name": "",
+      "Text": "Volume purchase",
+      "Link": "https://www.connect.asus.com/ar/VolumePurchase",
+      "linkTarget": "_blank"
+    },
+    "LearnMore": "Más información",
+    "Compare": "Comparar",
+    "SeeMore": "Ver más",
+    "SeeLess": "Ver menos",
+    "ExternalID": "",
+    "ProductID": "R_90YH02X3-B2UA00",
+    "RealProductID": 20418,
+    "M1Id": 20418,
+    "ProductHashedID": "",
+    "PartNo": "90YH02X3-B2UA00",
+    "NewFlag": "0",
+    "DataRow": 18,
+    "ModelBaseFlag": 1,
+    "SpecFlag": 1,
+    "LowestPriceInNDayPeriod": "el precio más bajo en el periodo de 30 días anterior a la introducción del descuento",
+    "SubTagline": "",
+    "Tooltip": "",
+    "ReviewFlag": 1,
+    "HistoricLowPrice": "",
+    "SortPrice": "",
+    "StockStatus": "",
+    "SalesModelName": "ROG FUSION II 300"
+  },
+  {
+    "SourceType": "rog",
+    "GetURLFlag": 1,
+    "isRogFlag": 1,
+    "Level1ID": 2992,
+    "ProductURL": "https://rog.asus.com/ar/headsets-audio/headsets/3-5mm-headsets/rog-fusion-ii-500-model/",
+    "ProductCardURL": "https://rog.asus.com/ar/headsets-audio/headsets/3-5mm-headsets/rog-fusion-ii-500-model/",
+    "CustomizeTag": {
+      "Enabled": false,
+      "Text": ""
+    },
+    "LeftHeader": {
+      "NewsFlag": "N",
+      "DealFlag": "N",
+      "NewsFlagWording": "Nuevo",
+      "DealFlagWording": "OFERTA"
+    },
+    "RightHeader": [],
+    "ProductImage": "",
+    "Size": "",
+    "Level1Path": "Headsets & Audio",
+    "Level2Path": "Headsets",
+    "Level3Path": "3.5mm Headsets",
+    "CategoryName": "ROG Fusion II 500",
+    "SubSeriesName": "",
+    "PDWebPath": "",
+    "Name": "<h2>ROG Fusion II 500</h2>",
+    "ReviewStar": "0.0",
+    "ReviewCount": 0,
+    "StartingAtWording": "El precio de la ASUS store es a partir de",
+    "Estore": "Precio de la ASUS store",
+    "PDCardSafety": "El precio de la ASUS store es el precio de un producto proporcionado por la ASUS store. Las especificaciones no incluidas aquí podrían no estar disponibles en la eStore y solo están como referencia.",
+    "PDCardSafety2": "",
+    "PriceLineColor": "#CCCCCC",
+    "PriceColor": "#181818",
+    "Price": "",
+    "Discount": "",
+    "DiscountColor": "#c74200",
+    "DiscountFlag": "",
+    "DiscountWording": "Guardar",
+    "RegularPrice": "",
+    "StartTimeWording": "",
+    "StartTime": "",
+    "EndTimeWording": "",
+    "EndTime": "",
+    "Notice": "1",
+    "ShippingHint": "",
+    "ModelSpec": "Audífonos para juegos RGB con ESS 9280 Quad DAC™ de alta resolución, graves profundos y sonido surround virtual 7.1, Beamforming Microphones con cancelación de ruido AI, control de volumen del chat de juego, compatible con PC, PlayStation® 5, Nintendo Switch™ y Xbox.",
+    "ProductOnlineDt": "2025-02-11 04:22:03",
+    "ImageList": [
+      {
+        "DefaultFlag": "Y",
+        "ColorCode": "XXXXX",
+        "ColorName": "",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/0B6F7E0D-DE7D-48BC-BBB1-75F35E2D5CC9/w185"
+        ]
+      }
+    ],
+    "ProductLogo": [],
+    "Buy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "ManualBuy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "WhereToBuy": {
+      "WTBText": "Dónde comprar",
+      "WTBFlag": 0,
+      "WTBLink": ""
+    },
+    "FindNearBy": {
+      "FindNearByText": "Encuentra una tienda",
+      "FindNearByFlag": 0
+    },
+    "VolumePurchase": {
+      "Level1Name": "",
+      "Text": "Volume purchase",
+      "Link": "https://www.connect.asus.com/ar/VolumePurchase",
+      "linkTarget": "_blank"
+    },
+    "LearnMore": "Más información",
+    "Compare": "Comparar",
+    "SeeMore": "Ver más",
+    "SeeLess": "Ver menos",
+    "ExternalID": "",
+    "ProductID": "R_90YH02W5-B2UA00",
+    "RealProductID": 20400,
+    "M1Id": 20400,
+    "ProductHashedID": "",
+    "PartNo": "90YH02W5-B2UA00",
+    "NewFlag": "0",
+    "DataRow": 17,
+    "ModelBaseFlag": 1,
+    "SpecFlag": 1,
+    "LowestPriceInNDayPeriod": "el precio más bajo en el periodo de 30 días anterior a la introducción del descuento",
+    "SubTagline": "",
+    "Tooltip": "",
+    "ReviewFlag": 1,
+    "HistoricLowPrice": "",
+    "SortPrice": "",
+    "StockStatus": "",
+    "SalesModelName": "ROG FUSION II 500"
+  },
+  {
+    "SourceType": "rog",
+    "GetURLFlag": 1,
+    "isRogFlag": 1,
+    "Level1ID": 9621,
+    "ProductURL": "https://rog.asus.com/ar/headsets-audio/accessories/rog-throne-qi-model/",
+    "ProductCardURL": "https://rog.asus.com/ar/headsets-audio/accessories/rog-throne-qi-model/",
+    "CustomizeTag": {
+      "Enabled": false,
+      "Text": ""
+    },
+    "LeftHeader": {
+      "NewsFlag": "N",
+      "DealFlag": "N",
+      "NewsFlagWording": "Nuevo",
+      "DealFlagWording": "OFERTA"
+    },
+    "RightHeader": [],
+    "ProductImage": "",
+    "Size": "",
+    "Level1Path": "Headsets & Audio",
+    "Level2Path": "Accessories",
+    "Level3Path": "",
+    "CategoryName": "ROG Throne Qi",
+    "SubSeriesName": "",
+    "PDWebPath": "",
+    "Name": "<h2>ROG Throne Qi</h2>",
+    "ReviewStar": "0.0",
+    "ReviewCount": 0,
+    "StartingAtWording": "El precio de la ASUS store es a partir de",
+    "Estore": "Precio de la ASUS store",
+    "PDCardSafety": "El precio de la ASUS store es el precio de un producto proporcionado por la ASUS store. Las especificaciones no incluidas aquí podrían no estar disponibles en la eStore y solo están como referencia.",
+    "PDCardSafety2": "",
+    "PriceLineColor": "#CCCCCC",
+    "PriceColor": "#181818",
+    "Price": "",
+    "Discount": "",
+    "DiscountColor": "#c74200",
+    "DiscountFlag": "",
+    "DiscountWording": "Guardar",
+    "RegularPrice": "",
+    "StartTimeWording": "",
+    "StartTime": "",
+    "EndTimeWording": "",
+    "EndTime": "",
+    "Notice": "1",
+    "ShippingHint": "",
+    "ModelSpec": "ROG Throne Qi con carga inalambrica, sonido envolvente 7.1, dos puertos USB 3.1 y Aura Sync",
+    "ProductOnlineDt": "2025-02-11 02:30:48",
+    "ImageList": [
+      {
+        "DefaultFlag": "Y",
+        "ColorCode": "XXXXX",
+        "ColorName": "",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/9FC23A95-0011-4B09-957C-F80B1FF6527C/w185"
+        ]
+      }
+    ],
+    "ProductLogo": [],
+    "Buy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "ManualBuy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "WhereToBuy": {
+      "WTBText": "Dónde comprar",
+      "WTBFlag": 0,
+      "WTBLink": ""
+    },
+    "FindNearBy": {
+      "FindNearByText": "Encuentra una tienda",
+      "FindNearByFlag": 0
+    },
+    "VolumePurchase": {
+      "Level1Name": "",
+      "Text": "Volume purchase",
+      "Link": "https://www.connect.asus.com/ar/VolumePurchase",
+      "linkTarget": "_blank"
+    },
+    "LearnMore": "Más información",
+    "Compare": "Comparar",
+    "SeeMore": "Ver más",
+    "SeeLess": "Ver menos",
+    "ExternalID": "",
+    "ProductID": "R_90YH01K0-B2UA00",
+    "RealProductID": 10973,
+    "M1Id": 10973,
+    "ProductHashedID": "",
+    "PartNo": "90YH01K0-B2UA00",
+    "NewFlag": "0",
+    "DataRow": 8,
+    "ModelBaseFlag": 1,
+    "SpecFlag": 1,
+    "LowestPriceInNDayPeriod": "el precio más bajo en el periodo de 30 días anterior a la introducción del descuento",
+    "SubTagline": "",
+    "Tooltip": "",
+    "ReviewFlag": 1,
+    "HistoricLowPrice": "",
+    "SortPrice": "",
+    "StockStatus": "",
+    "SalesModelName": "ROG THRONE QI/US/AS"
+  },
+  {
+    "SourceType": "rog",
+    "GetURLFlag": 1,
+    "isRogFlag": 1,
+    "Level1ID": 2992,
+    "ProductURL": "https://rog.asus.com/ar/headsets-audio/headsets/usb-headsets/rog-theta-7-1-model/",
+    "ProductCardURL": "https://rog.asus.com/ar/headsets-audio/headsets/usb-headsets/rog-theta-7-1-model/",
+    "CustomizeTag": {
+      "Enabled": false,
+      "Text": ""
+    },
+    "LeftHeader": {
+      "NewsFlag": "N",
+      "DealFlag": "N",
+      "NewsFlagWording": "Nuevo",
+      "DealFlagWording": "OFERTA"
+    },
+    "RightHeader": [],
+    "ProductImage": "",
+    "Size": "",
+    "Level1Path": "Headsets & Audio",
+    "Level2Path": "Headsets",
+    "Level3Path": "USB Headsets",
+    "CategoryName": "ROG Theta 7.1",
+    "SubSeriesName": "",
+    "PDWebPath": "",
+    "Name": "<h2>ROG Theta 7.1</h2>",
+    "ReviewStar": "0.0",
+    "ReviewCount": 0,
+    "StartingAtWording": "El precio de la ASUS store es a partir de",
+    "Estore": "Precio de la ASUS store",
+    "PDCardSafety": "El precio de la ASUS store es el precio de un producto proporcionado por la ASUS store. Las especificaciones no incluidas aquí podrían no estar disponibles en la eStore y solo están como referencia.",
+    "PDCardSafety2": "",
+    "PriceLineColor": "#CCCCCC",
+    "PriceColor": "#181818",
+    "Price": "",
+    "Discount": "",
+    "DiscountColor": "#c74200",
+    "DiscountFlag": "",
+    "DiscountWording": "Guardar",
+    "RegularPrice": "",
+    "StartTimeWording": "",
+    "StartTime": "",
+    "EndTimeWording": "",
+    "EndTime": "",
+    "Notice": "1",
+    "ShippingHint": "",
+    "ModelSpec": "Auriculares para juegos USB-C con sonido envolvente 7.1, micrófono con cancelación de ruido AI, RAC 7.1 DAC de grado de cine en casa, controladores cuádruples ESS para PC, PS4, Nintendo Switch y dispositivos inteligentes",
+    "ProductOnlineDt": "2025-02-11 00:01:54",
+    "ImageList": [
+      {
+        "DefaultFlag": "Y",
+        "ColorCode": "XXXXX",
+        "ColorName": "",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/10C53CD7-221E-45E3-924B-473017560B7F/w185"
+        ]
+      }
+    ],
+    "ProductLogo": [],
+    "Buy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "ManualBuy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "WhereToBuy": {
+      "WTBText": "Dónde comprar",
+      "WTBFlag": 0,
+      "WTBLink": ""
+    },
+    "FindNearBy": {
+      "FindNearByText": "Encuentra una tienda",
+      "FindNearByFlag": 0
+    },
+    "VolumePurchase": {
+      "Level1Name": "",
+      "Text": "Volume purchase",
+      "Link": "https://www.connect.asus.com/ar/VolumePurchase",
+      "linkTarget": "_blank"
+    },
+    "LearnMore": "Más información",
+    "Compare": "Comparar",
+    "SeeMore": "Ver más",
+    "SeeLess": "Ver menos",
+    "ExternalID": "",
+    "ProductID": "R_90YH01W7-B2UA00",
+    "RealProductID": 12119,
+    "M1Id": 12119,
+    "ProductHashedID": "",
+    "PartNo": "90YH01W7-B2UA00",
+    "NewFlag": "0",
+    "DataRow": 9,
+    "ModelBaseFlag": 1,
+    "SpecFlag": 1,
+    "LowestPriceInNDayPeriod": "el precio más bajo en el periodo de 30 días anterior a la introducción del descuento",
+    "SubTagline": "",
+    "Tooltip": "",
+    "ReviewFlag": 1,
+    "HistoricLowPrice": "",
+    "SortPrice": "",
+    "StockStatus": "",
+    "SalesModelName": "ROG THETA 7.1"
+  },
+  {
+    "SourceType": "prod",
+    "GetURLFlag": 0,
+    "isRogFlag": 0,
+    "Level1ID": 6,
+    "ProductURL": "https://www.asus.com/ar/accessories/headsets-and-audio/tuf-gaming/tuf-gaming-h1/",
+    "ProductCardURL": "https://www.asus.com/ar/accessories/headsets-and-audio/tuf-gaming/tuf-gaming-h1/",
+    "CustomizeTag": {
+      "Enabled": false,
+      "Text": ""
+    },
+    "LeftHeader": {
+      "NewsFlag": "N",
+      "DealFlag": "N",
+      "NewsFlagWording": "Nuevo",
+      "DealFlagWording": "OFERTA"
+    },
+    "RightHeader": [],
+    "ProductImage": "",
+    "Size": "",
+    "Level1Path": "Accessories",
+    "Level2Path": "Headsets-and-Audio",
+    "Level3Path": "TUF-Gaming",
+    "CategoryName": "Alámbricos",
+    "SubSeriesName": "",
+    "PDWebPath": "TUF-Gaming-H1",
+    "Name": "<h2>TUF Gaming H1</h2>",
+    "ReviewStar": "4.5",
+    "ReviewCount": 100,
+    "StartingAtWording": "El precio de la ASUS store es a partir de",
+    "Estore": "Precio de la ASUS store",
+    "PDCardSafety": "El precio de la ASUS store es el precio de un producto proporcionado por la ASUS store. Las especificaciones no incluidas aquí podrían no estar disponibles en la eStore y solo están como referencia.",
+    "PDCardSafety2": "",
+    "PriceLineColor": "#CCCCCC",
+    "PriceColor": "#181818",
+    "Price": "",
+    "Discount": "",
+    "DiscountColor": "#c74200",
+    "DiscountFlag": "",
+    "DiscountWording": "Guardar",
+    "RegularPrice": "",
+    "StartTimeWording": "",
+    "StartTime": "",
+    "EndTimeWording": "",
+    "EndTime": "",
+    "Notice": "",
+    "ShippingHint": "",
+    "ModelSpec": "Los auriculares TUF Gaming H1 ofrecen sonido envolvente 7.1 con graves profundos, un micrófono certificado para Discord y TeamSpeak, un diseño cómodo y ligero y compatibilidad con PC, PlayStation<sup>® </sup> 5, Nintendo Switch™ y XBOX™.",
+    "ProductOnlineDt": "2021-09-13 17:58:00",
+    "ImageList": [
+      {
+        "DefaultFlag": "Y",
+        "ColorCode": "XXXX",
+        "ColorName": "",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/4e6adde0-2ae0-4dfb-881a-6aa48b31960d/w185",
+          "https://dlcdnwebimgs.asus.com/gain/13010169-fe76-4776-8ba6-ba4de750c352/w185",
+          "https://dlcdnwebimgs.asus.com/gain/8b8214a1-f15e-46c2-a241-a51cf5681b88/w185"
+        ]
+      }
+    ],
+    "ProductLogo": [],
+    "Buy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "ManualBuy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "WhereToBuy": {
+      "WTBText": "Dónde comprar",
+      "WTBFlag": 0,
+      "WTBLink": ""
+    },
+    "FindNearBy": {
+      "FindNearByText": "Encuentra una tienda",
+      "FindNearByFlag": 0
+    },
+    "VolumePurchase": {
+      "Level1Name": "",
+      "Text": "Volume purchase",
+      "Link": "https://www.connect.asus.com/ar/VolumePurchase",
+      "linkTarget": "_blank"
+    },
+    "LearnMore": "Más información",
+    "Compare": "Comparar",
+    "SeeMore": "Ver más",
+    "SeeLess": "Ver menos",
+    "ExternalID": "",
+    "ProductID": "18087",
+    "RealProductID": 18087,
+    "M1Id": 18087,
+    "ProductHashedID": "b0891c79f13e45c7",
+    "PartNo": "",
+    "NewFlag": "0",
+    "DataRow": 5,
+    "ModelBaseFlag": 1,
+    "SpecFlag": 1,
+    "LowestPriceInNDayPeriod": "el precio más bajo en el periodo de 30 días anterior a la introducción del descuento",
+    "SubTagline": "",
+    "Tooltip": "",
+    "ReviewFlag": 0,
+    "HistoricLowPrice": "",
+    "SortPrice": "",
+    "StockStatus": "",
+    "SalesModelName": ""
+  },
+  {
+    "SourceType": "prod",
+    "GetURLFlag": 0,
+    "isRogFlag": 0,
+    "Level1ID": 6,
+    "ProductURL": "https://www.asus.com/ar/accessories/headsets-and-audio/tuf-gaming/tuf-gaming-h1-wireless/",
+    "ProductCardURL": "https://www.asus.com/ar/accessories/headsets-and-audio/tuf-gaming/tuf-gaming-h1-wireless/",
+    "CustomizeTag": {
+      "Enabled": false,
+      "Text": ""
+    },
+    "LeftHeader": {
+      "NewsFlag": "N",
+      "DealFlag": "N",
+      "NewsFlagWording": "Nuevo",
+      "DealFlagWording": "OFERTA"
+    },
+    "RightHeader": [],
+    "ProductImage": "",
+    "Size": "",
+    "Level1Path": "Accessories",
+    "Level2Path": "Headsets-and-Audio",
+    "Level3Path": "TUF-Gaming",
+    "CategoryName": "Inalámbricos",
+    "SubSeriesName": "",
+    "PDWebPath": "TUF-Gaming-H1-Wireless",
+    "Name": "<h2>TUF Gaming H1 Wireless</h2>",
+    "ReviewStar": "4.5",
+    "ReviewCount": 100,
+    "StartingAtWording": "El precio de la ASUS store es a partir de",
+    "Estore": "Precio de la ASUS store",
+    "PDCardSafety": "El precio de la ASUS store es el precio de un producto proporcionado por la ASUS store. Las especificaciones no incluidas aquí podrían no estar disponibles en la eStore y solo están como referencia.",
+    "PDCardSafety2": "",
+    "PriceLineColor": "#CCCCCC",
+    "PriceColor": "#181818",
+    "Price": "",
+    "Discount": "",
+    "DiscountColor": "#c74200",
+    "DiscountFlag": "",
+    "DiscountWording": "Guardar",
+    "RegularPrice": "",
+    "StartTimeWording": "",
+    "StartTime": "",
+    "EndTimeWording": "",
+    "EndTime": "",
+    "Notice": "",
+    "ShippingHint": "",
+    "ModelSpec": "Los auriculares TUF Gaming H1 Wireless cuentan con una conexión de 2,4 GHz, sonido envolvente 7.1 con graves profundos, un micrófono certificado para Discord y TeamSpeak, un diseño ligero y cómodo, además de compatibilidad con PC, PlayStation<sup>® </sup> 5 y Nintendo Switch™.",
+    "ProductOnlineDt": "2021-09-13 17:58:00",
+    "ImageList": [
+      {
+        "DefaultFlag": "Y",
+        "ColorCode": "XXXX",
+        "ColorName": "",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/46dd9f1e-ad8c-4972-af87-d60c1dc888d1/w185",
+          "https://dlcdnwebimgs.asus.com/gain/81bc3a4a-60a0-46cc-9f71-ffe49b20cb5f/w185",
+          "https://dlcdnwebimgs.asus.com/gain/60d7f15e-7c3a-48e8-8d1b-55c92e4fdac4/w185"
+        ]
+      }
+    ],
+    "ProductLogo": [],
+    "Buy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "ManualBuy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "WhereToBuy": {
+      "WTBText": "Dónde comprar",
+      "WTBFlag": 0,
+      "WTBLink": ""
+    },
+    "FindNearBy": {
+      "FindNearByText": "Encuentra una tienda",
+      "FindNearByFlag": 0
+    },
+    "VolumePurchase": {
+      "Level1Name": "",
+      "Text": "Volume purchase",
+      "Link": "https://www.connect.asus.com/ar/VolumePurchase",
+      "linkTarget": "_blank"
+    },
+    "LearnMore": "Más información",
+    "Compare": "Comparar",
+    "SeeMore": "Ver más",
+    "SeeLess": "Ver menos",
+    "ExternalID": "",
+    "ProductID": "18086",
+    "RealProductID": 18086,
+    "M1Id": 18086,
+    "ProductHashedID": "cb46c996bab44237",
+    "PartNo": "",
+    "NewFlag": "0",
+    "DataRow": 4,
+    "ModelBaseFlag": 1,
+    "SpecFlag": 1,
+    "LowestPriceInNDayPeriod": "el precio más bajo en el periodo de 30 días anterior a la introducción del descuento",
+    "SubTagline": "",
+    "Tooltip": "",
+    "ReviewFlag": 0,
+    "HistoricLowPrice": "",
+    "SortPrice": "",
+    "StockStatus": "",
+    "SalesModelName": ""
+  },
+  {
+    "SourceType": "prod",
+    "GetURLFlag": 0,
+    "isRogFlag": 0,
+    "Level1ID": 6,
+    "ProductURL": "https://www.asus.com/ar/accessories/headsets-and-audio/tuf-gaming/tuf-gaming-h3-wireless/",
+    "ProductCardURL": "https://www.asus.com/ar/accessories/headsets-and-audio/tuf-gaming/tuf-gaming-h3-wireless/",
+    "CustomizeTag": {
+      "Enabled": false,
+      "Text": ""
+    },
+    "LeftHeader": {
+      "NewsFlag": "N",
+      "DealFlag": "N",
+      "NewsFlagWording": "Nuevo",
+      "DealFlagWording": "OFERTA"
+    },
+    "RightHeader": [],
+    "ProductImage": "",
+    "Size": "",
+    "Level1Path": "Accessories",
+    "Level2Path": "Headsets-and-Audio",
+    "Level3Path": "TUF-Gaming",
+    "CategoryName": "Inalámbricos",
+    "SubSeriesName": "",
+    "PDWebPath": "TUF-Gaming-H3-Wireless",
+    "Name": "<h2>TUF Gaming H3 Wireless</h2>",
+    "ReviewStar": "4.5",
+    "ReviewCount": 100,
+    "StartingAtWording": "El precio de la ASUS store es a partir de",
+    "Estore": "Precio de la ASUS store",
+    "PDCardSafety": "El precio de la ASUS store es el precio de un producto proporcionado por la ASUS store. Las especificaciones no incluidas aquí podrían no estar disponibles en la eStore y solo están como referencia.",
+    "PDCardSafety2": "",
+    "PriceLineColor": "#CCCCCC",
+    "PriceColor": "#181818",
+    "Price": "",
+    "Discount": "",
+    "DiscountColor": "#c74200",
+    "DiscountFlag": "",
+    "DiscountWording": "Guardar",
+    "RegularPrice": "",
+    "StartTimeWording": "",
+    "StartTime": "",
+    "EndTimeWording": "",
+    "EndTime": "",
+    "Notice": "",
+    "ShippingHint": "",
+    "ModelSpec": "Los auriculares TUF Gaming H3 Wireless para PC, PlayStation<sup>&reg;</sup> 5, Nintendo Switch&trade; y teléfonos móviles cuentan con una conexión de 2.4 GHz con un alcance de 25 m, controladores ASUS Essence de 50 mm, sonido envolvente 7.1, graves profundos, un diseño ligero y almohadillas de enfriamiento rápido.",
+    "ProductOnlineDt": "2021-03-04 19:17:00",
+    "ImageList": [
+      {
+        "DefaultFlag": "Y",
+        "ColorCode": "XXXX",
+        "ColorName": "",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/bee6dd15-7c6b-4bf9-a401-bf7e003616ab/w185",
+          "https://dlcdnwebimgs.asus.com/gain/0db933cf-3d3e-4f39-a9f9-fb75d4b0892e/w185",
+          "https://dlcdnwebimgs.asus.com/gain/5ada6c7f-8dc8-4a4a-9f55-8efcdcab3356/w185"
+        ]
+      }
+    ],
+    "ProductLogo": [],
+    "Buy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "ManualBuy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "WhereToBuy": {
+      "WTBText": "Dónde comprar",
+      "WTBFlag": 0,
+      "WTBLink": ""
+    },
+    "FindNearBy": {
+      "FindNearByText": "Encuentra una tienda",
+      "FindNearByFlag": 0
+    },
+    "VolumePurchase": {
+      "Level1Name": "",
+      "Text": "Volume purchase",
+      "Link": "https://www.connect.asus.com/ar/VolumePurchase",
+      "linkTarget": "_blank"
+    },
+    "LearnMore": "Más información",
+    "Compare": "Comparar",
+    "SeeMore": "Ver más",
+    "SeeLess": "Ver menos",
+    "ExternalID": "",
+    "ProductID": "15243",
+    "RealProductID": 15243,
+    "M1Id": 15243,
+    "ProductHashedID": "e22676dfd6d6459d",
+    "PartNo": "",
+    "NewFlag": "0",
+    "DataRow": 3,
+    "ModelBaseFlag": 1,
+    "SpecFlag": 1,
+    "LowestPriceInNDayPeriod": "el precio más bajo en el periodo de 30 días anterior a la introducción del descuento",
+    "SubTagline": "",
+    "Tooltip": "",
+    "ReviewFlag": 0,
+    "HistoricLowPrice": "",
+    "SortPrice": "",
+    "StockStatus": "",
+    "SalesModelName": ""
+  },
+  {
+    "SourceType": "prod",
+    "GetURLFlag": 0,
+    "isRogFlag": 0,
+    "Level1ID": 6,
+    "ProductURL": "https://www.asus.com/ar/accessories/headsets-and-audio/headsets-accessories/ai-noise-canceling-mic-adapter/",
+    "ProductCardURL": "https://www.asus.com/ar/accessories/headsets-and-audio/headsets-accessories/ai-noise-canceling-mic-adapter/",
+    "CustomizeTag": {
+      "Enabled": false,
+      "Text": ""
+    },
+    "LeftHeader": {
+      "NewsFlag": "N",
+      "DealFlag": "N",
+      "NewsFlagWording": "Nuevo",
+      "DealFlagWording": "OFERTA"
+    },
+    "RightHeader": [],
+    "ProductImage": "",
+    "Size": "",
+    "Level1Path": "Accessories",
+    "Level2Path": "Headsets-and-Audio",
+    "Level3Path": "Headsets-Accessories",
+    "CategoryName": "Headsets",
+    "SubSeriesName": "",
+    "PDWebPath": "AI-Noise-Canceling-Mic-Adapter",
+    "Name": "<h2>AI Noise-Canceling Mic Adapter</h2>",
+    "ReviewStar": "4.5",
+    "ReviewCount": 100,
+    "StartingAtWording": "El precio de la ASUS store es a partir de",
+    "Estore": "Precio de la ASUS store",
+    "PDCardSafety": "El precio de la ASUS store es el precio de un producto proporcionado por la ASUS store. Las especificaciones no incluidas aquí podrían no estar disponibles en la eStore y solo están como referencia.",
+    "PDCardSafety2": "",
+    "PriceLineColor": "#CCCCCC",
+    "PriceColor": "#181818",
+    "Price": "",
+    "Discount": "",
+    "DiscountColor": "#c74200",
+    "DiscountFlag": "",
+    "DiscountWording": "Guardar",
+    "RegularPrice": "",
+    "StartTimeWording": "",
+    "StartTime": "",
+    "EndTimeWording": "",
+    "EndTime": "",
+    "Notice": "",
+    "ShippingHint": "",
+    "ModelSpec": "ASUS AI Noise-Canceling Mic Adapter con conexión USB-C a 3,5 mm ofrece una comunicación cristalina inigualable",
+    "ProductOnlineDt": "2020-06-02 18:05:00",
+    "ImageList": [
+      {
+        "DefaultFlag": "Y",
+        "ColorCode": "XXXX",
+        "ColorName": "",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/5537d388-5b3b-490d-a815-100ed757fc2b/w185",
+          "https://dlcdnwebimgs.asus.com/gain/1da4cf60-8207-423e-b272-d4ad16ed3ede/w185"
+        ]
+      }
+    ],
+    "ProductLogo": [],
+    "Buy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "ManualBuy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "WhereToBuy": {
+      "WTBText": "Dónde comprar",
+      "WTBFlag": 0,
+      "WTBLink": ""
+    },
+    "FindNearBy": {
+      "FindNearByText": "Encuentra una tienda",
+      "FindNearByFlag": 0
+    },
+    "VolumePurchase": {
+      "Level1Name": "",
+      "Text": "Volume purchase",
+      "Link": "https://www.connect.asus.com/ar/VolumePurchase",
+      "linkTarget": "_blank"
+    },
+    "LearnMore": "Más información",
+    "Compare": "Comparar",
+    "SeeMore": "Ver más",
+    "SeeLess": "Ver menos",
+    "ExternalID": "",
+    "ProductID": "14876",
+    "RealProductID": 14876,
+    "M1Id": 14876,
+    "ProductHashedID": "734dd6f77d964092",
+    "PartNo": "",
+    "NewFlag": "0",
+    "DataRow": 2,
+    "ModelBaseFlag": 1,
+    "SpecFlag": 1,
+    "LowestPriceInNDayPeriod": "el precio más bajo en el periodo de 30 días anterior a la introducción del descuento",
+    "SubTagline": "",
+    "Tooltip": "",
+    "ReviewFlag": 0,
+    "HistoricLowPrice": "",
+    "SortPrice": "",
+    "StockStatus": "",
+    "SalesModelName": ""
+  },
+  {
+    "SourceType": "prod",
+    "GetURLFlag": 0,
+    "isRogFlag": 0,
+    "Level1ID": 6,
+    "ProductURL": "https://www.asus.com/ar/accessories/headsets-and-audio/tuf-gaming/tuf-gaming-h3-headset/",
+    "ProductCardURL": "https://www.asus.com/ar/accessories/headsets-and-audio/tuf-gaming/tuf-gaming-h3-headset/",
+    "CustomizeTag": {
+      "Enabled": false,
+      "Text": ""
+    },
+    "LeftHeader": {
+      "NewsFlag": "N",
+      "DealFlag": "N",
+      "NewsFlagWording": "Nuevo",
+      "DealFlagWording": "OFERTA"
+    },
+    "RightHeader": [],
+    "ProductImage": "",
+    "Size": "          ",
+    "Level1Path": "Accessories",
+    "Level2Path": "Headsets-and-Audio",
+    "Level3Path": "TUF-Gaming",
+    "CategoryName": "Alámbricos",
+    "SubSeriesName": "",
+    "PDWebPath": "TUF-GAMING-H3-Headset",
+    "Name": "<h2>TUF GAMING H3 Headset</h2>",
+    "ReviewStar": "4.5",
+    "ReviewCount": 100,
+    "StartingAtWording": "El precio de la ASUS store es a partir de",
+    "Estore": "Precio de la ASUS store",
+    "PDCardSafety": "El precio de la ASUS store es el precio de un producto proporcionado por la ASUS store. Las especificaciones no incluidas aquí podrían no estar disponibles en la eStore y solo están como referencia.",
+    "PDCardSafety2": "",
+    "PriceLineColor": "#CCCCCC",
+    "PriceColor": "#181818",
+    "Price": "",
+    "Discount": "",
+    "DiscountColor": "#c74200",
+    "DiscountFlag": "",
+    "DiscountWording": "Guardar",
+    "RegularPrice": "",
+    "StartTimeWording": "",
+    "StartTime": "",
+    "EndTimeWording": "",
+    "EndTime": "",
+    "Notice": "",
+    "ShippingHint": "",
+    "ModelSpec": "<p>Aud&iacute;fonos de gaming TUF Gaming H3 para PC, PS4, Xbox One y Nintendo Switch, con sonido envolvente 7.1, graves potentes, dise&ntilde;o ligero y almohadillas bien ventiladas</p>",
+    "ProductOnlineDt": "2019-08-14 10:29:00",
+    "ImageList": [
+      {
+        "DefaultFlag": "N",
+        "ColorCode": "#dadada",
+        "ColorName": "",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/2c3123cb-ff9e-4b84-a5c9-23d48e5e0ae0/w185",
+          "https://dlcdnwebimgs.asus.com/gain/9597337b-19fa-434e-a0e9-ced3403ca7bf/w185",
+          "https://dlcdnwebimgs.asus.com/gain/8da18ff6-8664-46b2-a2b0-d9fa411dd365/w185"
+        ]
+      },
+      {
+        "DefaultFlag": "N",
+        "ColorCode": "#9b9b9b",
+        "ColorName": "",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/6912d1a7-a7ef-42c4-83ca-dfd703866470/w185",
+          "https://dlcdnwebimgs.asus.com/gain/4fd17caa-9c8b-4185-89d0-660236dc9499/w185",
+          "https://dlcdnwebimgs.asus.com/gain/47f97860-d85c-4c94-ad74-12a877470ef4/w185"
+        ]
+      },
+      {
+        "DefaultFlag": "N",
+        "ColorCode": "#004ea8",
+        "ColorName": "",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/88fb722b-e666-41d3-83b8-df19c852e99b/w185",
+          "https://dlcdnwebimgs.asus.com/gain/5ba87895-2d78-4ce7-977c-4a61c1784802/w185",
+          "https://dlcdnwebimgs.asus.com/gain/2252fdd0-99ff-4625-b769-42bf3ea37336/w185"
+        ]
+      },
+      {
+        "DefaultFlag": "N",
+        "ColorCode": "#c8102e",
+        "ColorName": "",
+        "ImageURL": [
+          "https://dlcdnwebimgs.asus.com/gain/65aa45ff-7789-42c1-bc97-95d42a284c23/w185",
+          "https://dlcdnwebimgs.asus.com/gain/9f133db5-9fe8-4d6f-9c53-53bc18a2ad6c/w185",
+          "https://dlcdnwebimgs.asus.com/gain/ce7402d0-1fe6-4e0c-9f39-594b6c7b6160/w185"
+        ]
+      }
+    ],
+    "ProductLogo": [],
+    "Buy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "ManualBuy": {
+      "Text": "",
+      "Link": "",
+      "Code": ""
+    },
+    "WhereToBuy": {
+      "WTBText": "Dónde comprar",
+      "WTBFlag": 0,
+      "WTBLink": ""
+    },
+    "FindNearBy": {
+      "FindNearByText": "Encuentra una tienda",
+      "FindNearByFlag": 0
+    },
+    "VolumePurchase": {
+      "Level1Name": "",
+      "Text": "Volume purchase",
+      "Link": "https://www.connect.asus.com/ar/VolumePurchase",
+      "linkTarget": "_blank"
+    },
+    "LearnMore": "Más información",
+    "Compare": "Comparar",
+    "SeeMore": "Ver más",
+    "SeeLess": "Ver menos",
+    "ExternalID": "",
+    "ProductID": "12212",
+    "RealProductID": 12212,
+    "M1Id": 12212,
+    "ProductHashedID": "cc97c0f728d04b4d",
+    "PartNo": "",
+    "NewFlag": "0",
+    "DataRow": 1,
+    "ModelBaseFlag": 1,
+    "SpecFlag": 1,
+    "LowestPriceInNDayPeriod": "el precio más bajo en el periodo de 30 días anterior a la introducción del descuento",
+    "SubTagline": "",
+    "Tooltip": "",
+    "ReviewFlag": 0,
+    "HistoricLowPrice": "",
+    "SortPrice": "",
+    "StockStatus": "",
+    "SalesModelName": ""
+  }
+]
