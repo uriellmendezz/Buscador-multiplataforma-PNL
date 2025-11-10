@@ -1,8 +1,9 @@
+from scripts.env import HEADERS, FRAVEGA_COOKIES
+from scripts.utils import obtener_json, guardar_json
+
 import requests
-from env import HEADERS, FRAVEGA_COOKIES
 import time
 import random
-from utils import obtener_json, guardar_json
 import pandas as pd
 import json
 
@@ -44,6 +45,7 @@ def generar_json(response: requests.Response):
         return response.json()
     except:
         raise Exception('No se pudo convertir a JSON la respuesta.')
+    
     
 def transformaciones(data_json: dict):
     productos = data_json["data"]["items"]["results"]
@@ -109,7 +111,60 @@ def transformaciones(data_json: dict):
 
     return df.merge(df_skus, on='id').drop('skus_results', axis=1)
 
+def scraping(max_productos=500, page_size=50, start_offset=0, max_offset=None, delay=5):
+    """
+    Descarga páginas de productos y guarda cada respuesta JSON en un archivo.
+    - Corta si:
+      * se alcanzó max_productos,
+      * results viene vacío,
+      * se supera max_offset (si se define).
+    Devuelve: lista de archivos guardados y contador de productos acumulados.
+    """
+    offset = start_offset
+    guardados = []
+    total_acumulado = 0
 
+    while True:
+        # Límite por offset si se definió
+        if max_offset is not None and offset >= max_offset:
+            print(f"Se alcanzó max_offset={max_offset}. Fin.")
+            break
+
+        try:
+            resp = obtener_productos(offset=offset, page_size=page_size)
+            data_json = generar_json(resp)  # levanta si el JSON no es válido
+
+            # results puede ser una lista vacía al final
+            results = data_json.get("data", {}).get("items", {}).get("results", [])
+            cant = len(results)
+
+            if cant == 0:
+                print(f"OFFSET {offset}: sin resultados. Fin.")
+                break
+
+            nombre_archivo = f"productos-offset{offset}.json"
+            guardar_json(data_json, nombre_archivo)
+            guardados.append(nombre_archivo)
+
+            total_acumulado += cant
+            print(f"OFFSET {offset}: {cant} productos (acumulado={total_acumulado}). Guardado {nombre_archivo}.")
+
+            # Criterio de corte por cantidad máxima
+            if max_productos is not None and total_acumulado >= max_productos:
+                print(f"Se alcanzó max_productos={max_productos}. Fin.")
+                break
+
+            # Avanzar paginado
+            offset += page_size
+            time.sleep(delay)
+
+        except Exception as e:
+            # Error de esta iteración: lo reporto y continúo con la siguiente página
+            print(f"ERROR en offset {offset}: {e}")
+            # Podés decidir si cortar o saltar a la siguiente página:
+            offset += page_size
+            time.sleep(delay)
+            continue
 
 if __name__ == '__main__':
-    
+    scraping()

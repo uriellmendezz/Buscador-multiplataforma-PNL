@@ -1,0 +1,3817 @@
+{
+  "data": {
+    "items": {
+      "total": 360,
+      "recommendations": {
+        "keywords": [],
+        "__typename": "Recommendations"
+      },
+      "results": [
+        {
+          "sellers": [
+            {
+              "commercialName": "NocNoc Asia",
+              "__typename": "SellerAggregation"
+            }
+          ],
+          "stockLabels": [],
+          "id": "685eb10ed9cfad2b9a194e11",
+          "title": "Placa madre ASUS Z77-A LGA 1155 ATX con 32 GB DDR3 2400 MHz",
+          "katalogCategoryId": "5a301c0e1400007700491ba7",
+          "brand": {
+            "id": "5a301bdc140000630049072b",
+            "name": "Asus",
+            "__typename": "Brand"
+          },
+          "skus": {
+            "results": [
+              {
+                "code": "22503966",
+                "categorization": [
+                  [
+                    {
+                      "name": "Mothers",
+                      "slug": "informatica/gaming-pc/mothers",
+                      "__typename": "Category"
+                    },
+                    {
+                      "name": "Gaming PC",
+                      "slug": "informatica/gaming-pc",
+                      "__typename": "Category"
+                    },
+                    {
+                      "name": "Informática",
+                      "slug": "informatica",
+                      "__typename": "Category"
+                    }
+                  ]
+                ],
+                "resolvedBidId": null,
+                "sponsored": null,
+                "campaignId": null,
+                "pricing": [
+                  {
+                    "channel": "fravega-ecommerce",
+                    "listPrice": 206951,
+                    "salePrice": 175908.35,
+                    "discount": 15,
+                    "__typename": "Pricing"
+                  }
+                ],
+                "netPricing": [
+                  {
+                    "channel": "net-price",
+                    "listPrice": 145378.8,
+                    "salePrice": 175908.35,
+                    "discount": 15,
+                    "__typename": "Pricing"
+                  }
+                ],
+                "__typename": "Sku"
+              }
+            ],
+            "__typename": "ItemSkuSearchResponse"
+          },
+          "gtin": {
+            "__typename": "EAN",
+            "number": "6903755834828"
+          },
+          "images": [
+            "eac2d6372f179ad3b1d7be879b84d71b.jpg",
+            "b98df8f724e403e1bd0a4846a6ed9f90.jpg",
+            "ec3077dc48eaed216807fb787c220bf9.jpg",
+            "b9b44faf5acd4266a354b693d477dab0.jpg"
+          ],
+          "collections": {
+            "cardinality": 1,
+            "values": [
+              {
+                "id": "9d5de4e9-b8f3-4c3d-94ef-44104da2755f",
+                "name": "Compra internacional",
+                "slug": "compra-internacional",
+                "count": 1,
+                "cockade": {
+                  "position": "BottomRightCorner",
+                  "image": "1036b9bd5d82203e02d616f0cee7614f.png",
+                  "__typename": "Cockade"
+                },
+                "__typename": "CollectionAggregation"
+              }
+            ],
+            "__typename": "CollectionsAggregation"
+          },
+          "installments": {
+            "cardinality": 0,
+            "values": [],
+            "__typename": "CollectionsAggregation"
+          },
+          "listPrice": {
+            "amounts": [
+              {
+                "min": 206951,
+                "max": 206951,
+                "__typename": "ListPriceAmountAggregation"
+              }
+            ],
+            "__typename": "ListPriceAggregation"
+          },
+          "salePrice": {
+            "amounts": [
+              {
+                "min": 175908.35,
+                "max": 175908.35,
+                "__typename": "SalePriceAmountAggregation"
+              }
+            ],
+            "discounts": [
+              {
+                "min": 15,
+                "max": 15,
+                "__typename": "SalePriceDiscountAggregation"
+              }
+            ],
+            "__typename": "SalePriceAggregation"
+          },
+          "slug": "placa-madre-asus-z77-a-lga-1155-atx-con-32-gb-ddr3-2400-mhz",
+          "__typename": "ExtendedItem"
+        },
+        {
+          "sellers": [
+            {
+              "commercialName": "NocNoc Asia",
+              "__typename": "SellerAggregation"
+            }
+          ],
+          "stockLabels": [],
+          "id": "685eb110cc0910c8d4d9f729",
+          "title": "Placa Madre ASUS Z97-K R2.0 LGA 1150 ATX Usada",
+          "katalogCategoryId": "5a301c0e1400007700491ba7",
+          "brand": {
+            "id": "5a301bdc140000630049072b",
+            "name": "Asus",
+            "__typename": "Brand"
+          },
+          "skus": {
+            "results": [
+              {
+                "code": "22503967",
+                "categorization": [
+                  [
+                    {
+                      "name": "Mothers",
+                      "slug": "informatica/gaming-pc/mothers",
+                      "__typename": "Category"
+                    },
+                    {
+                      "name": "Gaming PC",
+                      "slug": "informatica/gaming-pc",
+                      "__typename": "Category"
+                    },
+                    {
+                      "name": "Informática",
+                      "slug": "informatica",
+                      "__typename": "Category"
+                    }
+                  ]
+                ],
+                "resolvedBidId": null,
+                "sponsored": null,
+                "campaignId": null,
+                "pricing": [
+                  {
+                    "channel": "fravega-ecommerce",
+                    "listPrice": 212988,
+                    "salePrice": 181039.8,
+                    "discount": 15,
+                    "__typename": "Pricing"
+                  }
+                ],
+                "netPricing": [
+                  {
+                    "channel": "net-price",
+                    "listPrice": 149619.67,
+                    "salePrice": 181039.8,
+                    "discount": 15,
+                    "__typename": "Pricing"
+                  }
+                ],
+                "__typename": "Sku"
+              }
+            ],
+            "__typename": "ItemSkuSearchResponse"
+          },
+          "gtin": {
+            "__typename": "EAN",
+            "number": "6903755835009"
+          },
+          "images": [
+            "b10a1ec450d8ac905923d8a538046ea2.jpg",
+            "639207a0466f8d2271ef0d633679a690.jpg",
+            "44e32d59bd9ffec2a4ef26bc2e420e1c.jpg",
+            "de6cbb985578e1e49b151f40ac7e22d6.jpg"
+          ],
+          "collections": {
+            "cardinality": 1,
+            "values": [
+              {
+                "id": "9d5de4e9-b8f3-4c3d-94ef-44104da2755f",
+                "name": "Compra internacional",
+                "slug": "compra-internacional",
+                "count": 1,
+                "cockade": {
+                  "position": "BottomRightCorner",
+                  "image": "1036b9bd5d82203e02d616f0cee7614f.png",
+                  "__typename": "Cockade"
+                },
+                "__typename": "CollectionAggregation"
+              }
+            ],
+            "__typename": "CollectionsAggregation"
+          },
+          "installments": {
+            "cardinality": 0,
+            "values": [],
+            "__typename": "CollectionsAggregation"
+          },
+          "listPrice": {
+            "amounts": [
+              {
+                "min": 212988,
+                "max": 212988,
+                "__typename": "ListPriceAmountAggregation"
+              }
+            ],
+            "__typename": "ListPriceAggregation"
+          },
+          "salePrice": {
+            "amounts": [
+              {
+                "min": 181039.8,
+                "max": 181039.8,
+                "__typename": "SalePriceAmountAggregation"
+              }
+            ],
+            "discounts": [
+              {
+                "min": 15,
+                "max": 15,
+                "__typename": "SalePriceDiscountAggregation"
+              }
+            ],
+            "__typename": "SalePriceAggregation"
+          },
+          "slug": "placa-madre-asus-z97-k-r2-0-lga-1150-atx-usada",
+          "__typename": "ExtendedItem"
+        },
+        {
+          "sellers": [
+            {
+              "commercialName": "NocNoc Asia",
+              "__typename": "SellerAggregation"
+            }
+          ],
+          "stockLabels": [],
+          "id": "685eb1128e16a89ecffc83d2",
+          "title": "Placa Madre ASUS PRIME Z490-A LGA 1200 ATX Usada",
+          "katalogCategoryId": "5a301c0e1400007700491ba7",
+          "brand": {
+            "id": "5a301bdc140000630049072b",
+            "name": "Asus",
+            "__typename": "Brand"
+          },
+          "skus": {
+            "results": [
+              {
+                "code": "22503968",
+                "categorization": [
+                  [
+                    {
+                      "name": "Mothers",
+                      "slug": "informatica/gaming-pc/mothers",
+                      "__typename": "Category"
+                    },
+                    {
+                      "name": "Gaming PC",
+                      "slug": "informatica/gaming-pc",
+                      "__typename": "Category"
+                    },
+                    {
+                      "name": "Informática",
+                      "slug": "informatica",
+                      "__typename": "Category"
+                    }
+                  ]
+                ],
+                "resolvedBidId": null,
+                "sponsored": null,
+                "campaignId": null,
+                "pricing": [
+                  {
+                    "channel": "fravega-ecommerce",
+                    "listPrice": 461691,
+                    "salePrice": 392437.35,
+                    "discount": 15,
+                    "__typename": "Pricing"
+                  }
+                ],
+                "netPricing": [
+                  {
+                    "channel": "net-price",
+                    "listPrice": 324328.39,
+                    "salePrice": 392437.35,
+                    "discount": 15,
+                    "__typename": "Pricing"
+                  }
+                ],
+                "__typename": "Sku"
+              }
+            ],
+            "__typename": "ItemSkuSearchResponse"
+          },
+          "gtin": {
+            "__typename": "EAN",
+            "number": "6903755834125"
+          },
+          "images": [
+            "4ad41c069c76050c0a986f2ba92e416e.jpg",
+            "3da8c3d71f16e915296f6d47ba7690e6.jpg",
+            "711f4112fb49fe3ed4362a63098e919d.jpg",
+            "2816085468571988f964b2ae63c50fb4.jpg"
+          ],
+          "collections": {
+            "cardinality": 1,
+            "values": [
+              {
+                "id": "9d5de4e9-b8f3-4c3d-94ef-44104da2755f",
+                "name": "Compra internacional",
+                "slug": "compra-internacional",
+                "count": 1,
+                "cockade": {
+                  "position": "BottomRightCorner",
+                  "image": "1036b9bd5d82203e02d616f0cee7614f.png",
+                  "__typename": "Cockade"
+                },
+                "__typename": "CollectionAggregation"
+              }
+            ],
+            "__typename": "CollectionsAggregation"
+          },
+          "installments": {
+            "cardinality": 0,
+            "values": [],
+            "__typename": "CollectionsAggregation"
+          },
+          "listPrice": {
+            "amounts": [
+              {
+                "min": 461691,
+                "max": 461691,
+                "__typename": "ListPriceAmountAggregation"
+              }
+            ],
+            "__typename": "ListPriceAggregation"
+          },
+          "salePrice": {
+            "amounts": [
+              {
+                "min": 392437.35,
+                "max": 392437.35,
+                "__typename": "SalePriceAmountAggregation"
+              }
+            ],
+            "discounts": [
+              {
+                "min": 15,
+                "max": 15,
+                "__typename": "SalePriceDiscountAggregation"
+              }
+            ],
+            "__typename": "SalePriceAggregation"
+          },
+          "slug": "placa-madre-asus-prime-z490-a-lga-1200-atx-usada",
+          "__typename": "ExtendedItem"
+        },
+        {
+          "sellers": [
+            {
+              "commercialName": "NocNoc Asia",
+              "__typename": "SellerAggregation"
+            }
+          ],
+          "stockLabels": [],
+          "id": "685eb1145a1ef6447a657cfd",
+          "title": "Placa madre ASUS Z97-K LGA 1150 ATX usada con 32 GB DDR3",
+          "katalogCategoryId": "5a301c0e1400007700491ba7",
+          "brand": {
+            "id": "5a301bdc140000630049072b",
+            "name": "Asus",
+            "__typename": "Brand"
+          },
+          "skus": {
+            "results": [
+              {
+                "code": "22503969",
+                "categorization": [
+                  [
+                    {
+                      "name": "Mothers",
+                      "slug": "informatica/gaming-pc/mothers",
+                      "__typename": "Category"
+                    },
+                    {
+                      "name": "Gaming PC",
+                      "slug": "informatica/gaming-pc",
+                      "__typename": "Category"
+                    },
+                    {
+                      "name": "Informática",
+                      "slug": "informatica",
+                      "__typename": "Category"
+                    }
+                  ]
+                ],
+                "resolvedBidId": null,
+                "sponsored": null,
+                "campaignId": null,
+                "pricing": [
+                  {
+                    "channel": "fravega-ecommerce",
+                    "listPrice": 200855,
+                    "salePrice": 170726.75,
+                    "discount": 15,
+                    "__typename": "Pricing"
+                  }
+                ],
+                "netPricing": [
+                  {
+                    "channel": "net-price",
+                    "listPrice": 141096.49,
+                    "salePrice": 170726.75,
+                    "discount": 15,
+                    "__typename": "Pricing"
+                  }
+                ],
+                "__typename": "Sku"
+              }
+            ],
+            "__typename": "ItemSkuSearchResponse"
+          },
+          "gtin": {
+            "__typename": "EAN",
+            "number": "6903755835016"
+          },
+          "images": [
+            "0c18b8da594d3826cf3bbc42afc581a8.jpg",
+            "fff0977641da295980679d70e39c1558.jpg",
+            "cd6608c3f613e50bbb3454dae268c882.jpg"
+          ],
+          "collections": {
+            "cardinality": 1,
+            "values": [
+              {
+                "id": "9d5de4e9-b8f3-4c3d-94ef-44104da2755f",
+                "name": "Compra internacional",
+                "slug": "compra-internacional",
+                "count": 1,
+                "cockade": {
+                  "position": "BottomRightCorner",
+                  "image": "1036b9bd5d82203e02d616f0cee7614f.png",
+                  "__typename": "Cockade"
+                },
+                "__typename": "CollectionAggregation"
+              }
+            ],
+            "__typename": "CollectionsAggregation"
+          },
+          "installments": {
+            "cardinality": 0,
+            "values": [],
+            "__typename": "CollectionsAggregation"
+          },
+          "listPrice": {
+            "amounts": [
+              {
+                "min": 200855,
+                "max": 200855,
+                "__typename": "ListPriceAmountAggregation"
+              }
+            ],
+            "__typename": "ListPriceAggregation"
+          },
+          "salePrice": {
+            "amounts": [
+              {
+                "min": 170726.75,
+                "max": 170726.75,
+                "__typename": "SalePriceAmountAggregation"
+              }
+            ],
+            "discounts": [
+              {
+                "min": 15,
+                "max": 15,
+                "__typename": "SalePriceDiscountAggregation"
+              }
+            ],
+            "__typename": "SalePriceAggregation"
+          },
+          "slug": "placa-madre-asus-z97-k-lga-1150-atx-usada-con-32-gb-ddr3",
+          "__typename": "ExtendedItem"
+        },
+        {
+          "sellers": [
+            {
+              "commercialName": "nocnoc",
+              "__typename": "SellerAggregation"
+            }
+          ],
+          "stockLabels": [],
+          "id": "68764d72055593d8c625fb35",
+          "title": "Auriculares inalámbricos para juegos ASUS ROG Delta II negros",
+          "katalogCategoryId": "5a301c0f1400008700491c27",
+          "brand": {
+            "id": "5a301bdd1400002e004907d2",
+            "name": "Generico",
+            "__typename": "Brand"
+          },
+          "skus": {
+            "results": [
+              {
+                "code": "22515387",
+                "categorization": [
+                  [
+                    {
+                      "name": "Auriculares",
+                      "slug": "informatica/gaming-pc/auriculares",
+                      "__typename": "Category"
+                    },
+                    {
+                      "name": "Gaming PC",
+                      "slug": "informatica/gaming-pc",
+                      "__typename": "Category"
+                    },
+                    {
+                      "name": "Informática",
+                      "slug": "informatica",
+                      "__typename": "Category"
+                    }
+                  ]
+                ],
+                "resolvedBidId": null,
+                "sponsored": null,
+                "campaignId": null,
+                "pricing": [
+                  {
+                    "channel": "fravega-ecommerce",
+                    "listPrice": 904718,
+                    "salePrice": 769010.3,
+                    "discount": 15,
+                    "__typename": "Pricing"
+                  }
+                ],
+                "netPricing": [
+                  {
+                    "channel": "net-price",
+                    "listPrice": 635545.7,
+                    "salePrice": 769010.3,
+                    "discount": 15,
+                    "__typename": "Pricing"
+                  }
+                ],
+                "__typename": "Sku"
+              }
+            ],
+            "__typename": "ItemSkuSearchResponse"
+          },
+          "gtin": null,
+          "images": [
+            "785d2a1c0487d45a3a7d2f3fc4e180a2.jpg",
+            "74adecaac478b6420d711f9b3513ee60.jpg"
+          ],
+          "collections": {
+            "cardinality": 1,
+            "values": [
+              {
+                "id": "9d5de4e9-b8f3-4c3d-94ef-44104da2755f",
+                "name": "Compra internacional",
+                "slug": "compra-internacional",
+                "count": 1,
+                "cockade": {
+                  "position": "BottomRightCorner",
+                  "image": "1036b9bd5d82203e02d616f0cee7614f.png",
+                  "__typename": "Cockade"
+                },
+                "__typename": "CollectionAggregation"
+              }
+            ],
+            "__typename": "CollectionsAggregation"
+          },
+          "installments": {
+            "cardinality": 0,
+            "values": [],
+            "__typename": "CollectionsAggregation"
+          },
+          "listPrice": {
+            "amounts": [
+              {
+                "min": 904718,
+                "max": 904718,
+                "__typename": "ListPriceAmountAggregation"
+              }
+            ],
+            "__typename": "ListPriceAggregation"
+          },
+          "salePrice": {
+            "amounts": [
+              {
+                "min": 769010.3,
+                "max": 769010.3,
+                "__typename": "SalePriceAmountAggregation"
+              }
+            ],
+            "discounts": [
+              {
+                "min": 15,
+                "max": 15,
+                "__typename": "SalePriceDiscountAggregation"
+              }
+            ],
+            "__typename": "SalePriceAggregation"
+          },
+          "slug": "auriculares-inalambricos-para-juegos-asus-rog-delta-ii-negros",
+          "__typename": "ExtendedItem"
+        },
+        {
+          "sellers": [
+            {
+              "commercialName": "nocnoc",
+              "__typename": "SellerAggregation"
+            }
+          ],
+          "stockLabels": [],
+          "id": "6876577dadb635ede0b84bfe",
+          "title": "Auriculares para juegos ASUS ROG Strix Go Core con cable, ligeros, negros",
+          "katalogCategoryId": "5a301c0f1400008700491c27",
+          "brand": {
+            "id": "5a301bdd1400002e004907d2",
+            "name": "Generico",
+            "__typename": "Brand"
+          },
+          "skus": {
+            "results": [
+              {
+                "code": "22515995",
+                "categorization": [
+                  [
+                    {
+                      "name": "Auriculares",
+                      "slug": "informatica/gaming-pc/auriculares",
+                      "__typename": "Category"
+                    },
+                    {
+                      "name": "Gaming PC",
+                      "slug": "informatica/gaming-pc",
+                      "__typename": "Category"
+                    },
+                    {
+                      "name": "Informática",
+                      "slug": "informatica",
+                      "__typename": "Category"
+                    }
+                  ]
+                ],
+                "resolvedBidId": null,
+                "sponsored": null,
+                "campaignId": null,
+                "pricing": [
+                  {
+                    "channel": "fravega-ecommerce",
+                    "listPrice": 335917,
+                    "salePrice": 285529.45,
+                    "discount": 15,
+                    "__typename": "Pricing"
+                  }
+                ],
+                "netPricing": [
+                  {
+                    "channel": "net-price",
+                    "listPrice": 235974.75,
+                    "salePrice": 285529.45,
+                    "discount": 15,
+                    "__typename": "Pricing"
+                  }
+                ],
+                "__typename": "Sku"
+              }
+            ],
+            "__typename": "ItemSkuSearchResponse"
+          },
+          "gtin": null,
+          "images": [
+            "18292d5a7af2e70b2930f125cdfaea44.jpg",
+            "53ad796ad3c3f61405702c22bb2cc472.jpg",
+            "3677f4dc63d834fb7dc6bd49bccaaa6c.jpg",
+            "5071dc991a4a089ad3e632b4a1160a61.jpg"
+          ],
+          "collections": {
+            "cardinality": 1,
+            "values": [
+              {
+                "id": "9d5de4e9-b8f3-4c3d-94ef-44104da2755f",
+                "name": "Compra internacional",
+                "slug": "compra-internacional",
+                "count": 1,
+                "cockade": {
+                  "position": "BottomRightCorner",
+                  "image": "1036b9bd5d82203e02d616f0cee7614f.png",
+                  "__typename": "Cockade"
+                },
+                "__typename": "CollectionAggregation"
+              }
+            ],
+            "__typename": "CollectionsAggregation"
+          },
+          "installments": {
+            "cardinality": 0,
+            "values": [],
+            "__typename": "CollectionsAggregation"
+          },
+          "listPrice": {
+            "amounts": [
+              {
+                "min": 335917,
+                "max": 335917,
+                "__typename": "ListPriceAmountAggregation"
+              }
+            ],
+            "__typename": "ListPriceAggregation"
+          },
+          "salePrice": {
+            "amounts": [
+              {
+                "min": 285529.45,
+                "max": 285529.45,
+                "__typename": "SalePriceAmountAggregation"
+              }
+            ],
+            "discounts": [
+              {
+                "min": 15,
+                "max": 15,
+                "__typename": "SalePriceDiscountAggregation"
+              }
+            ],
+            "__typename": "SalePriceAggregation"
+          },
+          "slug": "auriculares-para-juegos-asus-rog-strix-go-core-con-cable-ligeros-negros",
+          "__typename": "ExtendedItem"
+        },
+        {
+          "sellers": [
+            {
+              "commercialName": "nocnoc",
+              "__typename": "SellerAggregation"
+            }
+          ],
+          "stockLabels": [],
+          "id": "68766487bc7ae1687f12eed9",
+          "title": "Auriculares inalámbricos para juegos ASUS ROG Pelta BT USB-C negros 309g",
+          "katalogCategoryId": "5a301c0f1400008700491c27",
+          "brand": {
+            "id": "5a301bdd1400002e004907d2",
+            "name": "Generico",
+            "__typename": "Brand"
+          },
+          "skus": {
+            "results": [
+              {
+                "code": "22516731",
+                "categorization": [
+                  [
+                    {
+                      "name": "Auriculares",
+                      "slug": "informatica/gaming-pc/auriculares",
+                      "__typename": "Category"
+                    },
+                    {
+                      "name": "Gaming PC",
+                      "slug": "informatica/gaming-pc",
+                      "__typename": "Category"
+                    },
+                    {
+                      "name": "Informática",
+                      "slug": "informatica",
+                      "__typename": "Category"
+                    }
+                  ]
+                ],
+                "resolvedBidId": null,
+                "sponsored": null,
+                "campaignId": null,
+                "pricing": [
+                  {
+                    "channel": "fravega-ecommerce",
+                    "listPrice": 532187,
+                    "salePrice": 452358.95,
+                    "discount": 15,
+                    "__typename": "Pricing"
+                  }
+                ],
+                "netPricing": [
+                  {
+                    "channel": "net-price",
+                    "listPrice": 373850.37,
+                    "salePrice": 452358.95,
+                    "discount": 15,
+                    "__typename": "Pricing"
+                  }
+                ],
+                "__typename": "Sku"
+              }
+            ],
+            "__typename": "ItemSkuSearchResponse"
+          },
+          "gtin": null,
+          "images": [
+            "5c209cf8d1b8a0b5bbb1e4483a30a682.jpg",
+            "76e318e7f7bbb858f9a9f343dd590b7c.jpg",
+            "9a054762c78760096061f907cb8b5c9f.jpg",
+            "a7f0d424152b651383e4cc4011a6ea14.jpg"
+          ],
+          "collections": {
+            "cardinality": 1,
+            "values": [
+              {
+                "id": "9d5de4e9-b8f3-4c3d-94ef-44104da2755f",
+                "name": "Compra internacional",
+                "slug": "compra-internacional",
+                "count": 1,
+                "cockade": {
+                  "position": "BottomRightCorner",
+                  "image": "1036b9bd5d82203e02d616f0cee7614f.png",
+                  "__typename": "Cockade"
+                },
+                "__typename": "CollectionAggregation"
+              }
+            ],
+            "__typename": "CollectionsAggregation"
+          },
+          "installments": {
+            "cardinality": 0,
+            "values": [],
+            "__typename": "CollectionsAggregation"
+          },
+          "listPrice": {
+            "amounts": [
+              {
+                "min": 532187,
+                "max": 532187,
+                "__typename": "ListPriceAmountAggregation"
+              }
+            ],
+            "__typename": "ListPriceAggregation"
+          },
+          "salePrice": {
+            "amounts": [
+              {
+                "min": 452358.95,
+                "max": 452358.95,
+                "__typename": "SalePriceAmountAggregation"
+              }
+            ],
+            "discounts": [
+              {
+                "min": 15,
+                "max": 15,
+                "__typename": "SalePriceDiscountAggregation"
+              }
+            ],
+            "__typename": "SalePriceAggregation"
+          },
+          "slug": "auriculares-inalambricos-para-juegos-asus-rog-pelta-bt-usb-c-negros-309g",
+          "__typename": "ExtendedItem"
+        },
+        {
+          "sellers": [
+            {
+              "commercialName": "nocnoc",
+              "__typename": "SellerAggregation"
+            }
+          ],
+          "stockLabels": [],
+          "id": "68b59c438717ddd4baa6f1cb",
+          "title": "Mando ASUS ROG Kunai para ROG Phone II",
+          "katalogCategoryId": "5a301c001400008a00491798",
+          "brand": {
+            "id": "5a301bdc140000630049072b",
+            "name": "Asus",
+            "__typename": "Brand"
+          },
+          "skus": {
+            "results": [
+              {
+                "code": "22601380",
+                "categorization": [
+                  [
+                    {
+                      "name": "Soportes y otros",
+                      "slug": "celulares/accesorios-para-celulares/soportes-y-otros",
+                      "__typename": "Category"
+                    },
+                    {
+                      "name": "Accesorios para Celulares",
+                      "slug": "celulares/accesorios-para-celulares",
+                      "__typename": "Category"
+                    },
+                    {
+                      "name": "Celulares",
+                      "slug": "celulares",
+                      "__typename": "Category"
+                    }
+                  ]
+                ],
+                "resolvedBidId": null,
+                "sponsored": null,
+                "campaignId": null,
+                "pricing": [
+                  {
+                    "channel": "fravega-ecommerce",
+                    "listPrice": 510726,
+                    "salePrice": 434117.1,
+                    "discount": 15,
+                    "__typename": "Pricing"
+                  }
+                ],
+                "netPricing": [
+                  {
+                    "channel": "net-price",
+                    "listPrice": 358774.46,
+                    "salePrice": 434117.1,
+                    "discount": 15,
+                    "__typename": "Pricing"
+                  }
+                ],
+                "__typename": "Sku"
+              }
+            ],
+            "__typename": "ItemSkuSearchResponse"
+          },
+          "gtin": {
+            "__typename": "EAN",
+            "number": "4718017438346"
+          },
+          "images": [
+            "bb278d87447604d092aca5b7440de3cf.jpg"
+          ],
+          "collections": {
+            "cardinality": 1,
+            "values": [
+              {
+                "id": "9d5de4e9-b8f3-4c3d-94ef-44104da2755f",
+                "name": "Compra internacional",
+                "slug": "compra-internacional",
+                "count": 1,
+                "cockade": {
+                  "position": "BottomRightCorner",
+                  "image": "1036b9bd5d82203e02d616f0cee7614f.png",
+                  "__typename": "Cockade"
+                },
+                "__typename": "CollectionAggregation"
+              }
+            ],
+            "__typename": "CollectionsAggregation"
+          },
+          "installments": {
+            "cardinality": 0,
+            "values": [],
+            "__typename": "CollectionsAggregation"
+          },
+          "listPrice": {
+            "amounts": [
+              {
+                "min": 510726,
+                "max": 510726,
+                "__typename": "ListPriceAmountAggregation"
+              }
+            ],
+            "__typename": "ListPriceAggregation"
+          },
+          "salePrice": {
+            "amounts": [
+              {
+                "min": 434117.1,
+                "max": 434117.1,
+                "__typename": "SalePriceAmountAggregation"
+              }
+            ],
+            "discounts": [
+              {
+                "min": 15,
+                "max": 15,
+                "__typename": "SalePriceDiscountAggregation"
+              }
+            ],
+            "__typename": "SalePriceAggregation"
+          },
+          "slug": "mando-asus-rog-kunai-para-rog-phone-ii",
+          "__typename": "ExtendedItem"
+        },
+        {
+          "sellers": [
+            {
+              "commercialName": "Glic",
+              "__typename": "SellerAggregation"
+            }
+          ],
+          "stockLabels": [],
+          "id": "68f0f3e385dcb36a24f52afd",
+          "title": "Laptop para juegos ASUS ROG Strix G17 (2023), QHD",
+          "katalogCategoryId": "5a301c031400008a0049181b",
+          "brand": {
+            "id": "5a301bdc140000630049072b",
+            "name": "Asus",
+            "__typename": "Brand"
+          },
+          "skus": {
+            "results": [
+              {
+                "code": "22629473",
+                "categorization": [
+                  [
+                    {
+                      "name": "Notebooks",
+                      "slug": "informatica/notebooks",
+                      "__typename": "Category"
+                    },
+                    {
+                      "name": "Informática",
+                      "slug": "informatica",
+                      "__typename": "Category"
+                    }
+                  ]
+                ],
+                "resolvedBidId": null,
+                "sponsored": null,
+                "campaignId": null,
+                "pricing": [
+                  {
+                    "channel": "fravega-ecommerce",
+                    "listPrice": 7496790,
+                    "salePrice": 5622593,
+                    "discount": 25,
+                    "__typename": "Pricing"
+                  }
+                ],
+                "netPricing": [
+                  {
+                    "channel": "net-price",
+                    "listPrice": 5622593,
+                    "salePrice": 5622593,
+                    "discount": 25,
+                    "__typename": "Pricing"
+                  }
+                ],
+                "__typename": "Sku"
+              }
+            ],
+            "__typename": "ItemSkuSearchResponse"
+          },
+          "gtin": {
+            "__typename": "EAN",
+            "number": "0197105048836"
+          },
+          "images": [
+            "58af4ac5643e4a7a931a11fe393fec91.jpg",
+            "6cda9bf5f5e43abfab3e1e8207cd4627.jpg",
+            "647ea31c4c1e18a98d9cb20605a92fc5.jpg"
+          ],
+          "collections": {
+            "cardinality": 1,
+            "values": [
+              {
+                "id": "9d5de4e9-b8f3-4c3d-94ef-44104da2755f",
+                "name": "Compra internacional",
+                "slug": "compra-internacional",
+                "count": 1,
+                "cockade": {
+                  "position": "BottomRightCorner",
+                  "image": "1036b9bd5d82203e02d616f0cee7614f.png",
+                  "__typename": "Cockade"
+                },
+                "__typename": "CollectionAggregation"
+              }
+            ],
+            "__typename": "CollectionsAggregation"
+          },
+          "installments": {
+            "cardinality": 0,
+            "values": [],
+            "__typename": "CollectionsAggregation"
+          },
+          "listPrice": {
+            "amounts": [
+              {
+                "min": 7496790,
+                "max": 7496790,
+                "__typename": "ListPriceAmountAggregation"
+              }
+            ],
+            "__typename": "ListPriceAggregation"
+          },
+          "salePrice": {
+            "amounts": [
+              {
+                "min": 5622593,
+                "max": 5622593,
+                "__typename": "SalePriceAmountAggregation"
+              }
+            ],
+            "discounts": [
+              {
+                "min": 25,
+                "max": 25,
+                "__typename": "SalePriceDiscountAggregation"
+              }
+            ],
+            "__typename": "SalePriceAggregation"
+          },
+          "slug": "laptop-para-juegos-asus-rog-strix-g17-2023-qhd",
+          "__typename": "ExtendedItem"
+        },
+        {
+          "sellers": [
+            {
+              "commercialName": "Glic",
+              "__typename": "SellerAggregation"
+            }
+          ],
+          "stockLabels": [],
+          "id": "68b064c353117291b584fc66",
+          "title": "ROG Falchion Ace HFX 65% gaming keyboard with ROG",
+          "katalogCategoryId": "5a301c0e1400007200491c01",
+          "brand": {
+            "id": "5a301bdc140000630049072b",
+            "name": "Asus",
+            "__typename": "Brand"
+          },
+          "skus": {
+            "results": [
+              {
+                "code": "22598008",
+                "categorization": [
+                  [
+                    {
+                      "name": "Teclados",
+                      "slug": "informatica/gaming-pc/teclados",
+                      "__typename": "Category"
+                    },
+                    {
+                      "name": "Gaming PC",
+                      "slug": "informatica/gaming-pc",
+                      "__typename": "Category"
+                    },
+                    {
+                      "name": "Informática",
+                      "slug": "informatica",
+                      "__typename": "Category"
+                    }
+                  ]
+                ],
+                "resolvedBidId": null,
+                "sponsored": null,
+                "campaignId": null,
+                "pricing": [
+                  {
+                    "channel": "fravega-ecommerce",
+                    "listPrice": 566370,
+                    "salePrice": 481415,
+                    "discount": 15,
+                    "__typename": "Pricing"
+                  }
+                ],
+                "netPricing": [
+                  {
+                    "channel": "net-price",
+                    "listPrice": 481415,
+                    "salePrice": 481415,
+                    "discount": 15,
+                    "__typename": "Pricing"
+                  }
+                ],
+                "__typename": "Sku"
+              }
+            ],
+            "__typename": "ItemSkuSearchResponse"
+          },
+          "gtin": {
+            "__typename": "EAN",
+            "number": "0197105651845"
+          },
+          "images": [
+            "17eee08973e98dd338722e6bf2e7e082.jpg",
+            "8d1b26b9132c7d718da70f88b0ed7296.jpg"
+          ],
+          "collections": {
+            "cardinality": 1,
+            "values": [
+              {
+                "id": "9d5de4e9-b8f3-4c3d-94ef-44104da2755f",
+                "name": "Compra internacional",
+                "slug": "compra-internacional",
+                "count": 1,
+                "cockade": {
+                  "position": "BottomRightCorner",
+                  "image": "1036b9bd5d82203e02d616f0cee7614f.png",
+                  "__typename": "Cockade"
+                },
+                "__typename": "CollectionAggregation"
+              }
+            ],
+            "__typename": "CollectionsAggregation"
+          },
+          "installments": {
+            "cardinality": 0,
+            "values": [],
+            "__typename": "CollectionsAggregation"
+          },
+          "listPrice": {
+            "amounts": [
+              {
+                "min": 566370,
+                "max": 566370,
+                "__typename": "ListPriceAmountAggregation"
+              }
+            ],
+            "__typename": "ListPriceAggregation"
+          },
+          "salePrice": {
+            "amounts": [
+              {
+                "min": 481415,
+                "max": 481415,
+                "__typename": "SalePriceAmountAggregation"
+              }
+            ],
+            "discounts": [
+              {
+                "min": 15,
+                "max": 15,
+                "__typename": "SalePriceDiscountAggregation"
+              }
+            ],
+            "__typename": "SalePriceAggregation"
+          },
+          "slug": "rog-falchion-ace-hfx-65-gaming-keyboard-with-rog",
+          "__typename": "ExtendedItem"
+        }
+      ],
+      "aggregations": {
+        "availableStock": {
+          "deliveryTerms": [
+            {
+              "value": "AVAILABLE_IN_24_HOURS",
+              "count": 3,
+              "__typename": "AvailableStockDeliveryTermAggregation"
+            },
+            {
+              "value": "IMMEDIATE_AVAILABILITY",
+              "count": 4,
+              "__typename": "AvailableStockDeliveryTermAggregation"
+            },
+            {
+              "value": "AVAILABLE_IN_0_HOURS",
+              "count": 15,
+              "__typename": "AvailableStockDeliveryTermAggregation"
+            },
+            {
+              "value": "AVAILABLE_IN_48_HOURS",
+              "count": 19,
+              "__typename": "AvailableStockDeliveryTermAggregation"
+            }
+          ],
+          "types": [
+            {
+              "value": "PICKUP",
+              "count": 88,
+              "__typename": "AvailableStockTypeAggregation"
+            },
+            {
+              "value": "HOME_DELIVERY",
+              "count": 360,
+              "__typename": "AvailableStockTypeAggregation"
+            }
+          ],
+          "costs": [
+            {
+              "value": "FREE_COST",
+              "count": 89,
+              "__typename": "AvailableStockCostAggregation"
+            }
+          ],
+          "__typename": "AvailabilityStockAggregation"
+        },
+        "sellerCondition": {
+          "cardinality": 0,
+          "values": [
+            {
+              "count": 214,
+              "filtered": false,
+              "condition": "international_seller",
+              "__typename": "SellerConditionValue"
+            }
+          ],
+          "__typename": "SellerConditionsAggregation"
+        },
+        "collections": {
+          "values": [],
+          "__typename": "CollectionsAggregation"
+        },
+        "installments": {
+          "values": [
+            {
+              "id": "399675fe-5c8d-4bb2-97a6-4c1110bc99e2",
+              "name": "6 cuotas sin interés",
+              "count": 46,
+              "slug": "6-cuotas-sin-interes",
+              "filtered": false,
+              "__typename": "CollectionAggregation"
+            },
+            {
+              "id": "16d3c766-e5da-455e-8e79-40e8ef63e8c0",
+              "name": "12 cuotas sin interés",
+              "count": 11,
+              "slug": "12-cuotas-sin-interes",
+              "filtered": false,
+              "__typename": "CollectionAggregation"
+            },
+            {
+              "id": "41cbffdb-8c7a-4dbe-8e5d-95ffca5e0175",
+              "name": "3 cuotas sin interés",
+              "count": 8,
+              "slug": "3-cuotas-sin-interes",
+              "filtered": false,
+              "__typename": "CollectionAggregation"
+            },
+            {
+              "id": "b7321b3f-aad3-4535-868d-ef87ab5e1496",
+              "name": "9 cuotas sin interés",
+              "count": 4,
+              "slug": "9-cuotas-sin-interes",
+              "filtered": false,
+              "__typename": "CollectionAggregation"
+            }
+          ],
+          "__typename": "CollectionsAggregation"
+        },
+        "categories": [
+          {
+            "name": "Informática",
+            "slug": "informatica",
+            "count": 357,
+            "path": [],
+            "children": [
+              {
+                "name": "Notebooks",
+                "slug": "informatica/notebooks",
+                "count": 209,
+                "path": [
+                  {
+                    "id": "5a301c0214000077004917fd",
+                    "name": "Informática",
+                    "slug": "informatica",
+                    "__typename": "CategoryPath"
+                  }
+                ],
+                "__typename": "CategoryAggregation",
+                "children": []
+              },
+              {
+                "name": "Gaming PC",
+                "slug": "informatica/gaming-pc",
+                "count": 124,
+                "path": [
+                  {
+                    "id": "5a301c0214000077004917fd",
+                    "name": "Informática",
+                    "slug": "informatica",
+                    "__typename": "CategoryPath"
+                  }
+                ],
+                "__typename": "CategoryAggregation",
+                "children": []
+              },
+              {
+                "name": "Monitores",
+                "slug": "informatica/monitores",
+                "count": 13,
+                "path": [
+                  {
+                    "id": "5a301c0214000077004917fd",
+                    "name": "Informática",
+                    "slug": "informatica",
+                    "__typename": "CategoryPath"
+                  }
+                ],
+                "__typename": "CategoryAggregation",
+                "children": []
+              },
+              {
+                "name": "Accesorios de Informática",
+                "slug": "informatica/accesorios-de-informatica",
+                "count": 5,
+                "path": [
+                  {
+                    "id": "5a301c0214000077004917fd",
+                    "name": "Informática",
+                    "slug": "informatica",
+                    "__typename": "CategoryPath"
+                  }
+                ],
+                "__typename": "CategoryAggregation",
+                "children": []
+              },
+              {
+                "name": "All In One y PC Escritorio",
+                "slug": "informatica/all-in-one-y-pc-escritorio",
+                "count": 5,
+                "path": [
+                  {
+                    "id": "5a301c0214000077004917fd",
+                    "name": "Informática",
+                    "slug": "informatica",
+                    "__typename": "CategoryPath"
+                  }
+                ],
+                "__typename": "CategoryAggregation",
+                "children": []
+              },
+              {
+                "name": "Tablets",
+                "slug": "informatica/tablets",
+                "count": 1,
+                "path": [
+                  {
+                    "id": "5a301c0214000077004917fd",
+                    "name": "Informática",
+                    "slug": "informatica",
+                    "__typename": "CategoryPath"
+                  }
+                ],
+                "__typename": "CategoryAggregation",
+                "children": []
+              }
+            ],
+            "__typename": "CategoryAggregation"
+          },
+          {
+            "name": "Audio",
+            "slug": "audio",
+            "count": 2,
+            "path": [],
+            "children": [
+              {
+                "name": "Radios y audio portátil",
+                "slug": "audio/radios-y-audio-portatil",
+                "count": 2,
+                "path": [
+                  {
+                    "id": "5a301bf61400007700491477",
+                    "name": "Audio",
+                    "slug": "audio",
+                    "__typename": "CategoryPath"
+                  }
+                ],
+                "__typename": "CategoryAggregation",
+                "children": []
+              }
+            ],
+            "__typename": "CategoryAggregation"
+          },
+          {
+            "name": "Celulares",
+            "slug": "celulares",
+            "count": 1,
+            "path": [],
+            "children": [
+              {
+                "name": "Accesorios para Celulares",
+                "slug": "celulares/accesorios-para-celulares",
+                "count": 1,
+                "path": [
+                  {
+                    "id": "5a301c001400007700491774",
+                    "name": "Celulares",
+                    "slug": "celulares",
+                    "__typename": "CategoryPath"
+                  }
+                ],
+                "__typename": "CategoryAggregation",
+                "children": []
+              }
+            ],
+            "__typename": "CategoryAggregation"
+          }
+        ],
+        "attributes": [],
+        "salePrice": {
+          "amounts": [
+            {
+              "ranges": [
+                {
+                  "from": null,
+                  "to": 505677,
+                  "count": 118,
+                  "value": "Menos de $ 505.677",
+                  "slug": "menos-de-505677",
+                  "__typename": "SalePriceAmountsRanges"
+                },
+                {
+                  "from": 505677,
+                  "to": 1109373,
+                  "count": 120,
+                  "value": "$ 505.677 a $ 1.109.373",
+                  "slug": "505677-a-1109373",
+                  "__typename": "SalePriceAmountsRanges"
+                },
+                {
+                  "from": 1109373,
+                  "to": null,
+                  "count": 122,
+                  "value": "$ 1.109.373 o más",
+                  "slug": "1109373-o-mas",
+                  "__typename": "SalePriceAmountsRanges"
+                }
+              ],
+              "min": 48899,
+              "max": 10151269,
+              "__typename": "RangedSalePriceAmountAggregation"
+            }
+          ],
+          "discounts": [
+            {
+              "ranges": [
+                {
+                  "from": 10,
+                  "count": 336,
+                  "value": "Desde 10% OFF",
+                  "slug": "desde-10-off",
+                  "__typename": "SalePriceDiscountRanges"
+                },
+                {
+                  "from": 20,
+                  "count": 128,
+                  "value": "Desde 20% OFF",
+                  "slug": "desde-20-off",
+                  "__typename": "SalePriceDiscountRanges"
+                },
+                {
+                  "from": 30,
+                  "count": 20,
+                  "value": "Desde 30% OFF",
+                  "slug": "desde-30-off",
+                  "__typename": "SalePriceDiscountRanges"
+                },
+                {
+                  "from": 40,
+                  "count": 7,
+                  "value": "Desde 40% OFF",
+                  "slug": "desde-40-off",
+                  "__typename": "SalePriceDiscountRanges"
+                },
+                {
+                  "from": 60,
+                  "count": 1,
+                  "value": "Desde 60% OFF",
+                  "slug": "desde-60-off",
+                  "__typename": "SalePriceDiscountRanges"
+                }
+              ],
+              "__typename": "RangedSalePriceDiscountAggregation"
+            }
+          ],
+          "__typename": "RangedSalePriceAggregation"
+        },
+        "brands": {
+          "cardinality": 6,
+          "values": [
+            {
+              "name": "Asus",
+              "count": 340,
+              "slug": "asus",
+              "image": "df5e22378c6f6ded8fe69020cd8c9c2c.png",
+              "filtered": false,
+              "__typename": "BrandAggregation"
+            },
+            {
+              "name": "Gigabyte",
+              "count": 13,
+              "slug": "gigabyte",
+              "image": null,
+              "filtered": false,
+              "__typename": "BrandAggregation"
+            },
+            {
+              "name": "Generico",
+              "count": 3,
+              "slug": "generico",
+              "image": null,
+              "filtered": false,
+              "__typename": "BrandAggregation"
+            },
+            {
+              "name": "Nvidia",
+              "count": 2,
+              "slug": "nvidia",
+              "image": null,
+              "filtered": false,
+              "__typename": "BrandAggregation"
+            },
+            {
+              "name": "AMD",
+              "count": 1,
+              "slug": "amd",
+              "image": null,
+              "filtered": false,
+              "__typename": "BrandAggregation"
+            },
+            {
+              "name": "Asustor",
+              "count": 1,
+              "slug": "asustor",
+              "image": null,
+              "filtered": false,
+              "__typename": "BrandAggregation"
+            }
+          ],
+          "__typename": "BrandsAggregation"
+        },
+        "__typename": "Aggregations"
+      },
+      "listUniqueId": null,
+      "__typename": "ItemSearchResponse"
+    }
+  },
+  "extensions": {
+    "cacheControl": {
+      "version": 1,
+      "hints": [
+        {
+          "path": [
+            "items"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "recommendations"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            0,
+            "sellers"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            0,
+            "brand"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            0,
+            "skus"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            0,
+            "skus",
+            "results"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            0,
+            "skus",
+            "results",
+            0,
+            "categorization"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            0,
+            "skus",
+            "results",
+            0,
+            "pricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            0,
+            "skus",
+            "results",
+            0,
+            "netPricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            0,
+            "collections"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            0,
+            "collections",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            0,
+            "collections",
+            "values",
+            0,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            0,
+            "installments"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            0,
+            "installments",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            0,
+            "listPrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            0,
+            "listPrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            0,
+            "salePrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            0,
+            "salePrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            0,
+            "salePrice",
+            "discounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            1,
+            "sellers"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            1,
+            "brand"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            1,
+            "skus"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            1,
+            "skus",
+            "results"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            1,
+            "skus",
+            "results",
+            0,
+            "categorization"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            1,
+            "skus",
+            "results",
+            0,
+            "pricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            1,
+            "skus",
+            "results",
+            0,
+            "netPricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            1,
+            "collections"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            1,
+            "collections",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            1,
+            "collections",
+            "values",
+            0,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            1,
+            "installments"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            1,
+            "installments",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            1,
+            "listPrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            1,
+            "listPrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            1,
+            "salePrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            1,
+            "salePrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            1,
+            "salePrice",
+            "discounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            2,
+            "sellers"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            2,
+            "brand"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            2,
+            "skus"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            2,
+            "skus",
+            "results"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            2,
+            "skus",
+            "results",
+            0,
+            "categorization"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            2,
+            "skus",
+            "results",
+            0,
+            "pricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            2,
+            "skus",
+            "results",
+            0,
+            "netPricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            2,
+            "collections"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            2,
+            "collections",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            2,
+            "collections",
+            "values",
+            0,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            2,
+            "installments"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            2,
+            "installments",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            2,
+            "listPrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            2,
+            "listPrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            2,
+            "salePrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            2,
+            "salePrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            2,
+            "salePrice",
+            "discounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            3,
+            "sellers"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            3,
+            "brand"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            3,
+            "skus"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            3,
+            "skus",
+            "results"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            3,
+            "skus",
+            "results",
+            0,
+            "categorization"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            3,
+            "skus",
+            "results",
+            0,
+            "pricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            3,
+            "skus",
+            "results",
+            0,
+            "netPricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            3,
+            "collections"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            3,
+            "collections",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            3,
+            "collections",
+            "values",
+            0,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            3,
+            "installments"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            3,
+            "installments",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            3,
+            "listPrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            3,
+            "listPrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            3,
+            "salePrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            3,
+            "salePrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            3,
+            "salePrice",
+            "discounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            4,
+            "sellers"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            4,
+            "brand"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            4,
+            "skus"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            4,
+            "skus",
+            "results"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            4,
+            "skus",
+            "results",
+            0,
+            "categorization"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            4,
+            "skus",
+            "results",
+            0,
+            "pricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            4,
+            "skus",
+            "results",
+            0,
+            "netPricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            4,
+            "collections"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            4,
+            "collections",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            4,
+            "collections",
+            "values",
+            0,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            4,
+            "installments"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            4,
+            "installments",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            4,
+            "listPrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            4,
+            "listPrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            4,
+            "salePrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            4,
+            "salePrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            4,
+            "salePrice",
+            "discounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            5,
+            "sellers"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            5,
+            "brand"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            5,
+            "skus"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            5,
+            "skus",
+            "results"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            5,
+            "skus",
+            "results",
+            0,
+            "categorization"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            5,
+            "skus",
+            "results",
+            0,
+            "pricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            5,
+            "skus",
+            "results",
+            0,
+            "netPricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            5,
+            "collections"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            5,
+            "collections",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            5,
+            "collections",
+            "values",
+            0,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            5,
+            "installments"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            5,
+            "installments",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            5,
+            "listPrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            5,
+            "listPrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            5,
+            "salePrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            5,
+            "salePrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            5,
+            "salePrice",
+            "discounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            6,
+            "sellers"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            6,
+            "brand"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            6,
+            "skus"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            6,
+            "skus",
+            "results"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            6,
+            "skus",
+            "results",
+            0,
+            "categorization"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            6,
+            "skus",
+            "results",
+            0,
+            "pricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            6,
+            "skus",
+            "results",
+            0,
+            "netPricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            6,
+            "collections"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            6,
+            "collections",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            6,
+            "collections",
+            "values",
+            0,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            6,
+            "installments"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            6,
+            "installments",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            6,
+            "listPrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            6,
+            "listPrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            6,
+            "salePrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            6,
+            "salePrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            6,
+            "salePrice",
+            "discounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            7,
+            "sellers"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            7,
+            "brand"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            7,
+            "skus"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            7,
+            "skus",
+            "results"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            7,
+            "skus",
+            "results",
+            0,
+            "categorization"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            7,
+            "skus",
+            "results",
+            0,
+            "pricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            7,
+            "skus",
+            "results",
+            0,
+            "netPricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            7,
+            "collections"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            7,
+            "collections",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            7,
+            "collections",
+            "values",
+            0,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            7,
+            "installments"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            7,
+            "installments",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            7,
+            "listPrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            7,
+            "listPrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            7,
+            "salePrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            7,
+            "salePrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            7,
+            "salePrice",
+            "discounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            8,
+            "sellers"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            8,
+            "brand"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            8,
+            "skus"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            8,
+            "skus",
+            "results"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            8,
+            "skus",
+            "results",
+            0,
+            "categorization"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            8,
+            "skus",
+            "results",
+            0,
+            "pricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            8,
+            "skus",
+            "results",
+            0,
+            "netPricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            8,
+            "collections"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            8,
+            "collections",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            8,
+            "collections",
+            "values",
+            0,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            8,
+            "installments"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            8,
+            "installments",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            8,
+            "listPrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            8,
+            "listPrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            8,
+            "salePrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            8,
+            "salePrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            8,
+            "salePrice",
+            "discounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            9,
+            "sellers"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            9,
+            "brand"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            9,
+            "skus"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            9,
+            "skus",
+            "results"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            9,
+            "skus",
+            "results",
+            0,
+            "categorization"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            9,
+            "skus",
+            "results",
+            0,
+            "pricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            9,
+            "skus",
+            "results",
+            0,
+            "netPricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            9,
+            "collections"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            9,
+            "collections",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            9,
+            "collections",
+            "values",
+            0,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            9,
+            "installments"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            9,
+            "installments",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            9,
+            "listPrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            9,
+            "listPrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            9,
+            "salePrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            9,
+            "salePrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            9,
+            "salePrice",
+            "discounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "aggregations"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "aggregations",
+            "availableStock"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "aggregations",
+            "availableStock",
+            "deliveryTerms"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "aggregations",
+            "availableStock",
+            "types"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "aggregations",
+            "availableStock",
+            "costs"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "aggregations",
+            "sellerCondition"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "aggregations",
+            "sellerCondition",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "aggregations",
+            "collections"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "aggregations",
+            "collections",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "aggregations",
+            "installments"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "aggregations",
+            "installments",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "aggregations",
+            "categories"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "aggregations",
+            "categories",
+            0,
+            "path"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "aggregations",
+            "categories",
+            0,
+            "children"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "aggregations",
+            "categories",
+            0,
+            "children",
+            0,
+            "path"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "aggregations",
+            "categories",
+            0,
+            "children",
+            0,
+            "children"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "aggregations",
+            "categories",
+            0,
+            "children",
+            1,
+            "path"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "aggregations",
+            "categories",
+            0,
+            "children",
+            1,
+            "children"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "aggregations",
+            "categories",
+            0,
+            "children",
+            2,
+            "path"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "aggregations",
+            "categories",
+            0,
+            "children",
+            2,
+            "children"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "aggregations",
+            "categories",
+            0,
+            "children",
+            3,
+            "path"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "aggregations",
+            "categories",
+            0,
+            "children",
+            3,
+            "children"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "aggregations",
+            "categories",
+            0,
+            "children",
+            4,
+            "path"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "aggregations",
+            "categories",
+            0,
+            "children",
+            4,
+            "children"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "aggregations",
+            "categories",
+            0,
+            "children",
+            5,
+            "path"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "aggregations",
+            "categories",
+            0,
+            "children",
+            5,
+            "children"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "aggregations",
+            "categories",
+            1,
+            "path"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "aggregations",
+            "categories",
+            1,
+            "children"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "aggregations",
+            "categories",
+            1,
+            "children",
+            0,
+            "path"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "aggregations",
+            "categories",
+            1,
+            "children",
+            0,
+            "children"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "aggregations",
+            "categories",
+            2,
+            "path"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "aggregations",
+            "categories",
+            2,
+            "children"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "aggregations",
+            "categories",
+            2,
+            "children",
+            0,
+            "path"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "aggregations",
+            "categories",
+            2,
+            "children",
+            0,
+            "children"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "aggregations",
+            "attributes"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "aggregations",
+            "salePrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "aggregations",
+            "salePrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "aggregations",
+            "salePrice",
+            "amounts",
+            0,
+            "ranges"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "aggregations",
+            "salePrice",
+            "discounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "aggregations",
+            "salePrice",
+            "discounts",
+            0,
+            "ranges"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "aggregations",
+            "brands"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "aggregations",
+            "brands",
+            "values"
+          ],
+          "maxAge": 3600
+        }
+      ]
+    }
+  }
+}

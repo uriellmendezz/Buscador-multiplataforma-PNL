@@ -953,6 +953,174 @@
             }
           ],
           "stockLabels": [
+            "HOME_DELIVERY_IN_48_HOURS",
+            "PICKUP_IN_48_HOURS"
+          ],
+          "id": "67f97e41666b2e93509ad919",
+          "title": "Notebook ASUS Vivobook Go 15 15,6” Intel N100 4GB 128GB SSD E1504GA-NJ030W",
+          "katalogCategoryId": "5a301c031400008a0049181b",
+          "brand": {
+            "id": "5a301bdc140000630049072b",
+            "name": "Asus",
+            "__typename": "Brand"
+          },
+          "skus": {
+            "results": [
+              {
+                "code": "364667",
+                "categorization": [
+                  [
+                    {
+                      "name": "Notebooks",
+                      "slug": "informatica/notebooks",
+                      "__typename": "Category"
+                    },
+                    {
+                      "name": "Informática",
+                      "slug": "informatica",
+                      "__typename": "Category"
+                    }
+                  ]
+                ],
+                "resolvedBidId": null,
+                "sponsored": null,
+                "campaignId": null,
+                "pricing": [
+                  {
+                    "channel": "fravega-ecommerce",
+                    "listPrice": 699999,
+                    "salePrice": 569999,
+                    "discount": 18,
+                    "__typename": "Pricing"
+                  }
+                ],
+                "netPricing": [
+                  {
+                    "channel": "net-price",
+                    "listPrice": 515836.2,
+                    "salePrice": 569999,
+                    "discount": 18,
+                    "__typename": "Pricing"
+                  }
+                ],
+                "__typename": "Sku"
+              }
+            ],
+            "__typename": "ItemSkuSearchResponse"
+          },
+          "gtin": {
+            "__typename": "EAN",
+            "number": "4711387809532"
+          },
+          "images": [
+            "428676c95a02c65d0cdd390edc1e93b3.jpg",
+            "74dcbcdf34adddcca6bd97d9b2af5754.jpg",
+            "782578730877eb1c26ed28ecdbffca76.jpg",
+            "f7f0c08a3855b6844af9e4dc33dee73d.jpg",
+            "a13e4b5852ed48b6421b32bcde9aa96e.jpg",
+            "33620abb5b05698c9eb73a4577afbb48.jpg",
+            "9cfb9c0bb5ac5912447733ed212581dc.jpg",
+            "28e82af99766e45e0563482c2739af06.jpg",
+            "4b777db459b2dacd37405f5f82bc6193.jpg"
+          ],
+          "collections": {
+            "cardinality": 3,
+            "values": [
+              {
+                "id": "45be22fc-8d24-4c83-8d23-55dc7684d01d",
+                "name": "cucarda CYBER MONDAY",
+                "slug": "cucarda-cyber-monday",
+                "count": 1,
+                "cockade": {
+                  "position": "TopRightCorner",
+                  "image": "4299cf488db1419d65833fc190ed7088.png",
+                  "__typename": "Cockade"
+                },
+                "__typename": "CollectionAggregation"
+              },
+              {
+                "id": "f4270aeb-9f4d-42c5-b104-3936852b7002",
+                "name": "descuento 1 pago 15 off",
+                "slug": "descuento-1-pago-15-off",
+                "count": 1,
+                "cockade": {
+                  "position": "TopLeftCorner",
+                  "image": "f5d928b702be09867f270b1f427c90f0.png",
+                  "__typename": "Cockade"
+                },
+                "__typename": "CollectionAggregation"
+              },
+              {
+                "id": "9d854ea9-72d2-4f41-baf4-3e115214021d",
+                "name": "MODO 20% de Reintegro",
+                "slug": "modo-20%-de-reintegro",
+                "count": 1,
+                "cockade": {
+                  "position": "BottomRightCorner",
+                  "image": "3271cf85fdf1d91fe0bb2313ed4868e1.png",
+                  "__typename": "Cockade"
+                },
+                "__typename": "CollectionAggregation"
+              }
+            ],
+            "__typename": "CollectionsAggregation"
+          },
+          "installments": {
+            "cardinality": 1,
+            "values": [
+              {
+                "id": "399675fe-5c8d-4bb2-97a6-4c1110bc99e2",
+                "name": "6 cuotas sin interés",
+                "slug": "6-cuotas-sin-interes",
+                "count": 1,
+                "cockade": {
+                  "position": "BottomLeftCorner",
+                  "image": "fbf39ae6c6394fb1c1f170cc05ccc38a.png",
+                  "__typename": "Cockade"
+                },
+                "__typename": "CollectionAggregation"
+              }
+            ],
+            "__typename": "CollectionsAggregation"
+          },
+          "listPrice": {
+            "amounts": [
+              {
+                "min": 699999,
+                "max": 699999,
+                "__typename": "ListPriceAmountAggregation"
+              }
+            ],
+            "__typename": "ListPriceAggregation"
+          },
+          "salePrice": {
+            "amounts": [
+              {
+                "min": 569999,
+                "max": 569999,
+                "__typename": "SalePriceAmountAggregation"
+              }
+            ],
+            "discounts": [
+              {
+                "min": 18,
+                "max": 18,
+                "__typename": "SalePriceDiscountAggregation"
+              }
+            ],
+            "__typename": "SalePriceAggregation"
+          },
+          "slug": "notebook-asus-vivobook-go-15-15-6”-intel-n100-4gb-128gb-ssd-e1504ga-nj030w",
+          "__typename": "ExtendedItem"
+        },
+        {
+          "sellers": [
+            {
+              "commercialName": "Fravega",
+              "__typename": "SellerAggregation"
+            }
+          ],
+          "stockLabels": [
             "FREE_HOME_DELIVERY_IN_48_HOURS",
             "PICKUP_IN_48_HOURS"
           ],
@@ -6737,116 +6905,6 @@
           },
           "slug": "notebook-asus-zenbook-14-pulg-oled-core-i7-16gb-ssd-1tb-windows-11",
           "__typename": "ExtendedItem"
-        },
-        {
-          "sellers": [
-            {
-              "commercialName": "HTVS",
-              "__typename": "SellerAggregation"
-            }
-          ],
-          "stockLabels": [],
-          "id": "679a6ba4460000df8698d3f7",
-          "title": "Notebook Asus Tuf F15 I7-13620h 16gb 1tb Ssd Rtx4070 144hz",
-          "katalogCategoryId": "5a301c031400008a0049181b",
-          "brand": {
-            "id": "5a301bdc140000630049072b",
-            "name": "Asus",
-            "__typename": "Brand"
-          },
-          "skus": {
-            "results": [
-              {
-                "code": "22086770",
-                "categorization": [
-                  [
-                    {
-                      "name": "Notebooks",
-                      "slug": "informatica/notebooks",
-                      "__typename": "Category"
-                    },
-                    {
-                      "name": "Informática",
-                      "slug": "informatica",
-                      "__typename": "Category"
-                    }
-                  ]
-                ],
-                "resolvedBidId": null,
-                "sponsored": null,
-                "campaignId": null,
-                "pricing": [
-                  {
-                    "channel": "fravega-ecommerce",
-                    "listPrice": 3663000,
-                    "salePrice": 3341904.76,
-                    "discount": 9,
-                    "__typename": "Pricing"
-                  }
-                ],
-                "netPricing": [
-                  {
-                    "channel": "net-price",
-                    "listPrice": 2899999.99,
-                    "salePrice": 3341904.76,
-                    "discount": 9,
-                    "__typename": "Pricing"
-                  }
-                ],
-                "__typename": "Sku"
-              }
-            ],
-            "__typename": "ItemSkuSearchResponse"
-          },
-          "gtin": {
-            "__typename": "EAN",
-            "number": "197105448728"
-          },
-          "images": [
-            "a6395a0cb2b0811bc8ac09f56f097931.jpg",
-            "4a2c42bd0181abab3065ddf7780be086.jpg",
-            "aa8be40978321e3b1e80a7ad9bcaa6c6.jpg",
-            "5d749dfad7555093cedb36603733a0fb.jpg"
-          ],
-          "collections": {
-            "cardinality": 0,
-            "values": [],
-            "__typename": "CollectionsAggregation"
-          },
-          "installments": {
-            "cardinality": 0,
-            "values": [],
-            "__typename": "CollectionsAggregation"
-          },
-          "listPrice": {
-            "amounts": [
-              {
-                "min": 3663000,
-                "max": 3663000,
-                "__typename": "ListPriceAmountAggregation"
-              }
-            ],
-            "__typename": "ListPriceAggregation"
-          },
-          "salePrice": {
-            "amounts": [
-              {
-                "min": 3341904.76,
-                "max": 3341904.76,
-                "__typename": "SalePriceAmountAggregation"
-              }
-            ],
-            "discounts": [
-              {
-                "min": 9,
-                "max": 9,
-                "__typename": "SalePriceDiscountAggregation"
-              }
-            ],
-            "__typename": "SalePriceAggregation"
-          },
-          "slug": "notebook-asus-tuf-f15-i7-13620h-16gb-1tb-ssd-rtx4070-144hz",
-          "__typename": "ExtendedItem"
         }
       ],
       "aggregations": {
@@ -6869,14 +6927,14 @@
             },
             {
               "value": "AVAILABLE_IN_48_HOURS",
-              "count": 18,
+              "count": 19,
               "__typename": "AvailableStockDeliveryTermAggregation"
             }
           ],
           "types": [
             {
               "value": "PICKUP",
-              "count": 87,
+              "count": 88,
               "__typename": "AvailableStockTypeAggregation"
             },
             {
@@ -6888,7 +6946,7 @@
           "costs": [
             {
               "value": "FREE_COST",
-              "count": 88,
+              "count": 89,
               "__typename": "AvailableStockCostAggregation"
             }
           ],
@@ -6915,7 +6973,7 @@
             {
               "id": "399675fe-5c8d-4bb2-97a6-4c1110bc99e2",
               "name": "6 cuotas sin interés",
-              "count": 45,
+              "count": 46,
               "slug": "6-cuotas-sin-interes",
               "filtered": false,
               "__typename": "CollectionAggregation"
@@ -7103,26 +7161,26 @@
               "ranges": [
                 {
                   "from": null,
-                  "to": 508191,
-                  "count": 119,
-                  "value": "Menos de $ 508.191",
-                  "slug": "menos-de-508191",
+                  "to": 505677,
+                  "count": 118,
+                  "value": "Menos de $ 505.677",
+                  "slug": "menos-de-505677",
                   "__typename": "SalePriceAmountsRanges"
                 },
                 {
-                  "from": 508191,
-                  "to": 1104102,
-                  "count": 119,
-                  "value": "$ 508.191 a $ 1.104.102",
-                  "slug": "508191-a-1104102",
+                  "from": 505677,
+                  "to": 1109373,
+                  "count": 120,
+                  "value": "$ 505.677 a $ 1.109.373",
+                  "slug": "505677-a-1109373",
                   "__typename": "SalePriceAmountsRanges"
                 },
                 {
-                  "from": 1104102,
+                  "from": 1109373,
                   "to": null,
                   "count": 122,
-                  "value": "$ 1.104.102 o más",
-                  "slug": "1104102-o-mas",
+                  "value": "$ 1.109.373 o más",
+                  "slug": "1109373-o-mas",
                   "__typename": "SalePriceAmountsRanges"
                 }
               ],
@@ -7238,7 +7296,9544 @@
   "extensions": {
     "cacheControl": {
       "version": 1,
-      "hints": []
+      "hints": [
+        {
+          "path": [
+            "items"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "recommendations"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            0,
+            "sellers"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            0,
+            "brand"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            0,
+            "skus"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            0,
+            "skus",
+            "results"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            0,
+            "skus",
+            "results",
+            0,
+            "categorization"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            0,
+            "skus",
+            "results",
+            0,
+            "pricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            0,
+            "skus",
+            "results",
+            0,
+            "netPricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            0,
+            "collections"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            0,
+            "collections",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            0,
+            "installments"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            0,
+            "installments",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            0,
+            "listPrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            0,
+            "listPrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            0,
+            "salePrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            0,
+            "salePrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            0,
+            "salePrice",
+            "discounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            1,
+            "sellers"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            1,
+            "brand"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            1,
+            "skus"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            1,
+            "skus",
+            "results"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            1,
+            "skus",
+            "results",
+            0,
+            "categorization"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            1,
+            "skus",
+            "results",
+            0,
+            "pricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            1,
+            "skus",
+            "results",
+            0,
+            "netPricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            1,
+            "collections"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            1,
+            "collections",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            1,
+            "installments"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            1,
+            "installments",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            1,
+            "listPrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            1,
+            "listPrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            1,
+            "salePrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            1,
+            "salePrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            1,
+            "salePrice",
+            "discounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            2,
+            "sellers"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            2,
+            "brand"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            2,
+            "skus"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            2,
+            "skus",
+            "results"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            2,
+            "skus",
+            "results",
+            0,
+            "categorization"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            2,
+            "skus",
+            "results",
+            0,
+            "pricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            2,
+            "skus",
+            "results",
+            0,
+            "netPricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            2,
+            "collections"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            2,
+            "collections",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            2,
+            "installments"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            2,
+            "installments",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            2,
+            "listPrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            2,
+            "listPrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            2,
+            "salePrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            2,
+            "salePrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            2,
+            "salePrice",
+            "discounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            3,
+            "sellers"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            3,
+            "brand"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            3,
+            "skus"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            3,
+            "skus",
+            "results"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            3,
+            "skus",
+            "results",
+            0,
+            "categorization"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            3,
+            "skus",
+            "results",
+            0,
+            "pricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            3,
+            "skus",
+            "results",
+            0,
+            "netPricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            3,
+            "collections"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            3,
+            "collections",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            3,
+            "installments"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            3,
+            "installments",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            3,
+            "listPrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            3,
+            "listPrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            3,
+            "salePrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            3,
+            "salePrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            3,
+            "salePrice",
+            "discounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            4,
+            "sellers"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            4,
+            "brand"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            4,
+            "skus"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            4,
+            "skus",
+            "results"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            4,
+            "skus",
+            "results",
+            0,
+            "categorization"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            4,
+            "skus",
+            "results",
+            0,
+            "pricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            4,
+            "skus",
+            "results",
+            0,
+            "netPricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            4,
+            "collections"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            4,
+            "collections",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            4,
+            "collections",
+            "values",
+            0,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            4,
+            "collections",
+            "values",
+            1,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            4,
+            "collections",
+            "values",
+            2,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            4,
+            "installments"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            4,
+            "installments",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            4,
+            "installments",
+            "values",
+            0,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            4,
+            "listPrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            4,
+            "listPrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            4,
+            "salePrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            4,
+            "salePrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            4,
+            "salePrice",
+            "discounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            5,
+            "sellers"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            5,
+            "brand"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            5,
+            "skus"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            5,
+            "skus",
+            "results"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            5,
+            "skus",
+            "results",
+            0,
+            "categorization"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            5,
+            "skus",
+            "results",
+            0,
+            "pricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            5,
+            "skus",
+            "results",
+            0,
+            "netPricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            5,
+            "collections"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            5,
+            "collections",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            5,
+            "collections",
+            "values",
+            0,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            5,
+            "collections",
+            "values",
+            1,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            5,
+            "collections",
+            "values",
+            2,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            5,
+            "installments"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            5,
+            "installments",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            5,
+            "installments",
+            "values",
+            0,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            5,
+            "listPrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            5,
+            "listPrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            5,
+            "salePrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            5,
+            "salePrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            5,
+            "salePrice",
+            "discounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            6,
+            "sellers"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            6,
+            "brand"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            6,
+            "skus"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            6,
+            "skus",
+            "results"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            6,
+            "skus",
+            "results",
+            0,
+            "categorization"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            6,
+            "skus",
+            "results",
+            0,
+            "pricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            6,
+            "skus",
+            "results",
+            0,
+            "netPricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            6,
+            "collections"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            6,
+            "collections",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            6,
+            "collections",
+            "values",
+            0,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            6,
+            "collections",
+            "values",
+            1,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            6,
+            "collections",
+            "values",
+            2,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            6,
+            "installments"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            6,
+            "installments",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            6,
+            "installments",
+            "values",
+            0,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            6,
+            "listPrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            6,
+            "listPrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            6,
+            "salePrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            6,
+            "salePrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            6,
+            "salePrice",
+            "discounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            7,
+            "sellers"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            7,
+            "brand"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            7,
+            "skus"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            7,
+            "skus",
+            "results"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            7,
+            "skus",
+            "results",
+            0,
+            "categorization"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            7,
+            "skus",
+            "results",
+            0,
+            "pricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            7,
+            "skus",
+            "results",
+            0,
+            "netPricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            7,
+            "collections"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            7,
+            "collections",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            7,
+            "collections",
+            "values",
+            0,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            7,
+            "collections",
+            "values",
+            1,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            7,
+            "collections",
+            "values",
+            2,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            7,
+            "installments"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            7,
+            "installments",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            7,
+            "installments",
+            "values",
+            0,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            7,
+            "listPrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            7,
+            "listPrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            7,
+            "salePrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            7,
+            "salePrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            7,
+            "salePrice",
+            "discounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            8,
+            "sellers"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            8,
+            "brand"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            8,
+            "skus"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            8,
+            "skus",
+            "results"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            8,
+            "skus",
+            "results",
+            0,
+            "categorization"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            8,
+            "skus",
+            "results",
+            0,
+            "pricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            8,
+            "skus",
+            "results",
+            0,
+            "netPricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            8,
+            "collections"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            8,
+            "collections",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            8,
+            "collections",
+            "values",
+            0,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            8,
+            "collections",
+            "values",
+            1,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            8,
+            "installments"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            8,
+            "installments",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            8,
+            "installments",
+            "values",
+            0,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            8,
+            "listPrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            8,
+            "listPrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            8,
+            "salePrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            8,
+            "salePrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            8,
+            "salePrice",
+            "discounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            9,
+            "sellers"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            9,
+            "brand"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            9,
+            "skus"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            9,
+            "skus",
+            "results"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            9,
+            "skus",
+            "results",
+            0,
+            "categorization"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            9,
+            "skus",
+            "results",
+            0,
+            "pricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            9,
+            "skus",
+            "results",
+            0,
+            "netPricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            9,
+            "collections"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            9,
+            "collections",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            9,
+            "collections",
+            "values",
+            0,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            9,
+            "collections",
+            "values",
+            1,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            9,
+            "installments"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            9,
+            "installments",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            9,
+            "installments",
+            "values",
+            0,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            9,
+            "listPrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            9,
+            "listPrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            9,
+            "salePrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            9,
+            "salePrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            9,
+            "salePrice",
+            "discounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            10,
+            "sellers"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            10,
+            "brand"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            10,
+            "skus"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            10,
+            "skus",
+            "results"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            10,
+            "skus",
+            "results",
+            0,
+            "categorization"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            10,
+            "skus",
+            "results",
+            0,
+            "pricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            10,
+            "skus",
+            "results",
+            0,
+            "netPricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            10,
+            "collections"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            10,
+            "collections",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            10,
+            "collections",
+            "values",
+            0,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            10,
+            "collections",
+            "values",
+            1,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            10,
+            "installments"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            10,
+            "installments",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            10,
+            "installments",
+            "values",
+            0,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            10,
+            "listPrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            10,
+            "listPrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            10,
+            "salePrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            10,
+            "salePrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            10,
+            "salePrice",
+            "discounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            11,
+            "sellers"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            11,
+            "brand"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            11,
+            "skus"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            11,
+            "skus",
+            "results"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            11,
+            "skus",
+            "results",
+            0,
+            "categorization"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            11,
+            "skus",
+            "results",
+            0,
+            "pricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            11,
+            "skus",
+            "results",
+            0,
+            "netPricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            11,
+            "collections"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            11,
+            "collections",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            11,
+            "collections",
+            "values",
+            0,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            11,
+            "collections",
+            "values",
+            1,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            11,
+            "installments"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            11,
+            "installments",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            11,
+            "installments",
+            "values",
+            0,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            11,
+            "listPrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            11,
+            "listPrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            11,
+            "salePrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            11,
+            "salePrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            11,
+            "salePrice",
+            "discounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            12,
+            "sellers"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            12,
+            "brand"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            12,
+            "skus"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            12,
+            "skus",
+            "results"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            12,
+            "skus",
+            "results",
+            0,
+            "categorization"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            12,
+            "skus",
+            "results",
+            0,
+            "pricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            12,
+            "skus",
+            "results",
+            0,
+            "netPricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            12,
+            "collections"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            12,
+            "collections",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            12,
+            "collections",
+            "values",
+            0,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            12,
+            "collections",
+            "values",
+            1,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            12,
+            "installments"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            12,
+            "installments",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            12,
+            "installments",
+            "values",
+            0,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            12,
+            "listPrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            12,
+            "listPrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            12,
+            "salePrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            12,
+            "salePrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            12,
+            "salePrice",
+            "discounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            13,
+            "sellers"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            13,
+            "brand"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            13,
+            "skus"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            13,
+            "skus",
+            "results"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            13,
+            "skus",
+            "results",
+            0,
+            "categorization"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            13,
+            "skus",
+            "results",
+            0,
+            "pricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            13,
+            "skus",
+            "results",
+            0,
+            "netPricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            13,
+            "collections"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            13,
+            "collections",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            13,
+            "collections",
+            "values",
+            0,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            13,
+            "collections",
+            "values",
+            1,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            13,
+            "installments"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            13,
+            "installments",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            13,
+            "installments",
+            "values",
+            0,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            13,
+            "listPrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            13,
+            "listPrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            13,
+            "salePrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            13,
+            "salePrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            13,
+            "salePrice",
+            "discounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            14,
+            "sellers"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            14,
+            "brand"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            14,
+            "skus"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            14,
+            "skus",
+            "results"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            14,
+            "skus",
+            "results",
+            0,
+            "categorization"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            14,
+            "skus",
+            "results",
+            0,
+            "pricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            14,
+            "skus",
+            "results",
+            0,
+            "netPricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            14,
+            "collections"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            14,
+            "collections",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            14,
+            "collections",
+            "values",
+            0,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            14,
+            "collections",
+            "values",
+            1,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            14,
+            "installments"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            14,
+            "installments",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            14,
+            "installments",
+            "values",
+            0,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            14,
+            "listPrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            14,
+            "listPrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            14,
+            "salePrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            14,
+            "salePrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            14,
+            "salePrice",
+            "discounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            15,
+            "sellers"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            15,
+            "brand"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            15,
+            "skus"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            15,
+            "skus",
+            "results"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            15,
+            "skus",
+            "results",
+            0,
+            "categorization"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            15,
+            "skus",
+            "results",
+            0,
+            "pricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            15,
+            "skus",
+            "results",
+            0,
+            "netPricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            15,
+            "collections"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            15,
+            "collections",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            15,
+            "collections",
+            "values",
+            0,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            15,
+            "collections",
+            "values",
+            1,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            15,
+            "installments"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            15,
+            "installments",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            15,
+            "installments",
+            "values",
+            0,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            15,
+            "listPrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            15,
+            "listPrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            15,
+            "salePrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            15,
+            "salePrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            15,
+            "salePrice",
+            "discounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            16,
+            "sellers"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            16,
+            "brand"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            16,
+            "skus"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            16,
+            "skus",
+            "results"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            16,
+            "skus",
+            "results",
+            0,
+            "categorization"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            16,
+            "skus",
+            "results",
+            0,
+            "pricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            16,
+            "skus",
+            "results",
+            0,
+            "netPricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            16,
+            "collections"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            16,
+            "collections",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            16,
+            "collections",
+            "values",
+            0,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            16,
+            "installments"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            16,
+            "installments",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            16,
+            "listPrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            16,
+            "listPrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            16,
+            "salePrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            16,
+            "salePrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            16,
+            "salePrice",
+            "discounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            17,
+            "sellers"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            17,
+            "brand"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            17,
+            "skus"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            17,
+            "skus",
+            "results"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            17,
+            "skus",
+            "results",
+            0,
+            "categorization"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            17,
+            "skus",
+            "results",
+            0,
+            "pricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            17,
+            "skus",
+            "results",
+            0,
+            "netPricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            17,
+            "collections"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            17,
+            "collections",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            17,
+            "collections",
+            "values",
+            0,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            17,
+            "collections",
+            "values",
+            1,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            17,
+            "installments"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            17,
+            "installments",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            17,
+            "installments",
+            "values",
+            0,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            17,
+            "listPrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            17,
+            "listPrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            17,
+            "salePrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            17,
+            "salePrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            17,
+            "salePrice",
+            "discounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            18,
+            "sellers"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            18,
+            "brand"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            18,
+            "skus"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            18,
+            "skus",
+            "results"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            18,
+            "skus",
+            "results",
+            0,
+            "categorization"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            18,
+            "skus",
+            "results",
+            0,
+            "pricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            18,
+            "skus",
+            "results",
+            0,
+            "netPricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            18,
+            "collections"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            18,
+            "collections",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            18,
+            "collections",
+            "values",
+            0,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            18,
+            "collections",
+            "values",
+            1,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            18,
+            "installments"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            18,
+            "installments",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            18,
+            "installments",
+            "values",
+            0,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            18,
+            "listPrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            18,
+            "listPrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            18,
+            "salePrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            18,
+            "salePrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            18,
+            "salePrice",
+            "discounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            19,
+            "sellers"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            19,
+            "brand"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            19,
+            "skus"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            19,
+            "skus",
+            "results"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            19,
+            "skus",
+            "results",
+            0,
+            "categorization"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            19,
+            "skus",
+            "results",
+            0,
+            "pricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            19,
+            "skus",
+            "results",
+            0,
+            "netPricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            19,
+            "collections"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            19,
+            "collections",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            19,
+            "collections",
+            "values",
+            0,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            19,
+            "collections",
+            "values",
+            1,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            19,
+            "installments"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            19,
+            "installments",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            19,
+            "installments",
+            "values",
+            0,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            19,
+            "listPrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            19,
+            "listPrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            19,
+            "salePrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            19,
+            "salePrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            19,
+            "salePrice",
+            "discounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            20,
+            "sellers"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            20,
+            "brand"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            20,
+            "skus"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            20,
+            "skus",
+            "results"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            20,
+            "skus",
+            "results",
+            0,
+            "categorization"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            20,
+            "skus",
+            "results",
+            0,
+            "pricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            20,
+            "skus",
+            "results",
+            0,
+            "netPricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            20,
+            "collections"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            20,
+            "collections",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            20,
+            "collections",
+            "values",
+            0,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            20,
+            "installments"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            20,
+            "installments",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            20,
+            "listPrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            20,
+            "listPrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            20,
+            "salePrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            20,
+            "salePrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            20,
+            "salePrice",
+            "discounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            21,
+            "sellers"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            21,
+            "brand"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            21,
+            "skus"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            21,
+            "skus",
+            "results"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            21,
+            "skus",
+            "results",
+            0,
+            "categorization"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            21,
+            "skus",
+            "results",
+            0,
+            "pricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            21,
+            "skus",
+            "results",
+            0,
+            "netPricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            21,
+            "collections"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            21,
+            "collections",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            21,
+            "installments"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            21,
+            "installments",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            21,
+            "listPrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            21,
+            "listPrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            21,
+            "salePrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            21,
+            "salePrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            21,
+            "salePrice",
+            "discounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            22,
+            "sellers"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            22,
+            "brand"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            22,
+            "skus"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            22,
+            "skus",
+            "results"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            22,
+            "skus",
+            "results",
+            0,
+            "categorization"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            22,
+            "skus",
+            "results",
+            0,
+            "pricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            22,
+            "skus",
+            "results",
+            0,
+            "netPricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            22,
+            "collections"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            22,
+            "collections",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            22,
+            "collections",
+            "values",
+            0,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            22,
+            "collections",
+            "values",
+            1,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            22,
+            "installments"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            22,
+            "installments",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            22,
+            "installments",
+            "values",
+            0,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            22,
+            "listPrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            22,
+            "listPrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            22,
+            "salePrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            22,
+            "salePrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            22,
+            "salePrice",
+            "discounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            23,
+            "sellers"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            23,
+            "brand"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            23,
+            "skus"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            23,
+            "skus",
+            "results"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            23,
+            "skus",
+            "results",
+            0,
+            "categorization"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            23,
+            "skus",
+            "results",
+            0,
+            "pricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            23,
+            "skus",
+            "results",
+            0,
+            "netPricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            23,
+            "collections"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            23,
+            "collections",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            23,
+            "collections",
+            "values",
+            0,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            23,
+            "collections",
+            "values",
+            1,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            23,
+            "installments"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            23,
+            "installments",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            23,
+            "installments",
+            "values",
+            0,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            23,
+            "listPrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            23,
+            "listPrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            23,
+            "salePrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            23,
+            "salePrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            23,
+            "salePrice",
+            "discounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            24,
+            "sellers"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            24,
+            "brand"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            24,
+            "skus"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            24,
+            "skus",
+            "results"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            24,
+            "skus",
+            "results",
+            0,
+            "categorization"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            24,
+            "skus",
+            "results",
+            0,
+            "pricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            24,
+            "skus",
+            "results",
+            0,
+            "netPricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            24,
+            "collections"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            24,
+            "collections",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            24,
+            "collections",
+            "values",
+            0,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            24,
+            "collections",
+            "values",
+            1,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            24,
+            "installments"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            24,
+            "installments",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            24,
+            "installments",
+            "values",
+            0,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            24,
+            "listPrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            24,
+            "listPrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            24,
+            "salePrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            24,
+            "salePrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            24,
+            "salePrice",
+            "discounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            25,
+            "sellers"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            25,
+            "brand"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            25,
+            "skus"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            25,
+            "skus",
+            "results"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            25,
+            "skus",
+            "results",
+            0,
+            "categorization"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            25,
+            "skus",
+            "results",
+            0,
+            "pricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            25,
+            "skus",
+            "results",
+            0,
+            "netPricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            25,
+            "collections"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            25,
+            "collections",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            25,
+            "collections",
+            "values",
+            0,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            25,
+            "installments"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            25,
+            "installments",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            25,
+            "installments",
+            "values",
+            0,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            25,
+            "listPrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            25,
+            "listPrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            25,
+            "salePrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            25,
+            "salePrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            25,
+            "salePrice",
+            "discounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            26,
+            "sellers"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            26,
+            "brand"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            26,
+            "skus"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            26,
+            "skus",
+            "results"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            26,
+            "skus",
+            "results",
+            0,
+            "categorization"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            26,
+            "skus",
+            "results",
+            0,
+            "pricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            26,
+            "skus",
+            "results",
+            0,
+            "netPricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            26,
+            "collections"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            26,
+            "collections",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            26,
+            "collections",
+            "values",
+            0,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            26,
+            "collections",
+            "values",
+            1,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            26,
+            "installments"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            26,
+            "installments",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            26,
+            "installments",
+            "values",
+            0,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            26,
+            "listPrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            26,
+            "listPrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            26,
+            "salePrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            26,
+            "salePrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            26,
+            "salePrice",
+            "discounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            27,
+            "sellers"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            27,
+            "brand"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            27,
+            "skus"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            27,
+            "skus",
+            "results"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            27,
+            "skus",
+            "results",
+            0,
+            "categorization"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            27,
+            "skus",
+            "results",
+            0,
+            "pricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            27,
+            "skus",
+            "results",
+            0,
+            "netPricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            27,
+            "collections"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            27,
+            "collections",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            27,
+            "collections",
+            "values",
+            0,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            27,
+            "collections",
+            "values",
+            1,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            27,
+            "installments"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            27,
+            "installments",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            27,
+            "installments",
+            "values",
+            0,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            27,
+            "listPrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            27,
+            "listPrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            27,
+            "salePrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            27,
+            "salePrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            27,
+            "salePrice",
+            "discounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            28,
+            "sellers"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            28,
+            "brand"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            28,
+            "skus"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            28,
+            "skus",
+            "results"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            28,
+            "skus",
+            "results",
+            0,
+            "categorization"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            28,
+            "skus",
+            "results",
+            0,
+            "pricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            28,
+            "skus",
+            "results",
+            0,
+            "netPricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            28,
+            "collections"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            28,
+            "collections",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            28,
+            "collections",
+            "values",
+            0,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            28,
+            "collections",
+            "values",
+            1,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            28,
+            "installments"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            28,
+            "installments",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            28,
+            "installments",
+            "values",
+            0,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            28,
+            "listPrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            28,
+            "listPrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            28,
+            "salePrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            28,
+            "salePrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            28,
+            "salePrice",
+            "discounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            29,
+            "sellers"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            29,
+            "brand"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            29,
+            "skus"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            29,
+            "skus",
+            "results"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            29,
+            "skus",
+            "results",
+            0,
+            "categorization"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            29,
+            "skus",
+            "results",
+            0,
+            "pricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            29,
+            "skus",
+            "results",
+            0,
+            "netPricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            29,
+            "collections"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            29,
+            "collections",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            29,
+            "collections",
+            "values",
+            0,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            29,
+            "installments"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            29,
+            "installments",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            29,
+            "installments",
+            "values",
+            0,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            29,
+            "listPrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            29,
+            "listPrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            29,
+            "salePrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            29,
+            "salePrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            29,
+            "salePrice",
+            "discounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            30,
+            "sellers"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            30,
+            "brand"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            30,
+            "skus"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            30,
+            "skus",
+            "results"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            30,
+            "skus",
+            "results",
+            0,
+            "categorization"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            30,
+            "skus",
+            "results",
+            0,
+            "pricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            30,
+            "skus",
+            "results",
+            0,
+            "netPricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            30,
+            "collections"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            30,
+            "collections",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            30,
+            "collections",
+            "values",
+            0,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            30,
+            "installments"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            30,
+            "installments",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            30,
+            "installments",
+            "values",
+            0,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            30,
+            "listPrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            30,
+            "listPrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            30,
+            "salePrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            30,
+            "salePrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            30,
+            "salePrice",
+            "discounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            31,
+            "sellers"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            31,
+            "brand"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            31,
+            "skus"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            31,
+            "skus",
+            "results"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            31,
+            "skus",
+            "results",
+            0,
+            "categorization"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            31,
+            "skus",
+            "results",
+            0,
+            "pricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            31,
+            "skus",
+            "results",
+            0,
+            "netPricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            31,
+            "collections"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            31,
+            "collections",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            31,
+            "collections",
+            "values",
+            0,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            31,
+            "installments"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            31,
+            "installments",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            31,
+            "installments",
+            "values",
+            0,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            31,
+            "listPrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            31,
+            "listPrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            31,
+            "salePrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            31,
+            "salePrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            31,
+            "salePrice",
+            "discounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            32,
+            "sellers"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            32,
+            "brand"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            32,
+            "skus"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            32,
+            "skus",
+            "results"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            32,
+            "skus",
+            "results",
+            0,
+            "categorization"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            32,
+            "skus",
+            "results",
+            0,
+            "pricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            32,
+            "skus",
+            "results",
+            0,
+            "netPricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            32,
+            "collections"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            32,
+            "collections",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            32,
+            "collections",
+            "values",
+            0,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            32,
+            "installments"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            32,
+            "installments",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            32,
+            "listPrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            32,
+            "listPrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            32,
+            "salePrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            32,
+            "salePrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            32,
+            "salePrice",
+            "discounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            33,
+            "sellers"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            33,
+            "brand"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            33,
+            "skus"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            33,
+            "skus",
+            "results"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            33,
+            "skus",
+            "results",
+            0,
+            "categorization"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            33,
+            "skus",
+            "results",
+            0,
+            "pricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            33,
+            "skus",
+            "results",
+            0,
+            "netPricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            33,
+            "collections"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            33,
+            "collections",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            33,
+            "collections",
+            "values",
+            0,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            33,
+            "collections",
+            "values",
+            1,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            33,
+            "installments"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            33,
+            "installments",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            33,
+            "installments",
+            "values",
+            0,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            33,
+            "listPrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            33,
+            "listPrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            33,
+            "salePrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            33,
+            "salePrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            33,
+            "salePrice",
+            "discounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            34,
+            "sellers"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            34,
+            "brand"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            34,
+            "skus"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            34,
+            "skus",
+            "results"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            34,
+            "skus",
+            "results",
+            0,
+            "categorization"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            34,
+            "skus",
+            "results",
+            0,
+            "pricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            34,
+            "skus",
+            "results",
+            0,
+            "netPricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            34,
+            "collections"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            34,
+            "collections",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            34,
+            "collections",
+            "values",
+            0,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            34,
+            "collections",
+            "values",
+            1,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            34,
+            "installments"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            34,
+            "installments",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            34,
+            "installments",
+            "values",
+            0,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            34,
+            "listPrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            34,
+            "listPrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            34,
+            "salePrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            34,
+            "salePrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            34,
+            "salePrice",
+            "discounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            35,
+            "sellers"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            35,
+            "brand"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            35,
+            "skus"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            35,
+            "skus",
+            "results"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            35,
+            "skus",
+            "results",
+            0,
+            "categorization"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            35,
+            "skus",
+            "results",
+            0,
+            "pricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            35,
+            "skus",
+            "results",
+            0,
+            "netPricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            35,
+            "collections"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            35,
+            "collections",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            35,
+            "installments"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            35,
+            "installments",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            35,
+            "listPrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            35,
+            "listPrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            35,
+            "salePrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            35,
+            "salePrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            35,
+            "salePrice",
+            "discounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            36,
+            "sellers"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            36,
+            "brand"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            36,
+            "skus"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            36,
+            "skus",
+            "results"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            36,
+            "skus",
+            "results",
+            0,
+            "categorization"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            36,
+            "skus",
+            "results",
+            0,
+            "pricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            36,
+            "skus",
+            "results",
+            0,
+            "netPricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            36,
+            "collections"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            36,
+            "collections",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            36,
+            "installments"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            36,
+            "installments",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            36,
+            "listPrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            36,
+            "listPrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            36,
+            "salePrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            36,
+            "salePrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            36,
+            "salePrice",
+            "discounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            37,
+            "sellers"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            37,
+            "brand"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            37,
+            "skus"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            37,
+            "skus",
+            "results"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            37,
+            "skus",
+            "results",
+            0,
+            "categorization"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            37,
+            "skus",
+            "results",
+            0,
+            "pricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            37,
+            "skus",
+            "results",
+            0,
+            "netPricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            37,
+            "collections"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            37,
+            "collections",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            37,
+            "installments"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            37,
+            "installments",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            37,
+            "listPrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            37,
+            "listPrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            37,
+            "salePrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            37,
+            "salePrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            37,
+            "salePrice",
+            "discounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            38,
+            "sellers"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            38,
+            "brand"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            38,
+            "skus"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            38,
+            "skus",
+            "results"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            38,
+            "skus",
+            "results",
+            0,
+            "categorization"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            38,
+            "skus",
+            "results",
+            0,
+            "pricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            38,
+            "skus",
+            "results",
+            0,
+            "netPricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            38,
+            "collections"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            38,
+            "collections",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            38,
+            "installments"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            38,
+            "installments",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            38,
+            "listPrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            38,
+            "listPrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            38,
+            "salePrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            38,
+            "salePrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            38,
+            "salePrice",
+            "discounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            39,
+            "sellers"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            39,
+            "brand"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            39,
+            "skus"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            39,
+            "skus",
+            "results"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            39,
+            "skus",
+            "results",
+            0,
+            "categorization"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            39,
+            "skus",
+            "results",
+            0,
+            "pricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            39,
+            "skus",
+            "results",
+            0,
+            "netPricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            39,
+            "collections"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            39,
+            "collections",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            39,
+            "installments"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            39,
+            "installments",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            39,
+            "listPrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            39,
+            "listPrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            39,
+            "salePrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            39,
+            "salePrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            39,
+            "salePrice",
+            "discounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            40,
+            "sellers"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            40,
+            "brand"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            40,
+            "skus"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            40,
+            "skus",
+            "results"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            40,
+            "skus",
+            "results",
+            0,
+            "categorization"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            40,
+            "skus",
+            "results",
+            0,
+            "pricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            40,
+            "skus",
+            "results",
+            0,
+            "netPricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            40,
+            "collections"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            40,
+            "collections",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            40,
+            "installments"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            40,
+            "installments",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            40,
+            "listPrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            40,
+            "listPrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            40,
+            "salePrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            40,
+            "salePrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            40,
+            "salePrice",
+            "discounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            41,
+            "sellers"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            41,
+            "brand"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            41,
+            "skus"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            41,
+            "skus",
+            "results"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            41,
+            "skus",
+            "results",
+            0,
+            "categorization"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            41,
+            "skus",
+            "results",
+            0,
+            "pricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            41,
+            "skus",
+            "results",
+            0,
+            "netPricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            41,
+            "collections"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            41,
+            "collections",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            41,
+            "collections",
+            "values",
+            0,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            41,
+            "collections",
+            "values",
+            1,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            41,
+            "installments"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            41,
+            "installments",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            41,
+            "installments",
+            "values",
+            0,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            41,
+            "listPrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            41,
+            "listPrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            41,
+            "salePrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            41,
+            "salePrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            41,
+            "salePrice",
+            "discounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            42,
+            "sellers"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            42,
+            "brand"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            42,
+            "skus"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            42,
+            "skus",
+            "results"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            42,
+            "skus",
+            "results",
+            0,
+            "categorization"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            42,
+            "skus",
+            "results",
+            0,
+            "pricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            42,
+            "skus",
+            "results",
+            0,
+            "netPricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            42,
+            "collections"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            42,
+            "collections",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            42,
+            "collections",
+            "values",
+            0,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            42,
+            "installments"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            42,
+            "installments",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            42,
+            "installments",
+            "values",
+            0,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            42,
+            "listPrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            42,
+            "listPrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            42,
+            "salePrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            42,
+            "salePrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            42,
+            "salePrice",
+            "discounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            43,
+            "sellers"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            43,
+            "brand"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            43,
+            "skus"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            43,
+            "skus",
+            "results"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            43,
+            "skus",
+            "results",
+            0,
+            "categorization"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            43,
+            "skus",
+            "results",
+            0,
+            "pricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            43,
+            "skus",
+            "results",
+            0,
+            "netPricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            43,
+            "collections"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            43,
+            "collections",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            43,
+            "collections",
+            "values",
+            0,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            43,
+            "installments"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            43,
+            "installments",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            43,
+            "installments",
+            "values",
+            0,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            43,
+            "listPrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            43,
+            "listPrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            43,
+            "salePrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            43,
+            "salePrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            43,
+            "salePrice",
+            "discounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            44,
+            "sellers"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            44,
+            "brand"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            44,
+            "skus"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            44,
+            "skus",
+            "results"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            44,
+            "skus",
+            "results",
+            0,
+            "categorization"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            44,
+            "skus",
+            "results",
+            0,
+            "pricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            44,
+            "skus",
+            "results",
+            0,
+            "netPricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            44,
+            "collections"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            44,
+            "collections",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            44,
+            "installments"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            44,
+            "installments",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            44,
+            "listPrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            44,
+            "listPrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            44,
+            "salePrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            44,
+            "salePrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            44,
+            "salePrice",
+            "discounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            45,
+            "sellers"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            45,
+            "brand"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            45,
+            "skus"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            45,
+            "skus",
+            "results"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            45,
+            "skus",
+            "results",
+            0,
+            "categorization"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            45,
+            "skus",
+            "results",
+            0,
+            "pricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            45,
+            "skus",
+            "results",
+            0,
+            "netPricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            45,
+            "collections"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            45,
+            "collections",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            45,
+            "collections",
+            "values",
+            0,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            45,
+            "installments"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            45,
+            "installments",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            45,
+            "installments",
+            "values",
+            0,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            45,
+            "listPrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            45,
+            "listPrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            45,
+            "salePrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            45,
+            "salePrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            45,
+            "salePrice",
+            "discounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            46,
+            "sellers"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            46,
+            "brand"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            46,
+            "skus"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            46,
+            "skus",
+            "results"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            46,
+            "skus",
+            "results",
+            0,
+            "categorization"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            46,
+            "skus",
+            "results",
+            0,
+            "pricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            46,
+            "skus",
+            "results",
+            0,
+            "netPricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            46,
+            "collections"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            46,
+            "collections",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            46,
+            "installments"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            46,
+            "installments",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            46,
+            "listPrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            46,
+            "listPrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            46,
+            "salePrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            46,
+            "salePrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            46,
+            "salePrice",
+            "discounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            47,
+            "sellers"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            47,
+            "brand"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            47,
+            "skus"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            47,
+            "skus",
+            "results"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            47,
+            "skus",
+            "results",
+            0,
+            "categorization"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            47,
+            "skus",
+            "results",
+            0,
+            "pricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            47,
+            "skus",
+            "results",
+            0,
+            "netPricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            47,
+            "collections"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            47,
+            "collections",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            47,
+            "collections",
+            "values",
+            0,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            47,
+            "installments"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            47,
+            "installments",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            47,
+            "installments",
+            "values",
+            0,
+            "cockade"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            47,
+            "listPrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            47,
+            "listPrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            47,
+            "salePrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            47,
+            "salePrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            47,
+            "salePrice",
+            "discounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            48,
+            "sellers"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            48,
+            "brand"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            48,
+            "skus"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            48,
+            "skus",
+            "results"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            48,
+            "skus",
+            "results",
+            0,
+            "categorization"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            48,
+            "skus",
+            "results",
+            0,
+            "pricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            48,
+            "skus",
+            "results",
+            0,
+            "netPricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            48,
+            "collections"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            48,
+            "collections",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            48,
+            "installments"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            48,
+            "installments",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            48,
+            "listPrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            48,
+            "listPrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            48,
+            "salePrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            48,
+            "salePrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            48,
+            "salePrice",
+            "discounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            49,
+            "sellers"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            49,
+            "brand"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            49,
+            "skus"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            49,
+            "skus",
+            "results"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            49,
+            "skus",
+            "results",
+            0,
+            "categorization"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            49,
+            "skus",
+            "results",
+            0,
+            "pricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            49,
+            "skus",
+            "results",
+            0,
+            "netPricing"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            49,
+            "collections"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            49,
+            "collections",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            49,
+            "installments"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            49,
+            "installments",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            49,
+            "listPrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            49,
+            "listPrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            49,
+            "salePrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            49,
+            "salePrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "results",
+            49,
+            "salePrice",
+            "discounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "aggregations"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "aggregations",
+            "availableStock"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "aggregations",
+            "availableStock",
+            "deliveryTerms"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "aggregations",
+            "availableStock",
+            "types"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "aggregations",
+            "availableStock",
+            "costs"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "aggregations",
+            "sellerCondition"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "aggregations",
+            "sellerCondition",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "aggregations",
+            "collections"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "aggregations",
+            "collections",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "aggregations",
+            "installments"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "aggregations",
+            "installments",
+            "values"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "aggregations",
+            "categories"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "aggregations",
+            "categories",
+            0,
+            "path"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "aggregations",
+            "categories",
+            0,
+            "children"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "aggregations",
+            "categories",
+            0,
+            "children",
+            0,
+            "path"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "aggregations",
+            "categories",
+            0,
+            "children",
+            0,
+            "children"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "aggregations",
+            "categories",
+            0,
+            "children",
+            1,
+            "path"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "aggregations",
+            "categories",
+            0,
+            "children",
+            1,
+            "children"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "aggregations",
+            "categories",
+            0,
+            "children",
+            2,
+            "path"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "aggregations",
+            "categories",
+            0,
+            "children",
+            2,
+            "children"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "aggregations",
+            "categories",
+            0,
+            "children",
+            3,
+            "path"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "aggregations",
+            "categories",
+            0,
+            "children",
+            3,
+            "children"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "aggregations",
+            "categories",
+            0,
+            "children",
+            4,
+            "path"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "aggregations",
+            "categories",
+            0,
+            "children",
+            4,
+            "children"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "aggregations",
+            "categories",
+            0,
+            "children",
+            5,
+            "path"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "aggregations",
+            "categories",
+            0,
+            "children",
+            5,
+            "children"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "aggregations",
+            "categories",
+            1,
+            "path"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "aggregations",
+            "categories",
+            1,
+            "children"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "aggregations",
+            "categories",
+            1,
+            "children",
+            0,
+            "path"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "aggregations",
+            "categories",
+            1,
+            "children",
+            0,
+            "children"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "aggregations",
+            "categories",
+            2,
+            "path"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "aggregations",
+            "categories",
+            2,
+            "children"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "aggregations",
+            "categories",
+            2,
+            "children",
+            0,
+            "path"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "aggregations",
+            "categories",
+            2,
+            "children",
+            0,
+            "children"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "aggregations",
+            "attributes"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "aggregations",
+            "salePrice"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "aggregations",
+            "salePrice",
+            "amounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "aggregations",
+            "salePrice",
+            "amounts",
+            0,
+            "ranges"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "aggregations",
+            "salePrice",
+            "discounts"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "aggregations",
+            "salePrice",
+            "discounts",
+            0,
+            "ranges"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "aggregations",
+            "brands"
+          ],
+          "maxAge": 3600
+        },
+        {
+          "path": [
+            "items",
+            "aggregations",
+            "brands",
+            "values"
+          ],
+          "maxAge": 3600
+        }
+      ]
     }
   }
 }
