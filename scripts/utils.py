@@ -1,6 +1,6 @@
 import requests
 import json
-from scripts.env import HEADERS
+from env import HEADERS
 
 def obtener_json(endpoint, params, timeout=20):
     r = requests.get(endpoint, params=params, headers=HEADERS, timeout=timeout)
@@ -10,3 +10,9 @@ def obtener_json(endpoint, params, timeout=20):
 def guardar_json(objeto, nombre_archivo: str):
     with open(nombre_archivo, "w", encoding="utf-8") as f:
         json.dump(objeto, f, ensure_ascii=False, indent=2)
+
+def make_request(method, url, params, headers, cookies=None):
+    if method == 'GET':
+        return requests.get(url=url, params=params, cookies=cookies, headers=headers)
+    if method == 'POST':
+        return requests.post(url=url, params=params, cookies=cookies, headers=headers)

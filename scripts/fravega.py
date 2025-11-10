@@ -1,6 +1,6 @@
-from scripts.env import HEADERS, FRAVEGA_COOKIES
-from scripts.utils import obtener_json, guardar_json
-
+from env import HEADERS, FRAVEGA_COOKIES
+from utils import obtener_json, guardar_json, make_request
+import os
 import requests
 import time
 import random
@@ -8,7 +8,6 @@ import pandas as pd
 import json
 
 page_size = 50
-
 
 def obtener_productos(offset=0, page_size=50):
     json_data = {
@@ -166,5 +165,71 @@ def scraping(max_productos=500, page_size=50, start_offset=0, max_offset=None, d
             time.sleep(delay)
             continue
 
+# --- Fase 2: Productos individuales ---
+
+def get_product_data(product_slug, product_sku):
+    try:
+        # comprobación de existencia
+        output_path = f'datos/asus/productos/{product_sku}.json'
+        if os.path.exists(output_path):
+            with open(output_path, 'r', encoding='utf-8') as archivo:
+                return json.load(archivo)
+        
+        # requests en caso de no haberse hecho anteriormente
+        product_url = f'https://www.fravega.com/_next/data/8henYVaMxxJpVLpcaFKz2/es-AR/p/{product_slug}-{str(product_sku)}.json'    
+        product_params = {
+            'slug': str(product_slug),
+            'sku': str(product_sku),
+            'productSlug': str(product_slug) + '-' + str(product_sku),
+        }
+
+        response = make_request('GET', url=product_url, headers=HEADERS, params=product_params)
+        if response.status_code == 200:
+            data_json = generar_json(response)
+            guardar_json(data_json, nombre_archivo=output_path)
+            return data_json
+
+    except Exception as e:
+        print(e)
+        return {}
+
+def get_product_attributes(product_dict: dict):
+    product_sku = product_dict['pageProps']['sku']
+    try:
+        product_data = product_dict['pageProps']['__APOLLO_STATE__']['ROOT_QUERY']['sku({"code":"' + str(product_sku) + '"})']['item']
+        product_id = product_data['id']
+        product_specifications = list(
+            {spec['name']: spec['value']}
+            for spec in product_data['specifications({"tagged":["detailed"]})']
+        )
+
+        product_attributes = list(
+            {a['name']: a['value']}
+            for a in product_data['attributes']
+            if 'imagen' not in a['name']
+        )
+
+        return {
+            'product_id': product_id,
+            'product_specifications': product_specifications,
+            'product_attributes': product_attributes
+            }
+    except Exception as e:
+        print(f'Error. Producto: {product_sku}. {e}')
+        return {}
+
+def scrape_products(products_info: list[tuple[str, int]]):
+    for index, product in enumerate(products_info):
+        slug, sku = product
+        product_data = get_product_data(slug, sku)
+        print(f'{index+1}/{len(products_info)} - {sku} listo.')
+        time.sleep(random.uniform(3, 7))
+        continue
+        
 if __name__ == '__main__':
-    scraping()
+   df = pd.read_csv('datos/asus/productos-asus-fravega.csv')
+   tuplas = list(
+       (df.iloc[x].slug, df.iloc[x].sku_id) for x in range(len(df))
+   )
+
+   scrape_products(tuplas[:10])
