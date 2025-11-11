@@ -1,6 +1,6 @@
 import requests
 import json
-from env import HEADERS
+from .env import HEADERS
 
 def obtener_json(endpoint, params, timeout=20):
     r = requests.get(endpoint, params=params, headers=HEADERS, timeout=timeout)

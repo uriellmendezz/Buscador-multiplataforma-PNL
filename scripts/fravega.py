@@ -1,6 +1,11 @@
-from env import HEADERS, FRAVEGA_COOKIES
-from utils import obtener_json, guardar_json, make_request
+import sys
 import os
+
+# Agrega la carpeta 'scripts' al path
+sys.path.append(os.path.join(os.path.dirname(__file__), 'scripts'))
+
+from .env import HEADERS, FRAVEGA_COOKIES
+from .utils import obtener_json, guardar_json, make_request
 import requests
 import time
 import random
@@ -167,10 +172,11 @@ def scraping(ruta, max_productos=500, page_size=50, start_offset=0, max_offset=N
 
 # --- Fase 2: Productos individuales ---
 
-def get_product_data(product_slug, product_sku):
+def get_product_data(output_dir_path, product_slug, product_sku):
     try:
         # comprobación de existencia
-        output_path = f'datos/asus/productos/{product_sku}.json'
+
+        output_path = f'{output_dir_path}/{product_sku}.json'
         if os.path.exists(output_path):
             with open(output_path, 'r', encoding='utf-8') as archivo:
                 return json.load(archivo)
@@ -221,11 +227,16 @@ def get_product_attributes(product_dict: dict):
 def scrape_products(products_info: list[tuple[str, int]]):
     for index, product in enumerate(products_info):
         slug, sku = product
-        product_data = get_product_data(slug, sku)
+        product_data = get_product_data('datos/lenovo/productos',slug, sku)
         random_sleep = random.uniform(3, 8)
         print(f'{index+1}/{len(products_info)} - {sku} listo. (espera de {random_sleep:.2f} segundos.)')
         time.sleep(random_sleep)
         continue
         
 if __name__ == '__main__':
-   scraping(ruta='datos/lenovo/productos/')
+   df = pd.read_csv('datos/lenovo/productos-lenovo-fravega.csv')
+   tuplas = list(
+       (df.iloc[x].slug, df.iloc[x].sku_id) for x in range(len(df))
+   )
+
+   scrape_products(tuplas)
