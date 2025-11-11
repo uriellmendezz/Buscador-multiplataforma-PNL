@@ -5,11 +5,11 @@ import requests
 import time
 import random
 import pandas as pd
-import json
+import json     
 
 page_size = 50
 
-def obtener_productos(offset=0, page_size=50):
+def obtener_productos(offset=0, page_size=50, brand='lenovo'):
     json_data = {
         'operationName': 'listProducts_Shopping',
         'variables': {
@@ -18,7 +18,7 @@ def obtener_productos(offset=0, page_size=50):
             'isSingleCategory': True,
             'filtering': {
                 'keywords': {
-                    'query': 'asus',
+                    'query': brand,
                 },
                 'availableStock': {
                     'postalCodes': 'X5000',
@@ -110,7 +110,7 @@ def transformaciones(data_json: dict):
 
     return df.merge(df_skus, on='id').drop('skus_results', axis=1)
 
-def scraping(max_productos=500, page_size=50, start_offset=0, max_offset=None, delay=5):
+def scraping(ruta, max_productos=500, page_size=50, start_offset=0, max_offset=None, delay=5):
     """
     Descarga páginas de productos y guarda cada respuesta JSON en un archivo.
     - Corta si:
@@ -141,7 +141,7 @@ def scraping(max_productos=500, page_size=50, start_offset=0, max_offset=None, d
                 print(f"OFFSET {offset}: sin resultados. Fin.")
                 break
 
-            nombre_archivo = f"productos-offset{offset}.json"
+            nombre_archivo = ruta + f'productos-offset{offset}.json'
             guardar_json(data_json, nombre_archivo)
             guardados.append(nombre_archivo)
 
@@ -222,14 +222,10 @@ def scrape_products(products_info: list[tuple[str, int]]):
     for index, product in enumerate(products_info):
         slug, sku = product
         product_data = get_product_data(slug, sku)
-        print(f'{index+1}/{len(products_info)} - {sku} listo.')
-        time.sleep(random.uniform(3, 7))
+        random_sleep = random.uniform(3, 8)
+        print(f'{index+1}/{len(products_info)} - {sku} listo. (espera de {random_sleep:.2f} segundos.)')
+        time.sleep(random_sleep)
         continue
         
 if __name__ == '__main__':
-   df = pd.read_csv('datos/asus/productos-asus-fravega.csv')
-   tuplas = list(
-       (df.iloc[x].slug, df.iloc[x].sku_id) for x in range(len(df))
-   )
-
-   scrape_products(tuplas[:10])
+   scraping(ruta='datos/lenovo/productos/')
