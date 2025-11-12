@@ -9,17 +9,40 @@ from fastapi.templating import Jinja2Templates
 import uvicorn
 import json
 import ast
+import re
+from unicodedata import normalize as uni_normalize
 
 # Verificar disponibilidad del modelo LLM
 LLM_AVAILABLE = False
-nlp_model = None
+llm_model = None
 
 try:
     from es_ecommerce_classifier import load as load_model
-    LLM_AVAILABLE = True
+    # Intentar cargar el modelo
+    try:
+        llm_model = load_model()
+        LLM_AVAILABLE = True
+        print("SUCCESS: Modelo LLM cargado correctamente")
+    except Exception as e:
+        print(f"ERROR cargando modelo: {e}")
+        LLM_AVAILABLE = False
 except (ImportError, OSError) as e:
     print(f"Modelo LLM no disponible: {e}")
     LLM_AVAILABLE = False
+
+def load_llm_model():
+    """Carga el modelo LLM si está disponible"""
+    global llm_model, LLM_AVAILABLE
+    try:
+        if not LLM_AVAILABLE:
+            from es_ecommerce_classifier import load as load_model
+            llm_model = load_model()
+            LLM_AVAILABLE = True
+        return llm_model
+    except Exception as e:
+        print(f"Error cargando modelo LLM: {e}")
+        LLM_AVAILABLE = False
+        return None
 
 app = FastAPI()
 
@@ -29,12 +52,60 @@ app.mount("/static", StaticFiles(directory="."), name="static")
 # Templates
 templates = Jinja2Templates(directory="templates")
 
+# --- Helpers de normalización/parseo ---
+def safe_list(x):
+    """
+    Convierte strings tipo "['ATTR_X','ATTR_Y']" a lista real.
+    Si ya es lista, la devuelve; si falla, devuelve [].
+    """
+    if isinstance(x, list):
+        return x
+    if isinstance(x, str):
+        try:
+            return ast.literal_eval(x)
+        except Exception:
+            return []
+    return []
+
+def clean_label(label: str) -> str:
+    """
+    Normaliza labels del modelo:
+    - Mayúsculas
+    - Sin acentos
+    - Espacios/guiones -> _
+    - Colapsa prefijos duplicados (CAT_CAT_ -> CAT_, INT_INT_ -> INT_, ATTR_ATTR_ -> ATTR_)
+    - Colapsa underscores repetidos
+    """
+    if not isinstance(label, str):
+        label = str(label)
+    s = label.strip().upper()
+    s = uni_normalize("NFKD", s).encode("ascii", "ignore").decode("ascii")
+    s = re.sub(r"[ \-./:;,]+", "_", s)            # separadores -> _
+    s = re.sub(r"^(CAT_)+", "CAT_", s)            # CAT_CAT_... -> CAT_
+    s = re.sub(r"^(INT_)+", "INT_", s)            # INT_INT_... -> INT_
+    s = re.sub(r"^(ATTR_)+", "ATTR_", s)          # ATTR_ATTR_... -> ATTR_
+    s = re.sub(r"_+", "_", s)                     # varios __ -> _
+    s = s.strip("_")
+    return s
+
 # Función para cargar datos reales del CSV
 def load_data():
     """Carga los datos reales del CSV productos-gemini.csv"""
     try:
-        df = pd.read_csv('datos/productos-gemini.csv')
-        print(f"SUCCESS: Cargados {len(df)} productos del archivo CSV")
+        # Intentar con diferentes rutas
+        data_path = None
+        possible_paths = ['datos/productos-gemini.csv', 'data/productos-gemini.csv', 'productos-gemini.csv']
+        
+        for path in possible_paths:
+            if os.path.exists(path):
+                data_path = path
+                break
+        
+        if data_path is None:
+            raise FileNotFoundError("No se encontró el archivo productos-gemini.csv en ninguna ubicación")
+            
+        df = pd.read_csv(data_path)
+        print(f"SUCCESS: Cargados {len(df)} productos del archivo CSV: {data_path}")
         print(f"Columnas disponibles: {list(df.columns)}")
         
         # Procesar la columna atributos_correctos para extraer categorías, intenciones y atributos
@@ -46,12 +117,24 @@ def load_data():
         df['atributos_lista'] = df['parsed_attributes'].apply(lambda x: x.get('atributos', []) if x else [])
         
         # Agregar columnas que necesita el template (con valores por defecto)
-        df['sale_price'] = df['list_price'] * 0.9  # Simular 10% descuento
-        df['sku_id'] = df['slug']  # Usar slug como SKU
+        if 'list_price' in df.columns:
+            df['sale_price'] = df['list_price'] * 0.9  # Simular 10% descuento
+        else:
+            df['sale_price'] = 100000  # Precio por defecto
+            
+        df['sku_id'] = df['slug'] if 'slug' in df.columns else range(len(df))  # Usar slug como SKU
         df['discount_percent'] = 10.0  # Descuento fijo del 10%
         
         # Agregar columna de relevance_score inicializada en 0
         df['relevance_score'] = 0.0
+        
+        # Agregar columnas para compatibilidad con el sistema de tags
+        if 'atributos_list' not in df.columns:
+            df['atributos_list'] = df['atributos_lista'].apply(safe_list)
+        if 'categoria_detectada' not in df.columns:
+            df['categoria_detectada'] = df['categoria_principal']
+        if 'intencion_detectada' not in df.columns:
+            df['intencion_detectada'] = df['intencion_principal']
         
         print(f"SUCCESS: Datos procesados correctamente. Shape final: {df.shape}")
         return df
@@ -94,228 +177,156 @@ def load_sample_data():
     df['intencion_principal'] = df['parsed_attributes'].apply(lambda x: x.get('intencion', '') if x else '')
     df['atributos_lista'] = df['parsed_attributes'].apply(lambda x: x.get('atributos', []) if x else [])
     
+    # Agregar columnas de compatibilidad
+    df['atributos_list'] = df['atributos_lista'].apply(safe_list)
+    df['categoria_detectada'] = df['categoria_principal']
+    df['intencion_detectada'] = df['intencion_principal']
+    df['slug'] = range(len(df))
+    
     return df
 
-# Cargar modelo LLM
-def load_llm_model():
-    if not LLM_AVAILABLE:
-        return None
+# --- Similitud (conteo de coincidencias) ---
+def similitud_producto(row: pd.Series, tags_set: set) -> int:
+    """
+    Suma:
+      +1 si coincide categoria_detectada
+      +1 si coincide intencion_detectada
+      +1 por cada ATTR_* presente en atributos_list que esté en tags_set
+    """
+    total = 0
+    cat = row.get("categoria_detectada", "")
+    intent = row.get("intencion_detectada", "")
+    attrs = row.get("atributos_list", [])
 
+    if isinstance(cat, str) and cat in tags_set:
+        total += 1
+    if isinstance(intent, str) and intent in tags_set:
+        total += 1
+    if isinstance(attrs, list):
+        total += len(set(attrs).intersection(tags_set))
+
+    return total
+
+# --- Generación de tags desde LLM o dict de scores ---
+def generar_tags(query: str = "",
+                 model=None,
+                 scores_dict: dict | None = None,
+                 topn: int = 15) -> list[str]:
+    """
+    Devuelve la lista ordenada de tags más probables.
+    - Si pasás scores_dict (p.ej. salida ya parseada de tu LLM): usa eso.
+    - Si pasás model (spacy/llm con doc.cats): usa model(query).
+    - Si pasás ambos, prioriza scores_dict.
+    """
+    if scores_dict is not None:
+        raw_predictions = scores_dict
+    else:
+        if model is None:
+            raise ValueError("Debes pasar `scores_dict` o `model` para generar tags.")
+        doc = model(query)
+        raw_predictions = getattr(doc, "cats", {})
+
+    # Normalizar labels
+    cleaned_predictions = { clean_label(k): float(v) for k, v in raw_predictions.items() }
+
+    # Ordenar por score desc
+    predicciones_ordenadas = sorted(cleaned_predictions.items(), key=lambda x: x[1], reverse=True)
+    tags = [k for k, _ in predicciones_ordenadas[:topn]]
+    return tags
+
+# --- Pipeline completo ---
+def filtrar_por_tags(df: pd.DataFrame, tags: list[str], min_coincidencias: int = 2) -> pd.DataFrame:
+    """
+    Calcula similitud y devuelve DF filtrado (similitud >= min_coincidencias) y ordenado.
+    """
+    df = df.copy()
+
+    # Asegurar columnas
+    if "atributos_list" not in df.columns:
+        df["atributos_list"] = [[] for _ in range(len(df))]
+    else:
+        df["atributos_list"] = df["atributos_list"].apply(safe_list)
+
+    for col in ("categoria_detectada", "intencion_detectada"):
+        if col not in df.columns:
+            df[col] = ""
+        df[col] = df[col].fillna("")
+
+    # Preparar set de tags
+    tags_norm = { clean_label(t) for t in tags if isinstance(t, str) and t.strip() }
+
+    # Calcular similitud
+    df["similitud"] = df.apply(lambda r: similitud_producto(r, tags_norm), axis=1)
+
+    # Filtrar y ordenar
+    df_filtrado = df[df["similitud"] >= min_coincidencias].sort_values("similitud", ascending=False)
+
+    # Columnas útiles (ajusta según tu catálogo)
+    cols_show = [c for c in [
+        "title", "brand_name", "categories", "list_price",
+        "categoria_detectada", "intencion_detectada", "atributos_list",
+        "similitud"
+    ] if c in df_filtrado.columns]
+
+    return df_filtrado.loc[:, cols_show]
+
+def intelligent_search(query: str, df: pd.DataFrame, model=None, top_k: int = 5):
+    """
+    Realiza búsqueda inteligente usando el modelo LLM si está disponible,
+    o búsqueda por texto si no está disponible.
+    """
     try:
-        model = load_model()
-        return model
-    except Exception as e:
-        print(f"Error cargando el modelo LLM: {e}")
-        return None
-
-# Función para normalizar etiquetas del modelo (remover prefijos duplicados)
-def normalize_labels(predictions: Dict[str, float]) -> Dict[str, float]:
-    """
-    Normaliza las etiquetas removiendo prefijos duplicados:
-    - CAT_CAT_NOTEBOOK -> CAT_NOTEBOOK
-    - INT_INT_GAMING -> INT_GAMING
-    - ATTR_ATTR_TARJETA_GRAFICA -> ATTR_TARJETA_GRAFICA
-    """
-    normalized = {}
-    
-    for label, score in predictions.items():
-        # Remover prefijos duplicados
-        if label.startswith('CAT_CAT_'):
-            clean_label = label.replace('CAT_CAT_', 'CAT_')
-        elif label.startswith('INT_INT_'):
-            clean_label = label.replace('INT_INT_', 'INT_')
-        elif label.startswith('ATTR_ATTR_'):
-            clean_label = label.replace('ATTR_ATTR_', 'ATTR_')
+        if model is not None:
+            # Usar modelo LLM para generar tags y filtrar
+            tags = generar_tags(query, model=model)
+            print(f"Tags generados para '{query}': {tags}")
+            filtered_df = filtrar_por_tags(df, tags, min_coincidencias=0)  # Incluir más productos
         else:
-            clean_label = label
+            # Búsqueda simple por texto en título y marca
+            query_lower = query.lower()
+            if 'title' in df.columns and 'brand_name' in df.columns:
+                mask = (df['title'].str.lower().str.contains(query_lower, na=False) | 
+                       df['brand_name'].str.lower().str.contains(query_lower, na=False))
+                filtered_df = df[mask].copy()
+            else:
+                filtered_df = df.copy()
+                
+        # Agregar relevance_score basado en similitud
+        if 'similitud' in filtered_df.columns:
+            filtered_df['relevance_score'] = filtered_df['similitud']
+        else:
+            filtered_df['relevance_score'] = 1.0
             
-        normalized[clean_label] = score
-    
-    return normalized
-
-# Función para predecir etiquetas de una consulta
-def predict_labels(query: str, model) -> Dict[str, float]:
-    if not model:
-        return {}
-
-    doc = model(query)
-    predictions = {}
-
-    # Obtener las predicciones del textcat_multilabel
-    if hasattr(doc.cats, 'items'):
-        raw_predictions = dict(doc.cats)
-    else:
-        # Fallback si la estructura es diferente
-        raw_predictions = doc.cats
-
-    # Normalizar las etiquetas removiendo prefijos duplicados
-    normalized_predictions = normalize_labels(raw_predictions)
-    
-    return normalized_predictions
-
-# Función para calcular score de un producto basado en texto (sin LLM)
-def calculate_text_based_score(product: pd.Series, query: str) -> float:
-    """Calcula score basado en coincidencia de texto cuando no hay modelo LLM"""
-    score = 0.0
-    query_lower = query.lower()
-    title_lower = str(product.get('title', '')).lower()
-    brand_lower = str(product.get('brand_name', '')).lower()
-    
-    # 1. Coincidencia exacta en título (peso alto)
-    if query_lower in title_lower:
-        score += 10.0
-    
-    # 2. Coincidencia parcial en título (peso medio)
-    query_words = query_lower.split()
-    for word in query_words:
-        if len(word) > 2 and word in title_lower:  # Ignorar palabras muy cortas
-            score += 3.0
-    
-    # 3. Coincidencia en marca
-    if query_lower in brand_lower:
-        score += 5.0
-    
-    # 4. Coincidencia en categoría
-    categoria = str(product.get('categoria_principal', '')).lower()
-    if query_lower in categoria:
-        score += 4.0
-    
-    # 5. Coincidencia en intención
-    intencion = str(product.get('intencion_principal', '')).lower()
-    if query_lower in intencion:
-        score += 3.0
-    
-    # 6. Coincidencia en atributos
-    atributos = product.get('atributos_lista', [])
-    if isinstance(atributos, list):
-        for attr in atributos:
-            if query_lower in str(attr).lower():
-                score += 2.0
-    
-    return score
-
-# Función para calcular score de un producto basado en las predicciones
-def calculate_product_score(product: pd.Series, predictions: Dict[str, float]) -> float:
-    score = 0.0
-    
-    # 1. Verificar categoría principal del producto
-    categoria = product.get('categoria_principal', '')
-    if categoria and categoria in predictions:
-        score += predictions[categoria] * 5.0  # Mayor peso para categoría
-
-    # 2. Verificar intención principal del producto
-    intencion = product.get('intencion_principal', '')
-    if intencion and intencion in predictions:
-        score += predictions[intencion] * 4.0  # Alto peso para intención
-
-    # 3. Verificar atributos del producto
-    atributos = product.get('atributos_lista', [])
-    if isinstance(atributos, list):
-        for attr in atributos:
-            if attr in predictions:
-                score += predictions[attr] * 1.0  # Peso menor para atributos individuales
-
-    # 4. Búsqueda por texto en el título (match adicional)
-    title_lower = str(product.get('title', '')).lower()
-    query_lower = str(predictions).lower()
-    
-    # Palabras clave para intenciones comunes
-    if any(word in title_lower for word in ['gaming', 'gamer', 'juego', 'juegos']):
-        if 'INT_GAMING' in predictions:
-            score += predictions['INT_GAMING'] * 2.0
-
-    if any(word in title_lower for word in ['oficina', 'trabajo', 'office', 'business']):
-        if 'INT_OFICINA' in predictions:
-            score += predictions['INT_OFICINA'] * 2.0
-
-    if any(word in title_lower for word in ['estudio', 'estudiante', 'universidad']):
-        if 'INT_ESTUDIO' in predictions:
-            score += predictions['INT_ESTUDIO'] * 2.0
-
-    if any(word in title_lower for word in ['diseño', 'diseñar', 'gráfico', 'creatividad']):
-        if 'INT_DISEÑO' in predictions:
-            score += predictions['INT_DISEÑO'] * 2.0
-
-    return score
-
-# Función de búsqueda inteligente
-def intelligent_search(query: str, df: pd.DataFrame, model, top_k: int = 5) -> pd.DataFrame:
-    if not query.strip():
-        return df.head(top_k)
-
-    # DEBUG: Mostrar información del dataset
-    print(f"\n=== INICIO DE BÚSQUEDA ===")
-    print(f"Query: '{query}'")
-    print(f"Total productos disponibles: {len(df)}")
-    print(f"Primer producto título: '{df.iloc[0]['title'] if len(df) > 0 else 'N/A'}'")
-    
-    # Si hay modelo LLM disponible, usarlo para predicciones inteligentes
-    if model:
-        predictions = predict_labels(query, model)
+        # Ordenar por relevancia y retornar top_k
+        filtered_df = filtered_df.sort_values('relevance_score', ascending=False).head(top_k)
+        return filtered_df
         
-        # Mostrar salida del modelo en terminal como JSON
-        print("\n=== SALIDA DEL MODELO LLM ===")
-        print(f"Predicciones: {json.dumps(predictions, indent=2, ensure_ascii=False)}")
-        print("=" * 40 + "\n")
+    except Exception as e:
+        print(f"Error en búsqueda inteligente: {e}")
+        # Fallback a búsqueda simple
+        query_lower = query.lower()
+        mask = df['title'].str.lower().str.contains(query_lower, na=False) if 'title' in df.columns else pd.Series([True] * len(df))
+        return df[mask].head(top_k)
 
-        if predictions:
-            # Calcular scores basados en predicciones del LLM
-            scores = []
-            for idx, product in df.iterrows():
-                score = calculate_product_score(product, predictions)
-                scores.append((idx, score))
-        else:
-            # Fallback a búsqueda por texto si no hay predicciones
-            print("No hay predicciones del LLM, usando búsqueda por texto")
-            scores = []
-            for idx, product in df.iterrows():
-                score = calculate_text_based_score(product, query)
-                scores.append((idx, score))
-    else:
-        # Sin modelo LLM, usar búsqueda por texto en datos reales
-        print(f"\n=== BÚSQUEDA POR TEXTO (LLM no disponible) ===")
-        print(f"Buscando en {len(df)} productos del CSV...")
-        
-        scores = []
-        for idx, product in df.iterrows():
-            score = calculate_text_based_score(product, query)
-            scores.append((idx, score))
-            # DEBUG: Mostrar scores de productos relevantes
-            if score > 0:
-                print(f"  Producto: '{product['title'][:50]}...' - Score: {score:.2f}")
-
-    # Ordenar por score descendente
-    scores.sort(key=lambda x: x[1], reverse=True)
-
-    # Tomar los top_k productos con mejor score
-    top_indices = [idx for idx, score in scores[:top_k]]
-    result_df = df.loc[top_indices].copy()
-
-    # DEBUG: Mostrar resultados finales
-    print(f"\n=== RESULTADOS FINALES ===")
-    print(f"Productos seleccionados: {len(result_df)}")
-    for i, (idx, score) in enumerate(scores[:top_k]):
-        print(f"  {i+1}. Score {score:.2f}: '{df.loc[idx]['title'][:50]}...'")
-    print("=" * 40 + "\n")
-
-    # Agregar columna de score para mostrar
-    result_df['relevance_score'] = [score for _, score in scores[:top_k]]
-
-    return result_df
-
-# Cargar datos y modelo
-df = load_data()
-llm_model = load_llm_model()
+# Cargar datos al inicio
+try:
+    df = load_data()
+    # Cargar modelo si está disponible
+    if LLM_AVAILABLE:
+        llm_model = load_llm_model()
+except Exception as e:
+    print(f"Error inicializando datos: {e}")
+    df = load_sample_data()
 
 @app.get("/", response_class=HTMLResponse)
 async def home(request: Request):
-    return templates.TemplateResponse("index_moderno.html", {"request": request, "query": "", "filtered_df": None, "llm_available": llm_model is not None})
+    return templates.TemplateResponse("index_moderno.html", {"request": request, "query": "", "filtered_df": None, "llm_available": LLM_AVAILABLE})
 
 @app.post("/search", response_class=HTMLResponse)
 async def search(request: Request, query: str = Form(...)):
     if query.strip():
         # Siempre intentar búsqueda inteligente (con o sin LLM)
-        filtered_df = intelligent_search(query, df, llm_model, top_k=5)
+        filtered_df = intelligent_search(query, df, llm_model, top_k=12)
         
         # DEBUG: Mostrar información sobre los resultados
         print(f"\nDEBUG: Query '{query}' - Resultados encontrados: {len(filtered_df)}")
@@ -323,9 +334,12 @@ async def search(request: Request, query: str = Form(...)):
             print(f"DEBUG: Primer producto: {filtered_df.iloc[0].get('title', 'N/A')}")
             print(f"DEBUG: Total productos en dataset original: {len(df)}")
     else:
-        filtered_df = df.head(10)  # Mostrar primeros 10 productos si no hay query
+        filtered_df = df.head(12).copy()  # Mostrar 12 productos si no hay query
+        # Agregar scores ficticios para mostrar todos con el mismo nivel
+        filtered_df['relevance_score'] = 0.5
+        filtered_df['similitud'] = 0
 
-    return templates.TemplateResponse("index_moderno.html", {"request": request, "query": query, "filtered_df": filtered_df.to_dict('records') if filtered_df is not None else None, "llm_available": llm_model is not None})
+    return templates.TemplateResponse("index_moderno.html", {"request": request, "query": query, "filtered_df": filtered_df.to_dict('records') if filtered_df is not None and len(filtered_df) > 0 else None, "llm_available": LLM_AVAILABLE})
 
 if __name__ == "__main__":
-    uvicorn.run(app, host="0.0.0.0", port=8000)
+    uvicorn.run(app, host="0.0.0.0", port=8001)
