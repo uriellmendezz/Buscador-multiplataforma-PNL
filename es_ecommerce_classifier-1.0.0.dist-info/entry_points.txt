@@ -1,0 +1,2 @@
+[spacy_models]
+es_ecommerce_classifier = es_ecommerce_classifier
