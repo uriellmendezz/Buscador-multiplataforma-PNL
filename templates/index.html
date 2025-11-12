@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Buscador de Productos</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f5f5f5;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        .banner {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .banner img {
+            max-width: 100%;
+            height: auto;
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+        .search-section {
+            background-color: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            margin-bottom: 20px;
+        }
+        .search-form {
+            display: flex;
+            gap: 10px;
+            align-items: center;
+        }
+        .search-input {
+            flex: 1;
+            padding: 10px;
+            font-size: 16px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+        }
+        .search-button {
+            padding: 10px 20px;
+            background-color: #007bff;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        .search-button:hover {
+            background-color: #0056b3;
+        }
+        .results-section {
+            background-color: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .metric {
+            text-align: center;
+            font-size: 18px;
+            margin-bottom: 20px;
+        }
+        .product-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 20px;
+        }
+        .product-card {
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            padding: 15px;
+            background-color: #fff;
+        }
+        .product-title {
+            font-size: 18px;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+        .product-info {
+            margin-bottom: 10px;
+        }
+        .product-price {
+            font-size: 16px;
+            color: #28a745;
+        }
+        .product-discount {
+            color: #dc3545;
+            text-decoration: line-through;
+            margin-right: 10px;
+        }
+        .discount-badge {
+            background-color: #28a745;
+            color: white;
+            padding: 2px 5px;
+            border-radius: 3px;
+            font-size: 12px;
+        }
+        .relevance {
+            font-size: 14px;
+            color: #666;
+        }
+        .no-results {
+            text-align: center;
+            color: #666;
+        }
+        .info-message {
+            background-color: #d1ecf1;
+            color: #0c5460;
+            padding: 10px;
+            border-radius: 4px;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="banner">
+            <img src="{{ banner }}" alt="Banner">
+        </div>
+        <h1>🛒 Buscador Inteligente de Productos</h1>
+
+        <div class="search-section">
+            <h2>🤖 Búsqueda Inteligente con IA</h2>
+            <form class="search-form" method="post" action="/search">
+                <input type="text" name="query" class="search-input" placeholder="Describe lo que buscas: Ej: quiero una notebook gaming, busco auriculares inalámbricos para música, necesito un monitor 4K..." value="{{ query }}" required>
+                <button type="submit" class="search-button">Buscar</button>
+            </form>
+            <p>Describe en lenguaje natural lo que buscas. Nuestra IA analizará tu consulta y encontrará los productos más relevantes basándose en categorías, marcas y características.</p>
+        </div>
+
+        {% if query %}
+            {% if not nlp_available and query %}
+                <div class="info-message">
+                    🔮 Búsqueda inteligente no disponible. Mostrando todos los productos.
+                </div>
+            {% endif %}
+
+            <div class="results-section">
+                {% if filtered_df %}
+                    <div class="metric">
+                        Total Productos Encontrados: {{ filtered_df|length }}
+                    </div>
+                    <h2>📋 Productos Encontrados</h2>
+                    <div class="product-grid">
+                        {% for product in filtered_df %}
+                            <div class="product-card">
+                                <div class="product-title">{{ product.title }}</div>
+                                <div class="product-info">
+                                    <strong>Marca:</strong> {{ product.brand_name }}<br>
+                                    <strong>Categorías:</strong> {{ product.categories|join(', ') if product.categories else product.categories }}<br>
+                                    <strong>SKU:</strong> {{ product.sku_id }}<br>
+                                    {% if product.relevance_score is defined %}
+                                        <div class="relevance"><strong>Relevancia:</strong> {{ "%.3f"|format(product.relevance_score) }}</div>
+                                    {% endif %}
+                                </div>
+                                <div class="product-price">
+                                    {% if product.list_price > product.sale_price %}
+                                        <span class="product-discount">${{ "{:,.0f}".format(product.list_price) }}</span>
+                                        <span>${{ "{:,.0f}".format(product.sale_price) }}</span>
+                                        {% set discount = ((product.list_price - product.sale_price) / product.list_price * 100) %}
+                                        <span class="discount-badge">Descuento: {{ "%.1f"|format(discount) }}%</span>
+                                    {% else %}
+                                        <span>${{ "{:,.0f}".format(product.sale_price) }}</span>
+                                    {% endif %}
+                                </div>
+                                <button onclick="alert('Detalles del producto {{ product.title }} - Funcionalidad en desarrollo')">Ver detalles</button>
+                            </div>
+                        {% endfor %}
+                    </div>
+                {% else %}
+                    <div class="no-results">
+                        No se encontraron productos que coincidan con tu búsqueda.
+                    </div>
+                {% endif %}
+            </div>
+        {% else %}
+            <div class="info-message">
+                👆 Escribe tu búsqueda en lenguaje natural arriba para encontrar productos relevantes.
+            </div>
+        {% endif %}
+
+        <hr>
+        <p style="text-align: center;">Desarrollado con FastAPI y spaCy - Búsqueda Inteligente con IA</p>
+    </div>
+</body>
+</html>

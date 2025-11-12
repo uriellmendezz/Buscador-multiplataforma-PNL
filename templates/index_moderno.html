@@ -1,0 +1,705 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🛒 Buscador Multiplataforma - Productos Inteligentes</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
+    <style>
+        :root {
+            --primary-color: #2563eb;
+            --secondary-color: #10b981;
+            --accent-color: #f59e0b;
+            --text-primary: #1f2937;
+            --text-secondary: #6b7280;
+            --background-primary: #ffffff;
+            --background-secondary: #f8fafc;
+            --border-color: #e5e7eb;
+            --shadow-sm: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+            --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+            --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+            --shadow-xl: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Poppins', sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            color: var(--text-primary);
+            line-height: 1.6;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        /* Header Section */
+        .header {
+            text-align: center;
+            margin-bottom: 2rem;
+            animation: fadeInDown 0.8s ease-out;
+        }
+
+        .app-logo {
+            font-size: 3rem;
+            margin-bottom: 1rem;
+            display: block;
+            animation: bounce 2s infinite;
+            color: white;
+        }
+
+        .app-title {
+            font-size: 2.5rem;
+            font-weight: 700;
+            color: white;
+            margin-bottom: 0.5rem;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        }
+
+        .app-subtitle {
+            font-size: 1.1rem;
+            color: white;
+            font-weight: 400;
+            text-shadow: 1px 1px 2px rgba(0,0,0,0.3);
+        }
+
+        /* Search Section */
+        .search-section {
+            background: rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(10px);
+            border-radius: 20px;
+            padding: 2.5rem;
+            margin-bottom: 2rem;
+            box-shadow: var(--shadow-lg);
+            animation: fadeInUp 0.8s ease-out 0.2s both;
+            border: 1px solid rgba(255, 255, 255, 0.2);
+        }
+
+        .search-container {
+            position: relative;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+
+        .search-form {
+            display: flex;
+            gap: 1rem;
+            align-items: center;
+            background: var(--background-secondary);
+            border-radius: 15px;
+            padding: 0.5rem;
+            transition: all 0.3s ease;
+        }
+
+        .search-form:focus-within {
+            box-shadow: var(--shadow-lg);
+            transform: scale(1.02);
+        }
+
+        .search-input {
+            flex: 1;
+            border: none;
+            background: transparent;
+            padding: 1rem 1.5rem;
+            font-size: 1.1rem;
+            font-weight: 400;
+            color: var(--text-primary);
+            outline: none;
+        }
+
+        .search-input::placeholder {
+            color: var(--text-secondary);
+            font-style: italic;
+        }
+
+        .search-button {
+            background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+            color: white;
+            border: none;
+            border-radius: 12px;
+            padding: 1rem 2rem;
+            font-size: 1rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            min-width: 140px;
+            justify-content: center;
+        }
+
+        .search-button:hover {
+            transform: translateY(-2px);
+            box-shadow: var(--shadow-lg);
+        }
+
+        .search-button:active {
+            transform: translateY(0);
+        }
+
+        /* Info Messages */
+        .info-message {
+            background: rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(10px);
+            color: white;
+            padding: 1.2rem;
+            border-radius: 15px;
+            margin-bottom: 2rem;
+            box-shadow: var(--shadow-md);
+            animation: fadeIn 0.6s ease-out;
+            border: 1px solid rgba(255, 255, 255, 0.2);
+        }
+
+        .warning-message {
+            background: rgba(245, 158, 11, 0.2);
+            border: 1px solid rgba(245, 158, 11, 0.3);
+            color: #fbbf24;
+        }
+
+        .success-message {
+            background: rgba(16, 185, 129, 0.2);
+            border: 1px solid rgba(16, 185, 129, 0.3);
+            color: #34d399;
+        }
+
+        /* Results Section */
+        .results-section {
+            animation: fadeInUp 0.6s ease-out;
+        }
+        
+        .results-section.hidden {
+            display: none;
+        }
+
+        .results-header {
+            background: var(--background-primary);
+            border-radius: 15px;
+            padding: 2rem;
+            margin-bottom: 2rem;
+            box-shadow: var(--shadow-md);
+            text-align: center;
+        }
+
+        .results-title {
+            font-size: 1.8rem;
+            font-weight: 600;
+            color: var(--primary-color);
+            margin-bottom: 1rem;
+        }
+
+        .results-count {
+            font-size: 1.1rem;
+            color: var(--text-secondary);
+            font-weight: 500;
+        }
+
+        /* Product List */
+        .product-list {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+
+        .product-item {
+            background: var(--background-primary);
+            border-radius: 15px;
+            padding: 2rem;
+            margin-bottom: 1.5rem;
+            box-shadow: var(--shadow-md);
+            transition: all 0.3s ease;
+            border: 1px solid var(--border-color);
+            border-left: 6px solid var(--primary-color);
+            position: relative;
+        }
+
+        .product-item:hover {
+            transform: translateX(5px);
+            box-shadow: var(--shadow-lg);
+            border-left-color: var(--secondary-color);
+        }
+
+        .product-rank {
+            position: absolute;
+            top: 1rem;
+            right: 1rem;
+            background: var(--accent-color);
+            color: white;
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: bold;
+            font-size: 1.1rem;
+        }
+
+        .product-title {
+            font-size: 1.3rem;
+            font-weight: 600;
+            color: var(--text-primary);
+            margin-bottom: 1rem;
+            line-height: 1.4;
+        }
+
+        .product-price {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+            margin-bottom: 1rem;
+            flex-wrap: wrap;
+        }
+
+        .price-current {
+            font-size: 1.5rem;
+            font-weight: 700;
+            color: var(--secondary-color);
+        }
+
+        .price-original {
+            font-size: 1.1rem;
+            color: var(--text-secondary);
+            text-decoration: line-through;
+        }
+
+        .discount-badge {
+            background: linear-gradient(135deg, var(--accent-color), #f97316);
+            color: white;
+            padding: 0.3rem 0.8rem;
+            border-radius: 20px;
+            font-size: 0.9rem;
+            font-weight: 600;
+        }
+
+        .product-info {
+            margin-bottom: 1.5rem;
+        }
+
+        .product-brand,
+        .product-category {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            margin-bottom: 0.5rem;
+            font-size: 0.95rem;
+            color: var(--text-secondary);
+        }
+
+        .product-attributes {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+            margin-bottom: 1rem;
+        }
+
+        .attribute-tag {
+            background: var(--background-secondary);
+            color: var(--text-secondary);
+            padding: 0.4rem 0.8rem;
+            border-radius: 20px;
+            font-size: 0.85rem;
+            font-weight: 500;
+            border: 1px solid var(--border-color);
+        }
+
+        .relevance-label {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            padding: 0.8rem 1.2rem;
+            border-radius: 25px;
+            font-weight: 600;
+            font-size: 0.95rem;
+            margin-top: 1rem;
+            width: fit-content;
+        }
+
+        .relevance-high {
+            background: linear-gradient(135deg, #fef3c7, #fbbf24);
+            color: #92400e;
+        }
+
+        .relevance-medium {
+            background: linear-gradient(135deg, #dbeafe, #3b82f6);
+            color: #1e40af;
+        }
+
+        .relevance-low {
+            background: linear-gradient(135deg, #d1fae5, #10b981);
+            color: #065f46;
+        }
+
+        .relevance-score {
+            font-size: 0.85rem;
+            color: var(--text-secondary);
+            margin-top: 0.5rem;
+        }
+
+        .product-actions {
+            display: flex;
+            gap: 1rem;
+            margin-top: 1.5rem;
+        }
+
+        .action-button {
+            flex: 1;
+            padding: 0.8rem 1.5rem;
+            border: none;
+            border-radius: 12px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            font-size: 0.95rem;
+        }
+
+        .btn-primary {
+            background: linear-gradient(135deg, var(--primary-color), #1d4ed8);
+            color: white;
+        }
+
+        .btn-secondary {
+            background: var(--background-secondary);
+            color: var(--text-primary);
+            border: 2px solid var(--border-color);
+        }
+
+        .action-button:hover {
+            transform: translateY(-2px);
+            box-shadow: var(--shadow-md);
+        }
+
+        /* No Results */
+        .no-results {
+            text-align: center;
+            padding: 3rem;
+            background: var(--background-primary);
+            border-radius: 20px;
+            box-shadow: var(--shadow-md);
+            animation: fadeIn 0.6s ease-out;
+        }
+
+        .no-results-icon {
+            font-size: 4rem;
+            color: var(--text-secondary);
+            margin-bottom: 1rem;
+        }
+
+        .no-results-text {
+            font-size: 1.3rem;
+            color: var(--text-secondary);
+            font-weight: 500;
+        }
+
+        /* Animations */
+        @keyframes fadeIn {
+            from { opacity: 0; }
+            to { opacity: 1; }
+        }
+
+        @keyframes fadeInDown {
+            from {
+                opacity: 0;
+                transform: translateY(-30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        @keyframes bounce {
+            0%, 20%, 50%, 80%, 100% {
+                transform: translateY(0);
+            }
+            40% {
+                transform: translateY(-10px);
+            }
+            60% {
+                transform: translateY(-5px);
+            }
+        }
+
+        /* Responsive Design */
+        @media (max-width: 768px) {
+            .container {
+                padding: 1rem;
+            }
+
+            .app-title {
+                font-size: 2rem;
+            }
+
+            .search-section {
+                padding: 2rem 1.5rem;
+            }
+
+            .search-form {
+                flex-direction: column;
+                gap: 1rem;
+            }
+
+            .search-button {
+                width: 100%;
+            }
+
+            .product-item {
+                padding: 1.5rem;
+            }
+
+            .product-rank {
+                width: 35px;
+                height: 35px;
+                font-size: 1rem;
+            }
+
+            .product-item div[style*="display: flex"] {
+                flex-direction: column;
+                gap: 1rem !important;
+            }
+
+            .product-price {
+                flex-direction: column !important;
+                align-items: flex-start !important;
+                text-align: left !important;
+            }
+
+            .product-actions {
+                flex-direction: column;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .app-logo {
+                font-size: 2.5rem;
+            }
+
+            .app-title {
+                font-size: 1.8rem;
+            }
+
+            .search-section {
+                padding: 1.5rem 1rem;
+            }
+
+            .search-input {
+                padding: 0.8rem 1rem;
+                font-size: 1rem;
+            }
+
+            .product-item {
+                padding: 1.2rem;
+            }
+
+            .product-rank {
+                width: 30px;
+                height: 30px;
+                font-size: 0.9rem;
+                top: 0.5rem;
+                right: 0.5rem;
+            }
+        }
+
+        /* Utility Classes */
+        .hidden {
+            display: none !important;
+        }
+
+        .fade-in {
+            animation: fadeIn 0.6s ease-out;
+        }
+
+        .slide-up {
+            animation: fadeInUp 0.6s ease-out;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Header Section -->
+        <header class="header">
+            <i class="fas fa-search app-logo"></i>
+            <h1 class="app-title">🛒 Buscador Multiplataforma</h1>
+            <p class="app-subtitle">Encuentra productos perfectos con inteligencia artificial</p>
+        </header>
+
+        <!-- Search Section -->
+        <section class="search-section">
+            <div class="search-container">
+                <form class="search-form" method="post" action="/search">
+                    <input 
+                        type="text" 
+                        class="search-input" 
+                        name="query"
+                        placeholder="Escribí qué producto estás buscando... (ej: quiero una notebook para gaming, busco mouse ASUS inalámbrico)"
+                        value="{{ query }}"
+                        required
+                    >
+                    <button type="submit" class="search-button">
+                        <i class="fas fa-search"></i>
+                        Buscar
+                    </button>
+                </form>
+            </div>
+        </section>
+
+        <!-- Info Messages -->
+        {% if query and not nlp_available %}
+            <div class="info-message warning-message">
+                <i class="fas fa-exclamation-triangle"></i>
+                <strong>⚠️ Búsqueda inteligente no disponible.</strong> El modelo de IA no está disponible. Mostrando todos los productos disponibles.
+            </div>
+        {% elif query and nlp_available %}
+            <div class="info-message success-message">
+                <i class="fas fa-brain"></i>
+                <strong>🧠 Búsqueda inteligente activada.</strong> Estamos analizando tu consulta con nuestro modelo de IA para encontrar los productos más relevantes.
+            </div>
+        {% else %}
+            <div class="info-message">
+                <i class="fas fa-lightbulb"></i>
+                <strong>💡 Describe en lenguaje natural lo que buscas.</strong> Nuestra IA analizará tu consulta y encontrará productos basándose en categorías, marcas y características.
+            </div>
+        {% endif %}
+
+        <!-- Results Section -->
+        <section class="results-section{% if not filtered_df %} hidden{% endif %}">
+            {% if filtered_df %}
+                <div class="results-header">
+                    <h2 class="results-title">📋 Productos Encontrados</h2>
+                    <p class="results-count">
+                        {% if query %}
+                            Encontramos {{ filtered_df|length }} productos para "{{ query }}"
+                        {% else %}
+                            Mostrando todos los productos disponibles ({{ filtered_df|length }})
+                        {% endif %}
+                    </p>
+                </div>
+
+                <ul class="product-list">
+                    {% for product in filtered_df %}
+                        {% set score = product.relevance_score if product.relevance_score is defined else 0 %}
+                        {% set rank = loop.index %}
+                        {% set relevance_label = "Más recomendado" if score >= 0.85 else "Te podría interesar" if score >= 0.70 else "Similar a tu requerimiento" %}
+                        {% set relevance_class = "relevance-high" if score >= 0.85 else "relevance-medium" if score >= 0.70 else "relevance-low" %}
+                        {% set relevance_icon = "🥇" if score >= 0.85 else "⭐" if score >= 0.70 else "💡" %}
+
+                        <li class="product-item">
+                            <div class="product-rank">{{ rank }}</div>
+                            
+                            <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 2rem;">
+                                <div style="flex: 1;">
+                                    <h3 class="product-title">{{ product.title }}</h3>
+                                    
+                                    <div class="product-info">
+                                        <div class="product-brand">
+                                            <i class="fas fa-tag"></i>
+                                            <span><strong>Marca:</strong> {{ product.brand_name }}</span>
+                                        </div>
+                                        <div class="product-category">
+                                            <i class="fas fa-layer-group"></i>
+                                            <span><strong>Categoría:</strong>
+                                                {% if product.categories is iterable and product.categories is not string %}
+                                                    {{ product.categories|join(', ') }}
+                                                {% else %}
+                                                    {{ product.categories }}
+                                                {% endif %}
+                                            </span>
+                                        </div>
+                                        <div class="product-category">
+                                            <i class="fas fa-barcode"></i>
+                                            <span><strong>SKU:</strong> {{ product.sku_id }}</span>
+                                        </div>
+                                    </div>
+
+                                    <!-- Relevance Score (only show if query was made with NLP) -->
+                                    {% if score > 0 and query and nlp_available %}
+                                        <div class="relevance-label {{ relevance_class }}">
+                                            {{ relevance_icon }} {{ relevance_label }}
+                                        </div>
+                                        <div class="relevance-score">
+                                            <strong>Relevancia:</strong> {{ "%.3f"|format(score) }}
+                                        </div>
+                                    {% endif %}
+
+                                    <div class="product-actions">
+                                        <button class="action-button btn-primary" onclick="viewProductDetails('{{ product.title }}')">
+                                            <i class="fas fa-eye"></i> Ver Detalles
+                                        </button>
+                                        <button class="action-button btn-secondary" onclick="addToWishlist('{{ product.title }}')">
+                                            <i class="fas fa-heart"></i> Wishlist
+                                        </button>
+                                    </div>
+                                </div>
+
+                                <div style="text-align: right; min-width: 200px;">
+                                    <div class="product-price" style="flex-direction: column; align-items: flex-end;">
+                                        <span class="price-current">${{ "{:,.0f}".format(product.sale_price) }}</span>
+                                        {% if product.list_price > product.sale_price %}
+                                            <span class="price-original">${{ "{:,.0f}".format(product.list_price) }}</span>
+                                            {% set discount = ((product.list_price - product.sale_price) / product.list_price * 100) %}
+                                            <span class="discount-badge">-{{ "%.1f"|format(discount) }}%</span>
+                                        {% endif %}
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                    {% endfor %}
+                </ul>
+            {% else %}
+                <div class="no-results">
+                    <i class="fas fa-search-minus no-results-icon"></i>
+                    <p class="no-results-text">No encontramos productos que coincidan con tu búsqueda</p>
+                </div>
+            {% endif %}
+        </section>
+    </div>
+
+    <script>
+        // Action functions
+        function viewProductDetails(productTitle) {
+            alert(`Mostrando detalles de: ${productTitle}\n\nEsta funcionalidad estará disponible próximamente.`);
+        }
+
+        function addToWishlist(productTitle) {
+            alert(`${productTitle} agregado a tu wishlist! 💜`);
+        }
+
+        // Animate list items on load
+        document.addEventListener('DOMContentLoaded', function() {
+            const items = document.querySelectorAll('.product-item');
+            items.forEach((item, index) => {
+                setTimeout(() => {
+                    item.style.animation = `fadeInUp 0.6s ease-out ${index * 0.1}s both`;
+                }, 100);
+            });
+        });
+
+        // Auto-submit form on Enter
+        document.querySelector('.search-input').addEventListener('keypress', function(e) {
+            if (e.key === 'Enter') {
+                document.querySelector('.search-form').submit();
+            }
+        });
+    </script>
+</body>
+</html>

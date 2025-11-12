@@ -1,0 +1,823 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🛒 Buscador Multiplataforma - Productos Inteligentes</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
+    <style>
+        :root {
+            --primary-color: #2563eb;
+            --secondary-color: #10b981;
+            --accent-color: #f59e0b;
+            --text-primary: #1f2937;
+            --text-secondary: #6b7280;
+            --background-primary: #ffffff;
+            --background-secondary: #f8fafc;
+            --border-color: #e5e7eb;
+            --shadow-sm: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+            --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+            --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+            --shadow-xl: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Poppins', sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            color: var(--text-primary);
+            line-height: 1.6;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        /* Header Section */
+        .header {
+            text-align: center;
+            margin-bottom: 3rem;
+            animation: fadeInDown 0.8s ease-out;
+        }
+
+        .banner {
+            background: var(--background-primary);
+            border-radius: 20px;
+            padding: 2rem;
+            margin-bottom: 2rem;
+            box-shadow: var(--shadow-xl);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+
+        .banner:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
+        }
+
+        .app-logo {
+            font-size: 3rem;
+            margin-bottom: 1rem;
+            display: block;
+            animation: bounce 2s infinite;
+        }
+
+        .app-title {
+            font-size: 2.5rem;
+            font-weight: 700;
+            color: var(--primary-color);
+            margin-bottom: 0.5rem;
+        }
+
+        .app-subtitle {
+            font-size: 1.1rem;
+            color: var(--text-secondary);
+            font-weight: 400;
+        }
+
+        /* Search Section */
+        .search-section {
+            background: var(--background-primary);
+            border-radius: 20px;
+            padding: 3rem;
+            margin-bottom: 2rem;
+            box-shadow: var(--shadow-lg);
+            animation: fadeInUp 0.8s ease-out 0.2s both;
+        }
+
+        .search-container {
+            position: relative;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+
+        .search-form {
+            display: flex;
+            gap: 1rem;
+            align-items: center;
+            background: var(--background-secondary);
+            border-radius: 15px;
+            padding: 0.5rem;
+            transition: all 0.3s ease;
+        }
+
+        .search-form:focus-within {
+            box-shadow: var(--shadow-lg);
+            transform: scale(1.02);
+        }
+
+        .search-input {
+            flex: 1;
+            border: none;
+            background: transparent;
+            padding: 1rem 1.5rem;
+            font-size: 1.1rem;
+            font-weight: 400;
+            color: var(--text-primary);
+            outline: none;
+        }
+
+        .search-input::placeholder {
+            color: var(--text-secondary);
+            font-style: italic;
+        }
+
+        .search-button {
+            background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+            color: white;
+            border: none;
+            border-radius: 12px;
+            padding: 1rem 2rem;
+            font-size: 1rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            min-width: 140px;
+            justify-content: center;
+        }
+
+        .search-button:hover {
+            transform: translateY(-2px);
+            box-shadow: var(--shadow-lg);
+        }
+
+        .search-button:active {
+            transform: translateY(0);
+        }
+
+        /* Loading Animation */
+        .loading-section {
+            display: none;
+            text-align: center;
+            padding: 2rem;
+            background: var(--background-primary);
+            border-radius: 20px;
+            margin-bottom: 2rem;
+            box-shadow: var(--shadow-md);
+            animation: fadeIn 0.5s ease-out;
+        }
+
+        .loading-spinner {
+            width: 50px;
+            height: 50px;
+            border: 4px solid var(--border-color);
+            border-top: 4px solid var(--primary-color);
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+            margin: 0 auto 1rem;
+        }
+
+        .loading-text {
+            font-size: 1.1rem;
+            color: var(--text-secondary);
+            font-weight: 500;
+        }
+
+        /* Results Section */
+        .results-section {
+            display: none;
+            animation: fadeInUp 0.6s ease-out;
+        }
+
+        .results-header {
+            background: var(--background-primary);
+            border-radius: 15px;
+            padding: 2rem;
+            margin-bottom: 2rem;
+            box-shadow: var(--shadow-md);
+            text-align: center;
+        }
+
+        .results-title {
+            font-size: 1.8rem;
+            font-weight: 600;
+            color: var(--primary-color);
+            margin-bottom: 1rem;
+        }
+
+        .results-count {
+            font-size: 1.1rem;
+            color: var(--text-secondary);
+            font-weight: 500;
+        }
+
+        /* Product Grid */
+        .product-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+            gap: 2rem;
+            padding: 1rem 0;
+        }
+
+        .product-card {
+            background: var(--background-primary);
+            border-radius: 20px;
+            padding: 1.5rem;
+            box-shadow: var(--shadow-md);
+            transition: all 0.3s ease;
+            border: 1px solid var(--border-color);
+            position: relative;
+            overflow: hidden;
+        }
+
+        .product-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 4px;
+            background: linear-gradient(90deg, var(--primary-color), var(--secondary-color));
+        }
+
+        .product-card:hover {
+            transform: translateY(-5px);
+            box-shadow: var(--shadow-xl);
+        }
+
+        .product-title {
+            font-size: 1.3rem;
+            font-weight: 600;
+            color: var(--text-primary);
+            margin-bottom: 1rem;
+            line-height: 1.4;
+        }
+
+        .product-price {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+            margin-bottom: 1rem;
+            flex-wrap: wrap;
+        }
+
+        .price-current {
+            font-size: 1.5rem;
+            font-weight: 700;
+            color: var(--secondary-color);
+        }
+
+        .price-original {
+            font-size: 1.1rem;
+            color: var(--text-secondary);
+            text-decoration: line-through;
+        }
+
+        .discount-badge {
+            background: linear-gradient(135deg, var(--accent-color), #f97316);
+            color: white;
+            padding: 0.3rem 0.8rem;
+            border-radius: 20px;
+            font-size: 0.9rem;
+            font-weight: 600;
+        }
+
+        .product-info {
+            margin-bottom: 1.5rem;
+        }
+
+        .product-brand,
+        .product-category {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            margin-bottom: 0.5rem;
+            font-size: 0.95rem;
+            color: var(--text-secondary);
+        }
+
+        .product-attributes {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+            margin-bottom: 1rem;
+        }
+
+        .attribute-tag {
+            background: var(--background-secondary);
+            color: var(--text-secondary);
+            padding: 0.4rem 0.8rem;
+            border-radius: 20px;
+            font-size: 0.85rem;
+            font-weight: 500;
+            border: 1px solid var(--border-color);
+        }
+
+        .relevance-label {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            padding: 0.8rem 1.2rem;
+            border-radius: 25px;
+            font-weight: 600;
+            font-size: 0.95rem;
+            margin-top: 1rem;
+            width: fit-content;
+        }
+
+        .relevance-high {
+            background: linear-gradient(135deg, #fef3c7, #fbbf24);
+            color: #92400e;
+        }
+
+        .relevance-medium {
+            background: linear-gradient(135deg, #dbeafe, #3b82f6);
+            color: #1e40af;
+        }
+
+        .relevance-low {
+            background: linear-gradient(135deg, #d1fae5, #10b981);
+            color: #065f46;
+        }
+
+        .product-actions {
+            display: flex;
+            gap: 1rem;
+            margin-top: 1.5rem;
+        }
+
+        .action-button {
+            flex: 1;
+            padding: 0.8rem 1.5rem;
+            border: none;
+            border-radius: 12px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            font-size: 0.95rem;
+        }
+
+        .btn-primary {
+            background: linear-gradient(135deg, var(--primary-color), #1d4ed8);
+            color: white;
+        }
+
+        .btn-secondary {
+            background: var(--background-secondary);
+            color: var(--text-primary);
+            border: 2px solid var(--border-color);
+        }
+
+        .action-button:hover {
+            transform: translateY(-2px);
+            box-shadow: var(--shadow-md);
+        }
+
+        /* No Results */
+        .no-results {
+            text-align: center;
+            padding: 3rem;
+            background: var(--background-primary);
+            border-radius: 20px;
+            box-shadow: var(--shadow-md);
+            animation: fadeIn 0.6s ease-out;
+        }
+
+        .no-results-icon {
+            font-size: 4rem;
+            color: var(--text-secondary);
+            margin-bottom: 1rem;
+        }
+
+        .no-results-text {
+            font-size: 1.3rem;
+            color: var(--text-secondary);
+            font-weight: 500;
+        }
+
+        /* Animations */
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+            }
+            to {
+                opacity: 1;
+            }
+        }
+
+        @keyframes fadeInDown {
+            from {
+                opacity: 0;
+                transform: translateY(-30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        @keyframes bounce {
+            0%, 20%, 50%, 80%, 100% {
+                transform: translateY(0);
+            }
+            40% {
+                transform: translateY(-10px);
+            }
+            60% {
+                transform: translateY(-5px);
+            }
+        }
+
+        @keyframes spin {
+            0% {
+                transform: rotate(0deg);
+            }
+            100% {
+                transform: rotate(360deg);
+            }
+        }
+
+        /* Responsive Design */
+        @media (max-width: 768px) {
+            .container {
+                padding: 1rem;
+            }
+
+            .app-title {
+                font-size: 2rem;
+            }
+
+            .search-section {
+                padding: 2rem 1.5rem;
+            }
+
+            .search-form {
+                flex-direction: column;
+                gap: 1rem;
+            }
+
+            .search-button {
+                width: 100%;
+            }
+
+            .product-grid {
+                grid-template-columns: 1fr;
+                gap: 1.5rem;
+            }
+
+            .product-card {
+                padding: 1.2rem;
+            }
+
+            .product-price {
+                flex-direction: column;
+                align-items: flex-start;
+                gap: 0.5rem;
+            }
+
+            .product-actions {
+                flex-direction: column;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .app-logo {
+                font-size: 2.5rem;
+            }
+
+            .app-title {
+                font-size: 1.8rem;
+            }
+
+            .banner,
+            .search-section,
+            .results-header {
+                padding: 1.5rem 1rem;
+            }
+
+            .search-input {
+                padding: 0.8rem 1rem;
+                font-size: 1rem;
+            }
+        }
+
+        /* Utility Classes */
+        .hidden {
+            display: none !important;
+        }
+
+        .fade-in {
+            animation: fadeIn 0.6s ease-out;
+        }
+
+        .slide-up {
+            animation: fadeInUp 0.6s ease-out;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Header Section -->
+        <header class="header">
+            <div class="banner">
+                <i class="fas fa-search app-logo"></i>
+                <h1 class="app-title">🛒 Buscador Multiplataforma</h1>
+                <p class="app-subtitle">Encuentra productos perfectos con inteligencia artificial</p>
+            </div>
+        </header>
+
+        <!-- Search Section -->
+        <section class="search-section">
+            <div class="search-container">
+                <form class="search-form" id="searchForm">
+                    <input 
+                        type="text" 
+                        class="search-input" 
+                        id="searchInput"
+                        placeholder="Escribí qué producto estás buscando... (ej: quiero una notebook para gaming, busco mouse ASUS inalámbrico)"
+                        required
+                    >
+                    <button type="submit" class="search-button" id="searchButton">
+                        <i class="fas fa-search"></i>
+                        Buscar
+                    </button>
+                </form>
+            </div>
+        </section>
+
+        <!-- Loading Section -->
+        <section class="loading-section" id="loadingSection">
+            <div class="loading-spinner"></div>
+            <p class="loading-text">🔍 Analizando tu consulta con IA y buscando productos relevantes...</p>
+        </section>
+
+        <!-- Results Section -->
+        <section class="results-section" id="resultsSection">
+            <div class="results-header">
+                <h2 class="results-title">📋 Productos Encontrados</h2>
+                <p class="results-count" id="resultsCount">Encontramos 0 productos para ti</p>
+            </div>
+            <div class="product-grid" id="productGrid">
+                <!-- Products will be inserted here dynamically -->
+            </div>
+        </section>
+
+        <!-- No Results Section -->
+        <section class="no-results hidden" id="noResultsSection">
+            <i class="fas fa-search-minus no-results-icon"></i>
+            <p class="no-results-text">No encontramos productos que coincidan con tu búsqueda</p>
+        </section>
+    </div>
+
+    <script>
+        // Sample data for demonstration
+        const sampleProducts = [
+            {
+                id: 1,
+                title: "Notebook Gamer ASUS ROG Strix G15",
+                brand: "ASUS",
+                category: "Notebooks",
+                price: 450000,
+                originalPrice: 520000,
+                discount: 13,
+                attributes: ["Gaming", "RTX 3060", "16GB RAM", "1TB SSD", "AMD Ryzen 7"],
+                relevance: 0.95,
+                relevanceLabel: "Más recomendado"
+            },
+            {
+                id: 2,
+                title: "Mouse Inalámbrico ASUS ROG Gladius III",
+                brand: "ASUS",
+                category: "Mouse",
+                price: 25000,
+                originalPrice: 32000,
+                discount: 22,
+                attributes: ["Inalámbrico", "Gaming", "RGB", "12000 DPI"],
+                relevance: 0.87,
+                relevanceLabel: "Te podría interesar"
+            },
+            {
+                id: 3,
+                title: "Teclado Mecánico ASUS TUF Gaming K7",
+                brand: "ASUS",
+                category: "Teclados",
+                price: 85000,
+                originalPrice: 95000,
+                discount: 11,
+                attributes: ["Mecánico", "RGB", "Anti-ghosting", "Inalámbrico"],
+                relevance: 0.78,
+                relevanceLabel: "Similar a tu requerimiento"
+            },
+            {
+                id: 4,
+                title: "Monitor ASUS ProArt PA278QV 27\"",
+                brand: "ASUS",
+                category: "Monitores",
+                price: 180000,
+                originalPrice: 200000,
+                discount: 10,
+                attributes: ["27 pulgadas", "IPS", "75Hz", "Adobe RGB"],
+                relevance: 0.82,
+                relevanceLabel: "Te podría interesar"
+            },
+            {
+                id: 5,
+                title: "Notebook ASUS ZenBook 14 Ultralight",
+                brand: "ASUS",
+                category: "Notebooks",
+                price: 380000,
+                originalPrice: 420000,
+                discount: 10,
+                attributes: ["Ultrabook", "Intel i7", "16GB RAM", "512GB SSD"],
+                relevance: 0.73,
+                relevanceLabel: "Similar a tu requerimiento"
+            }
+        ];
+
+        // DOM elements
+        const searchForm = document.getElementById('searchForm');
+        const searchInput = document.getElementById('searchInput');
+        const searchButton = document.getElementById('searchButton');
+        const loadingSection = document.getElementById('loadingSection');
+        const resultsSection = document.getElementById('resultsSection');
+        const noResultsSection = document.getElementById('noResultsSection');
+        const productGrid = document.getElementById('productGrid');
+        const resultsCount = document.getElementById('resultsCount');
+
+        // Format price function
+        function formatPrice(price) {
+            return new Intl.NumberFormat('es-AR', {
+                style: 'currency',
+                currency: 'ARS',
+                minimumFractionDigits: 0
+            }).format(price);
+        }
+
+        // Get relevance class based on score
+        function getRelevanceClass(score) {
+            if (score >= 0.85) return 'relevance-high';
+            if (score >= 0.70) return 'relevance-medium';
+            return 'relevance-low';
+        }
+
+        // Create product card HTML
+        function createProductCard(product) {
+            const relevanceClass = getRelevanceClass(product.relevance);
+            const attributesHtml = product.attributes.map(attr => 
+                `<span class="attribute-tag">${attr}</span>`
+            ).join('');
+
+            return `
+                <div class="product-card">
+                    <h3 class="product-title">${product.title}</h3>
+                    
+                    <div class="product-price">
+                        <span class="price-current">${formatPrice(product.price)}</span>
+                        ${product.originalPrice > product.price ? 
+                            `<span class="price-original">${formatPrice(product.originalPrice)}</span>
+                             <span class="discount-badge">-${product.discount}%</span>` : ''
+                        }
+                    </div>
+
+                    <div class="product-info">
+                        <div class="product-brand">
+                            <i class="fas fa-tag"></i>
+                            <span><strong>Marca:</strong> ${product.brand}</span>
+                        </div>
+                        <div class="product-category">
+                            <i class="fas fa-layer-group"></i>
+                            <span><strong>Categoría:</strong> ${product.category}</span>
+                        </div>
+                    </div>
+
+                    <div class="product-attributes">
+                        ${attributesHtml}
+                    </div>
+
+                    <div class="relevance-label ${relevanceClass}">
+                        ${getRelevanceIcon(product.relevance)} ${product.relevanceLabel}
+                    </div>
+
+                    <div class="product-actions">
+                        <button class="action-button btn-primary" onclick="viewProductDetails(${product.id})">
+                            <i class="fas fa-eye"></i> Ver Detalles
+                        </button>
+                        <button class="action-button btn-secondary" onclick="addToWishlist(${product.id})">
+                            <i class="fas fa-heart"></i> Wishlist
+                        </button>
+                    </div>
+                </div>
+            `;
+        }
+
+        // Get relevance icon
+        function getRelevanceIcon(score) {
+            if (score >= 0.85) return '🥇';
+            if (score >= 0.70) return '⭐';
+            return '💡';
+        }
+
+        // Show loading state
+        function showLoading() {
+            searchForm.style.display = 'none';
+            loadingSection.style.display = 'block';
+            resultsSection.style.display = 'none';
+            noResultsSection.style.display = 'none';
+        }
+
+        // Show results
+        function showResults(products) {
+            loadingSection.style.display = 'none';
+            searchForm.style.display = 'block';
+            
+            if (products.length > 0) {
+                resultsCount.textContent = `Encontramos ${products.length} productos para ti`;
+                productGrid.innerHTML = products.map(createProductCard).join('');
+                resultsSection.style.display = 'block';
+                noResultsSection.style.display = 'none';
+                
+                // Animate cards
+                setTimeout(() => {
+                    document.querySelectorAll('.product-card').forEach((card, index) => {
+                        setTimeout(() => {
+                            card.style.animation = `fadeInUp 0.6s ease-out ${index * 0.1}s both`;
+                        }, index * 100);
+                    });
+                }, 100);
+            } else {
+                resultsSection.style.display = 'none';
+                noResultsSection.style.display = 'block';
+            }
+        }
+
+        // Simulate search
+        function performSearch(query) {
+            showLoading();
+            
+            // Simulate AI processing time
+            setTimeout(() => {
+                // For demo purposes, return all products (in real implementation, this would be API call)
+                const filteredProducts = sampleProducts.filter(product => 
+                    product.title.toLowerCase().includes(query.toLowerCase()) ||
+                    product.brand.toLowerCase().includes(query.toLowerCase()) ||
+                    product.category.toLowerCase().includes(query.toLowerCase()) ||
+                    product.attributes.some(attr => attr.toLowerCase().includes(query.toLowerCase()))
+                );
+
+                // Sort by relevance score
+                filteredProducts.sort((a, b) => b.relevance - a.relevance);
+                
+                showResults(filteredProducts);
+            }, 2000);
+        }
+
+        // Event listeners
+        searchForm.addEventListener('submit', (e) => {
+            e.preventDefault();
+            const query = searchInput.value.trim();
+            
+            if (query) {
+                performSearch(query);
+            }
+        });
+
+        // Action functions
+        function viewProductDetails(productId) {
+            const product = sampleProducts.find(p => p.id === productId);
+            if (product) {
+                alert(`Mostrando detalles de: ${product.title}\n\nEsta funcionalidad estará disponible próximamente.`);
+            }
+        }
+
+        function addToWishlist(productId) {
+            const product = sampleProducts.find(p => p.id === productId);
+            if (product) {
+                alert(`${product.title} agregado a tu wishlist! 💜`);
+            }
+        }
+
+        // Initial state
+        function initialize() {
+            searchForm.style.display = 'block';
+            loadingSection.style.display = 'none';
+            resultsSection.style.display = 'none';
+            noResultsSection.style.display = 'none';
+        }
+
+        // Initialize on page load
+        document.addEventListener('DOMContentLoaded', initialize);
+    </script>
+</body>
+</html>
